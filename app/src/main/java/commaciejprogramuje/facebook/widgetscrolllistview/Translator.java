@@ -17,7 +17,6 @@ public class Translator {
     String testLine;
     Map<String, String> map = new HashMap<>();
     String outputFileName = "output.txt";
-    List<String> resultsList = new ArrayList<>();
 
     public Translator(Context context) {
         Log.w("UWAGA", "tworzę translator");
@@ -46,7 +45,7 @@ public class Translator {
     }
 
     public List<String> findKey(String myKey) {
-        resultsList.clear();
+        List<String> resultsList = new ArrayList<>();
         if (myKey.length() >= 2) {
             myKey = myKey.toLowerCase();
             for (Map.Entry<String, String> e : map.entrySet()) {

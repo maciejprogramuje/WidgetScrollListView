@@ -59,7 +59,10 @@ public class ListWidget extends AppWidgetProvider {
             intent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetIds);
 
             // tu przekazuję do WidgetDataProvider
-            intent.putExtra(WIDGET_TEXT_KEY, myText);
+            if(myText != null) {
+                intent.putExtra(WIDGET_TEXT_KEY, myText);
+            }
+
 
 
             intent.setData(Uri.parse(intent.toUri(Intent.URI_INTENT_SCHEME)));
