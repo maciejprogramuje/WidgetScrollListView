@@ -14,6 +14,9 @@
         <item name="android:textSize">14sp</item>
         <item name="android:padding">1sp</item>
         <item name="android:layout_weight">1</item>
+        <item name="android:textColor">#efefef</item>
+        <item name="android:background">#455A64</item>
+
     </style>
 
 </resources>

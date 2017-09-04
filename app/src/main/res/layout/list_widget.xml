@@ -1,24 +1,33 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#09C"
-    android:textColor="#ffffff"
-    android:orientation="vertical">
+    android:textColor="#455A64"
+    android:orientation="vertical"
+    android:background="#efefef">
 
 
     <TextView
         android:id="@+id/appwidget_text"
         android:layout_width="match_parent"
-        android:layout_height="30sp"
+        android:layout_height="48sp"
         android:layout_margin="8dp"
-        android:textSize="24sp"
-        android:textStyle="bold|italic" />
+        android:background="@drawable/tv_background"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp"
+        android:paddingTop="13dp"
+        android:text="TESTtestet"
+        android:textColor="#455A64"
+        android:textSize="16sp"
+        android:textStyle="bold" />
 
     <ListView
         android:id="@+id/widgetCollectionList"
         android:layout_width="match_parent"
-        android:background="#07C"
-        android:layout_height="110sp" />
+        android:layout_height="99sp"
+        android:layout_marginBottom="8dp"
+        android:background="#efefef"
+        android:textColor="#455A64"/>
 
     <LinearLayout
         android:layout_width="match_parent"

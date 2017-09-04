@@ -7,7 +7,11 @@ import android.appwidget.AppWidgetProvider;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+import android.util.Log;
 import android.widget.RemoteViews;
+
+import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Implementation of App Widget functionality.
@@ -15,6 +19,7 @@ import android.widget.RemoteViews;
 public class ListWidget extends AppWidgetProvider {
     public static final String TEXT_KEY = "textKey";
     public static final String WIDGET_TEXT_KEY = "widgetTextKey";
+    public static final String TEMP_HASH_MAP = "tempHashMap";
     String myText = "";
 
     @SuppressWarnings("deprecation")
@@ -29,31 +34,31 @@ public class ListWidget extends AppWidgetProvider {
             mView.setOnClickPendingIntent(R.id.buttonQ, getMyPendingIntent(context, appWidgetIds, ("Q"), 1));
             mView.setOnClickPendingIntent(R.id.buttonW, getMyPendingIntent(context, appWidgetIds, ("W"), 1));
             mView.setOnClickPendingIntent(R.id.buttonE, getMyPendingIntent(context, appWidgetIds, ("E"), 1));
-            mView.setOnClickPendingIntent(R.id.buttonR, getMyPendingIntent(context, appWidgetIds, ("R"), 4));
-            mView.setOnClickPendingIntent(R.id.buttonT, getMyPendingIntent(context, appWidgetIds, ("T"), 5));
-            mView.setOnClickPendingIntent(R.id.buttonY, getMyPendingIntent(context, appWidgetIds, ("Y"), 6));
-            mView.setOnClickPendingIntent(R.id.buttonU, getMyPendingIntent(context, appWidgetIds, ("U"), 7));
-            mView.setOnClickPendingIntent(R.id.buttonI, getMyPendingIntent(context, appWidgetIds, ("I"), 8));
-            mView.setOnClickPendingIntent(R.id.buttonO, getMyPendingIntent(context, appWidgetIds, ("O"), 9));
-            mView.setOnClickPendingIntent(R.id.buttonP, getMyPendingIntent(context, appWidgetIds, ("P"), 10));
-            mView.setOnClickPendingIntent(R.id.buttonA, getMyPendingIntent(context, appWidgetIds, ("A"), 11));
-            mView.setOnClickPendingIntent(R.id.buttonS, getMyPendingIntent(context, appWidgetIds, ("S"), 12));
-            mView.setOnClickPendingIntent(R.id.buttonD, getMyPendingIntent(context, appWidgetIds, ("D"), 13));
-            mView.setOnClickPendingIntent(R.id.buttonF, getMyPendingIntent(context, appWidgetIds, ("F"), 14));
-            mView.setOnClickPendingIntent(R.id.buttonG, getMyPendingIntent(context, appWidgetIds, ("G"), 15));
-            mView.setOnClickPendingIntent(R.id.buttonH, getMyPendingIntent(context, appWidgetIds, ("H"), 16));
-            mView.setOnClickPendingIntent(R.id.buttonJ, getMyPendingIntent(context, appWidgetIds, ("J"), 17));
-            mView.setOnClickPendingIntent(R.id.buttonK, getMyPendingIntent(context, appWidgetIds, ("K"), 18));
-            mView.setOnClickPendingIntent(R.id.buttonL, getMyPendingIntent(context, appWidgetIds, ("L"), 19));
-            mView.setOnClickPendingIntent(R.id.buttonZ, getMyPendingIntent(context, appWidgetIds, ("Z"), 20));
-            mView.setOnClickPendingIntent(R.id.buttonX, getMyPendingIntent(context, appWidgetIds, ("X"), 21));
-            mView.setOnClickPendingIntent(R.id.buttonC, getMyPendingIntent(context, appWidgetIds, ("C"), 22));
-            mView.setOnClickPendingIntent(R.id.buttonV, getMyPendingIntent(context, appWidgetIds, ("V"), 23));
-            mView.setOnClickPendingIntent(R.id.buttonB, getMyPendingIntent(context, appWidgetIds, ("B"), 24));
-            mView.setOnClickPendingIntent(R.id.buttonN, getMyPendingIntent(context, appWidgetIds, ("N"), 25));
-            mView.setOnClickPendingIntent(R.id.buttonM, getMyPendingIntent(context, appWidgetIds, ("M"), 26));
-            mView.setOnClickPendingIntent(R.id.buttonClear, getMyPendingIntent(context, appWidgetIds, ("clear"), 27));
-            mView.setOnClickPendingIntent(R.id.buttonBack, getMyPendingIntent(context, appWidgetIds, ("back"), 28));
+            mView.setOnClickPendingIntent(R.id.buttonR, getMyPendingIntent(context, appWidgetIds, ("R"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonT, getMyPendingIntent(context, appWidgetIds, ("T"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonY, getMyPendingIntent(context, appWidgetIds, ("Y"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonU, getMyPendingIntent(context, appWidgetIds, ("U"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonI, getMyPendingIntent(context, appWidgetIds, ("I"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonO, getMyPendingIntent(context, appWidgetIds, ("O"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonP, getMyPendingIntent(context, appWidgetIds, ("P"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonA, getMyPendingIntent(context, appWidgetIds, ("A"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonS, getMyPendingIntent(context, appWidgetIds, ("S"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonD, getMyPendingIntent(context, appWidgetIds, ("D"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonF, getMyPendingIntent(context, appWidgetIds, ("F"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonG, getMyPendingIntent(context, appWidgetIds, ("G"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonH, getMyPendingIntent(context, appWidgetIds, ("H"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonJ, getMyPendingIntent(context, appWidgetIds, ("J"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonK, getMyPendingIntent(context, appWidgetIds, ("K"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonL, getMyPendingIntent(context, appWidgetIds, ("L"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonZ, getMyPendingIntent(context, appWidgetIds, ("Z"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonX, getMyPendingIntent(context, appWidgetIds, ("X"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonC, getMyPendingIntent(context, appWidgetIds, ("C"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonV, getMyPendingIntent(context, appWidgetIds, ("V"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonB, getMyPendingIntent(context, appWidgetIds, ("B"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonN, getMyPendingIntent(context, appWidgetIds, ("N"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonM, getMyPendingIntent(context, appWidgetIds, ("M"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonClear, getMyPendingIntent(context, appWidgetIds, ("clear"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonBack, getMyPendingIntent(context, appWidgetIds, ("back"), 1));
 
             Intent intent = new Intent(context, WidgetService.class);
             intent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetIds);
@@ -62,8 +67,6 @@ public class ListWidget extends AppWidgetProvider {
             if(myText != null) {
                 intent.putExtra(WIDGET_TEXT_KEY, myText);
             }
-
-
 
             intent.setData(Uri.parse(intent.toUri(Intent.URI_INTENT_SCHEME)));
 

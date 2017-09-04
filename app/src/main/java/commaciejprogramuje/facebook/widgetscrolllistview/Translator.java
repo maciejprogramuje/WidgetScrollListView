@@ -1,11 +1,14 @@
 package commaciejprogramuje.facebook.widgetscrolllistview;
 
 import android.content.Context;
+import android.os.Parcel;
+import android.os.Parcelable;
 import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -15,7 +18,7 @@ import java.util.Map;
 public class Translator {
     BufferedReader bufferedReader = null;
     String testLine;
-    Map<String, String> map = new HashMap<>();
+    private HashMap<String, String> map = new HashMap<>();
     String outputFileName = "output.txt";
 
     public Translator(Context context) {
@@ -44,21 +47,12 @@ public class Translator {
         }
     }
 
-    public List<String> findKey(String myKey) {
-        List<String> resultsList = new ArrayList<>();
-        if (myKey.length() >= 2) {
-            myKey = myKey.toLowerCase();
-            for (Map.Entry<String, String> e : map.entrySet()) {
-                if (e.getKey().startsWith(myKey)) {
-                    resultsList.add(e.getKey() + e.getValue() + "\n");
-                }
-            }
-        } else {
-            resultsList.add("too short");
-        }
-        Collections.sort(resultsList);
-
-        return resultsList;
+    protected Translator(Parcel in) {
+        testLine = in.readString();
+        outputFileName = in.readString();
     }
 
+    public HashMap<String, String> getMap() {
+        return map;
+    }
 }

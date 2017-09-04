@@ -8,6 +8,8 @@ import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -19,7 +21,7 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
     List<String> mCollections = new ArrayList<>();
     Context context = null;
     String myText = "";
-    Translator translator;
+    HashMap<String, String> inputMap;
 
     public WidgetDataProvider(Context context, Intent intent) {
         this.context = context;
@@ -45,7 +47,7 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
 
     @Override
     public RemoteViews getViewAt(int i) {
-        RemoteViews mView = new RemoteViews(context.getPackageName(), android.R.layout.simple_list_item_1);
+        RemoteViews mView = new RemoteViews(context.getPackageName(), R.layout.my_layout_list_item);
         mView.setTextViewText(android.R.id.text1, mCollections.get(i));
         return mView;
     }
@@ -62,10 +64,9 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
 
     @Override
     public void onCreate() {
-        Log.w("UWAGA", myText);
-        translator = new Translator(context);
+        //translator = new Translator(context);
         mCollections.clear();
-        mCollections = translator.findKey(myText);
+        mCollections = findKey(myText);
     }
 
     @Override
@@ -76,5 +77,22 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
     @Override
     public void onDestroy() {
 
+    }
+
+    private List<String> findKey(String myKey) {
+        List<String> resultsList = new ArrayList<>();
+        if (myKey.length() >= 2) {
+            myKey = myKey.toLowerCase();
+            for (HashMap.Entry<String, String> e : new Translator(context).getMap().entrySet()) {
+                if (e.getKey().startsWith(myKey)) {
+                    resultsList.add(e.getKey() + e.getValue() + "\n");
+                }
+            }
+        } else {
+            resultsList.add("enter longer word");
+        }
+        Collections.sort(resultsList);
+
+        return resultsList;
     }
 }
