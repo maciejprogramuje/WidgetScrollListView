@@ -14,6 +14,7 @@ import android.widget.RemoteViews;
  */
 public class ListWidget extends AppWidgetProvider {
     public static final String TEXT_KEY = "textKey";
+    public static final String WIDGET_TEXT_KEY = "widgetTextKey";
     String myText = "";
 
     @SuppressWarnings("deprecation")
@@ -57,7 +58,12 @@ public class ListWidget extends AppWidgetProvider {
             Intent intent = new Intent(context, WidgetService.class);
             intent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetIds);
 
+            // tu przekazuję do WidgetDataProvider
+            intent.putExtra(WIDGET_TEXT_KEY, myText);
+
+
             intent.setData(Uri.parse(intent.toUri(Intent.URI_INTENT_SCHEME)));
+
             mView.setRemoteAdapter(appWidgetId, R.id.widgetCollectionList, intent);
             appWidgetManager.updateAppWidget(appWidgetId, mView);
         }

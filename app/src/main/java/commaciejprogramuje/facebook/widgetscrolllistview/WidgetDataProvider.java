@@ -3,6 +3,7 @@ package commaciejprogramuje.facebook.widgetscrolllistview;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
+import android.util.Log;
 import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
@@ -14,12 +15,17 @@ import java.util.List;
  */
 
 @SuppressLint("NewApi")
-public class WidgetDataPrivider implements RemoteViewsService.RemoteViewsFactory {
+public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory {
     List<String> mCollections = new ArrayList<>();
     Context context = null;
+    String myText = "";
+    Translator translator;
 
-    public WidgetDataPrivider(Context context, Intent intent) {
+    public WidgetDataProvider(Context context, Intent intent) {
         this.context = context;
+        if(intent.getStringExtra(ListWidget.WIDGET_TEXT_KEY) != null) {
+            this.myText = intent.getStringExtra(ListWidget.WIDGET_TEXT_KEY);
+        }
     }
 
     @Override
@@ -56,18 +62,15 @@ public class WidgetDataPrivider implements RemoteViewsService.RemoteViewsFactory
 
     @Override
     public void onCreate() {
-        initData();
+        Log.w("UWAGA", myText);
+        translator = new Translator(context);
+        mCollections.clear();
+        mCollections = translator.findKey(myText);
     }
 
     @Override
     public void onDataSetChanged() {
-        initData();
-    }
 
-    private void initData() {
-        for (int i = 0; i <10 ; i++) {
-            mCollections.add("item: " + i);
-        }
     }
 
     @Override
