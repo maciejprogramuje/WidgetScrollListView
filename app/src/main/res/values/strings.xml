@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">English Dictionary</string>
+    <string name="app_name">English Dictionary Widget</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
     <string name="no_matches_found">No matches found!</string>
-    <string name="enter_longer_word">"Enter a word!"</string>
+    <string name="enter_longer_word">"Enter a word!\n\n\nEnglish Dictionary Widget\n\nfacebook.com\\maciejprogramuje\n"</string>
     <string name="q">Q</string>
     <string name="w">W</string>
     <string name="e">E</string>
