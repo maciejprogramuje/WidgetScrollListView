@@ -3,7 +3,6 @@ package commaciejprogramuje.facebook.widgetscrolllistview;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
-import android.util.Log;
 import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
@@ -12,18 +11,14 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * Created by 5742ZGPC on 2017-09-03.
- */
 
 @SuppressLint("NewApi")
-public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory {
-    List<String> mCollections = new ArrayList<>();
-    Context context = null;
-    String myText = "";
-    HashMap<String, String> inputMap;
+class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory {
+    private List<String> mCollections = new ArrayList<>();
+    private Context context = null;
+    private String myText = "";
 
-    public WidgetDataProvider(Context context, Intent intent) {
+    WidgetDataProvider(Context context, Intent intent) {
         this.context = context;
         if(intent.getStringExtra(ListWidget.WIDGET_TEXT_KEY) != null) {
             this.myText = intent.getStringExtra(ListWidget.WIDGET_TEXT_KEY);
@@ -80,15 +75,18 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
 
     private List<String> findKey(String myKey) {
         List<String> resultsList = new ArrayList<>();
-        if (myKey.length() >= 2) {
+        if (myKey.length() > 0) {
             myKey = myKey.toLowerCase();
             for (HashMap.Entry<String, String> e : new Translator(context, myText).getMap().entrySet()) {
                 if (e.getKey().startsWith(myKey)) {
-                    resultsList.add(e.getKey() + e.getValue() + "\n");
+                    resultsList.add(e.getKey() + " " + e.getValue());
                 }
             }
+            if(resultsList.isEmpty()) {
+                resultsList.add(context.getString(R.string.no_matches_found));
+            }
         } else {
-            resultsList.add("enter longer word");
+            resultsList.add(context.getString(R.string.enter_longer_word));
         }
         Collections.sort(resultsList);
 

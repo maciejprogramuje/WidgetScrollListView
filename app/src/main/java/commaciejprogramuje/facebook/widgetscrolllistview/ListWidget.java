@@ -7,11 +7,7 @@ import android.appwidget.AppWidgetProvider;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.util.Log;
 import android.widget.RemoteViews;
-
-import java.util.ArrayList;
-import java.util.HashMap;
 
 /**
  * Implementation of App Widget functionality.
@@ -19,7 +15,8 @@ import java.util.HashMap;
 public class ListWidget extends AppWidgetProvider {
     public static final String TEXT_KEY = "textKey";
     public static final String WIDGET_TEXT_KEY = "widgetTextKey";
-    public static final String TEMP_HASH_MAP = "tempHashMap";
+    public static final String BACK_KEYSTONE = "back";
+    public static final String CLEAR_KEYSTONE = "clear";
     String myText = "";
 
     @SuppressWarnings("deprecation")
@@ -84,22 +81,26 @@ public class ListWidget extends AppWidgetProvider {
         intent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_IDS, appWidgetIds);
 
         String temp;
-        if (keyStone.equals("back")) {
-            if (myText == null) {
+        switch (keyStone) {
+            case BACK_KEYSTONE:
+                if (myText == null) {
+                    temp = null;
+                } else if (myText.length() == 1) {
+                    temp = null;
+                } else {
+                    temp = myText.substring(0, myText.length() - 1);
+                }
+                break;
+            case CLEAR_KEYSTONE:
                 temp = null;
-            } else if (myText.length() == 1) {
-                temp = null;
-            } else {
-                temp = myText.substring(0, myText.length() - 1);
-            }
-        } else if (keyStone.equals("clear")) {
-            temp = null;
-        } else {
-            if (myText == null) {
-                temp = keyStone;
-            } else {
-                temp = (myText + keyStone);
-            }
+                break;
+            default:
+                if (myText == null) {
+                    temp = keyStone;
+                } else {
+                    temp = (myText + keyStone);
+                }
+                break;
         }
         intent.putExtra(TEXT_KEY, temp);
         intent.setData(Uri.parse(intent.toUri(Intent.URI_INTENT_SCHEME)));

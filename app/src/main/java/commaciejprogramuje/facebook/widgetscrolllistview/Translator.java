@@ -1,32 +1,21 @@
 package commaciejprogramuje.facebook.widgetscrolllistview;
 
 import android.content.Context;
-import android.os.Parcel;
-import android.os.Parcelable;
-import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
-public class Translator {
+class Translator {
     private HashMap<String, String> map = null;
-    //String outputFileName = "output.txt";
 
-    public Translator(Context context, String myKey) {
-        Log.w("UWAGA", "tworzę translator " + myKey);
+    Translator(Context context, String myKey) {
         try {
             map = new HashMap<>();
             String testLine;
             String firstLetterOfMyKey = String.valueOf(myKey.charAt(0)).toLowerCase();
             String tempFileName = "output_" + firstLetterOfMyKey + ".txt";
-            Log.w("UWAGA", tempFileName);
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(context.getAssets().open(tempFileName)));
 
             while ((testLine = bufferedReader.readLine()) != null) {
