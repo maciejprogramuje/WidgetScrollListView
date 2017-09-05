@@ -5,7 +5,6 @@
     android:orientation="vertical"
     android:textColor="@color/colorDarkGrey">
 
-
     <TextView
         android:id="@+id/appwidget_text"
         android:layout_width="match_parent"
