@@ -64,7 +64,6 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
 
     @Override
     public void onCreate() {
-        //translator = new Translator(context);
         mCollections.clear();
         mCollections = findKey(myText);
     }
@@ -83,7 +82,7 @@ public class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory
         List<String> resultsList = new ArrayList<>();
         if (myKey.length() >= 2) {
             myKey = myKey.toLowerCase();
-            for (HashMap.Entry<String, String> e : new Translator(context).getMap().entrySet()) {
+            for (HashMap.Entry<String, String> e : new Translator(context, myText).getMap().entrySet()) {
                 if (e.getKey().startsWith(myKey)) {
                     resultsList.add(e.getKey() + e.getValue() + "\n");
                 }

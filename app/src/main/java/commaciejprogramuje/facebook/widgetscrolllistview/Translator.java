@@ -16,15 +16,18 @@ import java.util.List;
 import java.util.Map;
 
 public class Translator {
-    BufferedReader bufferedReader = null;
-    String testLine;
-    private HashMap<String, String> map = new HashMap<>();
-    String outputFileName = "output.txt";
+    private HashMap<String, String> map = null;
+    //String outputFileName = "output.txt";
 
-    public Translator(Context context) {
-        Log.w("UWAGA", "tworzę translator");
+    public Translator(Context context, String myKey) {
+        Log.w("UWAGA", "tworzę translator " + myKey);
         try {
-            bufferedReader = new BufferedReader(new InputStreamReader(context.getAssets().open(outputFileName)));
+            map = new HashMap<>();
+            String testLine;
+            String firstLetterOfMyKey = String.valueOf(myKey.charAt(0)).toLowerCase();
+            String tempFileName = "output_" + firstLetterOfMyKey + ".txt";
+            Log.w("UWAGA", tempFileName);
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(context.getAssets().open(tempFileName)));
 
             while ((testLine = bufferedReader.readLine()) != null) {
                 if (!testLine.isEmpty()) {
@@ -45,11 +48,6 @@ public class Translator {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    protected Translator(Parcel in) {
-        testLine = in.readString();
-        outputFileName = in.readString();
     }
 
     public HashMap<String, String> getMap() {
