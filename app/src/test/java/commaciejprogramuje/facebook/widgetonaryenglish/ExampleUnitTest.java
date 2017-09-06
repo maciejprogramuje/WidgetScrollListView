@@ -1,4 +1,4 @@
-package commaciejprogramuje.facebook.widgetscrolllistview;
+package commaciejprogramuje.facebook.widgetonaryenglish;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="commaciejprogramuje.facebook.widgetscrolllistview">
+    package="commaciejprogramuje.facebook.widgetonaryenglish">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="commaciejprogramuje.facebook.widgetonaryenglish.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name=".ListWidget">
+        <receiver android:name="commaciejprogramuje.facebook.widgetonaryenglish.ListWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
@@ -26,7 +26,7 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/list_widget_info" />
         </receiver>
-        <service android:name=".WidgetService"
+        <service android:name="commaciejprogramuje.facebook.widgetonaryenglish.WidgetService"
             android:permission="android.permission.BIND_REMOTEVIEWS"  />
     </application>
 

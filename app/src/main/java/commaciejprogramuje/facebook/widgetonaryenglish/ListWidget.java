@@ -1,4 +1,4 @@
-package commaciejprogramuje.facebook.widgetscrolllistview;
+package commaciejprogramuje.facebook.widgetonaryenglish;
 
 import android.annotation.SuppressLint;
 import android.app.PendingIntent;

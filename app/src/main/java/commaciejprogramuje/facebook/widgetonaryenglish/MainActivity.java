@@ -1,4 +1,4 @@
-package commaciejprogramuje.facebook.widgetscrolllistview;
+package commaciejprogramuje.facebook.widgetonaryenglish;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
