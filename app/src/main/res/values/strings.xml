@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">English Dictionary Widget</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="add_widget">Add widget</string>
+    <string name="app_name">Widgetionary English</string>
     <string name="no_matches_found">No matches found!</string>
     <string name="enter_longer_word">"Enter a word!\n\n\nEnglish Dictionary Widget\n\nfacebook.com\\maciejprogramuje\n"</string>
     <string name="q">Q</string>
@@ -32,4 +30,6 @@
     <string name="n">N</string>
     <string name="m">M</string>
     <string name="back">back</string>
+    <string name="info">Fast access to dictionary?\n\nOnly Widgetionary!\n\n\n\nAdd widget to Your screen and use it.\n\nThat\'s all.</string>
+    <string name="link">facebook.com/maciejprogamuje</string>
 </resources>
