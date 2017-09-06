@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Widgetionary English</string>
     <string name="no_matches_found">No matches found!</string>
-    <string name="enter_longer_word">"Enter a word!\n\n\nEnglish Dictionary Widget\n\nfacebook.com\\maciejprogramuje\n"</string>
     <string name="q">Q</string>
     <string name="w">W</string>
     <string name="e">E</string>
@@ -32,6 +31,7 @@
     <string name="back">back</string>
     <string name="info">Fast access to dictionary?\nOnly Widgetionary!\n\nSimply add widget to Your screen and use it.</string>
     <string name="link">facebook.com/maciejprogamuje</string>
+    <string name="enter_longer_word">"Enter a word!\n\n\nWidgetionary English\n\nfacebook.com\\maciejprogramuje\n"</string>
     <string name="flag">flag</string>
     <string name="logo">logo</string>
 </resources>
