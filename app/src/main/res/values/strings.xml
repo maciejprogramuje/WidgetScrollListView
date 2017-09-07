@@ -34,5 +34,5 @@
     <string name="enter_longer_word">"Enter a word!\n\n\nWidgetionary English\n\nfacebook.com\\maciejprogramuje\n"</string>
     <string name="flag">flag</string>
     <string name="logo">logo</string>
-    <string name="legalnotice">The origin of the content comes from projects:\nThe Online Plain Text English Dictionary,\nProject Gutenberg,\nThe 1913 edition of Webster's Unabridged Dictionary</string>
+    <string name="legalnotice">The origin of the content comes from projects:\nThe Online Plain Text English Dictionary,\nProject Gutenberg,\nThe 1913 edition of Webster\'s Unabridged Dictionary</string>
 </resources>
