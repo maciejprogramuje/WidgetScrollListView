@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <!-- Base application theme. -->
@@ -8,14 +9,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="KeyStoneStyle" parent="Widget.AppCompat.Button.Borderless">
+    <style name="KeyStoneStyle" parent="Widget.AppCompat.Button.Borderless.Colored">
         <item name="android:layout_width">30sp</item>
         <item name="android:layout_height">35sp</item>
         <item name="android:textSize">14sp</item>
         <item name="android:padding">1sp</item>
         <item name="android:layout_weight">1</item>
         <item name="android:textColor">#efefef</item>
-        <item name="android:background">#455a64</item>
+        <item name="android:background">@drawable/ripple</item>
     </style>
 
 </resources>
