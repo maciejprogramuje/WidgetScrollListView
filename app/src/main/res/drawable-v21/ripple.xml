@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ripple
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="@color/colorLightGray"> <!-- The ripple will be red -->
+    android:color="@color/colorLightGrey"> <!-- The ripple will be light grey -->
 
-    <!-- the normal bg color will be light grey -->
+    <!-- the normal bg color will be dark grey -->
     <item>
         <color android:color="@color/colorDarkGrey" />
     </item>

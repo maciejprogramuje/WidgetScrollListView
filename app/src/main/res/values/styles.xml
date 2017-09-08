@@ -9,13 +9,13 @@
     </style>
 
     <style name="KeyStoneStyle" parent="Widget.AppCompat.Button.Borderless">
-        <item name="android:layout_width">30sp</item>
-        <item name="android:layout_height">35sp</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">35dp</item>
         <item name="android:textSize">14sp</item>
-        <item name="android:padding">1sp</item>
+        <item name="android:padding">1dp</item>
         <item name="android:layout_weight">1</item>
-        <item name="android:textColor">#efefef</item>
-        <item name="android:background">#455a64</item>
+        <item name="android:textColor">@color/colorLightGrey</item>
+        <item name="android:background">@color/colorDarkGrey</item>
     </style>
 
 </resources>

@@ -1,7 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorLightGray"
+    android:background="@color/colorLightGrey"
     android:orientation="vertical"
     android:textColor="@color/colorDarkGrey">
 
@@ -27,9 +27,9 @@
         android:layout_alignParentStart="true"
         android:layout_below="@+id/appwidget_text"
         android:layout_centerHorizontal="true"
-        android:background="@color/colorLightGray"
+        android:background="@color/colorLightGrey"
         android:divider="@color/colorDarkGrey"
-        android:dividerHeight="1sp"
+        android:dividerHeight="1dp"
         android:paddingLeft="14dp"
         android:paddingRight="14dp"
         android:textColor="@color/colorDarkGrey" />
