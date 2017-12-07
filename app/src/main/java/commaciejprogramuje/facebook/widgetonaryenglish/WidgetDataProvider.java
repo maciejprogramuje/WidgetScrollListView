@@ -80,6 +80,7 @@ class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory {
             for (HashMap.Entry<String, String> e : new Translator(context, myText).getMap().entrySet()) {
                 if (e.getKey().startsWith(myKey)) {
                     resultsList.add(e.getKey() + " " + e.getValue());
+                    //resultsList.add(e.getValue());
                 }
             }
             if(resultsList.isEmpty()) {

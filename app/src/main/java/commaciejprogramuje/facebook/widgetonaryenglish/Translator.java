@@ -10,9 +10,6 @@ import java.util.HashMap;
 class Translator {
     private HashMap<String, String> map = null;
 
-    //zygota
-    //żyto
-
     Translator(Context context, String myKey) {
         try {
             map = new HashMap<>();
@@ -21,10 +18,12 @@ class Translator {
             String tempFileName = "output_" + firstLetterOfMyKey + ".txt";
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(context.getAssets().open(tempFileName)));
 
+            //amadeus : Amadeus : (rzecz.) Amadeusz
+
             while ((testLine = bufferedReader.readLine()) != null) {
                 if (!testLine.isEmpty()) {
                     String word = testLine.substring(0, testLine.indexOf(":") - 1);
-                    String meaning = testLine.substring(testLine.indexOf("("));
+                    String meaning = testLine.replace(word + " :", "");
                     if (meaning.isEmpty()) {
                         meaning = " ";
                     }

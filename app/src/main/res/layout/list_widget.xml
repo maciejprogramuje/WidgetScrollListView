@@ -37,7 +37,7 @@
     <LinearLayout
         android:id="@+id/keyboard"
         android:layout_width="match_parent"
-        android:layout_height="135dp"
+        android:layout_height="105dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
@@ -205,12 +205,6 @@
                 android:src="@drawable/ic_keyboard" />
 
         </LinearLayout>
-
-        <Button
-            android:id="@+id/buttonPL"
-            style="@style/KeyStoneStyle"
-            android:layout_width="match_parent"
-            android:text="PL" />
 
     </LinearLayout>
 
