@@ -10,6 +10,9 @@ import java.util.HashMap;
 class Translator {
     private HashMap<String, String> map = null;
 
+    //zygota
+    //żyto
+
     Translator(Context context, String myKey) {
         try {
             map = new HashMap<>();

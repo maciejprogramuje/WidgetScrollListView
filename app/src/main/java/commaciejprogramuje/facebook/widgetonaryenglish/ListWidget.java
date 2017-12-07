@@ -17,6 +17,7 @@ public class ListWidget extends AppWidgetProvider {
     public static final String WIDGET_TEXT_KEY = "widgetTextKey";
     public static final String BACK_KEYSTONE = "back";
     public static final String CLEAR_KEYSTONE = "clear";
+    public static final String PL_KEYSTONE = "pl";
     String myText = "";
 
     @SuppressWarnings("deprecation")
@@ -54,14 +55,15 @@ public class ListWidget extends AppWidgetProvider {
             mView.setOnClickPendingIntent(R.id.buttonB, getMyPendingIntent(context, appWidgetIds, ("B"), 1));
             mView.setOnClickPendingIntent(R.id.buttonN, getMyPendingIntent(context, appWidgetIds, ("N"), 1));
             mView.setOnClickPendingIntent(R.id.buttonM, getMyPendingIntent(context, appWidgetIds, ("M"), 1));
-            mView.setOnClickPendingIntent(R.id.buttonClear, getMyPendingIntent(context, appWidgetIds, ("clear"), 1));
-            mView.setOnClickPendingIntent(R.id.buttonBack, getMyPendingIntent(context, appWidgetIds, ("back"), 1));
+            mView.setOnClickPendingIntent(R.id.buttonClear, getMyPendingIntent(context, appWidgetIds, (CLEAR_KEYSTONE), 1));
+            mView.setOnClickPendingIntent(R.id.buttonBack, getMyPendingIntent(context, appWidgetIds, (BACK_KEYSTONE), 1));
+            //mView.cli
 
             Intent intent = new Intent(context, WidgetService.class);
             intent.putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetIds);
 
             // tu przekazuję do WidgetDataProvider
-            if(myText != null) {
+            if (myText != null) {
                 intent.putExtra(WIDGET_TEXT_KEY, myText);
             }
 
