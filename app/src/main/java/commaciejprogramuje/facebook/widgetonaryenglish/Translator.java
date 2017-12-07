@@ -22,16 +22,19 @@ class Translator {
 
             while ((testLine = bufferedReader.readLine()) != null) {
                 if (!testLine.isEmpty()) {
-                    String word = testLine.substring(0, testLine.indexOf(":") - 1);
-                    String meaning = testLine.replace(word + " :", "");
+                    String word = testLine.substring(1, testLine.indexOf("]"));
+                    String meaning = testLine.substring(testLine.indexOf("]") + 1);
+
                     if (meaning.isEmpty()) {
                         meaning = " ";
                     }
 
                     if (!map.containsKey(word)) {
                         map.put(word, meaning);
+                        System.out.println(word + "="+meaning);
                     } else {
-                        map.put(word, map.get(word) + " | " + meaning);
+                        map.put(word, map.get(word) + "; " + meaning);
+                        System.out.println(word + "="+map.get(word) + "; " + meaning);
                     }
                 }
             }
