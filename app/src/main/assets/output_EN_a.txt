@@ -1,4 +1,4 @@
-﻿[﻿abaca]﻿abaca : (rzecz.) manila
+﻿[abaca]﻿abaca : (rzecz.) manila
 [a-register]A-register : (rzecz.) akumulator
 [aborigines]Aborigines : (rzecz.) aborygeni
 [adam]Adam : (rzecz.) Adam
