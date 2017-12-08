@@ -89,7 +89,7 @@ class WidgetDataProvider implements RemoteViewsService.RemoteViewsFactory {
         } else {
             resultsList.add(context.getString(R.string.enter_longer_word));
         }
-        Collections.sort(resultsList);
+        Collections.sort(resultsList, String.CASE_INSENSITIVE_ORDER);
 
         return resultsList;
     }

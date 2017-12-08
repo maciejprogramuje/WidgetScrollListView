@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WidgetScrollListView.iml" filepath="$PROJECT_DIR$/WidgetScrollListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WidgetionaryEnglish.iml" filepath="$PROJECT_DIR$/WidgetionaryEnglish.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
