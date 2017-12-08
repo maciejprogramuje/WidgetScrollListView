@@ -1,773 +1,773 @@
-feliks : Feliks : (rzecz.) Felix
-filip : Filip : (rzecz.) Philip
-fabryka : fabryka : (rzecz.) cannery | : (rzecz.) confectionery | : (rzecz.) fabric | : (rzecz.) factory | : (rzecz.) manufactory | : (rzecz.) mill | : (rzecz.) plant
-fabrykacja : fabrykacja : (rzecz.) fabrication | : (rzecz.) manufacture
-fabrykant : fabrykant : (rzecz.) fabricator | : (rzecz.) forger | : (rzecz.) manufacturer
-fabrykat : fabrykat : (rzecz.) forgery | : (rzecz.) manufacture | : (rzecz.) product
-fabrykowac : fabrykować : (czas.) fabricate | : (czas.) fake | : (czas.) manufacture
-fabula : fabuła : (rzecz.) plot | : (rzecz.) story
-facecja : facecja : (rzecz.) facetiae
-facet : facet : (rzecz.) chap | : (rzecz.) fellow | : (rzecz.) gink | : (rzecz.) guy | : (rzecz.) josser
-fach : fach : (rzecz.) calling | : (rzecz.) profession | : (rzecz.) trade
-fachowiec : fachowiec : (rzecz.) expert | : (rzecz.) professional
-fachowo : fachowo : (przysł.) expertly | : (przysł.) professionally | : (przysł.) proficiently
-fachowosc : fachowość : (rzecz.) competence | : (rzecz.) competency | : (rzecz.) expertise | : (rzecz.) workmanship
-fachowy : fachowy : (przym.) competent | : (przym.) professional | : (przym.) specialized
-facjata : facjata : (rzecz.) attic | : (rzecz.) mug
-fagas : fagas : (rzecz.) sock
-fagocista : fagocista : (rzecz.) bassoonist
-fagocyt : fagocyt : (rzecz.) phagocyte
-fagot : fagot : (rzecz.) bassoon
-faja : faja : (rzecz.) cock
-fajans : fajans : (rzecz.) delftware | : (rzecz.) faience | : (rzecz.) pottery
-fajdac : fajdać : (czas.) shit
-fajerwerk : fajerwerk : (rzecz.) firework
-fajf : fajf : (rzecz.) at-home
-fajka : fajka : (rzecz.) fag | : (rzecz.) pipe | : (rzecz.) snorkel
-fajny : fajny : (przym.) classy | : (przym.) cool | : (przym.) cute | : (przym.) great | : (przym.) nice
-fajowy : fajowy : (przym.) cool
-fajtlapa : fajtłapa : (rzecz.) butterfingers | : (rzecz.) gawk | : (rzecz.) milksop | : (rzecz.) stick-in-the-mud
-fakir : fakir : (rzecz.) fakir
-faks : faks : (rzecz.) facsimile | : (rzecz.) fax
-faksmodem : faksmodem : (rzecz.) faxmodem
-faksowac : faksować : (czas.) fax
-faksymile : faksymile : (rzecz.) facsimile | : (rzecz.) facsimiles
-fakt : fakt : (rzecz.) datum | : (rzecz.) fact
-faktor : faktor : (rzecz.) broker | : (rzecz.) factor
-faktoria : faktoria : (rzecz.) factory
-faktoryzacja : faktoryzacja : (rzecz.) factoring | : (rzecz.) factorization
-faktura : faktura : (rzecz.) invoice | : (rzecz.) texture
-fakturowanie : fakturowanie : (rzecz.) billing
-fakturowac : fakturować : (czas.) invoice
-faktycznie : faktycznie : (przysł.) actually | : (przysł.) factually | : (przysł.) indeed | : (przysł.) practically | : (przysł.) substantively | : (przysł.) virtually
-faktycznosc : faktyczność : (rzecz.) factuality
-faktyczny : faktyczny : (przym.) actual | : (przym.) effective | : (przym.) factual | : (przym.) factuality | : (przym.) practical | : (przym.) real | : (przym.) tangible | : (przym.) virtual
-faktysa : faktysa : (rzecz.) factice
-fakultatywny : fakultatywny : (przym.) facultative | : (przym.) optional
-fakultet : fakultet : (rzecz.) faculty
-fala : fala : (rzecz.) billow | : (rzecz.) roller | : (rzecz.) surge | : (rzecz.) wave
-falanga : falanga : (rzecz.) host | : (rzecz.) phalange | : (rzecz.) phalanx
-falbana : falbana : (rzecz.) flounce | : (rzecz.) frill | : (rzecz.) furbelow | : (rzecz.) valance
-falbanka : falbanka : (rzecz.) flounce | : (rzecz.) frill | : (rzecz.) furbelow
-falc : falc : (rzecz.) fold
-falcowac : falcować : (czas.) fold
-falcowka : falcówka : (rzecz.) folder
-faleza : faleza : (rzecz.) cliff
-falistosc : falistość : (rzecz.) corrugation | : (rzecz.) undulation | : (rzecz.) wave | : (rzecz.) waviness
-falisty : falisty : (przym.) corrugated | : (przym.) curly | : (przym.) downy | : (przym.) flexuous | : (przym.) sinuous | : (przym.) undulating | : (przym.) wavy | : (przym.) wiggly
-falliczny : falliczny : (przym.) ithyphallic | : (przym.) phallic
-fallus : fallus : (rzecz.) phallus
-falochron : falochron : (rzecz.) breakwater | : (rzecz.) groin | : (rzecz.) jetty | : (rzecz.) seawall
-falochron-ostroga : falochron-ostroga : (rzecz.) spur
-falowanie : falowanie : (rzecz.) fluctuation | : (rzecz.) ripple | : (rzecz.) rolling | : (rzecz.) surge | : (rzecz.) undulation | : (rzecz.) wave
-falowac : falować : (czas.) billow | : (czas.) curl | : (czas.) fluctuate | : (czas.) pant | : (czas.) ripple | : (czas.) surge | : (czas.) undulate | : (czas.) wave
-falownica : falownica : (rzecz.) wave-maker
-falownik : falownik : (rzecz.) inverter
-falowod : falowód : (rzecz.) waveguide
-falset : falset : (rzecz.) falsetto | : (rzecz.) head-voice
-falsyfikacja : falsyfikacja : (rzecz.) counterfeit
-falsyfikat : falsyfikat : (rzecz.) fake | : (rzecz.) forgery
-falsyfikator : falsyfikator : (rzecz.) forger
-falsyfikowac : falsyfikować : (czas.) discredit | : (czas.) disprove | : (czas.) forge
-fama : fama : (rzecz.) fame | : (rzecz.) rumour
-familia : familia : (rzecz.) family
-familiarny : familiarny : (przym.) familiar
-familijny : familijny : (przym.) family
-fan : fan : (rzecz.) fan
-fanaberia : fanaberia : (rzecz.) airs | : (rzecz.) fad | : (rzecz.) whim | : (rzecz.) whims
-fanatycznie : fanatycznie : (przysł.) fanatically
-fanatyczny : fanatyczny : (przym.) fanatic | : (przym.) fanatical | : (przym.) rabid | : (przym.) zealous
-fanatyk : fanatyk : (rzecz.) fanatic | : (rzecz.) maniac | : (rzecz.) sectarian
-fanatyzm : fanatyzm : (rzecz.) fanaticism
-fandango : fandango : (rzecz.) fandango
-fanfara : fanfara : (rzecz.) fanfare | : (rzecz.) flourish
-fanfaron : fanfaron : (rzecz.) cock | : (rzecz.) coxcomb | : (rzecz.) gasser
-fanfaronada : fanfaronada : (rzecz.) coxcombry | : (rzecz.) rodomontade
-fant : fant : (rzecz.) forfeit | : (rzecz.) gage | : (rzecz.) pawn | : (rzecz.) prize
-fantasmagoria : fantasmagoria : (rzecz.) phantasmagoria
-fantasta : fantasta : (rzecz.) daydreamer | : (rzecz.) dreamer | : (rzecz.) fantast | : (rzecz.) visionary
-fantastycznie : fantastycznie : (przysł.) amazingly | : (przysł.) fabulously | : (przysł.) fantastically
-fantastyczno-naukowy : fantastyczno-naukowy : (przym.) sci-fi
-fantastycznonaukowy : fantastycznonaukowy : (przym.) science-fiction
-fantastycznosc : fantastyczność : (rzecz.) fantasticality
-fantastyczny : fantastyczny : (przym.) brilliant | : (przym.) fabulous | : (przym.) fanciful | : (przym.) fancy | : (przym.) fantastic | : (przym.) fantastical | : (przym.) quaint | : (przym.) terrific | : (przym.) wild | : (przym.) wild-cat
-fantastyka : fantastyka : (rzecz.) fantasy | : (rzecz.) fiction
-fantazja : fantazja : (rzecz.) extravaganza | : (rzecz.) fad | : (rzecz.) fancy | : (rzecz.) fantasia | : (rzecz.) fantasy | : (rzecz.) imagination | : (rzecz.) make-believe | : (rzecz.) megrim | : (rzecz.) vagary | : (rzecz.) vapour
-fantazjowac : fantazjować : (czas.) daydream | : (czas.) romance
-fantazyjnie : fantazyjnie : (przysł.) dashingly | : (przysł.) fancifully
-fantazyjnosc : fantazyjność : (rzecz.) fanciness
-fantazyjny : fantazyjny : (przym.) fancy
-fantom : fantom : (rzecz.) phantom
-farad : farad : (rzecz.) farad
-farandola : farandola : (rzecz.) farandole
-faraon : faraon : (rzecz.) faro | : (rzecz.) pharaoh
-farba : farba : (rzecz.) dye | : (rzecz.) dyestuff | : (rzecz.) dye-stuff | : (rzecz.) handler | : (rzecz.) paint | : (rzecz.) paintwork
-farbiarnia : farbiarnia : (rzecz.) dye-works
-farbiarstwo : farbiarstwo : (rzecz.) dyeing
-farbiarz : farbiarz : (rzecz.) dyer
-farbka : farbka : (rzecz.) bluing | : (rzecz.) paint
-farbkowanie : farbkowanie : (rzecz.) blueing | : (rzecz.) bluing
-farbowanie : farbowanie : (rzecz.) dying | : (rzecz.) tint
-farbowac : farbować : (czas.) bleed | : (czas.) colour | : (czas.) dye
-farma : farma : (rzecz.) farm | : (rzecz.) grange | : (rzecz.) homestead | : (rzecz.) ranch
-farmaceuta : farmaceuta : (rzecz.) chemist | : (rzecz.) druggist | : (rzecz.) pharmacist
-farmaceutyczny : farmaceutyczny : (przym.) pharmaceutical
-farmaceutyka : farmaceutyka : (rzecz.) pharmaceuticals
-farmacja : farmacja : (rzecz.) pharmaceutics | : (rzecz.) pharmacology | : (rzecz.) pharmacy
-farmakolog : farmakolog : (rzecz.) pharmacologist
-farmakologia : farmakologia : (rzecz.) pharmacology | : (rzecz.) pharmacy
-farmakologiczny : farmakologiczny : (przym.) pharmaceutical | : (przym.) pharmacological
-farmakopea : farmakopea : (rzecz.) pharmacopoeia
-farmakoterapia : farmakoterapia : (rzecz.) pharmacotherapy
-farmerki : farmerki : (rzecz.) overalls
-farsa : farsa : (rzecz.) burlesque | : (rzecz.) farce
-farsowy : farsowy : (przym.) farcical
-farsz : farsz : (rzecz.) filling | : (rzecz.) stuffing
-fartuch : fartuch : (rzecz.) apron | : (rzecz.) gown | : (rzecz.) pinafore
-farwater : farwater : (rzecz.) channel | : (rzecz.) fairway
-faryzeizm : faryzeizm : (rzecz.) hypocrisy
-faryzeuszostwo : faryzeuszostwo : (rzecz.) hypocrisy
-faryzeuszowski : faryzeuszowski : (przym.) self-righteous
-fasada : fasada : (rzecz.) exterior | : (rzecz.) facade | : (rzecz.) façade | : (rzecz.) front | : (rzecz.) frontispiece
-fascynacja : fascynacja : (rzecz.) fascination
-fascynowac : fascynować : (czas.) enthral | : (czas.) fascinate
-fascynujaco : fascynująco : (przysł.) fascinatingly
-fascynujacy : fascynujący : (przym.) fascinating
-faseta : faseta : (rzecz.) facet
-faska : faska : (rzecz.) firkin | : (rzecz.) tub
-fasola : fasola : (rzecz.) bean | : (rzecz.) beans | : (rzecz.) kidney-bean
-fasolka : fasolka : (rzecz.) bean
-fason : fason : (rzecz.) cut | : (rzecz.) fashion | : (rzecz.) style
-fasonowanie : fasonowanie : (rzecz.) cutting
-fasonowac : fasonować : (czas.) fashion
-fasowac : fasować : (czas.) strain
-fastryga : fastryga : (rzecz.) basting | : (rzecz.) tack
-fastrygowanie : fastrygowanie : (rzecz.) basting
-fastrygowac : fastrygować : (czas.) baste | : (czas.) tack
-fasunek : fasunek : (rzecz.) drawing
-faszerowanie : faszerowanie : (rzecz.) stuffing
-faszerowac : faszerować : (czas.) stuff
-faszyna : faszyna : (rzecz.) faggot | : (rzecz.) fascine
-faszysta : faszysta : (rzecz.) fascist
-faszystowski : faszystowski : (przym.) fascist
-faszyzm : faszyzm : (rzecz.) fascism
-fatalista : fatalista : (rzecz.) fatalist
-fatalistyczny : fatalistyczny : (przym.) fatalistic
-fatalizm : fatalizm : (rzecz.) fatalism | : (rzecz.) fatality
-fatalnie : fatalnie : (przysł.) damnably | : (przysł.) disastrously | : (przysł.) fatally | : (przysł.) fatefully
-fatalnosc : fatalność : (rzecz.) doom
-fatalny : fatalny : (przym.) abysmal | : (przym.) baneful | : (przym.) calamitous | : (przym.) disastrous | : (przym.) dismal | : (przym.) fatal | : (przym.) fated | : (przym.) fateful | : (przym.) ominous | : (przym.) prophetic | : (przym.) unlucky | : (przym.) weird
-fatamorgana : fatamorgana : (rzecz.) mirage
-fatum : fatum : (rzecz.) doom | : (rzecz.) fatality | : (rzecz.) fate
-fatyga : fatyga : (rzecz.) fatigue | : (rzecz.) trouble
-fatygowanie : fatygowanie : (rzecz.) bother | : (rzecz.) trouble
-fatygowac : fatygować : (czas.) trouble
-faul : faul : (rzecz.) fault
-faulowac : faulować : (czas.) foul
-faun : faun : (rzecz.) faun
-fauna : fauna : (rzecz.) fauna
-faworyt : faworyt : (rzecz.) favourite
-faworyzowanie : faworyzowanie : (rzecz.) favouritism
-faworyzowac : faworyzować : (czas.) discriminate | : (czas.) grace
-faza : faza : (rzecz.) phase | : (rzecz.) stage
-fazowanie : fazowanie : (rzecz.) bevelling
-fal : fał : (rzecz.) halyard
-fald : fałd : (rzecz.) fold | : (rzecz.) lappet | : (rzecz.) pleat | : (rzecz.) wrinkle
-falda : fałda : (rzecz.) crease | : (rzecz.) fold | : (rzecz.) pleat | : (rzecz.) tuck
-faldowanie : fałdowanie : (rzecz.) corrugation
-faldowac : fałdować : (czas.) corrugate | : (czas.) crease | : (czas.) crimple | : (czas.) pleat | : (czas.) pucker
-faldzisty : fałdzisty : (przym.) flowing
-falsz : fałsz : (rzecz.) deceit | : (rzecz.) duplicity | : (rzecz.) falsehood | : (rzecz.) obliquity
-falszerski : fałszerski : (przym.) fake
-falszerstwo : fałszerstwo : (rzecz.) adulteration | : (rzecz.) counterfeit | : (rzecz.) fake | : (rzecz.) falsification | : (rzecz.) forgery | : (rzecz.) fraud
-falszerz : fałszerz : (rzecz.) counterfeit | : (rzecz.) counterfeiter | : (rzecz.) fabricator | : (rzecz.) faker | : (rzecz.) falsifier | : (rzecz.) forger
-falszowanie : fałszowanie : (rzecz.) adulteration | : (rzecz.) counterfeit | : (rzecz.) deception | : (rzecz.) fake | : (rzecz.) forgery
-falszowac : fałszować : (czas.) adulterate | : (czas.) cook | : (czas.) counterfeit | : (czas.) doctor | : (czas.) fabricate | : (czas.) fake | : (czas.) falsify | : (czas.) forge | : (czas.) spoof
-falszywie : fałszywie : (przysł.) amiss | : (przysł.) discordantly | : (przysł.) erroneously | : (przysł.) falsely
-falszywiec : fałszywiec : (rzecz.) dissembler
-falszywka : fałszywka : (rzecz.) odd-side
-falszywosc : fałszywość : (rzecz.) erroneousness | : (rzecz.) falsehood | : (rzecz.) falsity | : (rzecz.) shiftiness
-falszywy : fałszywy : (przym.) base | : (przym.) bogus | : (przym.) cattish | : (przym.) counterfeit | : (przym.) double-tongued | : (przym.) erroneous | : (przym.) fake | : (przym.) faked | : (przym.) false | : (przym.) off-key | : (przym.) phoney | : (przym.) pseudo | : (przym.) self-righteous | : (przym.) sham | : (przym.) snide | : (przym.) spurious | : (przym.) supposititious | : (przym.) trumped-up | : (przym.) two-tongued | : (przym.) unsound | : (przym.) untrue | : (przym.) untruthful | : (przym.) wrong
-febra : febra : (rzecz.) ague | : (rzecz.) fever
-febryczny : febryczny : (przym.) feverish
-fechmistrz : fechmistrz : (rzecz.) fencer | : (rzecz.) swordsman
-fechtmistrz : fechtmistrz : (rzecz.) fencer
-fechtowac : fechtować : (czas.) fence
-fechtunek : fechtunek : (rzecz.) fence | : (rzecz.) fencing | : (rzecz.) swordsmanship
-federacja : federacja : (rzecz.) commonwealth | : (rzecz.) federalization | : (rzecz.) federation
-federacyjny : federacyjny : (przym.) federal | : (przym.) federative
-federalista : federalista : (rzecz.) federalist
-federalizacja : federalizacja : (rzecz.) federalisation
-federalizm : federalizm : (rzecz.) federalism
-federalny : federalny : (przym.) federal
-fekalia : fekalia : (rzecz.) faeces
-felc : felc : (rzecz.) rabbet
-felczer : felczer : (rzecz.) surgeon
-feldmarszalek : feldmarszałek : (rzecz.) field-marshal
-feler : feler : (rzecz.) defect | : (rzecz.) fault
-felga : felga : (rzecz.) rim | : (rzecz.) rims
-felieton : felieton : (rzecz.) column | : (rzecz.) feuilleton | : (rzecz.) instalment
-felietonista : felietonista : (rzecz.) columnist
-feluka : feluka : (rzecz.) felucca
-feminista : feminista : (rzecz.) feminist
-feministka : feministka : (rzecz.) feminist
-feministyczny : feministyczny : (przym.) feministic
-feminizacja : feminizacja : (rzecz.) feminization
-feminizm : feminizm : (rzecz.) feminism
-feminizowac : feminizować : (czas.) feminize
-fenig : fenig : (rzecz.) pfennig
-feniks : feniks : (rzecz.) phoenix
-fenol : fenol : (rzecz.) phenol
-fenoloftaleina : fenoloftaleina : (rzecz.) phenolphthalein
-fenomen : fenomen : (rzecz.) appearance | : (rzecz.) phenomenon
-fenomenalnie : fenomenalnie : (przysł.) phenomenally
-fenomenalny : fenomenalny : (przym.) phenomenal
-fenomenologia : fenomenologia : (rzecz.) phenolphthalein | : (rzecz.) phenomenology
-fenotyp : fenotyp : (rzecz.) phenotype
-fenyl : fenyl : (rzecz.) phenyl
-ferajna : ferajna : (rzecz.) bunch
-feralny : feralny : (przym.) hapless | : (przym.) ill-fated | : (przym.) unlucky
-feretron : feretron : (rzecz.) feretory
-ferie : ferie : (rzecz.) break | : (rzecz.) furlough | : (rzecz.) holiday | : (rzecz.) recess
-ferm : ferm : (rzecz.) fermium | : (rzecz.) Fm-fermium
-ferma : ferma : (rzecz.) farm | : (rzecz.) poultry
-ferment : ferment : (rzecz.) enzyme
-fermentacja : fermentacja : (rzecz.) digestion | : (rzecz.) fermentation
-fermentowac : fermentować : (czas.) ferment
-ferrodielektryk : ferrodielektryk : (rzecz.) ferroelectric
-ferroelektryk : ferroelektryk : (rzecz.) ferroelectric
-ferromagnetyczny : ferromagnetyczny : (przym.) ferromagnetic
-ferromagnetyzm : ferromagnetyzm : (rzecz.) ferromagnetism
-ferryt : ferryt : (rzecz.) ferrite
-fertyczny : fertyczny : (przym.) brisk
-ferwor : ferwor : (rzecz.) fervency | : (rzecz.) fervour
-festiwal : festiwal : (rzecz.) festival | : (rzecz.) jamboree
-feston : feston : (rzecz.) festoon
-festyn : festyn : (rzecz.) feast | : (rzecz.) festival | : (rzecz.) gala
-festynowy : festynowy : (przym.) festivity
-feta : feta : (rzecz.) celebration | : (rzecz.) fete
-fetor : fetor : (rzecz.) stench
-fetowac : fetować : (czas.) celebrate | : (czas.) fete
-fetysz : fetysz : (rzecz.) fetish
-fetyszysta : fetyszysta : (rzecz.) fetishist
-fetyszyzm : fetyszyzm : (rzecz.) fetishism
-feudalizacja : feudalizacja : (rzecz.) feudalization
-feudalizm : feudalizm : (rzecz.) feudalism | : (rzecz.) feudality
-feudalny : feudalny : (przym.) feudal
-feudum : feudum : (rzecz.) fief
-fiakier : fiakier : (rzecz.) cab | : (rzecz.) fiacre | : (rzecz.) rcabman
-fiasko : fiasko : (rzecz.) failure | : (rzecz.) fiasco | : (rzecz.) fizzle | : (rzecz.) flop | : (rzecz.) frustration
-fibroina : fibroina : (rzecz.) fibroin
-fibryla : fibryla : (rzecz.) fibril
-fibrylacja : fibrylacja : (rzecz.) fibrillation
-fibryna : fibryna : (rzecz.) fibrin
-fibrynogen : fibrynogen : (rzecz.) fibrinogen
-fidrygalki : fidrygałki : (rzecz.) trivialities
-fifka : fifka : (rzecz.) cigarette-holder
-figa : figa : (rzecz.) fig
-figiel : figiel : (rzecz.) antic | : (rzecz.) hob | : (rzecz.) joke | : (rzecz.) lark | : (rzecz.) mischief | : (rzecz.) prank | : (rzecz.) trick
-figlarnie : figlarnie : (przysł.) archly | : (przysł.) playfully | : (przysł.) slyly | : (przysł.) wantonly
-figlarnosc : figlarność : (rzecz.) playfulness | : (rzecz.) pleasantry | : (rzecz.) roguishness
-figlarny : figlarny : (przym.) arch | : (przym.) frolic | : (przym.) frolicsome | : (przym.) impish | : (przym.) jocular | : (przym.) mischievous | : (przym.) playful | : (przym.) quizzical | : (przym.) roguish
-figlarz : figlarz : (rzecz.) jokester | : (rzecz.) prankster | : (rzecz.) rogue
-figlowanie : figlowanie : (rzecz.) dalliance
-figlowac : figlować : (czas.) lark
-figowiec : figowiec : (rzecz.) fig | : (rzecz.) fig-tree
-figura : figura : (rzecz.) court-card | : (rzecz.) figure
-figuralny : figuralny : (przym.) figural
-figurant : figurant : (rzecz.) poser
-figurka : figurka : (rzecz.) figure | : (rzecz.) figurehead | : (rzecz.) figure-head | : (rzecz.) figurine | : (rzecz.) statuette
-figurowac : figurować : (czas.) figure
-figurynka : figurynka : (rzecz.) statuette
-fikac : fikać : (czas.) jump | : (czas.) kick
-fikcja : fikcja : (rzecz.) fiction | : (rzecz.) nonentity
-fikcyjnie : fikcyjnie : (przysł.) fictionally | : (przysł.) fictitiously
-fikcyjny : fikcyjny : (przym.) bogus | : (przym.) fictional | : (przym.) fictitious | : (przym.) mythic | : (przym.) mythical
-fikolek : fikołek : (rzecz.) somersault | : (rzecz.) summersault
-fiksacja : fiksacja : (rzecz.) fixation
-fiksowac : fiksować : (czas.) rave
-filantrop : filantrop : (rzecz.) philanthropist
-filantropia : filantropia : (rzecz.) charity | : (rzecz.) philanthropy
-filantropijny : filantropijny : (przym.) philanthropic
-filar : filar : (rzecz.) column | : (rzecz.) pier | : (rzecz.) pilaster | : (rzecz.) pillar
-filarowy : filarowy : (przym.) columnar
-filatelista : filatelista : (rzecz.) philatelist | : (rzecz.) stamp | : (rzecz.) stamp-collector
-filatelistyka : filatelistyka : (rzecz.) philately | : (rzecz.) stamp-collecting
-filc : filc : (rzecz.) felt
-filcowanie : filcowanie : (rzecz.) felt | : (rzecz.) felting
-filcowac : filcować : (czas.) felt
-filet : filet : (rzecz.) fillet
-filetowanie : filetowanie : (rzecz.) boning
-filharmonia : filharmonia : (rzecz.) concert
-filharmoniczny : filharmoniczny : (przym.) philharmonic
-filharmonijny : filharmonijny : (przym.) philharmonic
-filia : filia : (rzecz.) agency | : (rzecz.) branch | : (rzecz.) society | : (rzecz.) subsidiary
-filiera : filiera : (rzecz.) spinneret
-filigran : filigran : (rzecz.) filigree | : (rzecz.) watermark
-filigranowy : filigranowy : (przym.) dainty
-filipika : filipika : (rzecz.) philippic
-filister : filister : (rzecz.) philistine
-filisterski : filisterski : (przym.) smug
-filisterstwo : filisterstwo : (rzecz.) parochialism | : (rzecz.) smugness
-filizanka : filiżanka : (rzecz.) cup | : (rzecz.) cupful | : (rzecz.) teacup | : (rzecz.) tea-cup
-film : film : (rzecz.) film | : (rzecz.) movie | : (rzecz.) picture | : (rzecz.) video
-filmowanie : filmowanie : (rzecz.) filming
-filmowac : filmować : (czas.) cinematize | : (czas.) film | : (czas.) shoot
-filmowiec : filmowiec : (rzecz.) filmmaker | : (rzecz.) film-maker
-filmowy : filmowy : (przym.) cinematographic | : (przym.) filmic
-filodendron : filodendron : (rzecz.) philodendron
-filogeneza : filogeneza : (rzecz.) phylogeny
-filogenia : filogenia : (rzecz.) phylogeny
-filolog : filolog : (rzecz.) linguist | : (rzecz.) philologist
-filologia : filologia : (rzecz.) philology
-filologiczny : filologiczny : (przym.) philological
-filowac : filować : (czas.) smoke
-filozof : filozof : (rzecz.) philosopher
-filozofia : filozofia : (rzecz.) philosophy
-filozoficznie : filozoficznie : (przysł.) philosophically
-filozoficzny : filozoficzny : (przym.) philosophic | : (przym.) philosophical
-filozofowanie : filozofowanie : (rzecz.) philosophers | : (rzecz.) philosophise
-filozofowac : filozofować : (czas.) philosophize
-filtr : filtr : (rzecz.) filter | : (rzecz.) percolator
-filtracja : filtracja : (rzecz.) filtration
-filtrowac : filtrować : (czas.) elutriate | : (czas.) filter | : (czas.) filtrate | : (czas.) percolate | : (czas.) strain
-filut : filut : (rzecz.) fox | : (rzecz.) wag
-filuternosc : filuterność : (rzecz.) playfulness
-filuterny : filuterny : (przym.) frolicsome | : (przym.) playful | : (przym.) sly
-finalista : finalista : (rzecz.) finalist
-finalizacja : finalizacja : (rzecz.) conclusion | : (rzecz.) finalization
-finalizowac : finalizować : (czas.) complete | : (czas.) finalize
-finalny : finalny : (przym.) final | : (przym.) finished
-finanse : finanse : (rzecz.) finance | : (rzecz.) treasury
-finansista : finansista : (rzecz.) financier
-finansjera : finansjera : (rzecz.) finance
-finansowanie : finansowanie : (rzecz.) financing | : (rzecz.) funding
-finansowac : finansować : (czas.) bankroll | : (czas.) finance | : (czas.) finances | : (czas.) fund
-finansowiec : finansowiec : (rzecz.) financier
-finansowo : finansowo : (przysł.) economically | : (przysł.) financially
-finansowy : finansowy : (przym.) financial | : (przym.) fiscal
-final : finał : (rzecz.) climax | : (rzecz.) cup-final | : (rzecz.) final | : (rzecz.) finale
-finalowy : finałowy : (przym.) final
-finezja : finezja : (rzecz.) finesse
-finezyjnie : finezyjnie : (przysł.) delicately | : (przysł.) finessing
-finezyjnosc : finezyjność : (rzecz.) precision
-finezyjny : finezyjny : (przym.) fine | : (przym.) finessed | : (przym.) sophisticated
-fingowac : fingować : (czas.) fake | : (czas.) sham
-finiszowac : finiszować : (czas.) spurt
-fiolet : fiolet : (rzecz.) purple | : (rzecz.) violet
-fioletowy : fioletowy : (przym.) lilac | : (przym.) purple | : (przym.) violet
-fiolka : fiolka : (rzecz.) phial | : (rzecz.) vial
-fiord : fiord : (rzecz.) fiord | : (rzecz.) fjord
-fiolek : fiołek : (rzecz.) violet
-fiolkowy : fiołkowy : (przym.) violet
-firana : firana : (rzecz.) curtain | : (rzecz.) drape
-firanka : firanka : (rzecz.) curtain
-firanki : firanki : (rzecz.) drapes
-fircyk : fircyk : (rzecz.) cockscomb | : (rzecz.) dandy | : (rzecz.) fop | : (rzecz.) spark
-fircykowatosc : fircykowatość : (rzecz.) foppery
-fircykowaty : fircykowaty : (przym.) buckish | : (przym.) dandyish
-firma : firma : (rzecz.) business | : (rzecz.) company | : (rzecz.) enterprise | : (rzecz.) establishment | : (rzecz.) firm | : (rzecz.) house | : (rzecz.) rival
-firmament : firmament : (rzecz.) sky | : (rzecz.) welkin
-firmowy : firmowy : (przym.) firma | : (przym.) proprietary
-fisharmonia : fisharmonia : (rzecz.) harmonium
-fiskalny : fiskalny : (przym.) fiscal
-fiskus : fiskus : (rzecz.) tax
-fistaszek : fistaszek : (rzecz.) peanut
-fistula : fistuła : (rzecz.) fistula
-fiszbin : fiszbin : (rzecz.) baleen | : (rzecz.) whalebone
-fiszka : fiszka : (rzecz.) skyline
-fit : fit : (rzecz.) fid
-fitoplankton : fitoplankton : (rzecz.) phytoplankton
-fiut : fiut : (rzecz.) cock
-fizjolog : fizjolog : (rzecz.) physiologist
-fizjologia : fizjologia : (rzecz.) physiology
-fizjologicznie : fizjologicznie : (przysł.) bodily | : (przysł.) physiologically
-fizjologiczny : fizjologiczny : (przym.) bodily | : (przym.) physiological
-fizjonomia : fizjonomia : (rzecz.) physiognomy
-fizjonomiczny : fizjonomiczny : (przym.) physiognomic
-fizjoterapeuta : fizjoterapeuta : (rzecz.) physiotherapist
-fizjoterapia : fizjoterapia : (rzecz.) physiotherapy
-fizycznie : fizycznie : (przysł.) physically
-fizycznosc : fizyczność : (rzecz.) physicality
-fizyczny : fizyczny : (przym.) blue-collar | : (przym.) manual | : (przym.) physical | : (przym.) physicals
-fizyk : fizyk : (rzecz.) physicist | : (rzecz.) physics
-fizyka : fizyka : (rzecz.) physics
-fizykalny : fizykalny : (przym.) physical
-fizykoterapeuta : fizykoterapeuta : (rzecz.) physiotherapist
-fizykoterapia : fizykoterapia : (rzecz.) physiotherapy
-flacha : flacha : (rzecz.) flagon
-flaczki : flaczki : (rzecz.) chitterlings | : (rzecz.) tripe
-fladrowaty : fladrowaty : (przym.) slatternly
-flaga : flaga : (rzecz.) flag | : (rzecz.) pennon
-flaglinka : flaglinka : (rzecz.) halyard
-flagowiec : flagowiec : (rzecz.) flagship
-flagsztok : flagsztok : (rzecz.) flagstaff
-flak : flak : (rzecz.) gut
-flaki : flaki : (rzecz.) tripe
-flakon : flakon : (rzecz.) bottle | : (rzecz.) bowl | : (rzecz.) flask | : (rzecz.) vase
-flakonik : flakonik : (rzecz.) bottle | : (rzecz.) phial | : (rzecz.) vial
-flakowaty : flakowaty : (przym.) flaccid
-flama : flama : (rzecz.) flame | : (rzecz.) lady-love | : (rzecz.) mash
-flamandzki : flamandzki : (przym.) Flemish
-flaming : flaming : (rzecz.) flamingo
-flanc : flanc : (rzecz.) slip
-flanca : flanca : (rzecz.) seedling | : (rzecz.) slip
-flancowanie : flancowanie : (rzecz.) suckering | : (rzecz.) transplantation
-flancowac : flancować : (czas.) plant
-flanela : flanela : (rzecz.) flannel
-flanka : flanka : (rzecz.) flank
-flara : flara : (rzecz.) brightness | : (rzecz.) flare
-flaszeczka : flaszeczka : (rzecz.) phial
-flaszka : flaszka : (rzecz.) bottle | : (rzecz.) flask
-flazolet : flażolet : (rzecz.) flageolet
-flecista : flecista : (rzecz.) flautist | : (rzecz.) flutist
-fleczer : fleczer : (rzecz.) filling
-flegma : flegma : (rzecz.) coolness | : (rzecz.) phlegm | : (rzecz.) reflux | : (rzecz.) sputum
-flegmatyczny : flegmatyczny : (przym.) irresponsive | : (przym.) phlegmatic | : (przym.) stolid
-flegmatyzacja : flegmatyzacja : (rzecz.) desensitization
-flegmatyzator : flegmatyzator : (rzecz.) deterrent | : (rzecz.) tranquilizer
-flejtuch : flejtuch : (rzecz.) slattern | : (rzecz.) slob | : (rzecz.) slut
-flejtuchowaty : flejtuchowaty : (przym.) sluttish
-flek : flek : (rzecz.) heeltap | : (rzecz.) heel-tap | : (rzecz.) lift
-fleksja : fleksja : (rzecz.) inflection | : (rzecz.) inflexion
-fleksografia : fleksografia : (rzecz.) flexography
-fleksyjny : fleksyjny : (przym.) inflectional | : (przym.) inflective
-flesz : flesz : (rzecz.) flash | : (rzecz.) flashgun | : (rzecz.) flash-lamp | : (rzecz.) flash-light
-flet : flet : (rzecz.) flute | : (rzecz.) recorder
-flirciarka : flirciarka : (rzecz.) flirt
-flirciarski : flirciarski : (przym.) flirtatious
-flirciarz : flirciarz : (rzecz.) flirt | : (rzecz.) flirter | : (rzecz.) philanderer
-flirt : flirt : (rzecz.) flirtation
-flirtowanie : flirtowanie : (rzecz.) flirting
-flirtowac : flirtować : (czas.) coquet | : (czas.) flirt | : (czas.) gallivant
-flisactwo : flisactwo : (rzecz.) rafting
-flisak : flisak : (rzecz.) rafter
-fliza : fliza : (rzecz.) flagstone
-floks : floks : (rzecz.) phlox
-flokulacja : flokulacja : (rzecz.) flocculation
-flora : flora : (rzecz.) flora
-floren : floren : (rzecz.) florin
-floret : floret : (rzecz.) foil
-florystyczny : florystyczny : (przym.) floristic
-flota : flota : (rzecz.) armada | : (rzecz.) fleet | : (rzecz.) marine | : (rzecz.) navy
-flotacja : flotacja : (rzecz.) floatation | : (rzecz.) flotation
-flotacyjnosc : flotacyjność : (rzecz.) floatability
-flotylla : flotylla : (rzecz.) flotilla
-fluksja : fluksja : (rzecz.) gumboil
-fluktuacja : fluktuacja : (rzecz.) fluctuation | : (rzecz.) jitter | : (rzecz.) turnover
-fluor : fluor : (rzecz.) fluoride | : (rzecz.) fluorine
-fluorek : fluorek : (rzecz.) fluoride
-fluorescencja : fluorescencja : (rzecz.) fluorescence
-fluorescencyjny : fluorescencyjny : (przym.) fluorescent
-fluorografia : fluorografia : (rzecz.) fluorography
-fluorowanie : fluorowanie : (rzecz.) fluoridation | : (rzecz.) fluorinated | : (rzecz.) fluorination
-fluorowac : fluorować : (czas.) fluoridate
-fluorowodorowy : fluorowodorowy : (przym.) hydrofluoric
-fluorowy : fluorowy : (przym.) fluoric
-fluoryt : fluoryt : (rzecz.) fluorite
-fluoryzowac : fluoryzować : (czas.) fluoresce
-fladra : flądra : (rzecz.) flounder | : (rzecz.) plaice | : (rzecz.) sole | : (rzecz.) trollop
-fobia : fobia : (rzecz.) phobia
-fok : fok : (rzecz.) foresail | : (rzecz.) seal
-foka : foka : (rzecz.) seal
-fokmaszt : fokmaszt : (rzecz.) foremast
-foksterier : foksterier : (rzecz.) fox-terrier
-fokstrot : fokstrot : (rzecz.) foxtrot
-foksztaksel : foksztaksel : (rzecz.) forestaysail
-fokus : fokus : (rzecz.) focus
-folder : folder : (rzecz.) brochure | : (rzecz.) folder
-folgowanie : folgowanie : (rzecz.) lenience | : (rzecz.) leniency
-folia : folia : (rzecz.) foil | : (rzecz.) leaf
-foliacja : foliacja : (rzecz.) foliation
-folial : foliał : (rzecz.) volume
-folio : folio : (rzecz.) folio
-foliowy : foliowy : (przym.) folic
-folklor : folklor : (rzecz.) folklore
-folklorystyczny : folklorystyczny : (przym.) folk
-folklorystyka : folklorystyka : (rzecz.) folklore
-folowanie : folowanie : (rzecz.) felting
-folusznik : folusznik : (rzecz.) fuller
-folwark : folwark : (rzecz.) farm
-fonacja : fonacja : (rzecz.) phonation
-fonem : fonem : (rzecz.) phoneme
-fonetycznie : fonetycznie : (przysł.) phonetically
-fonetyczny : fonetyczny : (przym.) phonetic
-fonetyk : fonetyk : (rzecz.) phonetician
-fonetyka : fonetyka : (rzecz.) phonetics
-fonia : fonia : (rzecz.) audibility | : (rzecz.) audio | : (rzecz.) sound
-foniczny : foniczny : (przym.) phonic
-fonograf : fonograf : (rzecz.) phonograph
-fonografia : fonografia : (rzecz.) discography
-fonograficzny : fonograficzny : (przym.) phonographic
-fonogram : fonogram : (rzecz.) phonogram
-fonologia : fonologia : (rzecz.) phonology
-fonologiczny : fonologiczny : (przym.) phonological
-fonon : fonon : (rzecz.) phonon
-font : font : (rzecz.) fount
-fontanna : fontanna : (rzecz.) fountain
-fordanser : fordanser : (rzecz.) gigolo
-foremka : foremka : (rzecz.) mould
-foremnik : foremnik : (rzecz.) swage
-foremnosc : foremność : (rzecz.) symmetry
-foremny : foremny : (przym.) handsome | : (przym.) regular | : (przym.) shapely
-forhend : forhend : (rzecz.) forehand
-forkasztel : forkasztel : (rzecz.) forecastle
-forma : forma : (rzecz.) form | : (rzecz.) mode | : (rzecz.) mould | : (rzecz.) shape
-formacja : formacja : (rzecz.) formation
-formaldehyd : formaldehyd : (rzecz.) formaldehyde
-formalina : formalina : (rzecz.) formalin
-formalista : formalista : (rzecz.) formalist
-formalistyczny : formalistyczny : (przym.) formal | : (przym.) formalistic
-formalizacja : formalizacja : (rzecz.) formalization
-formalizm : formalizm : (rzecz.) formalism
-formalizowac : formalizować : (czas.) formalize
-formalnie : formalnie : (przysł.) formally
-formalnosc : formalność : (rzecz.) form | : (rzecz.) formality
-formalny : formalny : (przym.) academic | : (przym.) formal
-format : format : (rzecz.) format
-formater : formater : (rzecz.) formatter
-formatowanie : formatowanie : (rzecz.) formatting
-formatowac : formatować : (czas.) format
-formatywny : formatywny : (przym.) formative
-formowanie : formowanie : (rzecz.) formation | : (rzecz.) moulding
-formowac : formować : (czas.) form | : (czas.) marshal
-formularz : formularz : (rzecz.) blank | : (rzecz.) form | : (rzecz.) postcard | : (rzecz.) questionnaire
-formula : formuła : (rzecz.) formula | : (rzecz.) incantation
-formulka : formułka : (rzecz.) expression | : (rzecz.) formula
-formulowanie : formułowanie : (rzecz.) formulation
-formulowac : formułować : (czas.) formulate | : (czas.) make
-fornal : fornal : (rzecz.) carter | : (rzecz.) groom
-fornirowac : fornirować : (czas.) veneer
-forpoczta : forpoczta : (rzecz.) outpost
-forsa : forsa : (rzecz.) bankroll | : (rzecz.) boodle | : (rzecz.) dibs | : (rzecz.) dough | : (rzecz.) kale | : (rzecz.) money
-forsiasty : forsiasty : (przym.) moneyed
-forsowanie : forsowanie : (rzecz.) strain
-forsowac : forsować : (czas.) boost | : (czas.) force | : (czas.) overexert | : (czas.) push
-forsowny : forsowny : (przym.) intensive | : (przym.) strenuous
-forsycja : forsycja : (rzecz.) forsythia
-forteca : forteca : (rzecz.) fortress | : (rzecz.) stronghold
-fortel : fortel : (rzecz.) art | : (rzecz.) artifice | : (rzecz.) ploy | : (rzecz.) ruse | : (rzecz.) stratagem | : (rzecz.) subterfuge | : (rzecz.) trick | : (rzecz.) wile
-fortepian : fortepian : (rzecz.) piano | : (rzecz.) pianoforte
-fortepianowy : fortepianowy : (przym.) piano
-fortuna : fortuna : (rzecz.) fortune
-fortunny : fortunny : (przym.) fortunate
-fortyfikacja : fortyfikacja : (rzecz.) earthwork | : (rzecz.) fortification
-fortyfikowac : fortyfikować : (czas.) fortify
-forum : forum : (rzecz.) forum
-fory : fory : (rzecz.) handicap | : (rzecz.) odds
-forys : foryś : (rzecz.) outrider
-fosa : fosa : (rzecz.) fosse | : (rzecz.) moat
-fosfat : fosfat : (rzecz.) phosphate
-fosfor : fosfor : (rzecz.) phosphor | : (rzecz.) phosphorus
-fosforan : fosforan : (rzecz.) phosphate | : (rzecz.) phosphates
-fosforanowy : fosforanowy : (przym.) phosphate
-fosforawy : fosforawy : (przym.) phosphorous
-fosforescencja : fosforescencja : (rzecz.) phosphorescence
-fosforowy : fosforowy : (przym.) phosphoric | : (przym.) phosphorous
-fosforycznosc : fosforyczność : (rzecz.) phosphorescence
-fosforyczny : fosforyczny : (przym.) phosphorescent
-fosforyzowac : fosforyzować : (czas.) phosphoresce
-fosforyzujacy : fosforyzujący : (przym.) phosphorescent
-fosgen : fosgen : (rzecz.) phosgene
-fosylizacja : fosylizacja : (rzecz.) fossilization
-fotel : fotel : (rzecz.) armchair | : (rzecz.) chair | : (rzecz.) recliner
-fotka : fotka : (rzecz.) photo | : (rzecz.) snap
-foto : foto : (rzecz.) photo
-fotochemia : fotochemia : (rzecz.) photochemistry
-fotochemiczny : fotochemiczny : (przym.) photochemical
-fotodioda : fotodioda : (rzecz.) photodiode
-fotoelektron : fotoelektron : (rzecz.) photoelectron
-fotoelektryczny : fotoelektryczny : (przym.) photoelectric
-fotoemisja : fotoemisja : (rzecz.) photoemission
-fotogeniczny : fotogeniczny : (przym.) photogenic
-fotograf : fotograf : (rzecz.) photographer
-fotografia : fotografia : (rzecz.) photo | : (rzecz.) photogram | : (rzecz.) photograph | : (rzecz.) photography
-fotograficznie : fotograficznie : (przysł.) photographically
-fotograficzny : fotograficzny : (przym.) photographic
-fotografik : fotografik : (rzecz.) photographer
-fotografika : fotografika : (rzecz.) photographer | : (rzecz.) photography
-fotografowanie : fotografowanie : (rzecz.) photography
-fotografowac : fotografować : (czas.) photograph | : (czas.) screenshot
-fotograwiura : fotograwiura : (rzecz.) gravure | : (rzecz.) photogravure
-fotokarabin : fotokarabin : (rzecz.) gun-camera
-fotokatoda : fotokatoda : (rzecz.) photo | : (rzecz.) photocathode
-fotokomorka : fotokomórka : (rzecz.) photocell | : (rzecz.) photo-cell
-fotokopia : fotokopia : (rzecz.) blueprint | : (rzecz.) photocopy
-fotokopiarka : fotokopiarka : (rzecz.) photocopier
-fotolitografia : fotolitografia : (rzecz.) photolithography
-fotoliza : fotoliza : (rzecz.) photodecomposition | : (rzecz.) photolysis
-fotoluminescencja : fotoluminescencja : (rzecz.) photoluminescence
-fotomechaniczny : fotomechaniczny : (przym.) photomechanical
-fotometr : fotometr : (rzecz.) photometer
-fotometria : fotometria : (rzecz.) photometry
-fotometryczny : fotometryczny : (przym.) photometric
-fotomikrografia : fotomikrografia : (rzecz.) micrograph | : (rzecz.) photomicrography
-fotomontaz : fotomontaż : (rzecz.) photo | : (rzecz.) photo-montage | : (rzecz.) photo-mounting
-foton : foton : (rzecz.) photon
-fotopowielacz : fotopowielacz : (rzecz.) photomultiplier
-fotoprzewodnictwo : fotoprzewodnictwo : (rzecz.) photoconduction
-fotoprzewodnik : fotoprzewodnik : (rzecz.) photoconductor
-fotoreportaz : fotoreportaż : (rzecz.) photo | : (rzecz.) photojournalism
-fotoreporter : fotoreporter : (rzecz.) cameraman | : (rzecz.) camera-man | : (rzecz.) foyer | : (rzecz.) photojournalist
-fotos : fotos : (rzecz.) still
-fotosfera : fotosfera : (rzecz.) photosphere
-fotosklad : fotoskład : (rzecz.) filmsetting | : (rzecz.) photocomposition | : (rzecz.) phototypesetting
-fotosynteza : fotosynteza : (rzecz.) photosynthesis
-fototelegram : fototelegram : (rzecz.) telephotograph
-fototerapia : fototerapia : (rzecz.) phototherapy
-fototranzystor : fototranzystor : (rzecz.) phototransistor
-fototypia : fototypia : (rzecz.) autotype | : (rzecz.) phototypography
-fotowoltaiczny : fotowoltaiczny : (przym.) photovoltaic
-foyer : foyer : (rzecz.) foyer
-fracht : fracht : (rzecz.) freight
-frachtowanie : frachtowanie : (rzecz.) freightage
-frachtowac : frachtować : (czas.) charter | : (czas.) freight | : (czas.) ship
-frachtowiec : frachtowiec : (rzecz.) freighter
-fractostratus : fractostratus : (rzecz.) scud
-fragment : fragment : (rzecz.) fragment | : (rzecz.) portion | : (rzecz.) section
-fragmentacja : fragmentacja : (rzecz.) fragmentation
-fragmentaryczny : fragmentaryczny : (przym.) fragmentary | : (przym.) fragmented | : (przym.) scrappy | : (przym.) sketchy
-frajda : frajda : (rzecz.) fun | : (rzecz.) joy
-frajer : frajer : (rzecz.) chump | : (rzecz.) gull | : (rzecz.) oaf | : (rzecz.) sucker
-frak : frak : (rzecz.) dress | : (rzecz.) tailcoat | : (rzecz.) tail-coat
-frakcja : frakcja : (rzecz.) faction | : (rzecz.) fractal | : (rzecz.) fraction
-frakcjonowanie : frakcjonowanie : (rzecz.) fractionation | : (rzecz.) fractioning
-frakcjonowac : frakcjonować : (czas.) fractionate
-frakcyjny : frakcyjny : (przym.) fractional
-framuga : framuga : (rzecz.) frame | : (rzecz.) jamb | : (rzecz.) recess
-franciszkanin : franciszkanin : (rzecz.) Franciscan
-frank : frank : (rzecz.) franc
-frankowanie : frankowanie : (rzecz.) franchise | : (rzecz.) francs
-frankowac : frankować : (czas.) frank
-frans : frans : (rzecz.) francium
-franszyza : franszyza : (rzecz.) franchising
-frant : frant : (rzecz.) rogue
-frantostwo : frantostwo : (rzecz.) cunning
-frapowac : frapować : (czas.) fascinate | : (czas.) strike
-frasobliwosc : frasobliwość : (rzecz.) sadness
-frasunek : frasunek : (rzecz.) grief | : (rzecz.) worry
-fraszka : fraszka : (rzecz.) doggerel | : (rzecz.) epigram | : (rzecz.) limerick | : (rzecz.) trifle
-fraza : fraza : (rzecz.) movement | : (rzecz.) phrase
-frazeologia : frazeologia : (rzecz.) phraseology
-frazeologiczny : frazeologiczny : (przym.) idiomatic
-frazes : frazes : (rzecz.) catchword | : (rzecz.) cliché | : (rzecz.) commonplace | : (rzecz.) platitude | : (rzecz.) tag
-frazowac : frazować : (czas.) phrase
-frazowy : frazowy : (przym.) phrasal
-fregata : fregata : (rzecz.) frigate
-frekwencja : frekwencja : (rzecz.) admission | : (rzecz.) attendance | : (rzecz.) frequency | : (rzecz.) turnout
-frenetyczny : frenetyczny : (przym.) frantic | : (przym.) frenetic
-frenolog : frenolog : (rzecz.) phrenologist
-frenologia : frenologia : (rzecz.) phrenology
-fresk : fresk : (rzecz.) fresco | : (rzecz.) mural
-fretka : fretka : (rzecz.) ferret
-frez : frez : (rzecz.) cutter
-frezarka : frezarka : (rzecz.) miller
-frezarko-kopiarka : frezarko-kopiarka : (rzecz.) profiler
-frezja : frezja : (rzecz.) freesia
-frezowanie : frezowanie : (rzecz.) milling
-frezowac : frezować : (czas.) mill
-front : front : (rzecz.) facade | : (rzecz.) forepart | : (rzecz.) fore-part | : (rzecz.) front
-frontalny : frontalny : (przym.) frontal
-fronton : fronton : (rzecz.) frontispiece | : (rzecz.) fronton
-froterka : froterka : (rzecz.) brush | : (rzecz.) polisher
-froterowac : froterować : (czas.) polish
-fruktoza : fruktoza : (rzecz.) fructose
-frustracja : frustracja : (rzecz.) frustration
-frustrowac : frustrować : (czas.) frustrate
-fruwanie : fruwanie : (rzecz.) flutter | : (rzecz.) flying
-fruwac : fruwać : (czas.) flitter | : (czas.) fly
-fryc : fryc : (rzecz.) frosh
-frykas : frykas : (rzecz.) dainty | : (rzecz.) delicacy
-frykatywny : frykatywny : (przym.) fricative
-frymarczyc : frymarczyć : (czas.) barter | : (czas.) trade | : (czas.) truck
-frytka : frytka : (rzecz.) crisp
-frytkownica : frytkownica : (rzecz.) fryer
-frywolnie : frywolnie : (przysł.) frivolously
-frywolnosc : frywolność : (rzecz.) levity
-frywolny : frywolny : (przym.) frivolous
-fryz : fryz : (rzecz.) frieze
-fryza : fryza : (rzecz.) frieze
-fryzjer : fryzjer : (rzecz.) barber | : (rzecz.) hairdresser | : (rzecz.) hairstylist
-fryzjerski : fryzjerski : (przym.) hairdresser's
-fryzjerstwo : fryzjerstwo : (rzecz.) hairdressing
-fryzowac : fryzować : (czas.) curl | : (czas.) frizz
-fryzura : fryzura : (rzecz.) coiffure | : (rzecz.) haircut | : (rzecz.) hairdo | : (rzecz.) hair-do | : (rzecz.) hairstyle | : (rzecz.) headdress | : (rzecz.) head-dress | : (rzecz.) mop | : (rzecz.) pompadour
-fredzel : frędzel : (rzecz.) fringe | : (rzecz.) tassel
-fucha : fucha : (rzecz.) sideline
-fug : fug : (rzecz.) lye
-fuga : fuga : (rzecz.) fugue
-fugatywnosc : fugatywność : (rzecz.) fugacity
-fujara : fujara : (rzecz.) galoot | : (rzecz.) nincompoop | : (rzecz.) ninny | : (rzecz.) pipe
-fujarka : fujarka : (rzecz.) panpipe | : (rzecz.) pipe
-fukacz : fukacz : (rzecz.) squealer
-fukac : fukać : (czas.) scold | : (czas.) snort
-fuks : fuks : (rzecz.) fluke | : (rzecz.) luck | : (rzecz.) windfall
-fuksja : fuksja : (rzecz.) fuchsia
-fuksyna : fuksyna : (rzecz.) magenta
-fular : fular : (rzecz.) foulard | : (rzecz.) scarf
-fulmar : fulmar : (rzecz.) fulmar
-fumigacja : fumigacja : (rzecz.) fumigation
-fumigant : fumigant : (rzecz.) fumigant
-funda : funda : (rzecz.) fundamental
-fundacja : fundacja : (rzecz.) endowment | : (rzecz.) foundation | : (rzecz.) patrimony
-fundament : fundament : (rzecz.) foundation
-fundamentalista : fundamentalista : (rzecz.) fundamentalist
-fundamentalizm : fundamentalizm : (rzecz.) fundamentalism
-fundamentalny : fundamentalny : (przym.) basic | : (przym.) fundamental
-fundator : fundator : (rzecz.) benefactor | : (rzecz.) founder
-fundowac : fundować : (czas.) endow | : (czas.) found | : (czas.) treat
-fundusz : fundusz : (rzecz.) fund
-fungicyd : fungicyd : (rzecz.) fungicide
-funkcja : funkcja : (rzecz.) function | : (rzecz.) status
-funkcjonalizm : funkcjonalizm : (rzecz.) functionalism | : (rzecz.) functionality
-funkcjonalnie : funkcjonalnie : (przysł.) functionally
-funkcjonalnosc : funkcjonalność : (rzecz.) comfort | : (rzecz.) functionalities | : (rzecz.) functionality | : (rzecz.) manageability
-funkcjonalny : funkcjonalny : (przym.) functional | : (przym.) manageable
-funkcjonariusz : funkcjonariusz : (rzecz.) functionary | : (rzecz.) officer | : (rzecz.) usher
-funkcjonowanie : funkcjonowanie : (rzecz.) operation
-funkcjonowac : funkcjonować : (czas.) function | : (czas.) operate
-funkcyjnie : funkcyjnie : (przysł.) functionally
-funkcyjny : funkcyjny : (przym.) functional
-funt : funt : (rzecz.) lb | : (rzecz.) pound | : (rzecz.) quid
-funt-sila : funt-siła : (rzecz.) pound-force
-fura : fura : (rzecz.) boxcar | : (rzecz.) cart | : (rzecz.) cartload | : (rzecz.) heap | : (rzecz.) wagon
-furan : furan : (rzecz.) furfuran
-furaz : furaż : (rzecz.) forage
-furazer : furażer : (rzecz.) forager
-furazowanie : furażowanie : (rzecz.) forage
-furazowac : furażować : (czas.) forage
-furczec : furczeć : (czas.) buzz | : (czas.) zoom
-furgon : furgon : (rzecz.) boxcar | : (rzecz.) van | : (rzecz.) wagon
-furgonetka : furgonetka : (rzecz.) van
-furia : furia : (rzecz.) bisque | : (rzecz.) fury | : (rzecz.) tantrum
-furiat : furiat : (rzecz.) madman
-furkac : furkać : (czas.) buzz
-furkot : furkot : (rzecz.) buzz
-furman : furman : (rzecz.) carrier | : (rzecz.) carter
-furmanka : furmanka : (rzecz.) cart
-furora : furora : (rzecz.) furore
-furta : furta : (rzecz.) gangway | : (rzecz.) wicket
-furtka : furtka : (rzecz.) backdoor | : (rzecz.) gate | : (rzecz.) gateway | : (rzecz.) wicket
-furunkul : furunkuł : (rzecz.) furuncle
-fusy : fusy : (rzecz.) dregs | : (rzecz.) lees
-fuszer : fuszer : (rzecz.) bungler | : (rzecz.) muff | : (rzecz.) scamper
-fuszerka : fuszerka : (rzecz.) bungle | : (rzecz.) foozle | : (rzecz.) muff
-fuszerowanie : fuszerowanie : (rzecz.) bungling
-fuszerowac : fuszerować : (czas.) dabble | : (czas.) foozle | : (czas.) muff | : (czas.) scamp | : (czas.) shuffle
-futbol : futbol : (rzecz.) football
-futbolista : futbolista : (rzecz.) footballer
-futeralik : futeralik : (rzecz.) etui
-futeral : futerał : (rzecz.) case | : (rzecz.) casing | : (rzecz.) covering | : (rzecz.) holster | : (rzecz.) sheath | : (rzecz.) wrapper
-futerko : futerko : (rzecz.) fur | : (rzecz.) pelt
-futro : futro : (rzecz.) fur | : (rzecz.) pelt | : (rzecz.) sheepskin
-futrowac : futrować : (czas.) board
-futryna : futryna : (rzecz.) door | : (rzecz.) frame
-futrzany : futrzany : (przym.) furry
-futrzarstwo : futrzarstwo : (rzecz.) furriery
-futrzarz : futrzarz : (rzecz.) furrier
-futurologia : futurologia : (rzecz.) futurology
-futurysta : futurysta : (rzecz.) futurist
-futurystyczny : futurystyczny : (przym.) futuristic
-futuryzm : futuryzm : (rzecz.) futurism
-fuzel : fuzel : (rzecz.) fusel
-fuzja : fuzja : (rzecz.) amalgamation | : (rzecz.) fusion | : (rzecz.) merger | : (rzecz.) rifle
+[feliks]Feliks : (rzecz.) Felix
+[filip]Filip : (rzecz.) Philip
+[fabryka]fabryka : (rzecz.) cannery; (rzecz.) confectionery; (rzecz.) fabric; (rzecz.) factory; (rzecz.) manufactory; (rzecz.) mill; (rzecz.) plant
+[fabrykacja]fabrykacja : (rzecz.) fabrication; (rzecz.) manufacture
+[fabrykant]fabrykant : (rzecz.) fabricator; (rzecz.) forger; (rzecz.) manufacturer
+[fabrykat]fabrykat : (rzecz.) forgery; (rzecz.) manufacture; (rzecz.) product
+[fabrykowac]fabrykować : (czas.) fabricate; (czas.) fake; (czas.) manufacture
+[fabula]fabuła : (rzecz.) plot; (rzecz.) story
+[facecja]facecja : (rzecz.) facetiae
+[facet]facet : (rzecz.) chap; (rzecz.) fellow; (rzecz.) gink; (rzecz.) guy; (rzecz.) josser
+[fach]fach : (rzecz.) calling; (rzecz.) profession; (rzecz.) trade
+[fachowiec]fachowiec : (rzecz.) expert; (rzecz.) professional
+[fachowo]fachowo : (przysł.) expertly; (przysł.) professionally; (przysł.) proficiently
+[fachowosc]fachowość : (rzecz.) competence; (rzecz.) competency; (rzecz.) expertise; (rzecz.) workmanship
+[fachowy]fachowy : (przym.) competent; (przym.) professional; (przym.) specialized
+[facjata]facjata : (rzecz.) attic; (rzecz.) mug
+[fagas]fagas : (rzecz.) sock
+[fagocista]fagocista : (rzecz.) bassoonist
+[fagocyt]fagocyt : (rzecz.) phagocyte
+[fagot]fagot : (rzecz.) bassoon
+[faja]faja : (rzecz.) cock
+[fajans]fajans : (rzecz.) delftware; (rzecz.) faience; (rzecz.) pottery
+[fajdac]fajdać : (czas.) shit
+[fajerwerk]fajerwerk : (rzecz.) firework
+[fajf]fajf : (rzecz.) at-home
+[fajka]fajka : (rzecz.) fag; (rzecz.) pipe; (rzecz.) snorkel
+[fajny]fajny : (przym.) classy; (przym.) cool; (przym.) cute; (przym.) great; (przym.) nice
+[fajowy]fajowy : (przym.) cool
+[fajtlapa]fajtłapa : (rzecz.) butterfingers; (rzecz.) gawk; (rzecz.) milksop; (rzecz.) stick-in-the-mud
+[fakir]fakir : (rzecz.) fakir
+[faks]faks : (rzecz.) facsimile; (rzecz.) fax
+[faksmodem]faksmodem : (rzecz.) faxmodem
+[faksowac]faksować : (czas.) fax
+[faksymile]faksymile : (rzecz.) facsimile; (rzecz.) facsimiles
+[fakt]fakt : (rzecz.) datum; (rzecz.) fact
+[faktor]faktor : (rzecz.) broker; (rzecz.) factor
+[faktoria]faktoria : (rzecz.) factory
+[faktoryzacja]faktoryzacja : (rzecz.) factoring; (rzecz.) factorization
+[faktura]faktura : (rzecz.) invoice; (rzecz.) texture
+[fakturowanie]fakturowanie : (rzecz.) billing
+[fakturowac]fakturować : (czas.) invoice
+[faktycznie]faktycznie : (przysł.) actually; (przysł.) factually; (przysł.) indeed; (przysł.) practically; (przysł.) substantively; (przysł.) virtually
+[faktycznosc]faktyczność : (rzecz.) factuality
+[faktyczny]faktyczny : (przym.) actual; (przym.) effective; (przym.) factual; (przym.) factuality; (przym.) practical; (przym.) real; (przym.) tangible; (przym.) virtual
+[faktysa]faktysa : (rzecz.) factice
+[fakultatywny]fakultatywny : (przym.) facultative; (przym.) optional
+[fakultet]fakultet : (rzecz.) faculty
+[fala]fala : (rzecz.) billow; (rzecz.) roller; (rzecz.) surge; (rzecz.) wave
+[falanga]falanga : (rzecz.) host; (rzecz.) phalange; (rzecz.) phalanx
+[falbana]falbana : (rzecz.) flounce; (rzecz.) frill; (rzecz.) furbelow; (rzecz.) valance
+[falbanka]falbanka : (rzecz.) flounce; (rzecz.) frill; (rzecz.) furbelow
+[falc]falc : (rzecz.) fold
+[falcowac]falcować : (czas.) fold
+[falcowka]falcówka : (rzecz.) folder
+[faleza]faleza : (rzecz.) cliff
+[falistosc]falistość : (rzecz.) corrugation; (rzecz.) undulation; (rzecz.) wave; (rzecz.) waviness
+[falisty]falisty : (przym.) corrugated; (przym.) curly; (przym.) downy; (przym.) flexuous; (przym.) sinuous; (przym.) undulating; (przym.) wavy; (przym.) wiggly
+[falliczny]falliczny : (przym.) ithyphallic; (przym.) phallic
+[fallus]fallus : (rzecz.) phallus
+[falochron]falochron : (rzecz.) breakwater; (rzecz.) groin; (rzecz.) jetty; (rzecz.) seawall
+[falochron-ostroga]falochron-ostroga : (rzecz.) spur
+[falowanie]falowanie : (rzecz.) fluctuation; (rzecz.) ripple; (rzecz.) rolling; (rzecz.) surge; (rzecz.) undulation; (rzecz.) wave
+[falowac]falować : (czas.) billow; (czas.) curl; (czas.) fluctuate; (czas.) pant; (czas.) ripple; (czas.) surge; (czas.) undulate; (czas.) wave
+[falownica]falownica : (rzecz.) wave-maker
+[falownik]falownik : (rzecz.) inverter
+[falowod]falowód : (rzecz.) waveguide
+[falset]falset : (rzecz.) falsetto; (rzecz.) head-voice
+[falsyfikacja]falsyfikacja : (rzecz.) counterfeit
+[falsyfikat]falsyfikat : (rzecz.) fake; (rzecz.) forgery
+[falsyfikator]falsyfikator : (rzecz.) forger
+[falsyfikowac]falsyfikować : (czas.) discredit; (czas.) disprove; (czas.) forge
+[fama]fama : (rzecz.) fame; (rzecz.) rumour
+[familia]familia : (rzecz.) family
+[familiarny]familiarny : (przym.) familiar
+[familijny]familijny : (przym.) family
+[fan]fan : (rzecz.) fan
+[fanaberia]fanaberia : (rzecz.) airs; (rzecz.) fad; (rzecz.) whim; (rzecz.) whims
+[fanatycznie]fanatycznie : (przysł.) fanatically
+[fanatyczny]fanatyczny : (przym.) fanatic; (przym.) fanatical; (przym.) rabid; (przym.) zealous
+[fanatyk]fanatyk : (rzecz.) fanatic; (rzecz.) maniac; (rzecz.) sectarian
+[fanatyzm]fanatyzm : (rzecz.) fanaticism
+[fandango]fandango : (rzecz.) fandango
+[fanfara]fanfara : (rzecz.) fanfare; (rzecz.) flourish
+[fanfaron]fanfaron : (rzecz.) cock; (rzecz.) coxcomb; (rzecz.) gasser
+[fanfaronada]fanfaronada : (rzecz.) coxcombry; (rzecz.) rodomontade
+[fant]fant : (rzecz.) forfeit; (rzecz.) gage; (rzecz.) pawn; (rzecz.) prize
+[fantasmagoria]fantasmagoria : (rzecz.) phantasmagoria
+[fantasta]fantasta : (rzecz.) daydreamer; (rzecz.) dreamer; (rzecz.) fantast; (rzecz.) visionary
+[fantastycznie]fantastycznie : (przysł.) amazingly; (przysł.) fabulously; (przysł.) fantastically
+[fantastyczno-naukowy]fantastyczno-naukowy : (przym.) sci-fi
+[fantastycznonaukowy]fantastycznonaukowy : (przym.) science-fiction
+[fantastycznosc]fantastyczność : (rzecz.) fantasticality
+[fantastyczny]fantastyczny : (przym.) brilliant; (przym.) fabulous; (przym.) fanciful; (przym.) fancy; (przym.) fantastic; (przym.) fantastical; (przym.) quaint; (przym.) terrific; (przym.) wild; (przym.) wild-cat
+[fantastyka]fantastyka : (rzecz.) fantasy; (rzecz.) fiction
+[fantazja]fantazja : (rzecz.) extravaganza; (rzecz.) fad; (rzecz.) fancy; (rzecz.) fantasia; (rzecz.) fantasy; (rzecz.) imagination; (rzecz.) make-believe; (rzecz.) megrim; (rzecz.) vagary; (rzecz.) vapour
+[fantazjowac]fantazjować : (czas.) daydream; (czas.) romance
+[fantazyjnie]fantazyjnie : (przysł.) dashingly; (przysł.) fancifully
+[fantazyjnosc]fantazyjność : (rzecz.) fanciness
+[fantazyjny]fantazyjny : (przym.) fancy
+[fantom]fantom : (rzecz.) phantom
+[farad]farad : (rzecz.) farad
+[farandola]farandola : (rzecz.) farandole
+[faraon]faraon : (rzecz.) faro; (rzecz.) pharaoh
+[farba]farba : (rzecz.) dye; (rzecz.) dyestuff; (rzecz.) dye-stuff; (rzecz.) handler; (rzecz.) paint; (rzecz.) paintwork
+[farbiarnia]farbiarnia : (rzecz.) dye-works
+[farbiarstwo]farbiarstwo : (rzecz.) dyeing
+[farbiarz]farbiarz : (rzecz.) dyer
+[farbka]farbka : (rzecz.) bluing; (rzecz.) paint
+[farbkowanie]farbkowanie : (rzecz.) blueing; (rzecz.) bluing
+[farbowanie]farbowanie : (rzecz.) dying; (rzecz.) tint
+[farbowac]farbować : (czas.) bleed; (czas.) colour; (czas.) dye
+[farma]farma : (rzecz.) farm; (rzecz.) grange; (rzecz.) homestead; (rzecz.) ranch
+[farmaceuta]farmaceuta : (rzecz.) chemist; (rzecz.) druggist; (rzecz.) pharmacist
+[farmaceutyczny]farmaceutyczny : (przym.) pharmaceutical
+[farmaceutyka]farmaceutyka : (rzecz.) pharmaceuticals
+[farmacja]farmacja : (rzecz.) pharmaceutics; (rzecz.) pharmacology; (rzecz.) pharmacy
+[farmakolog]farmakolog : (rzecz.) pharmacologist
+[farmakologia]farmakologia : (rzecz.) pharmacology; (rzecz.) pharmacy
+[farmakologiczny]farmakologiczny : (przym.) pharmaceutical; (przym.) pharmacological
+[farmakopea]farmakopea : (rzecz.) pharmacopoeia
+[farmakoterapia]farmakoterapia : (rzecz.) pharmacotherapy
+[farmerki]farmerki : (rzecz.) overalls
+[farsa]farsa : (rzecz.) burlesque; (rzecz.) farce
+[farsowy]farsowy : (przym.) farcical
+[farsz]farsz : (rzecz.) filling; (rzecz.) stuffing
+[fartuch]fartuch : (rzecz.) apron; (rzecz.) gown; (rzecz.) pinafore
+[farwater]farwater : (rzecz.) channel; (rzecz.) fairway
+[faryzeizm]faryzeizm : (rzecz.) hypocrisy
+[faryzeuszostwo]faryzeuszostwo : (rzecz.) hypocrisy
+[faryzeuszowski]faryzeuszowski : (przym.) self-righteous
+[fasada]fasada : (rzecz.) exterior; (rzecz.) facade; (rzecz.) façade; (rzecz.) front; (rzecz.) frontispiece
+[fascynacja]fascynacja : (rzecz.) fascination
+[fascynowac]fascynować : (czas.) enthral; (czas.) fascinate
+[fascynujaco]fascynująco : (przysł.) fascinatingly
+[fascynujacy]fascynujący : (przym.) fascinating
+[faseta]faseta : (rzecz.) facet
+[faska]faska : (rzecz.) firkin; (rzecz.) tub
+[fasola]fasola : (rzecz.) bean; (rzecz.) beans; (rzecz.) kidney-bean
+[fasolka]fasolka : (rzecz.) bean
+[fason]fason : (rzecz.) cut; (rzecz.) fashion; (rzecz.) style
+[fasonowanie]fasonowanie : (rzecz.) cutting
+[fasonowac]fasonować : (czas.) fashion
+[fasowac]fasować : (czas.) strain
+[fastryga]fastryga : (rzecz.) basting; (rzecz.) tack
+[fastrygowanie]fastrygowanie : (rzecz.) basting
+[fastrygowac]fastrygować : (czas.) baste; (czas.) tack
+[fasunek]fasunek : (rzecz.) drawing
+[faszerowanie]faszerowanie : (rzecz.) stuffing
+[faszerowac]faszerować : (czas.) stuff
+[faszyna]faszyna : (rzecz.) faggot; (rzecz.) fascine
+[faszysta]faszysta : (rzecz.) fascist
+[faszystowski]faszystowski : (przym.) fascist
+[faszyzm]faszyzm : (rzecz.) fascism
+[fatalista]fatalista : (rzecz.) fatalist
+[fatalistyczny]fatalistyczny : (przym.) fatalistic
+[fatalizm]fatalizm : (rzecz.) fatalism; (rzecz.) fatality
+[fatalnie]fatalnie : (przysł.) damnably; (przysł.) disastrously; (przysł.) fatally; (przysł.) fatefully
+[fatalnosc]fatalność : (rzecz.) doom
+[fatalny]fatalny : (przym.) abysmal; (przym.) baneful; (przym.) calamitous; (przym.) disastrous; (przym.) dismal; (przym.) fatal; (przym.) fated; (przym.) fateful; (przym.) ominous; (przym.) prophetic; (przym.) unlucky; (przym.) weird
+[fatamorgana]fatamorgana : (rzecz.) mirage
+[fatum]fatum : (rzecz.) doom; (rzecz.) fatality; (rzecz.) fate
+[fatyga]fatyga : (rzecz.) fatigue; (rzecz.) trouble
+[fatygowanie]fatygowanie : (rzecz.) bother; (rzecz.) trouble
+[fatygowac]fatygować : (czas.) trouble
+[faul]faul : (rzecz.) fault
+[faulowac]faulować : (czas.) foul
+[faun]faun : (rzecz.) faun
+[fauna]fauna : (rzecz.) fauna
+[faworyt]faworyt : (rzecz.) favourite
+[faworyzowanie]faworyzowanie : (rzecz.) favouritism
+[faworyzowac]faworyzować : (czas.) discriminate; (czas.) grace
+[faza]faza : (rzecz.) phase; (rzecz.) stage
+[fazowanie]fazowanie : (rzecz.) bevelling
+[fal]fał : (rzecz.) halyard
+[fald]fałd : (rzecz.) fold; (rzecz.) lappet; (rzecz.) pleat; (rzecz.) wrinkle
+[falda]fałda : (rzecz.) crease; (rzecz.) fold; (rzecz.) pleat; (rzecz.) tuck
+[faldowanie]fałdowanie : (rzecz.) corrugation
+[faldowac]fałdować : (czas.) corrugate; (czas.) crease; (czas.) crimple; (czas.) pleat; (czas.) pucker
+[faldzisty]fałdzisty : (przym.) flowing
+[falsz]fałsz : (rzecz.) deceit; (rzecz.) duplicity; (rzecz.) falsehood; (rzecz.) obliquity
+[falszerski]fałszerski : (przym.) fake
+[falszerstwo]fałszerstwo : (rzecz.) adulteration; (rzecz.) counterfeit; (rzecz.) fake; (rzecz.) falsification; (rzecz.) forgery; (rzecz.) fraud
+[falszerz]fałszerz : (rzecz.) counterfeit; (rzecz.) counterfeiter; (rzecz.) fabricator; (rzecz.) faker; (rzecz.) falsifier; (rzecz.) forger
+[falszowanie]fałszowanie : (rzecz.) adulteration; (rzecz.) counterfeit; (rzecz.) deception; (rzecz.) fake; (rzecz.) forgery
+[falszowac]fałszować : (czas.) adulterate; (czas.) cook; (czas.) counterfeit; (czas.) doctor; (czas.) fabricate; (czas.) fake; (czas.) falsify; (czas.) forge; (czas.) spoof
+[falszywie]fałszywie : (przysł.) amiss; (przysł.) discordantly; (przysł.) erroneously; (przysł.) falsely
+[falszywiec]fałszywiec : (rzecz.) dissembler
+[falszywka]fałszywka : (rzecz.) odd-side
+[falszywosc]fałszywość : (rzecz.) erroneousness; (rzecz.) falsehood; (rzecz.) falsity; (rzecz.) shiftiness
+[falszywy]fałszywy : (przym.) base; (przym.) bogus; (przym.) cattish; (przym.) counterfeit; (przym.) double-tongued; (przym.) erroneous; (przym.) fake; (przym.) faked; (przym.) false; (przym.) off-key; (przym.) phoney; (przym.) pseudo; (przym.) self-righteous; (przym.) sham; (przym.) snide; (przym.) spurious; (przym.) supposititious; (przym.) trumped-up; (przym.) two-tongued; (przym.) unsound; (przym.) untrue; (przym.) untruthful; (przym.) wrong
+[febra]febra : (rzecz.) ague; (rzecz.) fever
+[febryczny]febryczny : (przym.) feverish
+[fechmistrz]fechmistrz : (rzecz.) fencer; (rzecz.) swordsman
+[fechtmistrz]fechtmistrz : (rzecz.) fencer
+[fechtowac]fechtować : (czas.) fence
+[fechtunek]fechtunek : (rzecz.) fence; (rzecz.) fencing; (rzecz.) swordsmanship
+[federacja]federacja : (rzecz.) commonwealth; (rzecz.) federalization; (rzecz.) federation
+[federacyjny]federacyjny : (przym.) federal; (przym.) federative
+[federalista]federalista : (rzecz.) federalist
+[federalizacja]federalizacja : (rzecz.) federalisation
+[federalizm]federalizm : (rzecz.) federalism
+[federalny]federalny : (przym.) federal
+[fekalia]fekalia : (rzecz.) faeces
+[felc]felc : (rzecz.) rabbet
+[felczer]felczer : (rzecz.) surgeon
+[feldmarszalek]feldmarszałek : (rzecz.) field-marshal
+[feler]feler : (rzecz.) defect; (rzecz.) fault
+[felga]felga : (rzecz.) rim; (rzecz.) rims
+[felieton]felieton : (rzecz.) column; (rzecz.) feuilleton; (rzecz.) instalment
+[felietonista]felietonista : (rzecz.) columnist
+[feluka]feluka : (rzecz.) felucca
+[feminista]feminista : (rzecz.) feminist
+[feministka]feministka : (rzecz.) feminist
+[feministyczny]feministyczny : (przym.) feministic
+[feminizacja]feminizacja : (rzecz.) feminization
+[feminizm]feminizm : (rzecz.) feminism
+[feminizowac]feminizować : (czas.) feminize
+[fenig]fenig : (rzecz.) pfennig
+[feniks]feniks : (rzecz.) phoenix
+[fenol]fenol : (rzecz.) phenol
+[fenoloftaleina]fenoloftaleina : (rzecz.) phenolphthalein
+[fenomen]fenomen : (rzecz.) appearance; (rzecz.) phenomenon
+[fenomenalnie]fenomenalnie : (przysł.) phenomenally
+[fenomenalny]fenomenalny : (przym.) phenomenal
+[fenomenologia]fenomenologia : (rzecz.) phenolphthalein; (rzecz.) phenomenology
+[fenotyp]fenotyp : (rzecz.) phenotype
+[fenyl]fenyl : (rzecz.) phenyl
+[ferajna]ferajna : (rzecz.) bunch
+[feralny]feralny : (przym.) hapless; (przym.) ill-fated; (przym.) unlucky
+[feretron]feretron : (rzecz.) feretory
+[ferie]ferie : (rzecz.) break; (rzecz.) furlough; (rzecz.) holiday; (rzecz.) recess
+[ferm]ferm : (rzecz.) fermium; (rzecz.) Fm-fermium
+[ferma]ferma : (rzecz.) farm; (rzecz.) poultry
+[ferment]ferment : (rzecz.) enzyme
+[fermentacja]fermentacja : (rzecz.) digestion; (rzecz.) fermentation
+[fermentowac]fermentować : (czas.) ferment
+[ferrodielektryk]ferrodielektryk : (rzecz.) ferroelectric
+[ferroelektryk]ferroelektryk : (rzecz.) ferroelectric
+[ferromagnetyczny]ferromagnetyczny : (przym.) ferromagnetic
+[ferromagnetyzm]ferromagnetyzm : (rzecz.) ferromagnetism
+[ferryt]ferryt : (rzecz.) ferrite
+[fertyczny]fertyczny : (przym.) brisk
+[ferwor]ferwor : (rzecz.) fervency; (rzecz.) fervour
+[festiwal]festiwal : (rzecz.) festival; (rzecz.) jamboree
+[feston]feston : (rzecz.) festoon
+[festyn]festyn : (rzecz.) feast; (rzecz.) festival; (rzecz.) gala
+[festynowy]festynowy : (przym.) festivity
+[feta]feta : (rzecz.) celebration; (rzecz.) fete
+[fetor]fetor : (rzecz.) stench
+[fetowac]fetować : (czas.) celebrate; (czas.) fete
+[fetysz]fetysz : (rzecz.) fetish
+[fetyszysta]fetyszysta : (rzecz.) fetishist
+[fetyszyzm]fetyszyzm : (rzecz.) fetishism
+[feudalizacja]feudalizacja : (rzecz.) feudalization
+[feudalizm]feudalizm : (rzecz.) feudalism; (rzecz.) feudality
+[feudalny]feudalny : (przym.) feudal
+[feudum]feudum : (rzecz.) fief
+[fiakier]fiakier : (rzecz.) cab; (rzecz.) fiacre; (rzecz.) rcabman
+[fiasko]fiasko : (rzecz.) failure; (rzecz.) fiasco; (rzecz.) fizzle; (rzecz.) flop; (rzecz.) frustration
+[fibroina]fibroina : (rzecz.) fibroin
+[fibryla]fibryla : (rzecz.) fibril
+[fibrylacja]fibrylacja : (rzecz.) fibrillation
+[fibryna]fibryna : (rzecz.) fibrin
+[fibrynogen]fibrynogen : (rzecz.) fibrinogen
+[fidrygalki]fidrygałki : (rzecz.) trivialities
+[fifka]fifka : (rzecz.) cigarette-holder
+[figa]figa : (rzecz.) fig
+[figiel]figiel : (rzecz.) antic; (rzecz.) hob; (rzecz.) joke; (rzecz.) lark; (rzecz.) mischief; (rzecz.) prank; (rzecz.) trick
+[figlarnie]figlarnie : (przysł.) archly; (przysł.) playfully; (przysł.) slyly; (przysł.) wantonly
+[figlarnosc]figlarność : (rzecz.) playfulness; (rzecz.) pleasantry; (rzecz.) roguishness
+[figlarny]figlarny : (przym.) arch; (przym.) frolic; (przym.) frolicsome; (przym.) impish; (przym.) jocular; (przym.) mischievous; (przym.) playful; (przym.) quizzical; (przym.) roguish
+[figlarz]figlarz : (rzecz.) jokester; (rzecz.) prankster; (rzecz.) rogue
+[figlowanie]figlowanie : (rzecz.) dalliance
+[figlowac]figlować : (czas.) lark
+[figowiec]figowiec : (rzecz.) fig; (rzecz.) fig-tree
+[figura]figura : (rzecz.) court-card; (rzecz.) figure
+[figuralny]figuralny : (przym.) figural
+[figurant]figurant : (rzecz.) poser
+[figurka]figurka : (rzecz.) figure; (rzecz.) figurehead; (rzecz.) figure-head; (rzecz.) figurine; (rzecz.) statuette
+[figurowac]figurować : (czas.) figure
+[figurynka]figurynka : (rzecz.) statuette
+[fikac]fikać : (czas.) jump; (czas.) kick
+[fikcja]fikcja : (rzecz.) fiction; (rzecz.) nonentity
+[fikcyjnie]fikcyjnie : (przysł.) fictionally; (przysł.) fictitiously
+[fikcyjny]fikcyjny : (przym.) bogus; (przym.) fictional; (przym.) fictitious; (przym.) mythic; (przym.) mythical
+[fikolek]fikołek : (rzecz.) somersault; (rzecz.) summersault
+[fiksacja]fiksacja : (rzecz.) fixation
+[fiksowac]fiksować : (czas.) rave
+[filantrop]filantrop : (rzecz.) philanthropist
+[filantropia]filantropia : (rzecz.) charity; (rzecz.) philanthropy
+[filantropijny]filantropijny : (przym.) philanthropic
+[filar]filar : (rzecz.) column; (rzecz.) pier; (rzecz.) pilaster; (rzecz.) pillar
+[filarowy]filarowy : (przym.) columnar
+[filatelista]filatelista : (rzecz.) philatelist; (rzecz.) stamp; (rzecz.) stamp-collector
+[filatelistyka]filatelistyka : (rzecz.) philately; (rzecz.) stamp-collecting
+[filc]filc : (rzecz.) felt
+[filcowanie]filcowanie : (rzecz.) felt; (rzecz.) felting
+[filcowac]filcować : (czas.) felt
+[filet]filet : (rzecz.) fillet
+[filetowanie]filetowanie : (rzecz.) boning
+[filharmonia]filharmonia : (rzecz.) concert
+[filharmoniczny]filharmoniczny : (przym.) philharmonic
+[filharmonijny]filharmonijny : (przym.) philharmonic
+[filia]filia : (rzecz.) agency; (rzecz.) branch; (rzecz.) society; (rzecz.) subsidiary
+[filiera]filiera : (rzecz.) spinneret
+[filigran]filigran : (rzecz.) filigree; (rzecz.) watermark
+[filigranowy]filigranowy : (przym.) dainty
+[filipika]filipika : (rzecz.) philippic
+[filister]filister : (rzecz.) philistine
+[filisterski]filisterski : (przym.) smug
+[filisterstwo]filisterstwo : (rzecz.) parochialism; (rzecz.) smugness
+[filizanka]filiżanka : (rzecz.) cup; (rzecz.) cupful; (rzecz.) teacup; (rzecz.) tea-cup
+[film]film : (rzecz.) film; (rzecz.) movie; (rzecz.) picture; (rzecz.) video
+[filmowanie]filmowanie : (rzecz.) filming
+[filmowac]filmować : (czas.) cinematize; (czas.) film; (czas.) shoot
+[filmowiec]filmowiec : (rzecz.) filmmaker; (rzecz.) film-maker
+[filmowy]filmowy : (przym.) cinematographic; (przym.) filmic
+[filodendron]filodendron : (rzecz.) philodendron
+[filogeneza]filogeneza : (rzecz.) phylogeny
+[filogenia]filogenia : (rzecz.) phylogeny
+[filolog]filolog : (rzecz.) linguist; (rzecz.) philologist
+[filologia]filologia : (rzecz.) philology
+[filologiczny]filologiczny : (przym.) philological
+[filowac]filować : (czas.) smoke
+[filozof]filozof : (rzecz.) philosopher
+[filozofia]filozofia : (rzecz.) philosophy
+[filozoficznie]filozoficznie : (przysł.) philosophically
+[filozoficzny]filozoficzny : (przym.) philosophic; (przym.) philosophical
+[filozofowanie]filozofowanie : (rzecz.) philosophers; (rzecz.) philosophise
+[filozofowac]filozofować : (czas.) philosophize
+[filtr]filtr : (rzecz.) filter; (rzecz.) percolator
+[filtracja]filtracja : (rzecz.) filtration
+[filtrowac]filtrować : (czas.) elutriate; (czas.) filter; (czas.) filtrate; (czas.) percolate; (czas.) strain
+[filut]filut : (rzecz.) fox; (rzecz.) wag
+[filuternosc]filuterność : (rzecz.) playfulness
+[filuterny]filuterny : (przym.) frolicsome; (przym.) playful; (przym.) sly
+[finalista]finalista : (rzecz.) finalist
+[finalizacja]finalizacja : (rzecz.) conclusion; (rzecz.) finalization
+[finalizowac]finalizować : (czas.) complete; (czas.) finalize
+[finalny]finalny : (przym.) final; (przym.) finished
+[finanse]finanse : (rzecz.) finance; (rzecz.) treasury
+[finansista]finansista : (rzecz.) financier
+[finansjera]finansjera : (rzecz.) finance
+[finansowanie]finansowanie : (rzecz.) financing; (rzecz.) funding
+[finansowac]finansować : (czas.) bankroll; (czas.) finance; (czas.) finances; (czas.) fund
+[finansowiec]finansowiec : (rzecz.) financier
+[finansowo]finansowo : (przysł.) economically; (przysł.) financially
+[finansowy]finansowy : (przym.) financial; (przym.) fiscal
+[final]finał : (rzecz.) climax; (rzecz.) cup-final; (rzecz.) final; (rzecz.) finale
+[finalowy]finałowy : (przym.) final
+[finezja]finezja : (rzecz.) finesse
+[finezyjnie]finezyjnie : (przysł.) delicately; (przysł.) finessing
+[finezyjnosc]finezyjność : (rzecz.) precision
+[finezyjny]finezyjny : (przym.) fine; (przym.) finessed; (przym.) sophisticated
+[fingowac]fingować : (czas.) fake; (czas.) sham
+[finiszowac]finiszować : (czas.) spurt
+[fiolet]fiolet : (rzecz.) purple; (rzecz.) violet
+[fioletowy]fioletowy : (przym.) lilac; (przym.) purple; (przym.) violet
+[fiolka]fiolka : (rzecz.) phial; (rzecz.) vial
+[fiord]fiord : (rzecz.) fiord; (rzecz.) fjord
+[fiolek]fiołek : (rzecz.) violet
+[fiolkowy]fiołkowy : (przym.) violet
+[firana]firana : (rzecz.) curtain; (rzecz.) drape
+[firanka]firanka : (rzecz.) curtain
+[firanki]firanki : (rzecz.) drapes
+[fircyk]fircyk : (rzecz.) cockscomb; (rzecz.) dandy; (rzecz.) fop; (rzecz.) spark
+[fircykowatosc]fircykowatość : (rzecz.) foppery
+[fircykowaty]fircykowaty : (przym.) buckish; (przym.) dandyish
+[firma]firma : (rzecz.) business; (rzecz.) company; (rzecz.) enterprise; (rzecz.) establishment; (rzecz.) firm; (rzecz.) house; (rzecz.) rival
+[firmament]firmament : (rzecz.) sky; (rzecz.) welkin
+[firmowy]firmowy : (przym.) firma; (przym.) proprietary
+[fisharmonia]fisharmonia : (rzecz.) harmonium
+[fiskalny]fiskalny : (przym.) fiscal
+[fiskus]fiskus : (rzecz.) tax
+[fistaszek]fistaszek : (rzecz.) peanut
+[fistula]fistuła : (rzecz.) fistula
+[fiszbin]fiszbin : (rzecz.) baleen; (rzecz.) whalebone
+[fiszka]fiszka : (rzecz.) skyline
+[fit]fit : (rzecz.) fid
+[fitoplankton]fitoplankton : (rzecz.) phytoplankton
+[fiut]fiut : (rzecz.) cock
+[fizjolog]fizjolog : (rzecz.) physiologist
+[fizjologia]fizjologia : (rzecz.) physiology
+[fizjologicznie]fizjologicznie : (przysł.) bodily; (przysł.) physiologically
+[fizjologiczny]fizjologiczny : (przym.) bodily; (przym.) physiological
+[fizjonomia]fizjonomia : (rzecz.) physiognomy
+[fizjonomiczny]fizjonomiczny : (przym.) physiognomic
+[fizjoterapeuta]fizjoterapeuta : (rzecz.) physiotherapist
+[fizjoterapia]fizjoterapia : (rzecz.) physiotherapy
+[fizycznie]fizycznie : (przysł.) physically
+[fizycznosc]fizyczność : (rzecz.) physicality
+[fizyczny]fizyczny : (przym.) blue-collar; (przym.) manual; (przym.) physical; (przym.) physicals
+[fizyk]fizyk : (rzecz.) physicist; (rzecz.) physics
+[fizyka]fizyka : (rzecz.) physics
+[fizykalny]fizykalny : (przym.) physical
+[fizykoterapeuta]fizykoterapeuta : (rzecz.) physiotherapist
+[fizykoterapia]fizykoterapia : (rzecz.) physiotherapy
+[flacha]flacha : (rzecz.) flagon
+[flaczki]flaczki : (rzecz.) chitterlings; (rzecz.) tripe
+[fladrowaty]fladrowaty : (przym.) slatternly
+[flaga]flaga : (rzecz.) flag; (rzecz.) pennon
+[flaglinka]flaglinka : (rzecz.) halyard
+[flagowiec]flagowiec : (rzecz.) flagship
+[flagsztok]flagsztok : (rzecz.) flagstaff
+[flak]flak : (rzecz.) gut
+[flaki]flaki : (rzecz.) tripe
+[flakon]flakon : (rzecz.) bottle; (rzecz.) bowl; (rzecz.) flask; (rzecz.) vase
+[flakonik]flakonik : (rzecz.) bottle; (rzecz.) phial; (rzecz.) vial
+[flakowaty]flakowaty : (przym.) flaccid
+[flama]flama : (rzecz.) flame; (rzecz.) lady-love; (rzecz.) mash
+[flamandzki]flamandzki : (przym.) Flemish
+[flaming]flaming : (rzecz.) flamingo
+[flanc]flanc : (rzecz.) slip
+[flanca]flanca : (rzecz.) seedling; (rzecz.) slip
+[flancowanie]flancowanie : (rzecz.) suckering; (rzecz.) transplantation
+[flancowac]flancować : (czas.) plant
+[flanela]flanela : (rzecz.) flannel
+[flanka]flanka : (rzecz.) flank
+[flara]flara : (rzecz.) brightness; (rzecz.) flare
+[flaszeczka]flaszeczka : (rzecz.) phial
+[flaszka]flaszka : (rzecz.) bottle; (rzecz.) flask
+[flazolet]flażolet : (rzecz.) flageolet
+[flecista]flecista : (rzecz.) flautist; (rzecz.) flutist
+[fleczer]fleczer : (rzecz.) filling
+[flegma]flegma : (rzecz.) coolness; (rzecz.) phlegm; (rzecz.) reflux; (rzecz.) sputum
+[flegmatyczny]flegmatyczny : (przym.) irresponsive; (przym.) phlegmatic; (przym.) stolid
+[flegmatyzacja]flegmatyzacja : (rzecz.) desensitization
+[flegmatyzator]flegmatyzator : (rzecz.) deterrent; (rzecz.) tranquilizer
+[flejtuch]flejtuch : (rzecz.) slattern; (rzecz.) slob; (rzecz.) slut
+[flejtuchowaty]flejtuchowaty : (przym.) sluttish
+[flek]flek : (rzecz.) heeltap; (rzecz.) heel-tap; (rzecz.) lift
+[fleksja]fleksja : (rzecz.) inflection; (rzecz.) inflexion
+[fleksografia]fleksografia : (rzecz.) flexography
+[fleksyjny]fleksyjny : (przym.) inflectional; (przym.) inflective
+[flesz]flesz : (rzecz.) flash; (rzecz.) flashgun; (rzecz.) flash-lamp; (rzecz.) flash-light
+[flet]flet : (rzecz.) flute; (rzecz.) recorder
+[flirciarka]flirciarka : (rzecz.) flirt
+[flirciarski]flirciarski : (przym.) flirtatious
+[flirciarz]flirciarz : (rzecz.) flirt; (rzecz.) flirter; (rzecz.) philanderer
+[flirt]flirt : (rzecz.) flirtation
+[flirtowanie]flirtowanie : (rzecz.) flirting
+[flirtowac]flirtować : (czas.) coquet; (czas.) flirt; (czas.) gallivant
+[flisactwo]flisactwo : (rzecz.) rafting
+[flisak]flisak : (rzecz.) rafter
+[fliza]fliza : (rzecz.) flagstone
+[floks]floks : (rzecz.) phlox
+[flokulacja]flokulacja : (rzecz.) flocculation
+[flora]flora : (rzecz.) flora
+[floren]floren : (rzecz.) florin
+[floret]floret : (rzecz.) foil
+[florystyczny]florystyczny : (przym.) floristic
+[flota]flota : (rzecz.) armada; (rzecz.) fleet; (rzecz.) marine; (rzecz.) navy
+[flotacja]flotacja : (rzecz.) floatation; (rzecz.) flotation
+[flotacyjnosc]flotacyjność : (rzecz.) floatability
+[flotylla]flotylla : (rzecz.) flotilla
+[fluksja]fluksja : (rzecz.) gumboil
+[fluktuacja]fluktuacja : (rzecz.) fluctuation; (rzecz.) jitter; (rzecz.) turnover
+[fluor]fluor : (rzecz.) fluoride; (rzecz.) fluorine
+[fluorek]fluorek : (rzecz.) fluoride
+[fluorescencja]fluorescencja : (rzecz.) fluorescence
+[fluorescencyjny]fluorescencyjny : (przym.) fluorescent
+[fluorografia]fluorografia : (rzecz.) fluorography
+[fluorowanie]fluorowanie : (rzecz.) fluoridation; (rzecz.) fluorinated; (rzecz.) fluorination
+[fluorowac]fluorować : (czas.) fluoridate
+[fluorowodorowy]fluorowodorowy : (przym.) hydrofluoric
+[fluorowy]fluorowy : (przym.) fluoric
+[fluoryt]fluoryt : (rzecz.) fluorite
+[fluoryzowac]fluoryzować : (czas.) fluoresce
+[fladra]flądra : (rzecz.) flounder; (rzecz.) plaice; (rzecz.) sole; (rzecz.) trollop
+[fobia]fobia : (rzecz.) phobia
+[fok]fok : (rzecz.) foresail; (rzecz.) seal
+[foka]foka : (rzecz.) seal
+[fokmaszt]fokmaszt : (rzecz.) foremast
+[foksterier]foksterier : (rzecz.) fox-terrier
+[fokstrot]fokstrot : (rzecz.) foxtrot
+[foksztaksel]foksztaksel : (rzecz.) forestaysail
+[fokus]fokus : (rzecz.) focus
+[folder]folder : (rzecz.) brochure; (rzecz.) folder
+[folgowanie]folgowanie : (rzecz.) lenience; (rzecz.) leniency
+[folia]folia : (rzecz.) foil; (rzecz.) leaf
+[foliacja]foliacja : (rzecz.) foliation
+[folial]foliał : (rzecz.) volume
+[folio]folio : (rzecz.) folio
+[foliowy]foliowy : (przym.) folic
+[folklor]folklor : (rzecz.) folklore
+[folklorystyczny]folklorystyczny : (przym.) folk
+[folklorystyka]folklorystyka : (rzecz.) folklore
+[folowanie]folowanie : (rzecz.) felting
+[folusznik]folusznik : (rzecz.) fuller
+[folwark]folwark : (rzecz.) farm
+[fonacja]fonacja : (rzecz.) phonation
+[fonem]fonem : (rzecz.) phoneme
+[fonetycznie]fonetycznie : (przysł.) phonetically
+[fonetyczny]fonetyczny : (przym.) phonetic
+[fonetyk]fonetyk : (rzecz.) phonetician
+[fonetyka]fonetyka : (rzecz.) phonetics
+[fonia]fonia : (rzecz.) audibility; (rzecz.) audio; (rzecz.) sound
+[foniczny]foniczny : (przym.) phonic
+[fonograf]fonograf : (rzecz.) phonograph
+[fonografia]fonografia : (rzecz.) discography
+[fonograficzny]fonograficzny : (przym.) phonographic
+[fonogram]fonogram : (rzecz.) phonogram
+[fonologia]fonologia : (rzecz.) phonology
+[fonologiczny]fonologiczny : (przym.) phonological
+[fonon]fonon : (rzecz.) phonon
+[font]font : (rzecz.) fount
+[fontanna]fontanna : (rzecz.) fountain
+[fordanser]fordanser : (rzecz.) gigolo
+[foremka]foremka : (rzecz.) mould
+[foremnik]foremnik : (rzecz.) swage
+[foremnosc]foremność : (rzecz.) symmetry
+[foremny]foremny : (przym.) handsome; (przym.) regular; (przym.) shapely
+[forhend]forhend : (rzecz.) forehand
+[forkasztel]forkasztel : (rzecz.) forecastle
+[forma]forma : (rzecz.) form; (rzecz.) mode; (rzecz.) mould; (rzecz.) shape
+[formacja]formacja : (rzecz.) formation
+[formaldehyd]formaldehyd : (rzecz.) formaldehyde
+[formalina]formalina : (rzecz.) formalin
+[formalista]formalista : (rzecz.) formalist
+[formalistyczny]formalistyczny : (przym.) formal; (przym.) formalistic
+[formalizacja]formalizacja : (rzecz.) formalization
+[formalizm]formalizm : (rzecz.) formalism
+[formalizowac]formalizować : (czas.) formalize
+[formalnie]formalnie : (przysł.) formally
+[formalnosc]formalność : (rzecz.) form; (rzecz.) formality
+[formalny]formalny : (przym.) academic; (przym.) formal
+[format]format : (rzecz.) format
+[formater]formater : (rzecz.) formatter
+[formatowanie]formatowanie : (rzecz.) formatting
+[formatowac]formatować : (czas.) format
+[formatywny]formatywny : (przym.) formative
+[formowanie]formowanie : (rzecz.) formation; (rzecz.) moulding
+[formowac]formować : (czas.) form; (czas.) marshal
+[formularz]formularz : (rzecz.) blank; (rzecz.) form; (rzecz.) postcard; (rzecz.) questionnaire
+[formula]formuła : (rzecz.) formula; (rzecz.) incantation
+[formulka]formułka : (rzecz.) expression; (rzecz.) formula
+[formulowanie]formułowanie : (rzecz.) formulation
+[formulowac]formułować : (czas.) formulate; (czas.) make
+[fornal]fornal : (rzecz.) carter; (rzecz.) groom
+[fornirowac]fornirować : (czas.) veneer
+[forpoczta]forpoczta : (rzecz.) outpost
+[forsa]forsa : (rzecz.) bankroll; (rzecz.) boodle; (rzecz.) dibs; (rzecz.) dough; (rzecz.) kale; (rzecz.) money
+[forsiasty]forsiasty : (przym.) moneyed
+[forsowanie]forsowanie : (rzecz.) strain
+[forsowac]forsować : (czas.) boost; (czas.) force; (czas.) overexert; (czas.) push
+[forsowny]forsowny : (przym.) intensive; (przym.) strenuous
+[forsycja]forsycja : (rzecz.) forsythia
+[forteca]forteca : (rzecz.) fortress; (rzecz.) stronghold
+[fortel]fortel : (rzecz.) art; (rzecz.) artifice; (rzecz.) ploy; (rzecz.) ruse; (rzecz.) stratagem; (rzecz.) subterfuge; (rzecz.) trick; (rzecz.) wile
+[fortepian]fortepian : (rzecz.) piano; (rzecz.) pianoforte
+[fortepianowy]fortepianowy : (przym.) piano
+[fortuna]fortuna : (rzecz.) fortune
+[fortunny]fortunny : (przym.) fortunate
+[fortyfikacja]fortyfikacja : (rzecz.) earthwork; (rzecz.) fortification
+[fortyfikowac]fortyfikować : (czas.) fortify
+[forum]forum : (rzecz.) forum
+[fory]fory : (rzecz.) handicap; (rzecz.) odds
+[forys]foryś : (rzecz.) outrider
+[fosa]fosa : (rzecz.) fosse; (rzecz.) moat
+[fosfat]fosfat : (rzecz.) phosphate
+[fosfor]fosfor : (rzecz.) phosphor; (rzecz.) phosphorus
+[fosforan]fosforan : (rzecz.) phosphate; (rzecz.) phosphates
+[fosforanowy]fosforanowy : (przym.) phosphate
+[fosforawy]fosforawy : (przym.) phosphorous
+[fosforescencja]fosforescencja : (rzecz.) phosphorescence
+[fosforowy]fosforowy : (przym.) phosphoric; (przym.) phosphorous
+[fosforycznosc]fosforyczność : (rzecz.) phosphorescence
+[fosforyczny]fosforyczny : (przym.) phosphorescent
+[fosforyzowac]fosforyzować : (czas.) phosphoresce
+[fosforyzujacy]fosforyzujący : (przym.) phosphorescent
+[fosgen]fosgen : (rzecz.) phosgene
+[fosylizacja]fosylizacja : (rzecz.) fossilization
+[fotel]fotel : (rzecz.) armchair; (rzecz.) chair; (rzecz.) recliner
+[fotka]fotka : (rzecz.) photo; (rzecz.) snap
+[foto]foto : (rzecz.) photo
+[fotochemia]fotochemia : (rzecz.) photochemistry
+[fotochemiczny]fotochemiczny : (przym.) photochemical
+[fotodioda]fotodioda : (rzecz.) photodiode
+[fotoelektron]fotoelektron : (rzecz.) photoelectron
+[fotoelektryczny]fotoelektryczny : (przym.) photoelectric
+[fotoemisja]fotoemisja : (rzecz.) photoemission
+[fotogeniczny]fotogeniczny : (przym.) photogenic
+[fotograf]fotograf : (rzecz.) photographer
+[fotografia]fotografia : (rzecz.) photo; (rzecz.) photogram; (rzecz.) photograph; (rzecz.) photography
+[fotograficznie]fotograficznie : (przysł.) photographically
+[fotograficzny]fotograficzny : (przym.) photographic
+[fotografik]fotografik : (rzecz.) photographer
+[fotografika]fotografika : (rzecz.) photographer; (rzecz.) photography
+[fotografowanie]fotografowanie : (rzecz.) photography
+[fotografowac]fotografować : (czas.) photograph; (czas.) screenshot
+[fotograwiura]fotograwiura : (rzecz.) gravure; (rzecz.) photogravure
+[fotokarabin]fotokarabin : (rzecz.) gun-camera
+[fotokatoda]fotokatoda : (rzecz.) photo; (rzecz.) photocathode
+[fotokomorka]fotokomórka : (rzecz.) photocell; (rzecz.) photo-cell
+[fotokopia]fotokopia : (rzecz.) blueprint; (rzecz.) photocopy
+[fotokopiarka]fotokopiarka : (rzecz.) photocopier
+[fotolitografia]fotolitografia : (rzecz.) photolithography
+[fotoliza]fotoliza : (rzecz.) photodecomposition; (rzecz.) photolysis
+[fotoluminescencja]fotoluminescencja : (rzecz.) photoluminescence
+[fotomechaniczny]fotomechaniczny : (przym.) photomechanical
+[fotometr]fotometr : (rzecz.) photometer
+[fotometria]fotometria : (rzecz.) photometry
+[fotometryczny]fotometryczny : (przym.) photometric
+[fotomikrografia]fotomikrografia : (rzecz.) micrograph; (rzecz.) photomicrography
+[fotomontaz]fotomontaż : (rzecz.) photo; (rzecz.) photo-montage; (rzecz.) photo-mounting
+[foton]foton : (rzecz.) photon
+[fotopowielacz]fotopowielacz : (rzecz.) photomultiplier
+[fotoprzewodnictwo]fotoprzewodnictwo : (rzecz.) photoconduction
+[fotoprzewodnik]fotoprzewodnik : (rzecz.) photoconductor
+[fotoreportaz]fotoreportaż : (rzecz.) photo; (rzecz.) photojournalism
+[fotoreporter]fotoreporter : (rzecz.) cameraman; (rzecz.) camera-man; (rzecz.) foyer; (rzecz.) photojournalist
+[fotos]fotos : (rzecz.) still
+[fotosfera]fotosfera : (rzecz.) photosphere
+[fotosklad]fotoskład : (rzecz.) filmsetting; (rzecz.) photocomposition; (rzecz.) phototypesetting
+[fotosynteza]fotosynteza : (rzecz.) photosynthesis
+[fototelegram]fototelegram : (rzecz.) telephotograph
+[fototerapia]fototerapia : (rzecz.) phototherapy
+[fototranzystor]fototranzystor : (rzecz.) phototransistor
+[fototypia]fototypia : (rzecz.) autotype; (rzecz.) phototypography
+[fotowoltaiczny]fotowoltaiczny : (przym.) photovoltaic
+[foyer]foyer : (rzecz.) foyer
+[fracht]fracht : (rzecz.) freight
+[frachtowanie]frachtowanie : (rzecz.) freightage
+[frachtowac]frachtować : (czas.) charter; (czas.) freight; (czas.) ship
+[frachtowiec]frachtowiec : (rzecz.) freighter
+[fractostratus]fractostratus : (rzecz.) scud
+[fragment]fragment : (rzecz.) fragment; (rzecz.) portion; (rzecz.) section
+[fragmentacja]fragmentacja : (rzecz.) fragmentation
+[fragmentaryczny]fragmentaryczny : (przym.) fragmentary; (przym.) fragmented; (przym.) scrappy; (przym.) sketchy
+[frajda]frajda : (rzecz.) fun; (rzecz.) joy
+[frajer]frajer : (rzecz.) chump; (rzecz.) gull; (rzecz.) oaf; (rzecz.) sucker
+[frak]frak : (rzecz.) dress; (rzecz.) tailcoat; (rzecz.) tail-coat
+[frakcja]frakcja : (rzecz.) faction; (rzecz.) fractal; (rzecz.) fraction
+[frakcjonowanie]frakcjonowanie : (rzecz.) fractionation; (rzecz.) fractioning
+[frakcjonowac]frakcjonować : (czas.) fractionate
+[frakcyjny]frakcyjny : (przym.) fractional
+[framuga]framuga : (rzecz.) frame; (rzecz.) jamb; (rzecz.) recess
+[franciszkanin]franciszkanin : (rzecz.) Franciscan
+[frank]frank : (rzecz.) franc
+[frankowanie]frankowanie : (rzecz.) franchise; (rzecz.) francs
+[frankowac]frankować : (czas.) frank
+[frans]frans : (rzecz.) francium
+[franszyza]franszyza : (rzecz.) franchising
+[frant]frant : (rzecz.) rogue
+[frantostwo]frantostwo : (rzecz.) cunning
+[frapowac]frapować : (czas.) fascinate; (czas.) strike
+[frasobliwosc]frasobliwość : (rzecz.) sadness
+[frasunek]frasunek : (rzecz.) grief; (rzecz.) worry
+[fraszka]fraszka : (rzecz.) doggerel; (rzecz.) epigram; (rzecz.) limerick; (rzecz.) trifle
+[fraza]fraza : (rzecz.) movement; (rzecz.) phrase
+[frazeologia]frazeologia : (rzecz.) phraseology
+[frazeologiczny]frazeologiczny : (przym.) idiomatic
+[frazes]frazes : (rzecz.) catchword; (rzecz.) cliché; (rzecz.) commonplace; (rzecz.) platitude; (rzecz.) tag
+[frazowac]frazować : (czas.) phrase
+[frazowy]frazowy : (przym.) phrasal
+[fregata]fregata : (rzecz.) frigate
+[frekwencja]frekwencja : (rzecz.) admission; (rzecz.) attendance; (rzecz.) frequency; (rzecz.) turnout
+[frenetyczny]frenetyczny : (przym.) frantic; (przym.) frenetic
+[frenolog]frenolog : (rzecz.) phrenologist
+[frenologia]frenologia : (rzecz.) phrenology
+[fresk]fresk : (rzecz.) fresco; (rzecz.) mural
+[fretka]fretka : (rzecz.) ferret
+[frez]frez : (rzecz.) cutter
+[frezarka]frezarka : (rzecz.) miller
+[frezarko-kopiarka]frezarko-kopiarka : (rzecz.) profiler
+[frezja]frezja : (rzecz.) freesia
+[frezowanie]frezowanie : (rzecz.) milling
+[frezowac]frezować : (czas.) mill
+[front]front : (rzecz.) facade; (rzecz.) forepart; (rzecz.) fore-part; (rzecz.) front
+[frontalny]frontalny : (przym.) frontal
+[fronton]fronton : (rzecz.) frontispiece; (rzecz.) fronton
+[froterka]froterka : (rzecz.) brush; (rzecz.) polisher
+[froterowac]froterować : (czas.) polish
+[fruktoza]fruktoza : (rzecz.) fructose
+[frustracja]frustracja : (rzecz.) frustration
+[frustrowac]frustrować : (czas.) frustrate
+[fruwanie]fruwanie : (rzecz.) flutter; (rzecz.) flying
+[fruwac]fruwać : (czas.) flitter; (czas.) fly
+[fryc]fryc : (rzecz.) frosh
+[frykas]frykas : (rzecz.) dainty; (rzecz.) delicacy
+[frykatywny]frykatywny : (przym.) fricative
+[frymarczyc]frymarczyć : (czas.) barter; (czas.) trade; (czas.) truck
+[frytka]frytka : (rzecz.) crisp
+[frytkownica]frytkownica : (rzecz.) fryer
+[frywolnie]frywolnie : (przysł.) frivolously
+[frywolnosc]frywolność : (rzecz.) levity
+[frywolny]frywolny : (przym.) frivolous
+[fryz]fryz : (rzecz.) frieze
+[fryza]fryza : (rzecz.) frieze
+[fryzjer]fryzjer : (rzecz.) barber; (rzecz.) hairdresser; (rzecz.) hairstylist
+[fryzjerski]fryzjerski : (przym.) hairdresser's
+[fryzjerstwo]fryzjerstwo : (rzecz.) hairdressing
+[fryzowac]fryzować : (czas.) curl; (czas.) frizz
+[fryzura]fryzura : (rzecz.) coiffure; (rzecz.) haircut; (rzecz.) hairdo; (rzecz.) hair-do; (rzecz.) hairstyle; (rzecz.) headdress; (rzecz.) head-dress; (rzecz.) mop; (rzecz.) pompadour
+[fredzel]frędzel : (rzecz.) fringe; (rzecz.) tassel
+[fucha]fucha : (rzecz.) sideline
+[fug]fug : (rzecz.) lye
+[fuga]fuga : (rzecz.) fugue
+[fugatywnosc]fugatywność : (rzecz.) fugacity
+[fujara]fujara : (rzecz.) galoot; (rzecz.) nincompoop; (rzecz.) ninny; (rzecz.) pipe
+[fujarka]fujarka : (rzecz.) panpipe; (rzecz.) pipe
+[fukacz]fukacz : (rzecz.) squealer
+[fukac]fukać : (czas.) scold; (czas.) snort
+[fuks]fuks : (rzecz.) fluke; (rzecz.) luck; (rzecz.) windfall
+[fuksja]fuksja : (rzecz.) fuchsia
+[fuksyna]fuksyna : (rzecz.) magenta
+[fular]fular : (rzecz.) foulard; (rzecz.) scarf
+[fulmar]fulmar : (rzecz.) fulmar
+[fumigacja]fumigacja : (rzecz.) fumigation
+[fumigant]fumigant : (rzecz.) fumigant
+[funda]funda : (rzecz.) fundamental
+[fundacja]fundacja : (rzecz.) endowment; (rzecz.) foundation; (rzecz.) patrimony
+[fundament]fundament : (rzecz.) foundation
+[fundamentalista]fundamentalista : (rzecz.) fundamentalist
+[fundamentalizm]fundamentalizm : (rzecz.) fundamentalism
+[fundamentalny]fundamentalny : (przym.) basic; (przym.) fundamental
+[fundator]fundator : (rzecz.) benefactor; (rzecz.) founder
+[fundowac]fundować : (czas.) endow; (czas.) found; (czas.) treat
+[fundusz]fundusz : (rzecz.) fund
+[fungicyd]fungicyd : (rzecz.) fungicide
+[funkcja]funkcja : (rzecz.) function; (rzecz.) status
+[funkcjonalizm]funkcjonalizm : (rzecz.) functionalism; (rzecz.) functionality
+[funkcjonalnie]funkcjonalnie : (przysł.) functionally
+[funkcjonalnosc]funkcjonalność : (rzecz.) comfort; (rzecz.) functionalities; (rzecz.) functionality; (rzecz.) manageability
+[funkcjonalny]funkcjonalny : (przym.) functional; (przym.) manageable
+[funkcjonariusz]funkcjonariusz : (rzecz.) functionary; (rzecz.) officer; (rzecz.) usher
+[funkcjonowanie]funkcjonowanie : (rzecz.) operation
+[funkcjonowac]funkcjonować : (czas.) function; (czas.) operate
+[funkcyjnie]funkcyjnie : (przysł.) functionally
+[funkcyjny]funkcyjny : (przym.) functional
+[funt]funt : (rzecz.) lb; (rzecz.) pound; (rzecz.) quid
+[funt-sila]funt-siła : (rzecz.) pound-force
+[fura]fura : (rzecz.) boxcar; (rzecz.) cart; (rzecz.) cartload; (rzecz.) heap; (rzecz.) wagon
+[furan]furan : (rzecz.) furfuran
+[furaz]furaż : (rzecz.) forage
+[furazer]furażer : (rzecz.) forager
+[furazowanie]furażowanie : (rzecz.) forage
+[furazowac]furażować : (czas.) forage
+[furczec]furczeć : (czas.) buzz; (czas.) zoom
+[furgon]furgon : (rzecz.) boxcar; (rzecz.) van; (rzecz.) wagon
+[furgonetka]furgonetka : (rzecz.) van
+[furia]furia : (rzecz.) bisque; (rzecz.) fury; (rzecz.) tantrum
+[furiat]furiat : (rzecz.) madman
+[furkac]furkać : (czas.) buzz
+[furkot]furkot : (rzecz.) buzz
+[furman]furman : (rzecz.) carrier; (rzecz.) carter
+[furmanka]furmanka : (rzecz.) cart
+[furora]furora : (rzecz.) furore
+[furta]furta : (rzecz.) gangway; (rzecz.) wicket
+[furtka]furtka : (rzecz.) backdoor; (rzecz.) gate; (rzecz.) gateway; (rzecz.) wicket
+[furunkul]furunkuł : (rzecz.) furuncle
+[fusy]fusy : (rzecz.) dregs; (rzecz.) lees
+[fuszer]fuszer : (rzecz.) bungler; (rzecz.) muff; (rzecz.) scamper
+[fuszerka]fuszerka : (rzecz.) bungle; (rzecz.) foozle; (rzecz.) muff
+[fuszerowanie]fuszerowanie : (rzecz.) bungling
+[fuszerowac]fuszerować : (czas.) dabble; (czas.) foozle; (czas.) muff; (czas.) scamp; (czas.) shuffle
+[futbol]futbol : (rzecz.) football
+[futbolista]futbolista : (rzecz.) footballer
+[futeralik]futeralik : (rzecz.) etui
+[futeral]futerał : (rzecz.) case; (rzecz.) casing; (rzecz.) covering; (rzecz.) holster; (rzecz.) sheath; (rzecz.) wrapper
+[futerko]futerko : (rzecz.) fur; (rzecz.) pelt
+[futro]futro : (rzecz.) fur; (rzecz.) pelt; (rzecz.) sheepskin
+[futrowac]futrować : (czas.) board
+[futryna]futryna : (rzecz.) door; (rzecz.) frame
+[futrzany]futrzany : (przym.) furry
+[futrzarstwo]futrzarstwo : (rzecz.) furriery
+[futrzarz]futrzarz : (rzecz.) furrier
+[futurologia]futurologia : (rzecz.) futurology
+[futurysta]futurysta : (rzecz.) futurist
+[futurystyczny]futurystyczny : (przym.) futuristic
+[futuryzm]futuryzm : (rzecz.) futurism
+[fuzel]fuzel : (rzecz.) fusel
+[fuzja]fuzja : (rzecz.) amalgamation; (rzecz.) fusion; (rzecz.) merger; (rzecz.) rifle

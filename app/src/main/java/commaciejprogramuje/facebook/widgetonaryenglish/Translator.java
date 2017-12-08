@@ -7,18 +7,26 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
+import static commaciejprogramuje.facebook.widgetonaryenglish.MainActivity.FIRST_LANGUAGE;
+import static commaciejprogramuje.facebook.widgetonaryenglish.MainActivity.SECOND_LANGUAGE;
+
 class Translator {
-    private HashMap<String, String> map = null;
+    private HashMap<String, String> mapA = null;
+    private HashMap<String, String> mapB = null;
 
     Translator(Context context, String myKey) {
+        mapA = fillMap(FIRST_LANGUAGE, context, myKey);
+        mapB = fillMap(SECOND_LANGUAGE, context, myKey);
+    }
+
+    private HashMap<String, String> fillMap(String prefix, Context context, String myKey) {
+        HashMap<String, String> map = new HashMap<>();
+
         try {
-            map = new HashMap<>();
             String testLine;
             String firstLetterOfMyKey = String.valueOf(myKey.charAt(0)).toLowerCase();
-            String tempFileName = "output_" + firstLetterOfMyKey + ".txt";
+            String tempFileName = "output_" + prefix + "_" + firstLetterOfMyKey + ".txt";
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(context.getAssets().open(tempFileName)));
-
-            //amadeus : Amadeus : (rzecz.) Amadeusz
 
             while ((testLine = bufferedReader.readLine()) != null) {
                 if (!testLine.isEmpty()) {
@@ -39,12 +47,18 @@ class Translator {
                 }
             }
             bufferedReader.close();
+            return map;
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return null;
     }
 
-    public HashMap<String, String> getMap() {
-        return map;
+    public HashMap<String, String> getMapA() {
+        return mapA;
+    }
+
+    public HashMap<String, String> getMapB() {
+        return mapB;
     }
 }
