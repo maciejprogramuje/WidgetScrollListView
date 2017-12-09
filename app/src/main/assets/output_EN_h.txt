@@ -1,1439 +1,1439 @@
-[h-hydrogen]H-hydrogen : (rzecz.) wodór
-[harriet]Harriet : (rzecz.) Henryka
-[hebrew]Hebrew : (przym.) hebrajski
-[hegelianism]Hegelianism : (rzecz.) heglizm
-[helen]Helen : (rzecz.) Halina
-[hellenism]Hellenism : (rzecz.) hellenizm
-[hellenist]Hellenist : (rzecz.) hellenista
-[hellenistic]Hellenistic : (przym.) hellenistyczny
-[henry]Henry : (rzecz.) Henryk
-[herculean]Herculean : (przym.) herkulesowy
-[hinduism]Hinduism : (rzecz.) hinduizm
-[holocene]Holocene : (rzecz.) holocen
-[homeric]Homeric : (przym.) homeryczny
-[huguenot]Huguenot : (rzecz.) hugenot
-[h-hour]h-hour : (rzecz.) godzina
-[ha-hectare]ha-hectare : (rzecz.) hektar
-[haberdasher]haberdasher : (rzecz.) szmuklerz
-[haberdasher's]haberdasher's : (przym.) pasmanteryjny
-[haberdashery]haberdashery : (rzecz.) galanteria; (rzecz.) pasmanteria
-[habergeon]habergeon : (rzecz.) kolczuga
-[habile]habile : (przym.) zręczny
-[habiliment]habiliment : (rzecz.) odzież; (rzecz.) ubiór
-[habit]habit : (rzecz.) budowa; (rzecz.) habit; (rzecz.) habitus; (rzecz.) nałóg; (rzecz.) nawyk; (rzecz.) obyczaj; (rzecz.) odzież; (rzecz.) przyzwyczajenie; (rzecz.) właściwość; (rzecz.) zwyczaj
-[habitable]habitable : (przym.) mieszkalny
-[habitant]habitant : (rzecz.) mieszkaniec
-[habitat]habitat : (rzecz.) środowisko
-[habitation]habitation : (rzecz.) mieszkanie; (rzecz.) zamieszkanie; (rzecz.) zamieszkiwanie
-[habitual]habitual : (przym.) charakterystyczny; (przym.) nałogowy; (przym.) nawykowy; (przym.) notoryczny; (przym.) powszedni; (przym.) zwyczajny; (przym.) zwykły
-[habitually]habitually : (przysł.) nałogowo; (przysł.) notorycznie
-[habituation]habituation : (rzecz.) nawyk; (rzecz.) wdrożenie
-[hachure]hachure : (czas.) kreskować
-[hacienda]hacienda : (rzecz.) gospodarstwo; (rzecz.) hacjenda; (rzecz.) rezydencja
-[hack]hack : (czas.) ciosać; (czas.) kopać; (czas.) pokaszliwać; (czas.) rąbać; (czas.) siekać; (rzecz.) cięcie; (rzecz.) kilof; (rzecz.) motyka; (rzecz.) pismak
-[hackamore]hackamore : (rzecz.) powróz; (rzecz.) wędzidło
-[hacker]hacker : (rzecz.) hacker; (rzecz.) haker; (rzecz.) pirat; (rzecz.) włamywacz
-[hackle]hackle : (rzecz.) cierlica; (rzecz.) konopi
-[hackly]hackly : (przym.) ostry
-[hackney]hackney : (rzecz.) dorożka; (rzecz.) najemnik; (rzecz.) powóz
-[hackney-carriage]hackney-carriage : (rzecz.) dorożka
-[hackneyed]hackneyed : (przym.) banalny; (przym.) oklepany; (przym.) szablonowy; (przym.) tuzinkowy
-[hackwork]hackwork : (rzecz.) chałtura; (rzecz.) wyrobnictwo
-[hack«]hack« : (rzecz.) murzyn; (rzecz.) najemnik
-[haddock]haddock : (rzecz.) łupacz; (rzecz.) plamiak
-[hade]hade : (rzecz.) góra
-[haematologist]haematologist : (rzecz.) hematolog
-[haematology]haematology : (rzecz.) hematologia
-[haematoma]haematoma : (rzecz.) krwiak
-[haemin]haemin : (rzecz.) hemina
-[haemoglobin]haemoglobin : (rzecz.) hemoglobina
-[haemolysis]haemolysis : (rzecz.) hemoliza
-[haemolytic]haemolytic : (przym.) hemolityczny
-[haemophilia]haemophilia : (rzecz.) hemofilia
-[haemorrhage]haemorrhage : (rzecz.) krwotok; (rzecz.) wylew
-[haemorrhagic]haemorrhagic : (przym.) krwotoczny
-[haemorrhoid]haemorrhoid : (rzecz.) hemoroid
-[haemorrhoidal]haemorrhoidal : (przym.) hemoroidalny
-[haemostatic]haemostatic : (przym.) hemostatyczny
-[hafnium]hafnium : (rzecz.) hafn
-[haft]haft : (rzecz.) rękojeść
-[hag]hag : (rzecz.) czarownica; (rzecz.) jędza; (rzecz.) wiedźma
-[haggard]haggard : (przym.) dziki; (przym.) wymizerowany
-[haggis]haggis : (rzecz.) serce
-[haggish]haggish : (przym.) jędzowaty
-[haggle]haggle : (czas.) targować
-[hagiographic]hagiographic : (przym.) hagiograficzny
-[hagiography]hagiography : (rzecz.) hagiografia
-[hail]hail : (czas.) obwołać; (czas.) pochodzić; (czas.) pozdrawiać; (czas.) przywołać; (czas.) witać; (rzecz.) grad; (rzecz.) gradobicie; (rzecz.) pocisk; (rzecz.) powitanie; (rzecz.) pozdrowienie
-[hail-stone]hail-stone : (rzecz.) gradzina
-[hailstorm]hailstorm : (rzecz.) grad; (rzecz.) gradobicie
-[hair]hair : (rzecz.) owłosienie; (rzecz.) sierść; (rzecz.) włos; (rzecz.) włosie; (rzecz.) włosy; (rzecz.) zarost
-[hair-cutting]hair-cutting : (rzecz.) strzyżenie
-[hair-do]hair-do : (rzecz.) fryzura; (rzecz.) uczesanie
-[hair-slide]hair-slide : (rzecz.) wsuwka
-[hair-splitting]hair-splitting : (rzecz.) drobiazgowość
-[hair-spring]hair-spring : (rzecz.) włos
-[hairbrush]hairbrush : (rzecz.) szczotka
-[haircloth]haircloth : (rzecz.) włosianka
-[haircut]haircut : (rzecz.) fryzura; (rzecz.) ostrzyżenie; (rzecz.) strzyżenie
-[haircutting]haircutting : (rzecz.) strzyżenie
-[hairdo]hairdo : (rzecz.) fryzura; (rzecz.) uczesanie
-[hairdresser]hairdresser : (rzecz.) fryzjer
-[hairdresser's]hairdresser's : (przym.) fryzjerski
-[hairdressing]hairdressing : (rzecz.) fryzjerstwo
-[hairdryer]hairdryer : (rzecz.) suszarka
-[hairiness]hairiness : (rzecz.) kosmatość; (rzecz.) włochatość
-[hairless]hairless : (przym.) bezwłosy
-[hairlines]hairlines : (rzecz.) ryski
-[hairpiece]hairpiece : (rzecz.) peruka
-[hairpin]hairpin : (rzecz.) szpilka
-[hairs]hairs : (rzecz.) sierść
-[hairspring]hairspring : (rzecz.) włos
-[hairstyle]hairstyle : (rzecz.) fryzura; (rzecz.) uczesanie
-[hairstylist]hairstylist : (rzecz.) fryzjer
-[hairworm]hairworm : (rzecz.) trychina
-[hairy]hairy : (przym.) kosmaty; (przym.) kudłaty; (przym.) włochaty; (przym.) włosisty
-[hake]hake : (rzecz.) dorsz; (rzecz.) miętus; (rzecz.) morszczuk
-[halation]halation : (rzecz.) aureola; (rzecz.) halo
-[halberd]halberd : (rzecz.) halabarda
-[halberdier]halberdier : (rzecz.) halabardnik; (rzecz.) halabardzista
-[halcyon]halcyon : (przym.) błogi; (rzecz.) zimorodek
-[hale]hale : (przym.) czerstwy; (przym.) krzepki; (przym.) zdrowy
-[half]half : (rzecz.) połowa; (rzecz.) połowica; (rzecz.) połówka; (rzecz.) półrocze
-[half-adder]half-adder : (rzecz.) półsumator
-[half-back]half-back : (rzecz.) obrońca
-[half-baked]half-baked : (przym.) wpółsurowy
-[half-bleaching]half-bleaching : (rzecz.) podbielanie
-[half-breed]half-breed : (rzecz.) mieszaniec
-[half-byte]half-byte : (rzecz.) półbajt
-[half-carcase]half-carcase : (rzecz.) półtusza
-[half-carcass]half-carcass : (rzecz.) półtusza
-[half-caste]half-caste : (rzecz.) mieszaniec
-[half-cell]half-cell : (rzecz.) półogniwo
-[half-century]half-century : (rzecz.) półwiecze
-[half-cloth]half-cloth : (rzecz.) półpłótno
-[half-conscious]half-conscious : (przym.) półprzytomny
-[half-crown]half-crown : (rzecz.) półkoronówka
-[half-dead]half-dead : (przym.) półmartwy; (przym.) półżywy
-[half-element]half-element : (rzecz.) półogniwo
-[half-grown]half-grown : (przym.) niewyrośnięty
-[half-hourly]half-hourly : (przym.) półgodzinny
-[half-kilogramme]half-kilogramme : (przym.) półkilogramowy
-[half-kilometre]half-kilometre : (przym.) półkilometrowy
-[half-life]half-life : (rzecz.) półokres
-[half-light]half-light : (rzecz.) półświatło
-[half-litre]half-litre : (przym.) półlitrowy
-[half-loop]half-loop : (rzecz.) półpętla
-[half-matt]half-matt : (rzecz.) półmat
-[half-measure]half-measure : (rzecz.) półśrodek
-[half-moon]half-moon : (rzecz.) półksiężyc
-[half-open]half-open : (przym.) półotwarty; (przym.) rozchylony
-[half-product]half-product : (rzecz.) półfabrykat
-[half-round]half-round : (przym.) półokrągły
-[half-shadow]half-shadow : (rzecz.) półcień
-[half-smile]half-smile : (rzecz.) półuśmiech
-[half-stuff]half-stuff : (rzecz.) półmasa
-[half-timbered]half-timbered : (przym.) ryglowy
-[half-time]half-time : (rzecz.) przerwa
-[half-title]half-title : (rzecz.) przedtytuł
-[half-tone]half-tone : (rzecz.) półton
-[half-truth]half-truth : (rzecz.) półprawda
-[half-turn]half-turn : (rzecz.) półobrót
-[half-wit]half-wit : (rzecz.) półgłówek
-[half-witted]half-witted : (przym.) głupkowaty
-[half-year]half-year : (rzecz.) półrocze; (rzecz.) semestr
-[half-yearly]half-yearly : (przym.) półroczny
-[halfback]halfback : (rzecz.) obrońca; (rzecz.) stoper
-[halftime]halftime : (rzecz.) połowa; (rzecz.) przerwa
-[halftone]halftone : (rzecz.) półcienie; (rzecz.) półton
-[halfwit]halfwit : (rzecz.) półgłówek
-[halibut]halibut : (rzecz.) halibut; (rzecz.) płastuga
-[halide]halide : (rzecz.) halogenek
-[halite]halite : (rzecz.) halit
-[hall]hall : (rzecz.) aula; (rzecz.) hala; (rzecz.) hall; (rzecz.) hol; (rzecz.) korytarz; (rzecz.) przedpokój; (rzecz.) sala
-[hall-mark]hall-mark : (rzecz.) cecha; (rzecz.) oznaka; (rzecz.) piętno
-[halleluiah]halleluiah : (wykrzyknik) alleluja
-[hallelujah]hallelujah : (wykrzyknik) alleluja
-[hallmark]hallmark : (rzecz.) cecha; (rzecz.) oznaka; (rzecz.) piętno; (rzecz.) próba
-[halloo]halloo : (czas.) poszczuć
-[hallow]hallow : (czas.) poświęcać; (czas.) święcić; (czas.) uświęcać
-[hallowed]hallowed : (przym.) czcigodny; (przym.) święty
-[halls]halls : (rzecz.) salami
-[hallucination]hallucination : (rzecz.) halucynacja; (rzecz.) majaczenie; (rzecz.) omam
-[hallucinations]hallucinations : (rzecz.) majaczenie
-[hallucinatory]hallucinatory : (przym.) halucynacyjny
-[hallucinogen]hallucinogen : (rzecz.) halucynogen
-[hallucinogenic]hallucinogenic : (przym.) halucynogenny
-[hallway]hallway : (rzecz.) korytarz; (rzecz.) sień
-[halo]halo : (rzecz.) aureola; (rzecz.) nimb; (rzecz.) odblask
-[halogen]halogen : (rzecz.) chlorowiec
-[halt]halt : (czas.) rozłączyć; (czas.) stać; (czas.) stawać; (czas.) zatrzymać; (czas.) zatrzymywać; (czas.) zawahać; (czas.) zawiesić; (rzecz.) popas; (rzecz.) postój; (rzecz.) powstrzymanie; (rzecz.) przystanek; (rzecz.) stacja; (rzecz.) utykanie; (rzecz.) zatrzymanie
-[halter]halter : (rzecz.) kantar; (rzecz.) postronek; (rzecz.) stryczek; (rzecz.) uździenica
-[halting]halting : (przym.) postojowy
-[haltingly]haltingly : (przysł.) wahająco
-[halva]halva : (rzecz.) chałwa
-[halvah]halvah : (rzecz.) chałwa
-[halve]halve : (czas.) przepoławiać; (czas.) przepołowić; (czas.) rozpołowić
-[halyard]halyard : (rzecz.) fał; (rzecz.) flaglinka; (rzecz.) podnośnica
-[ham]ham : (rzecz.) baleron; (rzecz.) radioamator; (rzecz.) szynka; (rzecz.) zad
-[ham-fisted]ham-fisted : (przym.) nieporadny; (przym.) niezdarny; (przym.) niezręczny
-[ham-handed]ham-handed : (przym.) niezdarny; (przym.) niezręczny
-[hamburger]hamburger : (rzecz.) hamburger
-[hamlet]hamlet : (rzecz.) osada; (rzecz.) sioło; (rzecz.) wioska
-[hammer]hammer : (czas.) uderzać; (czas.) walić; (czas.) wbijać; (czas.) zaklepać; (rzecz.) młot; (rzecz.) młotek
-[hammer-smith]hammer-smith : (przym.) młotowy
-[hammerer]hammerer : (rzecz.) młotnik
-[hammering]hammering : (rzecz.) młotkowanie; (rzecz.) młotowanie; (rzecz.) wbijanie
-[hammock]hammock : (rzecz.) hamak
-[hammy]hammy : (przym.) kabotyński
-[hamper]hamper : (czas.) hamować; (czas.) przeszkadzać; (czas.) utrudniać; (rzecz.) hamowanie; (rzecz.) kosz; (rzecz.) koszałka; (rzecz.) ograniczanie; (rzecz.) przeszkadzanie
-[hamster]hamster : (rzecz.) chomik
-[hamstring]hamstring : (rzecz.) sparaliżowanie
-[hand]hand : (czas.) podawać; (czas.) wręczać; (czas.) wręczyć; (rzecz.) chwyt; (rzecz.) dłoń; (rzecz.) pracownik; (rzecz.) ręka; (rzecz.) rozdanie; (rzecz.) udział; (rzecz.) wskazówka
-[hand-axe]hand-axe : (rzecz.) toporek
-[hand-barrow]hand-barrow : (rzecz.) nosze
-[hand-bill]hand-bill : (rzecz.) ulotka
-[hand-cart]hand-cart : (rzecz.) wózek
-[hand-held]hand-held : (przym.) podręczny; (przym.) ręczny
-[hand-made]hand-made : (przym.) odręczny
-[hand-rail]hand-rail : (rzecz.) balustrada; (rzecz.) poręcz
-[handbag]handbag : (rzecz.) torebka
-[handbill]handbill : (rzecz.) ulotka
-[handbook]handbook : (rzecz.) informator; (rzecz.) podręcznik; (rzecz.) poradnik; (rzecz.) wademekum
-[handcart]handcart : (rzecz.) wózek
-[handcuff]handcuff : (rzecz.) kajdanki; (rzecz.) kajdany
-[handcuffs]handcuffs : (rzecz.) kajdanek; (rzecz.) kajdanki; (rzecz.) kajdany
-[handful]handful : (rzecz.) garść; (rzecz.) garstka
-[handgun]handgun : (rzecz.) pistolet; (rzecz.) rewolwer
-[handheld]handheld : (przym.) kieszonkowy; (przym.) podręczny; (przym.) ręczny
-[handhold]handhold : (rzecz.) poręczhand
-[handicap]handicap : (rzecz.) fory; (rzecz.) niepełnosprawność; (rzecz.) obciążenie; (rzecz.) przeszkoda; (rzecz.) ułomność; (rzecz.) upośledzenie; (rzecz.) utrudnienie; (rzecz.) zawada
-[handicapped]handicapped : (przym.) niepełnosprawny; (przym.) ułomny
-[handicraft]handicraft : (rzecz.) rękodzielnictwo; (rzecz.) rękodzieło; (rzecz.) rzemiosło
-[handicraftsman]handicraftsman : (rzecz.) rękodzielnik; (rzecz.) rzemieślnik
-[handily]handily : (przysł.) łatwo; (przysł.) zręcznie
-[handiness]handiness : (rzecz.) zręczność; (rzecz.) zwrotność
-[handkerchief]handkerchief : (rzecz.) chusteczka; (rzecz.) chustka
-[handle]handle : (czas.) dotykać; (czas.) kierować; (czas.) manipulować; (czas.) obchodzić; (czas.) obracać; (czas.) obsługiwać; (czas.) obsłużyć; (czas.) odcinać; (czas.) posługiwać; (czas.) przerabiać; (czas.) traktować; (rzecz.) antaba; (rzecz.) chwyt; (rzecz.) dojście; (rzecz.) klamka; (rzecz.) rączka; (rzecz.) rękojeść; (rzecz.) stylisko; (rzecz.) trzonek; (rzecz.) ucho; (rzecz.) uchwyt; (rzecz.) uszko; (rzecz.) zacisk
-[handle-bar]handle-bar : (rzecz.) kierownica; (rzecz.) poręcz
-[handlebar]handlebar : (rzecz.) kierownica; (rzecz.) poręcz
-[handled]handled : (czas.) obchodzić
-[handler]handler : (rzecz.) farba; (rzecz.) trener; (rzecz.) treser
-[handles]handles : (rzecz.) kolportaż
-[handling]handling : (rzecz.) obchodzenie; (rzecz.) obsługa; (rzecz.) obsługiwanie; (rzecz.) opracowanie; (rzecz.) przeładunek; (rzecz.) załatwienie
-[handmade]handmade : (przym.) odręczny
-[handmaid]handmaid : (rzecz.) służebnica
-[handmaiden]handmaiden : (rzecz.) służebnica
-[handout]handout : (rzecz.) datek; (rzecz.) jałmużna; (rzecz.) ulotka
-[handrail]handrail : (rzecz.) balustrada; (rzecz.) bariera; (rzecz.) poręcz
-[hands-off]hands-off : (przym.) nieinterwencyjny
-[handset]handset : (rzecz.) mikrotelefon; (rzecz.) słuchawka
-[handshake]handshake : (rzecz.) chwyt; (rzecz.) uścisk; (rzecz.) uzgodnienie; (rzecz.) zacisk
-[handshaking]handshaking : (rzecz.) uzgadnianie
-[handsome]handsome : (przym.) atrakcyjny; (przym.) dorodny; (przym.) foremny; (przym.) hojny; (przym.) ładny; (przym.) nadobny; (przym.) pokaźny; (przym.) postawny; (przym.) przystojny; (przym.) urodziwy
-[handsomely]handsomely : (przysł.) elegancko; (przysł.) ładnie
-[handstand]handstand : (rzecz.) stójka
-[handwork]handwork : (rzecz.) rękodzieło
-[handwriting]handwriting : (rzecz.) pismo
-[handwritten]handwritten : (przym.) odręczny
-[handy]handy : (przym.) dogodny; (przym.) podręczny; (przym.) poręczny; (przym.) przydatny; (przym.) sprytny; (przym.) wygodny; (przym.) zręczny
-[handy-man]handy-man : (przym.) zręczny
-[handyman]handyman : (rzecz.) majster; (rzecz.) majsterkowicz
-[hang]hang : (czas.) obijać; (czas.) powiesić; (czas.) wałęsać; (czas.) wieszać; (czas.) wisieć; (czas.) zawiesić; (czas.) zawieszać; (czas.) zwisać
-[hang-glider]hang-glider : (rzecz.) lotnia; (rzecz.) lotniarz
-[hang-gliding]hang-gliding : (rzecz.) lotniarstwo; (rzecz.) paralotniarstwo
-[hang-over]hang-over : (rzecz.) kac
-[hang-up]hang-up : (rzecz.) obawa; (rzecz.) rozejm; (rzecz.) zahamowanie; (rzecz.) zawieszenie
-[hangar]hangar : (rzecz.) hangar
-[hangdog]hangdog : (rzecz.) szubienicznik
-[hanger]hanger : (rzecz.) pasożyt; (rzecz.) pieczeniarz; (rzecz.) wieszak; (rzecz.) zapychacz
-[hanger-on]hanger-on : (rzecz.) pieczeniarz; (rzecz.) pochlebca
-[hanging]hanging : (rzecz.) obwieszenie; (rzecz.) powieszenie; (rzecz.) wieszanie; (rzecz.) wiszenie; (rzecz.) zawieszenie; (rzecz.) zwisanie
-[hangman]hangman : (rzecz.) kat; (rzecz.) oprawca; (rzecz.) wisielec
-[hangnail]hangnail : (rzecz.) zadzior
-[hangover]hangover : (rzecz.) kac; (rzecz.) kociokwik; (rzecz.) pozostałość; (rzecz.) przeżytek
-[hank]hank : (rzecz.) kłębek; (rzecz.) motek; (rzecz.) pełzacz
-[hanker]hanker : (czas.) tęsknić; (czas.) wzdychać
-[hankering]hankering : (rzecz.) potrzeba; (rzecz.) pożądanie; (rzecz.) pragnienie; (rzecz.) tęsknota
-[hanky-panky]hanky-panky : (rzecz.) oszustwo
-[hansom]hansom : (rzecz.) dwukołowiec
-[haphazard]haphazard : (przym.) dorywczy; (przym.) niesystematyczny; (przym.) przypadkowy; (przysł.) przypadkowo; (rzecz.) przypadek
-[haphazardly]haphazardly : (przysł.) przypadkowo
-[hapless]hapless : (przym.) feralny; (przym.) nieszczęśliwy
-[haplite]haplite : (rzecz.) aplit
-[haploid]haploid : (rzecz.) haploid
-[happen]happen : (czas.) natrafić; (czas.) przydarzać; (czas.) przydarzyć; (czas.) trafić; (czas.) wydarzyć; (czas.) zaistnieć; (czas.) zdarzać; (czas.) zdarzyć; (czas.) znajdować
-[happening]happening : (rzecz.) wydarzenie; (rzecz.) zdarzenie
-[happenstance]happenstance : (rzecz.) ewentualność
-[happily]happily : (przysł.) szczęśliwie; (przysł.) wesoło
-[happiness]happiness : (rzecz.) błogostan; (rzecz.) szczęście; (rzecz.) szczęśliwość; (rzecz.) uszczęśliwienie
-[happy]happy : (przym.) radosny; (przym.) szczęśliwy
-[happy-go-lucky]happy-go-lucky : (przym.) beztroski; (przym.) niefrasobliwy
-[hara-kiri]hara-kiri : (rzecz.) harakiri
-[harangue]harangue : (rzecz.) przemowa; (rzecz.) przemówienie
-[harass]harass : (czas.) dokuczać; (czas.) dręczyć; (czas.) gnębić; (czas.) morzyć; (czas.) nacierać; (czas.) nękać; (czas.) niepokoić
-[harassment]harassment : (rzecz.) molestowanie; (rzecz.) napastowanie; (rzecz.) nękanie; (rzecz.) prześladowanie; (rzecz.) szykana; (rzecz.) szykanowanie
-[harbinger]harbinger : (rzecz.) zwiastowanie; (rzecz.) zwiastun
-[harbour]harbour : (czas.) żywić; (rzecz.) port; (rzecz.) przystań; (rzecz.) schronienie
-[harbourage]harbourage : (rzecz.) przystań; (rzecz.) schronienie
-[hard]hard : (przym.) ciężki; (przym.) ostry; (przym.) przenikliwy; (przym.) surowy; (przym.) trudny; (przym.) twardy; (przym.) usilny; (przysł.) ciężko; (przysł.) mocno; (przysł.) obficie; (przysł.) silnie; (przysł.) trudno; (przysł.) twardo
-[hard-boiled]hard-boiled : (przym.) bezwzględny; (przym.) niezmienny; (przym.) twardy
-[hard-coded]hard-coded : (przym.) niezmienny; (przym.) ustalony
-[hard-core]hard-core : (przym.) niezmienny; (przym.) twardy; (przym.) wulgarny
-[hard-fisted]hard-fisted : (przym.) skąpy
-[hard-headed]hard-headed : (przym.) praktyczny
-[hard-hearted]hard-hearted : (przym.) bezwzględny
-[hard-wired]hard-wired : (przym.) układowy
-[hard-working]hard-working : (przym.) pracowity; (przym.) robotny
-[hardboiled]hardboiled : (przym.) bezwzględny; (przym.) niezmienny; (przym.) twardy; (przym.) uparty
-[hardcopy]hardcopy : (rzecz.) wydruk
-[hardcore]hardcore : (przym.) niezmienny; (przym.) twardy; (przym.) wulgarny; (rzecz.) trzon
-[harden]harden : (czas.) hartować; (czas.) stężeć; (czas.) twardnieć; (czas.) umacniać; (czas.) umocnić; (czas.) uodpornić; (czas.) utwardzać; (czas.) wapnieć; (czas.) wzmacniać
-[hardener]hardener : (rzecz.) utwardzacz; (rzecz.) zaprawa
-[hardening]hardening : (rzecz.) hartowanie; (rzecz.) stwardnienie; (rzecz.) twardnienie; (rzecz.) utwardzanie; (rzecz.) utwardzenie; (rzecz.) zahartowanie
-[hardhearted]hardhearted : (przym.) bezwzględny
-[hardihood]hardihood : (rzecz.) odwaga; (rzecz.) zuchwalstwo
-[hardiness]hardiness : (rzecz.) hardość; (rzecz.) wytrzymałość
-[hardly]hardly : (przysł.) ledwie; (przysł.) ledwo; (przysł.) prawie; (przysł.) zaledwie
-[hardness]hardness : (rzecz.) twardość; (rzecz.) wytrzymałość
-[hardpan]hardpan : (rzecz.) orsztyn; (rzecz.) rudawiec
-[hardship]hardship : (rzecz.) bieda; (rzecz.) dolegliwość; (rzecz.) męka; (rzecz.) niedostatek; (rzecz.) niewygoda; (rzecz.) trud; (rzecz.) trudność; (rzecz.) znój
-[hardtack]hardtack : (rzecz.) suchar
-[hardware]hardware : (rzecz.) hardware; (rzecz.) informatyk; (rzecz.) osprzęt; (rzecz.) sprzęt; (rzecz.) żelastwo
-[hardworking]hardworking : (przym.) robotny
-[hardy]hardy : (przym.) mocny; (przym.) odporny; (przym.) odważny; (przym.) śmiały
-[hare]hare : (rzecz.) szarak; (rzecz.) zając
-[hark]hark : (czas.) posłuchać; (czas.) słuchać
-[harlequin]harlequin : (rzecz.) arlekin; (rzecz.) pajac
-[harlequinade]harlequinade : (rzecz.) arlekinada
-[harlot]harlot : (rzecz.) jawnogrzesznica; (rzecz.) ladacznica; (rzecz.) nierządnica
-[harlotry]harlotry : (rzecz.) nierząd; (rzecz.) wszeteczeństwo
-[harm]harm : (rzecz.) krzywda; (rzecz.) krzywdzenie; (rzecz.) skrzywdzenie; (rzecz.) szkoda; (rzecz.) szkodliwość; (rzecz.) szwank; (rzecz.) zło
-[harmful]harmful : (przym.) szkodliwy; (przym.) ujemny
-[harmfully]harmfully : (przysł.) szkodliwie
-[harmfulness]harmfulness : (rzecz.) szkodliwość
-[harmless]harmless : (przym.) niegroźny; (przym.) nieszkodliwy; (przym.) niewinny
-[harmlessly]harmlessly : (przysł.) nieszkodliwie; (przysł.) niewinnie
-[harmlessness]harmlessness : (rzecz.) nieszkodliwość
-[harmonic]harmonic : (przym.) harmoniczny; (przym.) harmonijny; (rzecz.) harmoniczna
-[harmonica]harmonica : (rzecz.) harmonijka; (rzecz.) harmonika
-[harmonics]harmonics : (rzecz.) harmonika
-[harmonious]harmonious : (przym.) harmonijny; (przym.) melodyjny; (przym.) zgodny
-[harmoniously]harmoniously : (przysł.) harmonijnie
-[harmoniousness]harmoniousness : (rzecz.) harmoniczność
-[harmonise]harmonise : (czas.) współbrzmieć
-[harmonist]harmonist : (rzecz.) harmonista
-[harmonium]harmonium : (rzecz.) fisharmonia
-[harmonization]harmonization : (rzecz.) harmonizacja
-[harmonize]harmonize : (czas.) harmonizować; (czas.) ujednolicać; (czas.) współbrzmieć; (czas.) zharmonizować
-[harmony]harmony : (rzecz.) harmonia; (rzecz.) zestrój; (rzecz.) zestrojenie; (rzecz.) zgoda; (rzecz.) zgodność; (rzecz.) zgranie
-[harness]harness : (czas.) zaprzęgać; (rzecz.) okablowanie; (rzecz.) uprząż
-[harnessed]harnessed : (czas.) ujarzmić
-[harp]harp : (czas.) ględzić; (rzecz.) harfa
-[harpist]harpist : (rzecz.) harfiarz
-[harpoon]harpoon : (rzecz.) harpun
-[harpooner]harpooner : (rzecz.) harpunnik
-[harpsichord]harpsichord : (rzecz.) klawesyn; (rzecz.) klawikord
-[harpy]harpy : (rzecz.) harpia; (rzecz.) jędza
-[harquebus]harquebus : (rzecz.) rusznica
-[harridan]harridan : (rzecz.) wiedźma
-[harrier]harrier : (rzecz.) błotniak; (rzecz.) ciskacz; (rzecz.) grabieżca; (rzecz.) rabuś; (rzecz.) wozak
-[harrow]harrow : (czas.) bronować; (czas.) dokuczać; (czas.) męczyć; (czas.) pustoszyć; (czas.) wybronować; (czas.) wymęczyć; (czas.) zabronować; (rzecz.) brona
-[harsh]harsh : (przym.) brutalny; (przym.) chrapliwy; (przym.) chropowaty; (przym.) cierpki; (przym.) ciężki; (przym.) nieprzyjemny; (przym.) ostry; (przym.) przykry; (przym.) srogi; (przym.) surowy; (przym.) szorstki; (przym.) zgrzytliwy
-[harshly]harshly : (przysł.) cierpko; (przysł.) opryskliwie; (przysł.) szorstko; (przysł.) zgryźliwie
-[harshness]harshness : (rzecz.) chropowatość; (rzecz.) opryskliwość; (rzecz.) surowość; (rzecz.) szorstkość
-[hart]hart : (rzecz.) jeleń; (rzecz.) rogacz
-[harum-scarum]harum-scarum : (rzecz.) postrzeleniec
-[harvest]harvest : (czas.) zbierać; (rzecz.) dożynki; (rzecz.) plon; (rzecz.) urodzaj; (rzecz.) zbiór; (rzecz.) żniwa; (rzecz.) żniwo
-[harvester]harvester : (rzecz.) kombajn; (rzecz.) podbieracz; (rzecz.) żniwiarz
-[harvesting]harvesting : (rzecz.) żęcie
-[has]has : (czas.) mieć; (czas.) musieć
-[hash]hash : (czas.) posiekać; (czas.) siekać; (rzecz.) hasz; (rzecz.) mieszanie; (rzecz.) mieszanina; (rzecz.) pomyłkowe; (rzecz.) siekanina; (rzecz.) siekanka; (rzecz.) szumy
-[hashish]hashish : (rzecz.) haszysz
-[hasp]hasp : (rzecz.) klamka; (rzecz.) skobel; (rzecz.) zasuwka
-[hassle]hassle : (czas.) dokuczać; (czas.) dręczyć; (czas.) zamęczać; (rzecz.) kłopot
-[hassock]hassock : (rzecz.) pęk
-[haste]haste : (rzecz.) pośpiech
-[hasten]hasten : (czas.) pędzić; (czas.) pospieszyć; (czas.) przynaglać; (czas.) przyspieszać; (czas.) przyśpieszać; (czas.) spieszyć; (czas.) śpieszyć
-[hastily]hastily : (przysł.) lekkomyślnie; (przysł.) naprędce; (przysł.) pochopnie; (przysł.) pospiesznie; (przysł.) pośpiesznie; (przysł.) szybko
-[hastiness]hastiness : (rzecz.) nierozwaga; (rzecz.) pochopność; (rzecz.) porywczość; (rzecz.) pośpiech
-[hasty]hasty : (przym.) gwałtowny; (przym.) pochopny; (przym.) popędliwy; (przym.) pospieszny; (przym.) pośpieszny; (przym.) szybki
-[hat]hat : (rzecz.) czapka; (rzecz.) kapelusz; (rzecz.) mycka
-[hatch]hatch : (czas.) kreskować; (czas.) legnąć; (czas.) lęgnąć; (czas.) spiskować; (czas.) wykluwać; (czas.) wylegać; (czas.) wylęgać; (czas.) wysiadywać; (czas.) zakreskować; (rzecz.) drzwiczki; (rzecz.) luk; (rzecz.) śluza; (rzecz.) właz; (rzecz.) wyklucie; (rzecz.) wyląg; (rzecz.) wylęg
-[hatchery]hatchery : (rzecz.) wylęgarnia
-[hatchet]hatchet : (rzecz.) ciupaga; (rzecz.) siekiera; (rzecz.) siekierka; (rzecz.) topór; (rzecz.) toporek
-[hatching]hatching : (rzecz.) klucie; (rzecz.) kreskowanie; (rzecz.) wyklucie; (rzecz.) wylęganie
-[hatchway]hatchway : (rzecz.) luk; (rzecz.) właz
-[hate]hate : (czas.) nienawidzić; (rzecz.) nienawiść
-[hateful]hateful : (przym.) nienawistny; (przym.) okropny
-[hatefully]hatefully : (przysł.) nienawistnie
-[hater]hater : (rzecz.) przeciwnik
-[hating]hating : (czas.) nienawidzić; (rzecz.) nienawiść
-[hatred]hatred : (rzecz.) nienawiść
-[hatter]hatter : (rzecz.) kapelusznik
-[hauberk]hauberk : (rzecz.) kolczuga
-[haughtily]haughtily : (przysł.) wyniośle; (przysł.) wysoko
-[haughtiness]haughtiness : (rzecz.) arogancja; (rzecz.) duma; (rzecz.) hardość; (rzecz.) pycha; (rzecz.) wyniosłość
-[haughty]haughty : (przym.) butny; (przym.) dumny; (przym.) hardy; (przym.) wyniosły
-[haul]haul : (czas.) holować; (czas.) transportować; (rzecz.) ciągnienie; (rzecz.) holowanie; (rzecz.) połów; (rzecz.) wleczenie; (rzecz.) zaciąg
-[haulage]haulage : (rzecz.) holowanie; (rzecz.) odstawa; (rzecz.) transport
-[hauler]hauler : (rzecz.) holownik; (rzecz.) przewoźnik; (rzecz.) spedytor; (rzecz.) wozak; (rzecz.) woźnica
-[haulm]haulm : (rzecz.) łodyga; (rzecz.) nać
-[haunch]haunch : (rzecz.) biodro; (rzecz.) pośladek; (rzecz.) udziec
-[haunt]haunt : (czas.) nawiedzać; (czas.) niepokoić; (czas.) odwiedzać; (czas.) straszyć; (czas.) zwiedzać; (rzecz.) kryjówka; (rzecz.) spelunka
-[haunting]haunting : (przym.) natrętny
-[hautboy]hautboy : (rzecz.) obój
-[hauteur]hauteur : (rzecz.) duma
-[have]have : (czas.) być; (czas.) cechować; (czas.) dostawać; (czas.) dysponować; (czas.) jeść; (czas.) mieć; (czas.) miewać; (czas.) posiadać
-[haven]haven : (rzecz.) przystań; (rzecz.) schronienie
-[haversack]haversack : (rzecz.) chlebak; (rzecz.) plecak
-[having]having : (przysł.) żmudnie; (rzecz.) dobytek; (rzecz.) własność
-[havoc]havoc : (rzecz.) spustoszenie; (rzecz.) zamieszanie; (rzecz.) zniszczenie
-[haw]haw : (rzecz.) głóg; (rzecz.) rechot
-[hawfinch]hawfinch : (rzecz.) grubodziób
-[hawk]hawk : (czas.) kolportować; (czas.) odchrząkiwać; (rzecz.) jastrząb; (rzecz.) łupieżca; (rzecz.) sokół
-[hawker]hawker : (rzecz.) domokrążca; (rzecz.) sprzedawca
-[hawkish]hawkish : (przym.) jastrzębi; (przym.) konfrontacyjny
-[hawser]hawser : (rzecz.) cuma; (rzecz.) lina
-[hawthorn]hawthorn : (rzecz.) głóg
-[hay]hay : (rzecz.) siano
-[hay-maker]hay-maker : (rzecz.) grabiarka
-[hay-making]hay-making : (rzecz.) sianokosy
-[hay-rake]hay-rake : (rzecz.) grabiarka
-[haymaker]haymaker : (rzecz.) grabiarka; (rzecz.) kosiarz
-[haymaking]haymaking : (rzecz.) sianokosy
-[haystack]haystack : (rzecz.) bróg; (rzecz.) stóg
-[hazard]hazard : (czas.) ryzykować; (rzecz.) hazard; (rzecz.) niebezpieczeństwo; (rzecz.) przypadek; (rzecz.) ryzyko; (rzecz.) zagrożenie
-[hazardous]hazardous : (przym.) awanturniczy; (przym.) hazardowy; (przym.) niebezpieczny; (przym.) ryzykowny
-[haze]haze : (rzecz.) mgiełka; (rzecz.) mgła; (rzecz.) opar; (rzecz.) otumanienie; (rzecz.) zamglenie
-[hazel]hazel : (rzecz.) leszczyna
-[hazel-grouse]hazel-grouse : (rzecz.) jarząbek
-[hazel-hen]hazel-hen : (rzecz.) jarząbek
-[haziness]haziness : (rzecz.) mglistość; (rzecz.) niejasność
-[hazy]hazy : (przym.) mglisty; (przym.) niewyraźny; (przym.) zamglony
-[head]head : (rzecz.) czub; (rzecz.) dyrektor; (rzecz.) głowa; (rzecz.) głowica; (rzecz.) głowizna; (rzecz.) główka; (rzecz.) kierownik; (rzecz.) kożuch; (rzecz.) kurs; (rzecz.) łeb; (rzecz.) łepetyna; (rzecz.) makówka; (rzecz.) mózgownica; (rzecz.) naczelnik; (rzecz.) nadlew; (rzecz.) nagłówek; (rzecz.) obuch; (rzecz.) ordynator; (rzecz.) piana; (rzecz.) przywódca; (rzecz.) szczyt; (rzecz.) szef; (rzecz.) umysł
-[head-dress]head-dress : (rzecz.) fryzura; (rzecz.) ufryzowanie
-[head-light]head-light : (rzecz.) reflektor
-[head-line]head-line : (rzecz.) nagłówek
-[head-piece]head-piece : (rzecz.) hełm; (rzecz.) stropnica
-[head-rest]head-rest : (rzecz.) podgłówek
-[head-voice]head-voice : (rzecz.) falset
-[headache]headache : (rzecz.) zmartwienie
-[headband]headband : (rzecz.) kapitałka; (rzecz.) opaska; (rzecz.) pałąk
-[headcheese]headcheese : (rzecz.) salceson
-[headdress]headdress : (rzecz.) fryzura; (rzecz.) ufryzowanie
-[headed]headed : (przym.) głowiasty
-[header]header : (rzecz.) cegła; (rzecz.) główka; (rzecz.) komora; (rzecz.) kuźniarka; (rzecz.) nagłówek; (rzecz.) sekcja; (rzecz.) skrzynia
-[headiness]headiness : (rzecz.) nierozwaga; (rzecz.) porywczość
-[heading]heading : (rzecz.) kurs; (rzecz.) nagłówek; (rzecz.) wyrobisko
-[headlamp]headlamp : (rzecz.) reflektor
-[headland]headland : (rzecz.) cypel; (rzecz.) przylądek
-[headlight]headlight : (rzecz.) reflektor
-[headline]headline : (rzecz.) nagłówek
-[headlines]headlines : (rzecz.) nagłówki
-[headman]headman : (rzecz.) ciskacz; (rzecz.) przodownik; (rzecz.) przywódca; (rzecz.) wódz; (rzecz.) wozak
-[headmaster]headmaster : (rzecz.) dyrektor
-[headmistress]headmistress : (rzecz.) dyrektorka
-[headphone]headphone : (rzecz.) słuchawka
-[headphones]headphones : (rzecz.) słuchawki
-[headpiece]headpiece : (rzecz.) hełm; (rzecz.) winieta
-[headquarters]headquarters : (rzecz.) centrala; (rzecz.) dowództwo; (rzecz.) komenda; (rzecz.) komendantura; (rzecz.) kwatera; (rzecz.) sztab
-[headrest]headrest : (rzecz.) podgłówek; (rzecz.) zagłówek
-[headroom]headroom : (rzecz.) prześwit
-[headscarf]headscarf : (rzecz.) chusta
-[headset]headset : (rzecz.) hełmofon; (rzecz.) słuchawka
-[headsman]headsman : (rzecz.) kat
-[headstall]headstall : (rzecz.) naczółek
-[headstone]headstone : (rzecz.) nagrobek
-[headstrong]headstrong : (przym.) nieustępliwy
-[headway]headway : (rzecz.) postęp; (rzecz.) posuw; (rzecz.) powodzenie
-[headword]headword : (rzecz.) hasło
-[heady]heady : (przym.) gwałtowny; (przym.) mocny; (przym.) upojny
-[heal]heal : (czas.) bliźnić; (czas.) goić; (czas.) łagodzić; (czas.) leczyć; (czas.) uleczyć; (czas.) uśmierzyć; (czas.) uspokajać; (czas.) uzdrawiać; (czas.) uzdrowić; (czas.) wydobrzeć; (czas.) wyleczyć; (czas.) zagoić
-[healable]healable : (przym.) wyleczalny
-[healer]healer : (rzecz.) uzdrawiacz; (rzecz.) uzdrowiciel
-[healing]healing : (przym.) leczniczy; (rzecz.) gojenie; (rzecz.) leczenie; (rzecz.) uzdrawianie; (rzecz.) uzdrowienie; (rzecz.) wygojenie; (rzecz.) zagojenie; (rzecz.) zgojenie
-[health]health : (rzecz.) zdrowie; (rzecz.) zdrowotność
-[healthful]healthful : (przym.) odżywczy; (przym.) zdrowy
-[healthily]healthily : (przysł.) zdrowo
-[healthy]healthy : (przym.) silny; (przym.) zdrów; (przym.) zdrowotny; (przym.) zdrowy
-[heap]heap : (czas.) gromadzić; (czas.) obładować; (czas.) piętrzyć; (czas.) spiętrzać; (czas.) zładować; (rzecz.) fura; (rzecz.) góra; (rzecz.) gromada; (rzecz.) hałda; (rzecz.) kupa; (rzecz.) kupka; (rzecz.) mnóstwo; (rzecz.) pryzma; (rzecz.) pudło; (rzecz.) sterta; (rzecz.) stóg; (rzecz.) stos; (rzecz.) usypisko; (rzecz.) zwał
-[hear]hear : (czas.) dosłyszeć; (czas.) dowiedzieć; (czas.) nasłuchać; (czas.) przesłuchać; (czas.) przesłuchiwać; (czas.) słuchać; (czas.) słychać; (czas.) słyszeć; (czas.) usłyszeć; (czas.) wiedzieć
-[heard]heard : (czas.) słyszeć
-[hearer]hearer : (rzecz.) słuchacz
-[hearing]hearing : (rzecz.) próba; (rzecz.) przesłuchanie; (rzecz.) rozprawa; (rzecz.) słuch; (rzecz.) słuchanie; (rzecz.) słyszenie; (rzecz.) wysłuchanie; (rzecz.) zmysł
-[hearken]hearken : (czas.) słuchać
-[hearsay]hearsay : (rzecz.) plotka; (rzecz.) pogłoska
-[hearse]hearse : (rzecz.) karawan; (rzecz.) katafalk
-[heart]heart : (rzecz.) głąb; (rzecz.) kardiolog; (rzecz.) męstwo; (rzecz.) rdzeń; (rzecz.) sedno; (rzecz.) serce
-[heart-burn]heart-burn : (rzecz.) zgaga
-[heart-burning]heart-burning : (rzecz.) zawiść
-[heart-felt]heart-felt : (przym.) szczery
-[heart-shaped]heart-shaped : (przym.) sercowaty
-[heart-to-heart]heart-to-heart : (przym.) szczery
-[heart-wood]heart-wood : (rzecz.) twardziel
-[heartache]heartache : (rzecz.) cierpienie; (rzecz.) smutek; (rzecz.) strapienie
-[heartbeat]heartbeat : (rzecz.) uderzenie
-[heartbreak]heartbreak : (rzecz.) boleść; (rzecz.) żal; (rzecz.) zawód
-[heartburn]heartburn : (rzecz.) zgaga
-[heartburning]heartburning : (rzecz.) zawiść
-[hearten]hearten : (czas.) dodawać; (czas.) pocieszać
-[heartfelt]heartfelt : (przym.) szczery
-[hearth]hearth : (rzecz.) kominek; (rzecz.) krata; (rzecz.) ognisko; (rzecz.) palenisko; (rzecz.) spód; (rzecz.) spodek; (rzecz.) topnisko; (rzecz.) trzon
-[heartiest]heartiest : (przym.) obfity; (przym.) serdeczny; (przym.) szczery
-[heartily]heartily : (przysł.) ochoczo; (przysł.) serdecznie
-[heartiness]heartiness : (rzecz.) serdeczność
-[heartland]heartland : (rzecz.) centrum
-[heartlessness]heartlessness : (rzecz.) nieczułość
-[hearts]hearts : (rzecz.) kier
-[hearty]hearty : (przym.) kordialny; (przym.) obfity; (przym.) serdeczny; (przym.) silny; (przym.) szczery
-[heat]heat : (czas.) dogrzać; (czas.) grzać; (czas.) nagrzać; (czas.) nagrzewać; (czas.) napalić; (czas.) ogrzać; (czas.) ogrzewać; (czas.) palić; (czas.) podgrzać; (czas.) podgrzewać; (czas.) pogrzać; (czas.) rozżarzać; (czas.) wygrzać; (czas.) zagrzewać; (przym.) cieplny; (rzecz.) cieczka; (rzecz.) ciepło; (rzecz.) ciepłownictwo; (rzecz.) gorąco; (rzecz.) ogrzewanie; (rzecz.) skwar; (rzecz.) spiekota; (rzecz.) upał; (rzecz.) wytop; (rzecz.) żar
-[heat-hardening]heat-hardening : (przym.) termoutwardzalny
-[heat-insulating]heat-insulating : (przym.) termoizolacyjny
-[heat-proof]heat-proof : (przym.) żaroodporny
-[heat-resistant]heat-resistant : (przym.) żaroodporny
-[heat-resisting]heat-resisting : (przym.) termoodporny; (przym.) żaroodporny
-[heat-sink]heat-sink : (rzecz.) radiator
-[heated]heated : (przym.) gorący; (przym.) ożywiony; (przym.) zapalczywy
-[heater]heater : (rzecz.) grzałka; (rzecz.) grzejnik; (rzecz.) nagrzewacz; (rzecz.) nagrzewnica; (rzecz.) ogrzewacz; (rzecz.) piecyk; (rzecz.) podgrzewacz
-[heath]heath : (rzecz.) pustkowie; (rzecz.) wrzos; (rzecz.) wrzosiec; (rzecz.) wrzosowisko
-[heath-cock]heath-cock : (rzecz.) cietrzew
-[heathen]heathen : (rzecz.) poganin; (rzecz.) pogaństwo
-[heathenish]heathenish : (przym.) pogański
-[heathenism]heathenism : (rzecz.) pogaństwo
-[heather]heather : (rzecz.) wrzos
-[heating]heating : (rzecz.) ciepłomierz; (rzecz.) grzanie; (rzecz.) nagrzewanie; (rzecz.) ogrzewanie; (rzecz.) ogrzewnictwo; (rzecz.) opalenie; (rzecz.) podgrzewanie; (rzecz.) rozgrzanie
-[heatproof]heatproof : (przym.) żaroodporny
-[heave]heave : (czas.) dźwigać; (czas.) podźwigać; (czas.) wydobywać; (rzecz.) dźwignięcie; (rzecz.) nurzanie; (rzecz.) podniesienie; (rzecz.) wysadzina
-[heaven]heaven : (rzecz.) niebiosa; (rzecz.) niebo
-[heaven-sent]heaven-sent : (przym.) opatrznościowy
-[heavenly]heavenly : (przym.) cudowny; (przym.) nadziemski; (przym.) niebiański; (przym.) niebieski; (przym.) rajski
-[heavens]heavens : (rzecz.) niebiosa
-[heaver]heaver : (rzecz.) drąg; (rzecz.) dźwignia
-[heaviest]heaviest : (przym.) ciężki
-[heavily]heavily : (przysł.) ciężko; (przysł.) mocno; (przysł.) obficie; (przysł.) ociężale
-[heaviness]heaviness : (rzecz.) ciężkość; (rzecz.) ociężałość
-[heavy]heavy : (przym.) ciężarny; (przym.) ciężki; (przym.) dotkliwy; (przym.) gruby; (przym.) intensywny; (przym.) mocny; (przym.) obfity; (przym.) silny; (przym.) wielki
-[heavy-duty]heavy-duty : (przym.) wysokowydajny
-[heavy-handed]heavy-handed : (przym.) brutalny; (przym.) niesprawiedliwy; (przym.) nietaktowny; (przym.) niezgrabny
-[heavy-walled]heavy-walled : (przym.) grubościenny
-[hecatomb]hecatomb : (rzecz.) hekatomba
-[heck]heck : (rzecz.) jaz; (rzecz.) zapora; (rzecz.) zastawa
-[heckle]heckle : (czas.) dręczyć; (czas.) przeszkadzać
-[heckler]heckler : (rzecz.) krzykacz
-[hectare]hectare : (rzecz.) hektar
-[hectic]hectic : (przym.) gorączkowy; (przym.) hektyczny; (przym.) malaryczny; (przym.) suchotniczy
-[hectograph]hectograph : (rzecz.) powielacz
-[hectolitre]hectolitre : (rzecz.) hektolitr
-[hector]hector : (czas.) awanturować; (czas.) dokazywać; (rzecz.) zawadiaka
-[heddle]heddle : (czas.) nawlekać
-[hedge]hedge : (rzecz.) ogrodzenie; (rzecz.) szpaler; (rzecz.) unik; (rzecz.) zabezpieczenie; (rzecz.) żywopłot
-[hedge-row]hedge-row : (rzecz.) żywopłot
-[hedgehog]hedgehog : (rzecz.) jeż
-[hedger]hedger : (rzecz.) osoba
-[hedgerow]hedgerow : (rzecz.) żywopłot
-[hedonism]hedonism : (rzecz.) hedonizm
-[hedonist]hedonist : (rzecz.) hedonista
-[hedonistic]hedonistic : (przym.) hedonistyczny
-[hee-haw]hee-haw : (czas.) ryczeć
-[heed]heed : (czas.) uważać; (rzecz.) uwaga
-[heedful]heedful : (przym.) baczny; (przym.) dbały; (przym.) ostrożny; (przym.) uważny
-[heedless]heedless : (przym.) lekkomyślny; (przym.) niebaczny; (przym.) niedbały; (przym.) nieostrożny; (przym.) nieuważny
-[heedlessly]heedlessly : (przysł.) niedbale
-[heedlessness]heedlessness : (rzecz.) nieostrożność
-[heel]heel : (rzecz.) napiętek; (rzecz.) obcas; (rzecz.) pięta; (rzecz.) piętka; (rzecz.) ścięgno
-[heel-tap]heel-tap : (rzecz.) flek
-[heeltap]heeltap : (rzecz.) flek
-[heft]heft : (rzecz.) waga
-[hefty]hefty : (przym.) masywny; (przym.) mocny
-[hegemonic]hegemonic : (przym.) władczy
-[hegemony]hegemony : (rzecz.) hegemonia
-[heifer]heifer : (rzecz.) jałowica; (rzecz.) jałówka
-[height]height : (rzecz.) apogeum; (rzecz.) pagórek; (rzecz.) rozkwit; (rzecz.) szczyt; (rzecz.) wyniosłość; (rzecz.) wysokość; (rzecz.) wzrost
-[heighten]heighten : (czas.) podnosić; (czas.) podwyższać; (czas.) potęgować; (czas.) powiększać; (czas.) rozdymać; (czas.) spotęgować
-[heinous]heinous : (przym.) haniebny; (przym.) nienawistny; (przym.) obrzydliwy; (przym.) ohydny; (przym.) potworny
-[heinousness]heinousness : (rzecz.) ohyda
-[heir]heir : (rzecz.) dziedzic; (rzecz.) następca; (rzecz.) spadkobierca; (rzecz.) sukcesor
-[heirloom]heirloom : (rzecz.) dziedzictwo; (rzecz.) scheda; (rzecz.) spadek
-[heist]heist : (rzecz.) kradzież; (rzecz.) napad
-[heliacal]heliacal : (przym.) heliakalny
-[helianthus]helianthus : (rzecz.) słonecznik
-[helical]helical : (przym.) ślimakowaty; (przym.) spiralny; (przym.) śrubowaty; (przym.) śrubowy
-[helicopter]helicopter : (rzecz.) helikopter; (rzecz.) śmigłowiec
-[heliocentric]heliocentric : (przym.) heliocentryczny
-[heliodor]heliodor : (rzecz.) heliodor
-[heliograph]heliograph : (rzecz.) heliograf
-[heliographs]heliographs : (rzecz.) heliografia
-[heliography]heliography : (rzecz.) heliograwiura
-[heliotherapy]heliotherapy : (rzecz.) helioterapia
-[heliotrope]heliotrope : (rzecz.) heliotrop
-[heliotropism]heliotropism : (rzecz.) heliotropizm
-[heliotype]heliotype : (rzecz.) odbitka
-[helium]helium : (rzecz.) hel
-[helix]helix : (rzecz.) helisa; (rzecz.) ślimacznica; (rzecz.) ślimak
-[hell]hell : (rzecz.) piekło
-[hell-cat]hell-cat : (rzecz.) piekielnica
-[hellebore]hellebore : (rzecz.) ciemiernik
-[hellish]hellish : (przym.) cholerny; (przym.) diabelski; (przym.) piekielny; (przym.) potępieńczy
-[helm]helm : (rzecz.) kierowanie; (rzecz.) rumpel; (rzecz.) ster; (rzecz.) sterownica
-[helmet]helmet : (rzecz.) hełm; (rzecz.) kask; (rzecz.) szyszak
-[helmsman]helmsman : (rzecz.) sternik
-[helot]helot : (rzecz.) helota; (rzecz.) niewolnik
-[helotism]helotism : (rzecz.) helotyzm
-[help]help : (czas.) częstować; (czas.) dopomagać; (czas.) poczęstować; (czas.) pomagać; (czas.) poradzić; (czas.) ułatwić; (czas.) wspomagać; (czas.) wstrzymać; (czas.) zaradzać; (czas.) zaradzić; (rzecz.) podpowiadanie; (rzecz.) pomaganie; (rzecz.) pomoc; (rzecz.) pomóc; (rzecz.) poratowanie; (rzecz.) rada; (rzecz.) ratunek; (rzecz.) sukurs; (rzecz.) współpracownik; (rzecz.) wspomożenie
-[helper]helper : (rzecz.) pomagier; (rzecz.) pomocnica; (rzecz.) pomocnik
-[helpful]helpful : (przym.) pomocny; (przym.) pożyteczny; (przym.) uczynny; (przym.) użyteczny
-[helpfully]helpfully : (przysł.) pomocnie; (przysł.) uczynnie; (przysł.) użytecznie
-[helpfulness]helpfulness : (rzecz.) przydatność; (rzecz.) uczynność; (rzecz.) użyteczność
-[helping]helping : (rzecz.) pomaganie; (rzecz.) porcja
-[helpless]helpless : (przym.) bezbronny; (przym.) bezradny; (przym.) bezsilny; (przym.) niezaradny
-[helplessly]helplessly : (przysł.) bezradnie
-[helplessness]helplessness : (rzecz.) bezradność
-[helpmate]helpmate : (rzecz.) towarzysz
-[helpmeet]helpmeet : (rzecz.) towarzysz
-[helter-skelter]helter-skelter : (rzecz.) bezład; (rzecz.) zamęt; (rzecz.) zjeżdżalnia
-[helve]helve : (rzecz.) trzonek
-[hem]hem : (czas.) oblamować; (czas.) obrabiać; (czas.) obrąbiać; (czas.) obramować; (czas.) obrębiać; (czas.) obszyć; (czas.) obszywać; (czas.) pochrząkiwać; (rzecz.) brzeg; (rzecz.) oblamowanie; (rzecz.) obrąbek; (rzecz.) obszycie; (rzecz.) obszywka; (rzecz.) obwódka; (rzecz.) odchrząknięcie; (rzecz.) odkaszlnięcie; (rzecz.) rąbek
-[hematite]hematite : (rzecz.) hematyt
-[hemisphere]hemisphere : (rzecz.) hemisfera; (rzecz.) półkula
-[hemispheric]hemispheric : (przym.) półkulisty
-[hemispherical]hemispherical : (przym.) półkulisty
-[hemistich]hemistich : (rzecz.) półwiersz
-[hemlock]hemlock : (rzecz.) cykuta; (rzecz.) pietrasznik; (rzecz.) szalej
-[hemorrhagic]hemorrhagic : (przym.) krwotoczny
-[hemp]hemp : (rzecz.) juta; (rzecz.) stryczek
-[hempen]hempen : (przym.) konopny
-[hemps]hemps : (rzecz.) konopie
-[hemstitch]hemstitch : (rzecz.) ażurek; (rzecz.) mereżka
-[hen]hen : (rzecz.) kura
-[hen's]hen's : (przym.) kurzy
-[hen-harrier]hen-harrier : (rzecz.) błotniak
-[hence]hence : (przysł.) odtąd; (przysł.) stąd
-[henceforth]henceforth : (przysł.) odtąd
-[henceforward]henceforward : (przysł.) odtąd
-[henchman]henchman : (rzecz.) giermek; (rzecz.) stronnik
-[henna]henna : (rzecz.) henna
-[hens]hens : (rzecz.) kur
-[heparin]heparin : (rzecz.) heparyna
-[hepatic]hepatic : (przym.) wątrobowy
-[hepatitis]hepatitis : (rzecz.) żółtaczka
-[hepcat]hepcat : (rzecz.) znawca
-[heptagon]heptagon : (rzecz.) siedmiokąt
-[heptameter]heptameter : (rzecz.) heptametr
-[heptavalent]heptavalent : (przym.) siedmiowartościowy
-[heptode]heptode : (rzecz.) heptoda
-[herald]herald : (czas.) ogłosić; (czas.) zwiastować; (rzecz.) herold; (rzecz.) zapowiedź; (rzecz.) zwiastun
-[heraldic]heraldic : (przym.) heraldyczny; (przym.) herbowy
-[heraldries]heraldries : (rzecz.) heraldyk
-[heraldry]heraldry : (rzecz.) heraldyka
-[herb]herb : (rzecz.) trójząb; (rzecz.) ziele; (rzecz.) zioło
-[herb-cultivation]herb-cultivation : (rzecz.) zielarstwo
-[herbaceous]herbaceous : (przym.) zielny; (przym.) ziołowy
-[herbage]herbage : (rzecz.) trawa; (rzecz.) trawy
-[herbal]herbal : (przym.) zielarski; (przym.) zielny; (przym.) ziołowy
-[herbalist]herbalist : (rzecz.) zielarz
-[herbarium]herbarium : (rzecz.) zielnik
-[herbicidal]herbicidal : (przym.) chwastobójczy; (przym.) herbicydowy
-[herbicide]herbicide : (rzecz.) herbicyd
-[herbivore]herbivore : (rzecz.) trawojad
-[herbivorous]herbivorous : (przym.) roślinożerny; (przym.) trawożerny
-[herd]herd : (czas.) jednoczyć; (czas.) tłoczyć; (rzecz.) sfora; (rzecz.) stado; (rzecz.) tabun; (rzecz.) tłum; (rzecz.) trzoda
-[herder]herder : (rzecz.) pasterz; (rzecz.) pastuch
-[herdsman]herdsman : (rzecz.) pasterz; (rzecz.) pastuch; (rzecz.) poganiacz
-[here]here : (przysł.) tędy; (przysł.) tu; (przysł.) tutaj
-[hereabouts]hereabouts : (przysł.) blisko; (przysł.) gdzieś
-[hereditable]hereditable : (przym.) dziedziczny
-[hereditary]hereditary : (przym.) dziedziczny
-[heredity]heredity : (rzecz.) dziedziczność
-[herein]herein : (przysł.) tu
-[heresy]heresy : (rzecz.) herezja; (rzecz.) innowierstwo; (rzecz.) kacerstwo
-[heretic]heretic : (rzecz.) heretyk; (rzecz.) kacerz
-[heretical]heretical : (przym.) heretycki
-[heretofore]heretofore : (przysł.) dotychczas; (przysł.) poprzednio
-[heritable]heritable : (przym.) dziedziczny
-[heritage]heritage : (rzecz.) dziedzictwo; (rzecz.) scheda; (rzecz.) spadek; (rzecz.) spuścizna; (rzecz.) szlak
-[heritor]heritor : (rzecz.) dziedzic
-[hermaphrodite]hermaphrodite : (przym.) obojnaczy; (przym.) obupłciowy; (rzecz.) hermafrodyta; (rzecz.) obojnak
-[hermaphroditic]hermaphroditic : (przym.) obojnaczy; (przym.) obupłciowy
-[hermaphroditical]hermaphroditical : (przym.) obojnaczy; (rzecz.) obojnak
-[hermeneutic]hermeneutic : (przym.) hermeneutyczny
-[hermeneutical]hermeneutical : (przym.) hermeneutyczny
-[hermeneutics]hermeneutics : (rzecz.) hermeneutyka
-[hermetic]hermetic : (przym.) hermetyczny; (przym.) szczelny
-[hermetical]hermetical : (przym.) hermetyczny; (przym.) szczelny
-[hermetically]hermetically : (przysł.) hermetycznie
-[hermit]hermit : (rzecz.) anachoreta; (rzecz.) pustelnik
-[hermitage]hermitage : (rzecz.) ermitaż; (rzecz.) odosobnienie; (rzecz.) pustelnia
-[hermitic]hermitic : (przym.) pustelniczy
-[hernia]hernia : (rzecz.) przepuklina; (rzecz.) ruptura
-[hero]hero : (rzecz.) bohater; (rzecz.) heros; (rzecz.) idol
-[heroic]heroic : (przym.) bohaterski; (przym.) heroiczny
-[heroically]heroically : (przysł.) bohatersko; (przysł.) heroicznie
-[heroin]heroin : (rzecz.) heroina
-[heroine]heroine : (rzecz.) bohaterka; (rzecz.) heroina
-[heroism]heroism : (rzecz.) bohaterstwo; (rzecz.) heroiczność; (rzecz.) heroizm
-[heron]heron : (rzecz.) czapla
-[herpes]herpes : (rzecz.) liszaj; (rzecz.) opryszczka
-[herpetic]herpetic : (przym.) opryszczkowy
-[herpetological]herpetological : (przym.) herpetologiczny
-[herring]herring : (rzecz.) śledź
-[herring-bone]herring-bone : (rzecz.) jodełka
-[herringbone]herringbone : (rzecz.) jodełka
-[hertz]hertz : (rzecz.) herc
-[hesitance]hesitance : (rzecz.) niepewność; (rzecz.) niezdecydowanie; (rzecz.) wahanie
-[hesitancy]hesitancy : (rzecz.) niezdecydowanie; (rzecz.) wahanie
-[hesitantly]hesitantly : (przysł.) niepewnie
-[hesitate]hesitate : (czas.) wahać; (czas.) zawahać; (czas.) zwlekać
-[hesitation]hesitation : (rzecz.) niepewność; (rzecz.) niezdecydowanie; (rzecz.) wahanie
-[heteroatom]heteroatom : (rzecz.) heteroatom
-[heterochromatin]heterochromatin : (rzecz.) heterochromatyna
-[heterochromosome]heterochromosome : (rzecz.) heterochromosom
-[heterocyclic]heterocyclic : (przym.) heterocykliczny
-[heterodox]heterodox : (przym.) heterodoksyjny; (przym.) innowierczy
-[heterodoxy]heterodoxy : (rzecz.) heterodoksja; (rzecz.) innowierstwo
-[heterodyne]heterodyne : (rzecz.) heterodyna
-[heterogeneity]heterogeneity : (rzecz.) niejednorodność; (rzecz.) różnorodność
-[heterogeneous]heterogeneous : (przym.) heterogeniczny; (przym.) niejednorodny; (przym.) rozbieżny; (przym.) różnogatunkowy; (przym.) różnorodny
-[heterogeneously]heterogeneously : (przysł.) heterogenicznie
-[heterogenic]heterogenic : (przym.) heterogeniczny; (przym.) niejednorodny
-[heteronymous]heteronymous : (przym.) różnoimienny
-[heterosexual]heterosexual : (przym.) heteroseksualny
-[heterotrophic]heterotrophic : (przym.) cudzożywny
-[heterotrophy]heterotrophy : (rzecz.) cudzożywność
-[heterozygote]heterozygote : (rzecz.) heterozygota
-[hetman]hetman : (przym.) hetmański; (rzecz.) hetman
-[heuristic]heuristic : (przym.) heurystyczny
-[heuristically]heuristically : (przysł.) heurystycznie
-[heuristics]heuristics : (rzecz.) heurystyka
-[hew]hew : (czas.) ciosać; (czas.) kuć; (czas.) ociosać; (czas.) porąbać; (czas.) rąbać; (czas.) wkuć; (czas.) wrębiać
-[hex]hex : (rzecz.) czar; (rzecz.) urok
-[hexadecane]hexadecane : (rzecz.) cetan
-[hexadecimal]hexadecimal : (przym.) heksadecymalny; (przym.) szesnastkowy
-[hexadecimal-to-binary]hexadecimal-to-binary : (przym.) heksadecymalno-binarny; (przym.) szesnastkowo-dwójkowy
-[hexadecimal-to-decimal]hexadecimal-to-decimal : (przym.) szesnastkowo-dziesiętny
-[hexagon]hexagon : (rzecz.) heksagon; (rzecz.) sześciobok; (rzecz.) sześciokąt
-[hexagonal]hexagonal : (przym.) heksagonalny; (przym.) sześciokątny
-[hexagons]hexagons : (rzecz.) sześciokąt
-[hexahedron]hexahedron : (rzecz.) sześcian; (rzecz.) sześciobok
-[hexameter]hexameter : (rzecz.) heksametr
-[hexamethylenetetramine]hexamethylenetetramine : (rzecz.) urotropina
-[hexametrical]hexametrical : (przym.) heksametryczny
-[hexane]hexane : (rzecz.) heksan
-[hexode]hexode : (rzecz.) heksoda
-[hexogen]hexogen : (rzecz.) heksogen
-[hey]hey : (wykrzyknik) hej
-[heyday]heyday : (rzecz.) szczyt; (rzecz.) zenit
-[hi]hi : (wykrzyknik) hej; (wykrzyknik) serwus
-[hiatus]hiatus : (rzecz.) luka; (rzecz.) przerwa; (rzecz.) rozziew
-[hibernate]hibernate : (czas.) przezimować; (czas.) zimować
-[hibernation]hibernation : (rzecz.) hibernacja; (rzecz.) uśpienie
-[hiccough]hiccough : (czas.) czkać; (rzecz.) czkawka
-[hiccup]hiccup : (czas.) czkać; (rzecz.) czkawka
-[hick]hick : (rzecz.) prostak; (rzecz.) wieśniak
-[hickory]hickory : (rzecz.) hikora; (rzecz.) orzesznik
-[hid]hid : (czas.) ukrywać
-[hidden]hidden : (czas.) ukrywać
-[hide]hide : (czas.) chować; (czas.) kryć; (czas.) schować; (czas.) skryć; (czas.) taić; (czas.) ukryć; (czas.) ukrywać; (czas.) zaczaić; (czas.) zamelinować; (czas.) zasłaniać; (czas.) zataić; (rzecz.) skóra; (rzecz.) ukrycie; (rzecz.) ukrywanie
-[hide-out]hide-out : (rzecz.) kryjówka
-[hideaway]hideaway : (rzecz.) kryjówka
-[hideous]hideous : (przym.) ohydny; (przym.) pokraczny; (przym.) straszny; (przym.) szkaradny; (przym.) wstrętny
-[hideously]hideously : (przysł.) brzydko; (przysł.) ohydnie
-[hideousness]hideousness : (rzecz.) brzydota; (rzecz.) okropność; (rzecz.) szkaradność
-[hideout]hideout : (rzecz.) kryjówka
-[hiding]hiding : (rzecz.) pochowanie; (rzecz.) schowanie; (rzecz.) ukrywanie
-[hiding-place]hiding-place : (rzecz.) kryjówka; (rzecz.) schowek; (rzecz.) ukrycie
-[hierarch]hierarch : (rzecz.) hierarcha
-[hierarchic]hierarchic : (przym.) hierarchiczny
-[hierarchical]hierarchical : (przym.) hierarchiczny
-[hierarchically]hierarchically : (przysł.) hierarchicznie
-[hierarchy]hierarchy : (rzecz.) hierarchia; (rzecz.) władza
-[hieratic]hieratic : (przym.) hieratyczny; (przym.) kapłański
-[hieratical]hieratical : (przym.) hieratyczny; (przym.) kapłański
-[hieroglyph]hieroglyph : (rzecz.) hieroglif
-[hieroglyphic]hieroglyphic : (przym.) hieroglificzny; (rzecz.) hieroglif
-[higgledy-piggledy]higgledy-piggledy : (przym.) bezładny; (przysł.) bezładnie; (przysł.) bezwładnie
-[high]high : (przym.) dumny; (przym.) główny; (przym.) silny; (przym.) światowy; (przym.) wielki; (przym.) wybitny; (przym.) wysoki; (przym.) żywy; (przysł.) mocno; (przysł.) wysoko
-[high-availability]high-availability : (rzecz.) dyspozycyjność
-[high-boiling]high-boiling : (przym.) wysokowrzący
-[high-class]high-class : (przym.) ekskluzywny; (przym.) pierwszorzędny
-[high-duty]high-duty : (przym.) wysokosprawny; (przym.) wysokowydajny
-[high-efficiency]high-efficiency : (przym.) wysokowydajny
-[high-flown]high-flown : (przym.) górnolotny
-[high-grade]high-grade : (przym.) wysokogatunkowy; (przym.) wysokojakościowy; (przym.) wysokoprocentowy; (przym.) wysokowartościowy
-[high-handed]high-handed : (przym.) arbitralny; (przym.) despotyczny; (przym.) władczy
-[high-level]high-level : (przym.) ogólny
-[high-melting]high-melting : (przym.) trudnotopliwy; (przym.) wysokotopliwy
-[high-minded]high-minded : (przym.) szlachetny
-[high-octane]high-octane : (przym.) wysokooktanowy
-[high-performance]high-performance : (przym.) wysokosprawny
-[high-pitched]high-pitched : (przym.) wysoki
-[high-pressure]high-pressure : (przym.) wysokociśnieniowy
-[high-principled]high-principled : (przym.) honorowy
-[high-quality]high-quality : (przym.) wysokogatunkowy
-[high-rise]high-rise : (przym.) wielopoziomowy; (przym.) wysokościowy; (rzecz.) wieżowiec; (rzecz.) wysokościowiec
-[high-sounding]high-sounding : (przym.) szumny
-[high-speed]high-speed : (przym.) szybkobieżny; (przym.) szybkościowy; (przym.) wysokoobrotowy
-[high-spirited]high-spirited : (przym.) żwawy; (przym.) żywy
-[high-strung]high-strung : (przym.) wrażliwy
-[high-temperature]high-temperature : (przym.) wysokotemperaturowy
-[high-up]high-up : (rzecz.) osobistość
-[high-wrought]high-wrought : (przym.) ozdobny; (przysł.) gwałtownie
-[highbrow]highbrow : (rzecz.) intelektualista; (rzecz.) inteligent
-[higher]higher : (przym.) ponadpodstawowy
-[highest]highest : (przym.) główny
-[highfaluting]highfaluting : (przym.) górnolotny
-[highhanded]highhanded : (przym.) arbitralny; (przym.) despotyczny; (przym.) władczy
-[highjack]highjack : (rzecz.) porwanie
-[highland]highland : (rzecz.) podgórze; (rzecz.) średniogórze; (rzecz.) wyżyna; (rzecz.) wzgórze
-[highlander]highlander : (rzecz.) góral
-[highlander's]highlander's : (przym.) góralski
-[highlands]highlands : (rzecz.) pogórze; (rzecz.) wyżyna
-[highlight]highlight : (czas.) naświetlić; (czas.) podkreślać; (czas.) podkreślić; (czas.) podświetlać; (czas.) podświetlić; (czas.) unaocznić; (czas.) uwydatniać; (czas.) uwydatnić; (czas.) uwypuklać; (czas.) uwypuklić; (czas.) wyodrębniać; (czas.) wyodrębnić; (czas.) wyróżnić
-[highly]highly : (przysł.) dumnie; (przysł.) wielce; (przysł.) wysoce; (przysł.) wysoko
-[highness]highness : (rzecz.) siła; (rzecz.) szlachetność; (rzecz.) wysokość; (rzecz.) wzniosłość
-[highroad]highroad : (rzecz.) gościniec; (rzecz.) szosa
-[highway]highway : (rzecz.) autostrada; (rzecz.) droga; (rzecz.) gościniec; (rzecz.) magistrala; (rzecz.) szosa
-[highwayman]highwayman : (rzecz.) rozbójnik
-[hijack]hijack : (czas.) porwać; (czas.) porywać; (rzecz.) porwanie
-[hijacked]hijacked : (czas.) porywać
-[hijacker]hijacker : (rzecz.) porywacz
-[hijacking]hijacking : (rzecz.) porwanie; (rzecz.) porywanie; (rzecz.) uprowadzenie
-[hike]hike : (czas.) chodzić; (czas.) wędrować; (czas.) windować; (rzecz.) wędrówka
-[hiker]hiker : (rzecz.) piechur; (rzecz.) turysta; (rzecz.) wycieczkowicz
-[hilarious]hilarious : (przym.) komiczny; (przym.) wesoły; (przym.) zabawny
-[hilarity]hilarity : (rzecz.) wesołość
-[hill]hill : (rzecz.) górka; (rzecz.) kopcenie; (rzecz.) pagórek; (rzecz.) wzgórze; (rzecz.) wzniesienie
-[hill-side]hill-side : (rzecz.) stok
-[hilliness]hilliness : (rzecz.) pagórkowatość
-[hillock]hillock : (rzecz.) górka; (rzecz.) kopczyk; (rzecz.) pagórek; (rzecz.) wzgórek
-[hillside]hillside : (rzecz.) stok; (rzecz.) zbocze
-[hilltop]hilltop : (rzecz.) szczyt
-[hilly]hilly : (przym.) górzysty; (przym.) pagórkowaty; (przym.) stromy
-[hilt]hilt : (rzecz.) rękojeść
-[hind]hind : (przym.) tylni; (przym.) tylny; (rzecz.) łania; (rzecz.) parobek; (rzecz.) udziec
-[hinder]hinder : (czas.) powstrzymywać; (czas.) przeszkadzać
-[hindmost]hindmost : (przym.) ostatni
-[hindquarters]hindquarters : (rzecz.) zad
-[hindrance]hindrance : (rzecz.) przeszkadzanie; (rzecz.) przeszkoda; (rzecz.) utrudnianie; (rzecz.) utrudnienie; (rzecz.) zawada
-[hinge]hinge : (czas.) obracać; (czas.) zależeć; (rzecz.) zawias; (rzecz.) zawiasa
-[hint]hint : (czas.) insynuować; (czas.) nadmieniać; (czas.) napomykać; (czas.) przebąkiwać; (czas.) sugerować; (rzecz.) aluzja; (rzecz.) domyślnik; (rzecz.) napomknięcie; (rzecz.) napomknienie; (rzecz.) niedomówienie; (rzecz.) podpowiedź; (rzecz.) półsłówko; (rzecz.) pomoc; (rzecz.) przycinek; (rzecz.) przymówka; (rzecz.) rada; (rzecz.) ślad; (rzecz.) sugestia; (rzecz.) wskazówka
-[hinterland]hinterland : (rzecz.) zaplecze
-[hints]hints : (rzecz.) prowadnica
-[hip]hip : (przym.) biodrowy; (rzecz.) biodro
-[hip-bath]hip-bath : (rzecz.) nasiadówka
-[hip-flask]hip-flask : (rzecz.) piersiówka
-[hipbath]hipbath : (rzecz.) nasiadówka
-[hippie]hippie : (rzecz.) hipis; (rzecz.) hippis
-[hippo]hippo : (rzecz.) hipopotam
-[hippodrome]hippodrome : (rzecz.) hipodrom
-[hippopotamus]hippopotamus : (rzecz.) hipopotam
-[hippy]hippy : (rzecz.) hipis; (rzecz.) hippis
-[hircine]hircine : (przym.) kozi
-[hire]hire : (czas.) angażować; (czas.) godzić; (czas.) najmować; (czas.) wynajmować; (czas.) zatrudniać; (czas.) zatrudnić; (rzecz.) dzierżawa; (rzecz.) najem; (rzecz.) wynajęcie; (rzecz.) wynajem
-[hireling]hireling : (rzecz.) najemnik; (rzecz.) najmita
-[hirer]hirer : (rzecz.) najemca
-[hirsute]hirsute : (przym.) kosmaty; (przym.) kudłaty; (przym.) włochaty
-[hispid]hispid : (przym.) kolczasty; (przym.) kosmaty; (przym.) szczeciniasty
-[hiss]hiss : (czas.) bzykać; (czas.) syczeć; (rzecz.) poszum; (rzecz.) syczenie; (rzecz.) syk
-[hisses]hisses : (rzecz.) wygwizdanie
-[histamine]histamine : (rzecz.) histamina
-[histogram]histogram : (rzecz.) histogram; (rzecz.) wykres
-[histological]histological : (przym.) histologiczny
-[histologist]histologist : (rzecz.) histolog
-[histology]histology : (rzecz.) histologia
-[histopathology]histopathology : (rzecz.) histopatologia
-[historian]historian : (rzecz.) dziejopis; (rzecz.) dziejopisarz; (rzecz.) historyk
-[historic]historic : (przym.) dziejowy; (przym.) historyczny; (przym.) zabytkowy
-[historical]historical : (przym.) dziejowy; (przym.) historyczny
-[historically]historically : (przysł.) historycznie
-[historicism]historicism : (rzecz.) historyzm
-[historicity]historicity : (rzecz.) historyczność
-[historiographer]historiographer : (rzecz.) dziejopis; (rzecz.) historiograf
-[historiography]historiography : (rzecz.) dziejopisarstwo; (rzecz.) historiografia
-[history]history : (rzecz.) dzieje; (rzecz.) historia
-[histrionic]histrionic : (przym.) dramatyczny; (przym.) sceniczny; (przym.) teatralny
-[histrionics]histrionics : (rzecz.) aktorstwo
-[hit]hit : (czas.) trafiać; (czas.) trafić; (czas.) trzaskać; (czas.) uderzać; (czas.) uderzyć; (rzecz.) cios; (rzecz.) nagranie; (rzecz.) piosenka; (rzecz.) przebój; (rzecz.) szlagier; (rzecz.) trafienie; (rzecz.) uderzenie
-[hitch]hitch : (czas.) kuśtykać; (czas.) odciągać; (czas.) pociągnąć; (czas.) podnosić; (czas.) popychać; (czas.) posuwać; (czas.) przyczepiać; (czas.) przyczepić; (czas.) szarpnąć; (czas.) uczepić; (czas.) umocować; (czas.) umocowywać; (czas.) zaczepiać; (rzecz.) szarpnięcie; (rzecz.) szkopuł; (rzecz.) uczep; (rzecz.) zatrzymanie
-[hitch-hiker]hitch-hiker : (rzecz.) autostopowicz
-[hitch-hiking]hitch-hiking : (rzecz.) autostop
-[hitchhiker]hitchhiker : (rzecz.) autostopowicz
-[hither]hither : (przysł.) tu
-[hitherto]hitherto : (przysł.) dotąd; (przysł.) dotychczas
-[hitter]hitter : (rzecz.) zastępca; (rzecz.) zastępstwo
-[hive]hive : (czas.) gromadzić; (czas.) roić; (rzecz.) ul
-[hl]hl : (rzecz.) hektolitr
-[hoar]hoar : (przym.) siwy
-[hoar-frost]hoar-frost : (rzecz.) szron
-[hoard]hoard : (czas.) chować; (czas.) ciułać; (czas.) gromadzić; (czas.) zbierać; (rzecz.) skarb; (rzecz.) zapas; (rzecz.) zasób
-[hoarding]hoarding : (rzecz.) ciułanie; (rzecz.) oszalowanie; (rzecz.) parkan
-[hoarfrost]hoarfrost : (rzecz.) szron
-[hoarse]hoarse : (przym.) chrapliwy; (przym.) chrypliwy; (przym.) ochrypły; (przym.) zachrypły
-[hoarsely]hoarsely : (przysł.) chrapliwie
-[hoarsen]hoarsen : (czas.) zachrypieć
-[hoarseness]hoarseness : (rzecz.) chrypa; (rzecz.) chrypka; (rzecz.) szorstkość
-[hoary]hoary : (przym.) siwy
-[hoax]hoax : (czas.) nabierać; (rzecz.) kaczka; (rzecz.) mistyfikacja; (rzecz.) żart
-[hob]hob : (rzecz.) ćwiek; (rzecz.) figiel; (rzecz.) kołek
-[hobble]hobble : (czas.) chromać; (czas.) kulawieć; (czas.) kuleć; (czas.) pętać; (czas.) utykać; (rzecz.) chromanie; (rzecz.) kulawka; (rzecz.) utykanie
-[hobbledehoy]hobbledehoy : (rzecz.) chłystek; (rzecz.) ciamajda; (rzecz.) młokos
-[hobby]hobby : (rzecz.) hobby; (rzecz.) konik; (rzecz.) pasja; (rzecz.) zainteresowanie
-[hobbyhorse]hobbyhorse : (rzecz.) konik
-[hobbyist]hobbyist : (rzecz.) hobbista
-[hobgoblin]hobgoblin : (rzecz.) skrzat; (rzecz.) straszak
-[hobnail]hobnail : (rzecz.) ćwiek; (rzecz.) gwóźdź; (rzecz.) podkowiak
-[hobnob]hobnob : (czas.) poufalić; (czas.) zadać; (czas.) zadawać
-[hobo]hobo : (rzecz.) menel; (rzecz.) włóczęga
-[hock]hock : (czas.) zastawiać; (rzecz.) golonka; (rzecz.) pęcina; (rzecz.) zastaw
-[hockey]hockey : (rzecz.) hokej
-[hockshop]hockshop : (rzecz.) lombard
-[hocus-pocus]hocus-pocus : (rzecz.) matactwo
-[hodgepodge]hodgepodge : (rzecz.) mieszanina
-[hodograph]hodograph : (rzecz.) hodograf
-[hoe]hoe : (czas.) gracować; (czas.) radlić; (czas.) spulchniać; (czas.) spulchnić; (rzecz.) graca; (rzecz.) kilof; (rzecz.) motyka
-[hog]hog : (czas.) przegiąć; (czas.) spaczyć; (rzecz.) knur; (rzecz.) świnia; (rzecz.) tucznik; (rzecz.) wieprz
-[hogs]hogs : (rzecz.) nierogacizna
-[hoist]hoist : (czas.) dźwigać; (czas.) podnieść; (czas.) podnosić; (czas.) unosić; (czas.) wciągać; (czas.) windować; (czas.) wyciągać; (czas.) wywiesić; (rzecz.) dźwig; (rzecz.) lewar; (rzecz.) linociąg; (rzecz.) skrót; (rzecz.) winda; (rzecz.) wyciąg; (rzecz.) wyciągarka
-[hoister]hoister : (rzecz.) elewator; (rzecz.) sztaplarka
-[hokum]hokum : (rzecz.) banał
-[hold]hold : (rzecz.) uchwyt; (czas.) chwytać; (czas.) czekać; (czas.) dzierżyć; (czas.) mieścić; (czas.) nadstawiać; (czas.) obchodzić; (czas.) odbywać; (czas.) piastować; (czas.) pomieścić; (czas.) posiadać; (czas.) postanawiać; (czas.) przetrzymywać; (czas.) przytrzymać; (czas.) ściskać; (czas.) trzymać; (czas.) zaczekać; (czas.) zawierać; (czas.) zgotować; (rzecz.) chwyt; (rzecz.) ładownia; (rzecz.) przytrzymanie; (rzecz.) trzymanie
-[hold-up]hold-up : (rzecz.) napad; (rzecz.) zdzierstwo
-[holdall]holdall : (rzecz.) torba
-[holder]holder : (rzecz.) klaser; (rzecz.) okaziciel; (rzecz.) oprawka; (rzecz.) posiadacz; (rzecz.) trzymacz; (rzecz.) uchwyt; (rzecz.) właściciel
-[holdfast]holdfast : (rzecz.) docisk
-[holding]holding : (rzecz.) dzierżawa; (rzecz.) posiadanie; (rzecz.) sprawowanie; (rzecz.) trzymanie; (rzecz.) władanie; (rzecz.) wytrzymywanie; (rzecz.) zapas
-[holdover]holdover : (rzecz.) przeżytek
-[hole]hole : (czas.) przekopać; (czas.) uszczuplać; (rzecz.) dołek; (rzecz.) dziura; (rzecz.) dziurka; (rzecz.) jama; (rzecz.) nora; (rzecz.) otwór; (rzecz.) włom
-[hole-and-corner]hole-and-corner : (przym.) potajemny
-[hole-saw]hole-saw : (rzecz.) sękarka
-[hole-through]hole-through : (rzecz.) przebicie; (rzecz.) przecinka; (rzecz.) wrębienie
-[holey]holey : (przym.) dziurawy
-[holiday]holiday : (rzecz.) ferie; (rzecz.) święto; (rzecz.) wakacje; (rzecz.) wczasy
-[holiday-maker]holiday-maker : (rzecz.) letnik; (rzecz.) urlopowicz; (rzecz.) wczasowicz
-[holidaymaker]holidaymaker : (rzecz.) letnik; (rzecz.) turysta; (rzecz.) urlopowicz; (rzecz.) wczasowicz
-[holidaymakers]holidaymakers : (rzecz.) wczasowicz
-[holidays]holidays : (rzecz.) urlop; (rzecz.) wakacje; (rzecz.) wczasy
-[holiness]holiness : (rzecz.) świątobliwość; (rzecz.) świętość
-[holism]holism : (rzecz.) holizm
-[holistic]holistic : (przym.) holistyczny; (przym.) odświętny
-[holler]holler : (czas.) ryczeć; (czas.) wrzeszczeć; (czas.) wykrzykiwać
-[hollering]hollering : (rzecz.) wrzask
-[hollow]hollow : (czas.) wydrążyć; (przym.) dziurawy; (przym.) próżny; (przym.) pusty; (rzecz.) dół; (rzecz.) dziupla; (rzecz.) dziura; (rzecz.) dźwięk; (rzecz.) jama; (rzecz.) kotlina; (rzecz.) próżnia; (rzecz.) wgłębienie; (rzecz.) wydrążenie; (rzecz.) zagłębienie; (rzecz.) zapadlisko
-[holly]holly : (rzecz.) ostrokrzew
-[hollyhock]hollyhock : (rzecz.) malwa
-[holmium]holmium : (rzecz.) holm
-[holocaust]holocaust : (rzecz.) całopalenie; (rzecz.) holokaust; (rzecz.) zagłada
-[hologram]hologram : (rzecz.) hologram
-[holograms]holograms : (rzecz.) hologram
-[holograph]holograph : (rzecz.) holograf
-[holographic]holographic : (przym.) holograficzny
-[holography]holography : (rzecz.) holografia
-[holster]holster : (rzecz.) futerał; (rzecz.) kabura; (rzecz.) olstro
-[holt]holt : (rzecz.) gaj
-[holy]holy : (przym.) religijny; (przym.) świątobliwy; (przym.) święty
-[homage]homage : (rzecz.) hołd
-[home]home : (przym.) domatorski; (przym.) domowy; (przym.) krajowy; (przym.) ojczyźniany; (przym.) rodzimy; (przysł.) domowo; (rzecz.) dom; (rzecz.) domatorstwo; (rzecz.) kolebka; (rzecz.) mieszkanie; (rzecz.) ojczyzna; (rzecz.) sadyba
-[home-brew]home-brew : (rzecz.) podpiwek
-[home-made]home-made : (przym.) domowy
-[homeland]homeland : (rzecz.) macierz; (rzecz.) ojczyzna
-[homeless]homeless : (przym.) bezdomny; (przym.) tułaczy
-[homelessness]homelessness : (rzecz.) bezdomność
-[homelike]homelike : (przym.) domowy; (przym.) miły; (przym.) przytulny
-[homely]homely : (przym.) brzydki; (przym.) domowy; (przym.) prosty; (przym.) przytulny; (przym.) swojski
-[homemade]homemade : (przym.) domowy; (przym.) krajowy; (przym.) swojski
-[homeomorphism]homeomorphism : (rzecz.) homeomorfizm
-[homeopath]homeopath : (rzecz.) homeopata
-[homeopathic]homeopathic : (przym.) homeopatyczny
-[homeopathy]homeopathy : (rzecz.) homeopatia
-[homeowner]homeowner : (rzecz.) właściciel
-[homepage]homepage : (rzecz.) witryna
-[homesick]homesick : (przym.) nostalgiczny
-[homesickness]homesickness : (rzecz.) tęsknota
-[homespun]homespun : (przym.) bezpośredni; (przym.) prosty; (przym.) samodziałowy; (rzecz.) samodział
-[homestead]homestead : (rzecz.) domostwo; (rzecz.) farma; (rzecz.) gospodarstwo
-[homesteader]homesteader : (rzecz.) osadnik
-[homeward]homeward : (przym.) powrotny
-[homework]homework : (rzecz.) chałupnictwo; (rzecz.) zadanie
-[homey]homey : (przym.) domowy
-[homicidal]homicidal : (przym.) morderczy
-[homicide]homicide : (rzecz.) morderca; (rzecz.) morderczyni; (rzecz.) zabójca; (rzecz.) zabójstwo
-[homiletic]homiletic : (przym.) homiletyczny; (przym.) kaznodziejski
-[homily]homily : (rzecz.) homilia; (rzecz.) kazanie
-[hominid]hominid : (rzecz.) małpolud
-[hominy]hominy : (rzecz.) mamałyga
-[homocentric]homocentric : (przym.) współśrodkowy
-[homoeopath]homoeopath : (rzecz.) homeopata
-[homoeopathic]homoeopathic : (przym.) homeopatyczny
-[homoeopathy]homoeopathy : (rzecz.) homeopatia
-[homogeneity]homogeneity : (rzecz.) homogeniczność; (rzecz.) jednorodność
-[homogeneous]homogeneous : (przym.) homogeniczny; (przym.) jednolity
-[homogeneously]homogeneously : (przysł.) homogenicznie; (przysł.) jednorodnie
-[homogenisation]homogenisation : (rzecz.) homogenizacja; (rzecz.) ujednorodnienie
-[homogeniser]homogeniser : (rzecz.) homogenizator
-[homogenization]homogenization : (rzecz.) homogenizacja
-[homogenize]homogenize : (czas.) homogenizować
-[homogenizer]homogenizer : (rzecz.) homogenizator
-[homogenizing]homogenizing : (rzecz.) homogenizacja; (rzecz.) ujednorodnianie
-[homogenous]homogenous : (przym.) homogeniczny; (przym.) jednolity
-[homographic]homographic : (przym.) homograficzny
-[homologation]homologation : (rzecz.) homologacja
-[homologous]homologous : (przym.) homologiczny; (przym.) odpowiedni; (przym.) pokrewny
-[homologue]homologue : (rzecz.) homolog
-[homologues]homologues : (rzecz.) homologia
-[homology]homology : (rzecz.) homologia
-[homomorphism]homomorphism : (rzecz.) homomorfizm
-[homonym]homonym : (rzecz.) homonim
-[homonymic]homonymic : (przym.) homonimiczny
-[homonymous]homonymous : (przym.) homonimiczny
-[homonymy]homonymy : (rzecz.) homonimia
-[homophobia]homophobia : (rzecz.) homofonia
-[homophone]homophone : (rzecz.) homofon
-[homophonous]homophonous : (przym.) homofoniczny
-[homophony]homophony : (rzecz.) homofonia
-[homosexual]homosexual : (przym.) homoseksualny; (rzecz.) homoseksualista; (rzecz.) lesbijka; (rzecz.) pederasta
-[homosexuality]homosexuality : (rzecz.) homoseksualizm
-[homozygote]homozygote : (rzecz.) homozygota
-[homozygous]homozygous : (przym.) homozygotyczny
-[homunculus]homunculus : (rzecz.) plemnik
-[hone]hone : (czas.) ostrzyć; (rzecz.) brus; (rzecz.) osełka
-[honest]honest : (przym.) poczciwy; (przym.) prawy; (przym.) rzetelny; (przym.) szczery; (przym.) uczciwy
-[honestly]honestly : (przysł.) szczerze; (przysł.) uczciwie
-[honesty]honesty : (rzecz.) miesiącznica; (rzecz.) porządność; (rzecz.) prawość; (rzecz.) szczerość; (rzecz.) uczciwość
-[honey]honey : (rzecz.) kochanie; (rzecz.) miód; (rzecz.) miodek; (rzecz.) złotko
-[honey-buzzard]honey-buzzard : (rzecz.) pszczołojad
-[honey-tongued]honey-tongued : (przym.) miodousty
-[honeybee]honeybee : (rzecz.) pszczoła
-[honeycomb]honeycomb : (rzecz.) bąbel
-[honeydew]honeydew : (rzecz.) spadź
-[honeyed]honeyed : (przym.) miodopłynny; (przym.) słodki
-[honeysuckle]honeysuckle : (rzecz.) wiciokrzew
-[honk]honk : (czas.) krzyczeć; (czas.) trąbić; (rzecz.) klakson; (rzecz.) krzyk
-[honky-tonk]honky-tonk : (rzecz.) mordownia
-[honorary]honorary : (przym.) bezpłatny; (przym.) honorowy
-[honorific]honorific : (przym.) zaszczytny
-[honour]honour : (czas.) honorować; (czas.) poważać; (czas.) zaszczycać; (rzecz.) cześć; (rzecz.) honor; (rzecz.) zaszczyt
-[honourable]honourable : (przym.) czcigodny; (przym.) honorowy; (przym.) prawy; (przym.) szanowny; (przym.) uczciwy; (przym.) zaszczytny
-[hooch]hooch : (rzecz.) bimber; (rzecz.) gorzała; (rzecz.) samogon
-[hood]hood : (czas.) okapturzyć; (rzecz.) kapiszon; (rzecz.) kaptur; (rzecz.) kapturek; (rzecz.) kapuza; (rzecz.) maska; (rzecz.) okap
-[hoodlum]hoodlum : (rzecz.) bandzior; (rzecz.) chuligan
-[hoodwink]hoodwink : (czas.) oszukać; (czas.) ukrywać; (czas.) zmylać; (czas.) zmylić
-[hooey]hooey : (rzecz.) bzdura
-[hoof]hoof : (rzecz.) kopytko; (rzecz.) kopyto; (rzecz.) racica
-[hook]hook : (czas.) krzywić; (czas.) podpiąć; (czas.) przyczepiać; (czas.) skrzywić; (czas.) zaczepiać; (czas.) zaczepić; (czas.) zagiąć; (czas.) zahaczać; (czas.) zahaczyć; (rzecz.) haczyk; (rzecz.) hak; (rzecz.) ogonek; (rzecz.) zagięcie
-[hookah]hookah : (rzecz.) nargile
-[hooked]hooked : (przym.) garbaty; (przym.) haczykowaty; (przym.) hakowaty; (przym.) zahaczony
-[hooker]hooker : (rzecz.) dziwka; (rzecz.) prostytutka
-[hookworm]hookworm : (rzecz.) tęgoryjec
-[hooligan]hooligan : (rzecz.) chuligan; (rzecz.) łobuz
-[hooliganism]hooliganism : (rzecz.) chuligaństwo; (rzecz.) rozrabiactwo
-[hoop]hoop : (czas.) obrębiać; (czas.) obrębić
-[hoop-la]hoop-la : (rzecz.) rozgardiasz
-[hoopla]hoopla : (rzecz.) rozgardiasz
-[hoopoe]hoopoe : (rzecz.) dudek; (rzecz.) dudka
-[hoopoes]hoopoes : (rzecz.) dudki
-[hooray]hooray : (wykrzyknik) hura; (wykrzyknik) hurra
-[hoot]hoot : (czas.) gwizdać; (czas.) huczeć; (czas.) hukać; (czas.) krzyczeć; (czas.) szydzić; (czas.) wyć; (czas.) zawyć; (rzecz.) gwizd; (rzecz.) hukanie
-[hooves]hooves : (rzecz.) kopyta
-[hop]hop : (czas.) podskakiwać; (czas.) skakać; (rzecz.) chmiel; (rzecz.) podskok; (rzecz.) przeskok; (rzecz.) skok; (rzecz.) taniec
-[hope]hope : (czas.) spodziewać; (rzecz.) nadzieja
-[hopeful]hopeful : (przym.) optymistyczny
-[hopefulness]hopefulness : (rzecz.) nadzieja; (rzecz.) optymizm
-[hopeless]hopeless : (przym.) beznadziejny; (przym.) rozpaczliwy
-[hopelessly]hopelessly : (przysł.) beznadziejnie
-[hopelessness]hopelessness : (rzecz.) beznadziejność; (rzecz.) desperacja; (rzecz.) rozpaczliwość
-[hophead]hophead : (rzecz.) narkoman
-[hopper]hopper : (rzecz.) leja; (rzecz.) pchła; (rzecz.) skoczek; (rzecz.) zbiornik; (rzecz.) zsyp
-[horde]horde : (rzecz.) chmara; (rzecz.) gromada; (rzecz.) horda; (rzecz.) orda; (rzecz.) tabun
-[horizon]horizon : (rzecz.) horyzont; (rzecz.) nieboskłon; (rzecz.) poziom; (rzecz.) widnokrąg
-[horizontal]horizontal : (przym.) horyzontalny; (przym.) międzybranżowy; (przym.) poziomy; (przym.) ułamkowy
-[horizontally]horizontally : (przysł.) horyzontalnie; (przysł.) poziomo
-[hormonal]hormonal : (przym.) hormonalny
-[hormone]hormone : (rzecz.) hormon
-[horn]horn : (rzecz.) czułek; (rzecz.) klakson; (rzecz.) róg; (rzecz.) rożek; (rzecz.) syrena; (rzecz.) trąba; (rzecz.) tuba
-[horn-rimmed]horn-rimmed : (przym.) rogowy
-[hornbeam]hornbeam : (rzecz.) grab; (rzecz.) grabie
-[hornblende]hornblende : (rzecz.) amfibol; (rzecz.) hornblenda
-[horned]horned : (przym.) rogaty
-[hornet]hornet : (rzecz.) szerszeń
-[horniness]horniness : (rzecz.) zrogowacenie
-[hornless]hornless : (przym.) bezrogi
-[hornstone]hornstone : (rzecz.) rogowiec
-[horny]horny : (przym.) ostry; (przym.) rogowaty; (przym.) rogowy; (przym.) zrogowaciały
-[horologe]horologe : (rzecz.) czasomierz; (rzecz.) zegar
-[horologer]horologer : (rzecz.) zegarmistrz
-[horology]horology : (rzecz.) zegarmistrzostwo
-[horoscope]horoscope : (rzecz.) horoskop
-[horrendous]horrendous : (przym.) horrendalny; (przym.) niezmierny; (przym.) straszliwy
-[horrendously]horrendously : (przysł.) horrendalnie
-[horrible]horrible : (przym.) horrendalny; (przym.) okropny; (przym.) potworny; (przym.) straszny; (przym.) zły
-[horribly]horribly : (przysł.) haniebnie; (przysł.) potwornie; (przysł.) strasznie
-[horrid]horrid : (przym.) nieznośny; (przym.) odrażający; (przym.) okropny; (przym.) paskudny; (przym.) straszny
-[horridly]horridly : (przysł.) nieznośnie; (przysł.) strasznie
-[horrific]horrific : (przym.) okropny; (przym.) przerażający; (przym.) straszliwy
-[horrify]horrify : (czas.) przerażać; (czas.) przerazić; (czas.) szokować
-[horror]horror : (rzecz.) makabra; (rzecz.) okropność; (rzecz.) przerażenie; (rzecz.) zgroza
-[hors]hors : (rzecz.) przekąska; (rzecz.) zakąska
-[horse]horse : (rzecz.) jazda; (rzecz.) kawaleria; (rzecz.) koń; (rzecz.) konik; (rzecz.) konina; (rzecz.) trzepak
-[horse-breaker]horse-breaker : (rzecz.) ujeżdżacz
-[horse-chestnut]horse-chestnut : (rzecz.) kasztanowiec
-[horse-collar]horse-collar : (rzecz.) chomąto
-[horse-comb]horse-comb : (rzecz.) zgrzebło
-[horse-race]horse-race : (rzecz.) gonitwa
-[horse-radish]horse-radish : (rzecz.) chrzan
-[horse-riding]horse-riding : (rzecz.) jeździectwo
-[horseback]horseback : (przysł.) konno; (przysł.) wierzchem
-[horsefly]horsefly : (rzecz.) giez; (rzecz.) mucha
-[horsehair]horsehair : (rzecz.) włosie
-[horseless]horseless : (przym.) mechaniczny
-[horseman]horseman : (rzecz.) jeździec; (rzecz.) kawalerzysta
-[horsemanship]horsemanship : (rzecz.) hipika; (rzecz.) hippika; (rzecz.) jeździectwo
-[horsemeat]horsemeat : (rzecz.) konina
-[horsepower]horsepower : (rzecz.) kierat
-[horsepower-hour]horsepower-hour : (rzecz.) Koniogodzina
-[horserace]horserace : (rzecz.) gonitwa
-[horseradish]horseradish : (rzecz.) chrzan
-[horseshoe]horseshoe : (rzecz.) podkowa
-[horsetail]horsetail : (rzecz.) skrzyp
-[horsewhip]horsewhip : (rzecz.) pejcz; (rzecz.) szpicruta
-[horsewoman]horsewoman : (rzecz.) amazonka
-[horsing]horsing : (rzecz.) dosiadanie
-[horst]horst : (rzecz.) horst; (rzecz.) uskok; (rzecz.) zrąb
-[horsy]horsy : (przym.) koński; (przym.) wyścigowy
-[horticultural]horticultural : (przym.) ogrodniczy
-[horticulture]horticulture : (rzecz.) ogrodnictwo
-[horticulturist]horticulturist : (rzecz.) ogrodnik
-[hose]hose : (rzecz.) pończocha; (rzecz.) szlauch; (rzecz.) wąż
-[hosiery]hosiery : (rzecz.) bielizna; (rzecz.) galanteria; (rzecz.) trykotaż; (rzecz.) trykotaże
-[hospice]hospice : (rzecz.) hospicjum
-[hospitable]hospitable : (przym.) dostępny; (przym.) gościnny
-[hospital]hospital : (rzecz.) lazaret; (rzecz.) szpital
-[hospitality]hospitality : (rzecz.) gościna; (rzecz.) gościnność; (rzecz.) serdeczność
-[hospitalization]hospitalization : (rzecz.) hospitalizacja
-[hospitalize]hospitalize : (czas.) hospitalizować
-[hospitalized]hospitalized : (czas.) hospitalizować
-[host]host : (czas.) gościć; (rzecz.) bezlik; (rzecz.) chmara; (rzecz.) czereda; (rzecz.) falanga; (rzecz.) gospodarz; (rzecz.) goszczenie; (rzecz.) hostia; (rzecz.) konferansjer; (rzecz.) orszak; (rzecz.) szynkarz; (rzecz.) tłum; (rzecz.) zastęp; (rzecz.) żywiciel
-[hostage]hostage : (rzecz.) zakładnik
-[hostel]hostel : (rzecz.) akademik; (rzecz.) hospicjum; (rzecz.) internat; (rzecz.) noclegownia; (rzecz.) schronisko
-[hostelry]hostelry : (rzecz.) oberża; (rzecz.) zajazd
-[hostess]hostess : (rzecz.) hostessa
-[hostile]hostile : (przym.) napastniczy; (przym.) nieprzyjazny; (przym.) wrogi
-[hostility]hostility : (rzecz.) wrogość
-[hot]hot : (czas.) nagrzać; (czas.) rozgrzać; (czas.) zagrzać; (czas.) zgrzać; (przym.) ciepły; (przym.) gorący; (przym.) ostry; (przym.) pikantny; (przym.) pokupny; (przym.) upalny
-[hot-blooded]hot-blooded : (przym.) gorącokrwisty; (przym.) krewki
-[hot-cathode]hot-cathode : (rzecz.) termokatoda
-[hot-headed]hot-headed : (przym.) popędliwy
-[hot-house]hot-house : (rzecz.) cieplarnia
-[hot-setting]hot-setting : (przym.) termoutwardzalny
-[hot-tempered]hot-tempered : (przym.) porywczy; (przym.) wybuchowy
-[hotbed]hotbed : (rzecz.) chłodnia; (rzecz.) inspekt; (rzecz.) przyśpiesznik; (rzecz.) wylęgarnia
-[hotcake]hotcake : (rzecz.) naleśnik
-[hotchpotch]hotchpotch : (rzecz.) galimatias; (rzecz.) mieszanina; (rzecz.) miszmasz
-[hotel]hotel : (rzecz.) hotel
-[hotel-keeper]hotel-keeper : (rzecz.) hotelarz
-[hotelier]hotelier : (rzecz.) hotelarz
-[hotfoot]hotfoot : (przysł.) ochoczo
-[hothead]hothead : (rzecz.) narwaniec; (rzecz.) pasjonat
-[hothouse]hothouse : (rzecz.) cieplarnia; (rzecz.) konserwatorium; (rzecz.) oranżeria; (rzecz.) pomarańczarnia; (rzecz.) szklarnia
-[hotlink]hotlink : (rzecz.) odnośnik
-[hotpot]hotpot : (rzecz.) bigos
-[hotshot]hotshot : (rzecz.) mądrala
-[hound]hound : (czas.) podjudzać; (czas.) ścigać; (czas.) tropić; (rzecz.) miłośnik; (rzecz.) ogar
-[hour]hour : (rzecz.) godzina; (rzecz.) godzinka
-[hour-glass]hour-glass : (rzecz.) klepsydra
-[hourglass]hourglass : (rzecz.) klepsydra
-[hourly]hourly : (przym.) ciągły; (przym.) cogodzinny; (przym.) godzinowy
-[hours]hours : (rzecz.) doba; (rzecz.) godzina
-[house]house : (czas.) magazynować; (czas.) mieścić; (czas.) ulokować; (czas.) umieścić; (rzecz.) budynek; (rzecz.) dom; (rzecz.) domek; (rzecz.) domostwo; (rzecz.) firma; (rzecz.) izba; (rzecz.) kamienica; (rzecz.) pensjonat; (rzecz.) ród; (rzecz.) widownia
-[house-breaker]house-breaker : (rzecz.) włamywacz
-[house-to-house]house-to-house : (przym.) domokrążny
-[houseboat]houseboat : (rzecz.) barka; (rzecz.) koszarka; (rzecz.) łódź
-[housebreaker]housebreaker : (rzecz.) włamywacz
-[housebreaking]housebreaking : (rzecz.) włamanie
-[housecoat]housecoat : (rzecz.) podomka; (rzecz.) szlafrok
-[housefly]housefly : (rzecz.) mucha
-[household]household : (przym.) domownicy; (przym.) domowy; (rzecz.) dom; (rzecz.) domostwo; (rzecz.) gospodarstwo
-[householder]householder : (rzecz.) domownik; (rzecz.) właściciel
-[housekeeper]housekeeper : (rzecz.) dozorczyni; (rzecz.) gospodyni; (rzecz.) gosposia; (rzecz.) zarządca
-[housekeeping]housekeeping : (rzecz.) gospodarowanie
-[houseless]houseless : (przym.) bezdomny
-[houseline]houseline : (rzecz.) juzing; (rzecz.) trójnitka
-[housemaid]housemaid : (rzecz.) gosposia; (rzecz.) pokojówka; (rzecz.) służąca
-[houseman]houseman : (rzecz.) asystent; (rzecz.) stażysta
-[houseplant]houseplant : (przym.) doniczkowy
-[housewarming]housewarming : (rzecz.) parapetówka
-[housewife]housewife : (rzecz.) gospodyni; (rzecz.) gosposia
-[housework]housework : (rzecz.) sprzątanie
-[housing]housing : (rzecz.) akomodacja; (rzecz.) budownictwo; (rzecz.) czaprak; (rzecz.) obudowa; (rzecz.) osłona; (rzecz.) pomieszczenie; (rzecz.) zamieszkiwanie
-[hovel]hovel : (rzecz.) buda; (rzecz.) chałupa; (rzecz.) ciupa; (rzecz.) nora; (rzecz.) puszka; (rzecz.) rudera; (rzecz.) szałas; (rzecz.) szopa
-[hover]hover : (czas.) ociągać; (czas.) unosić; (czas.) wahać
-[hovercraft]hovercraft : (rzecz.) poduszkowiec
-[how]how : (przysł.) jak; (przysł.) jakże
-[however]however : (przysł.) jakkolwiek; (przysł.) jakże; (spójnik) jednak; (spójnik) jednakże; (spójnik) natomiast
-[howitzer]howitzer : (rzecz.) granatnik; (rzecz.) haubica
-[howl]howl : (czas.) ryczeć; (czas.) wyć; (czas.) zawyć; (rzecz.) jęk; (rzecz.) płacz; (rzecz.) ryk; (rzecz.) wycie
-[howler]howler : (rzecz.) buczek; (rzecz.) byk; (rzecz.) wsypa; (rzecz.) wyjec
-[howsoever]howsoever : (przysł.) jakkolwiek
-[hoyden]hoyden : (rzecz.) chłopczyca
-[hr]hr : (rzecz.) kadr
-[hub]hub : (rzecz.) centrum; (rzecz.) huba; (rzecz.) koncentrator; (rzecz.) piasta; (rzecz.) środek
-[hubble-bubble]hubble-bubble : (rzecz.) gwar; (rzecz.) wrzawa
-[hubbub]hubbub : (rzecz.) gwar; (rzecz.) hałas; (rzecz.) harmider; (rzecz.) zgiełk
-[hubby]hubby : (rzecz.) mężulek
-[hubcap]hubcap : (rzecz.) dekiel; (rzecz.) kołpak
-[huckleberry]huckleberry : (rzecz.) borówka; (rzecz.) jagoda
-[huckster]huckster : (rzecz.) kramarz; (rzecz.) paskarz
-[huddle]huddle : (rzecz.) kupa
-[hue]hue : (rzecz.) barwa; (rzecz.) objęcie; (rzecz.) odcień; (rzecz.) zabarwienie
-[huff]huff : (czas.) obrażać; (rzecz.) irytacja; (rzecz.) rozdrażnienie
-[huffish]huffish : (przym.) drażliwy; (przym.) obraźliwy
-[huffy]huffy : (przym.) drażliwy; (przym.) obraźliwy
-[hug]hug : (czas.) przytulać; (czas.) przytulić; (czas.) ściskać; (czas.) tulić; (czas.) uściskać; (rzecz.) przytulenie; (rzecz.) uścisk
-[huge]huge : (przym.) ogromny; (przym.) olbrzymi
-[hugely]hugely : (przysł.) ogromnie; (przysł.) potwornie
-[hugeness]hugeness : (rzecz.) ogrom
-[hugger-mugger]hugger-mugger : (rzecz.) bałagan
-[huggermugger]huggermugger : (rzecz.) bałagan
-[hulk]hulk : (rzecz.) kolos; (rzecz.) pudło
-[hulking]hulking : (przym.) ciężki; (przym.) kulfoniasty; (przym.) niezdarny
-[hull]hull : (czas.) łuskać; (rzecz.) kadłub; (rzecz.) łupa; (rzecz.) łupina; (rzecz.) łuska; (rzecz.) otoczka; (rzecz.) skorupa; (rzecz.) strączek; (rzecz.) strąk
-[hullabaloo]hullabaloo : (rzecz.) harmider
-[huller]huller : (rzecz.) łuszczarka; (rzecz.) obłuskiwacz
-[hum]hum : (czas.) brzęczeć; (czas.) buczeć; (czas.) bzyczeć; (czas.) bzykać; (czas.) mruczeć; (czas.) nucić; (czas.) podśpiewywać; (czas.) szumieć; (czas.) warkotać; (czas.) zanucić; (rzecz.) brzęczenie; (rzecz.) buczenie; (rzecz.) gwar; (rzecz.) jazgot; (rzecz.) pomrukiwanie; (rzecz.) przydźwięk; (rzecz.) rozgwar; (rzecz.) szum
-[human]human : (przym.) człowieczy; (przym.) ludzki; (rzecz.) człowiek; (rzecz.) łudzenie
-[humane]humane : (przym.) humanistyczny; (przym.) humanitarny; (przym.) ludzki
-[humanely]humanely : (przysł.) humanitarnie
-[humaneness]humaneness : (rzecz.) człowieczeństwo; (rzecz.) humanitarność
-[humanism]humanism : (rzecz.) humanizm
-[humanist]humanist : (rzecz.) humanista
-[humanistic]humanistic : (przym.) humanistyczny
-[humanitarian]humanitarian : (przym.) humanitarny
-[humanitarianism]humanitarianism : (rzecz.) humanitaryzm
-[humanities]humanities : (rzecz.) humanistyka
-[humanity]humanity : (rzecz.) człowieczeństwo; (rzecz.) humanitarność; (rzecz.) ludzkość
-[humanize]humanize : (czas.) humanizować; (czas.) uczłowieczać; (czas.) zhumanizować
-[humankind]humankind : (rzecz.) ludzkość
-[humanly]humanly : (przysł.) ludzko
-[humanoid]humanoid : (przym.) humanoidalny
-[humble]humble : (czas.) upokarzać; (czas.) upokorzyć; (przym.) korny; (przym.) pokorny; (przym.) potulny; (przym.) skromny
-[humble-bee]humble-bee : (rzecz.) bąk; (rzecz.) trzmiel
-[humblebee]humblebee : (rzecz.) trzmiel
-[humbleness]humbleness : (rzecz.) pokora; (rzecz.) uniżoność
-[humbler]humbler : (przym.) pokorny; (przym.) skromny
-[humbly]humbly : (przysł.) pokornie
-[humbug]humbug : (rzecz.) blaga; (rzecz.) blagier; (rzecz.) lipa; (rzecz.) nonsens; (rzecz.) oszust; (rzecz.) oszustwo; (rzecz.) szachraj; (rzecz.) zakłamanie
-[humdrum]humdrum : (przym.) monotonny; (przym.) nudny; (rzecz.) banalność; (rzecz.) nuda; (rzecz.) prozaiczność
-[humeral]humeral : (przym.) barkowy; (przym.) ramienny
-[humid]humid : (przym.) parny; (przym.) wilgotny
-[humidification]humidification : (rzecz.) nawilżanie; (rzecz.) zwilżanie
-[humidifier]humidifier : (rzecz.) nawilżacz
-[humidifiers]humidifiers : (rzecz.) nawilżacz
-[humidify]humidify : (czas.) nawilżać; (czas.) zwilżać
-[humidity]humidity : (rzecz.) wilgoć; (rzecz.) wilgotność
-[humiliate]humiliate : (czas.) korzyć; (czas.) poniżać; (czas.) poniżyć; (czas.) upokarzać; (czas.) upokorzyć
-[humiliation]humiliation : (rzecz.) poniżenie; (rzecz.) upokorzenie
-[humility]humility : (rzecz.) pokora; (rzecz.) potulność; (rzecz.) skromność; (rzecz.) uniżoność
-[hummer]hummer : (rzecz.) brzęczyk
-[humming-bird]humming-bird : (rzecz.) koliber
-[hummingbird]hummingbird : (rzecz.) koliber
-[hummock]hummock : (rzecz.) pagórek; (rzecz.) wzgórek; (rzecz.) wzniesienie
-[hummocky]hummocky : (przym.) pagórkowaty
-[humoresque]humoresque : (rzecz.) humoreska
-[humorist]humorist : (rzecz.) humorysta
-[humoristic]humoristic : (przym.) humorystyczny
-[humorous]humorous : (przym.) dowcipny; (przym.) humorystyczny; (przym.) zabawny; (przym.) żartobliwy
-[humour]humour : (rzecz.) humor; (rzecz.) nastrój; (rzecz.) płyn
-[hump]hump : (czas.) garbić; (czas.) zginać; (rzecz.) garb; (rzecz.) przesilenie
-[humpback]humpback : (rzecz.) garb; (rzecz.) garbus
-[humpbacked]humpbacked : (przym.) garbaty; (przym.) łukowaty
-[humus]humus : (rzecz.) czarnoziem; (rzecz.) próchnica
-[hunch]hunch : (czas.) kulić; (rzecz.) wrażenie
-[hunchback]hunchback : (rzecz.) garbus
-[hunchbacked]hunchbacked : (przym.) garbaty
-[hunched]hunched : (przym.) garbaty
-[hundred]hundred : (przym.) setny; (rzecz.) setka; (rzecz.) stówa
-[hundred-year]hundred-year : (przym.) stuletni
-[hundredfold]hundredfold : (przym.) stokrotny; (przym.) stukrotny; (przysł.) stokrotnie
-[hundredth]hundredth : (przym.) setny; (rzecz.) setna
-[hundredweight]hundredweight : (rzecz.) cetnar
-[hunger]hunger : (rzecz.) głód; (rzecz.) łaknienie; (rzecz.) pożądanie; (rzecz.) żądza
-[hunger-strike]hunger-strike : (rzecz.) głodówka
-[hungrily]hungrily : (przysł.) chciwie; (przysł.) łapczywie; (przysł.) pożądliwie
-[hungry]hungry : (przym.) głodny; (przym.) jałowy; (przym.) ubogi
-[hunk]hunk : (rzecz.) bryła; (rzecz.) kawałek; (rzecz.) kęs; (rzecz.) przystojniak
-[hunker]hunker : (czas.) kucać
-[hunks]hunks : (rzecz.) kutwa; (rzecz.) sknera
-[hunky-dory]hunky-dory : (przym.) dobry; (przym.) świetny
-[hunt]hunt : (czas.) dopaść; (czas.) gonić; (czas.) polować; (czas.) poszukiwać; (czas.) ścigać; (czas.) tropić; (rzecz.) obława; (rzecz.) polowanie
-[hunted]hunted : (czas.) polować
-[hunter]hunter : (rzecz.) łowca; (rzecz.) szukacz
-[hunters]hunters : (rzecz.) łowca
-[hunting]hunting : (rzecz.) łowiectwo; (rzecz.) myślistwo; (rzecz.) polowanie; (rzecz.) szukanie
-[hurdle]hurdle : (rzecz.) opłotek; (rzecz.) płot; (rzecz.) płotek; (rzecz.) przeszkoda
-[hurdler]hurdler : (rzecz.) płotkarz
-[hurdy-gurdy]hurdy-gurdy : (rzecz.) katarynka
-[hurl]hurl : (czas.) ciskać; (czas.) miotać; (czas.) rzucać; (czas.) rzucić; (rzecz.) miotanie; (rzecz.) rzut
-[hurling]hurling : (rzecz.) miotanie
-[hurly-burly]hurly-burly : (rzecz.) rozgardiasz; (rzecz.) wrzawa; (rzecz.) zgiełk
-[hurrah]hurrah : (wykrzyknik) hurra
-[hurray]hurray : (czas.) wiwatować; (wykrzyknik) hura; (wykrzyknik) hurra
-[hurricane]hurricane : (rzecz.) huragan; (rzecz.) orkan
-[hurried]hurried : (przym.) pośpieszny; (przym.) śpieszny
-[hurriedly]hurriedly : (przysł.) pospiesznie; (przysł.) pośpiesznie
-[hurry]hurry : (czas.) pędzić; (czas.) podgonić; (czas.) ponaglać; (czas.) pospieszać; (czas.) pośpieszać; (czas.) pospieszyć; (czas.) pośpieszyć; (czas.) przyspieszać; (czas.) spieszyć; (czas.) śpieszyć; (rzecz.) pośpiech
-[hurry-scurry]hurry-scurry : (przysł.) bezładnie; (rzecz.) zamieszanie
-[hurt]hurt : (czas.) boleć; (czas.) kaleczyć; (czas.) ranić
-[hurtful]hurtful : (przym.) bolesny
-[hurtle]hurtle : (czas.) miotać; (czas.) uderzać; (czas.) uderzyć
-[husband]husband : (czas.) gospodarować; (czas.) zarządzać; (rzecz.) małżonek; (rzecz.) mąż
-[husbandman]husbandman : (rzecz.) gospodarz; (rzecz.) rolnik
-[husbandry]husbandry : (rzecz.) cisza; (rzecz.) spokój
-[hush]hush : (czas.) ucichnąć; (czas.) uciszać; (czas.) uciszyć; (rzecz.) cisza; (rzecz.) spokój
-[husk]husk : (czas.) łupać; (czas.) łuskać; (czas.) łuszczyć; (czas.) obłuskiwać; (czas.) wyłuskiwać; (rzecz.) łupina; (rzecz.) łupinka; (rzecz.) łuska; (rzecz.) plewa
-[huskily]huskily : (przysł.) krzepko
-[huskiness]huskiness : (rzecz.) łuskowatość; (rzecz.) ochrypnięcie
-[husky]husky : (przym.) chrapliwy; (przym.) czerstwy; (przym.) gardłowy; (przym.) krzepki; (przym.) zdrowy
-[hussar]hussar : (rzecz.) husarz; (rzecz.) huzar
-[hussars]hussars : (rzecz.) husaria
-[hussy]hussy : (rzecz.) latawica
-[hustle]hustle : (czas.) krzątać; (czas.) pchać; (czas.) popychać; (czas.) przepychać; (czas.) śpieszyć; (czas.) tłoczyć; (rzecz.) bieganina; (rzecz.) krzątanina; (rzecz.) ścisk; (rzecz.) szwindel; (rzecz.) tłok
-[hustler]hustler : (rzecz.) hochsztapler; (rzecz.) prostytutka
-[hut]hut : (rzecz.) buda; (rzecz.) budka; (rzecz.) chałupa; (rzecz.) chata; (rzecz.) chatka; (rzecz.) szałas
-[hutch]hutch : (rzecz.) chatka; (rzecz.) klatka; (rzecz.) klecenie; (rzecz.) klitka; (rzecz.) płuczka; (rzecz.) skrzynia; (rzecz.) skrzynka
-[hyacinth]hyacinth : (rzecz.) hiacynt
-[hyaline]hyaline : (przym.) szklisty
-[hybrid]hybrid : (przym.) hybrydowy; (przym.) mieszańcowy; (rzecz.) hybryd; (rzecz.) hybryda; (rzecz.) mieszaniec
-[hybridism]hybridism : (rzecz.) hybrydyzm
-[hybridization]hybridization : (rzecz.) hybrydyzacja; (rzecz.) hybrydyzm; (rzecz.) krzyżowanie; (rzecz.) krzyżówka
-[hybridize]hybridize : (czas.) krzyżować; (czas.) skrzyżować
-[hydra]hydra : (rzecz.) hydra; (rzecz.) stułbia
-[hydrant]hydrant : (rzecz.) hydrant
-[hydrastine]hydrastine : (rzecz.) hydrastyna
-[hydrate]hydrate : (czas.) uwadniać; (rzecz.) hydrat; (rzecz.) wodzian
-[hydrated]hydrated : (przym.) hydratyzowany; (przym.) uwodniony
-[hydration]hydration : (rzecz.) hydratacja; (rzecz.) uwodnienie
-[hydraulic]hydraulic : (przym.) hydrauliczny
-[hydraulically]hydraulically : (przysł.) hydraulicznie
-[hydraulics]hydraulics : (rzecz.) hydraulika
-[hydrazine]hydrazine : (rzecz.) hydrazyna
-[hydride]hydride : (rzecz.) wodorek
-[hydro]hydro : (rzecz.) hydroelektrownia
-[hydro-engineering]hydro-engineering : (rzecz.) hydrotechnika
-[hydro-generator]hydro-generator : (rzecz.) hydrogenerator
-[hydrobiology]hydrobiology : (rzecz.) hydrobiologia
-[hydrocarbon]hydrocarbon : (rzecz.) węglowodór
-[hydrocephalus]hydrocephalus : (rzecz.) wodogłowie
-[hydrochloric]hydrochloric : (przym.) chlorowodorowy
-[hydrochloride]hydrochloride : (rzecz.) chlorowodorek
-[hydrodynamic]hydrodynamic : (przym.) hydrodynamiczny
-[hydrodynamics]hydrodynamics : (rzecz.) hydrodynamika
-[hydroelectric]hydroelectric : (przym.) hydroelektryczny
-[hydrofluoric]hydrofluoric : (przym.) fluorowodorowy
-[hydrofoil]hydrofoil : (rzecz.) hydropłat; (rzecz.) wodolot
-[hydrogen]hydrogen : (rzecz.) wodór
-[hydrogenate]hydrogenate : (czas.) uwodorniać
-[hydrogenation]hydrogenation : (rzecz.) uwodornianie
-[hydrogenize]hydrogenize : (rzecz.) uwodornianie; (rzecz.) uwodornienie
-[hydrogenous]hydrogenous : (przym.) wodorowy
-[hydrogeology]hydrogeology : (rzecz.) hydrogeologia
-[hydrograph]hydrograph : (rzecz.) hydrograf
-[hydrokinetic]hydrokinetic : (przym.) hydrodynamiczny
-[hydrokinetics]hydrokinetics : (rzecz.) hydrokinetyka
-[hydrological]hydrological : (przym.) hydrologiczny
-[hydrologist]hydrologist : (rzecz.) hydrolog
-[hydrology]hydrology : (rzecz.) hydrologia
-[hydrolysis]hydrolysis : (rzecz.) hydroliza
-[hydrolytic]hydrolytic : (przym.) hydrolityczny
-[hydrolyze]hydrolyze : (czas.) hydrolizować
-[hydromechanics]hydromechanics : (rzecz.) hydraulika; (rzecz.) hydromechanika
-[hydrometallurgy]hydrometallurgy : (rzecz.) hydrometalurgia
-[hydrometeorology]hydrometeorology : (rzecz.) hydrometeorologia
-[hydrometeors]hydrometeors : (przym.) hydrometeory
-[hydrometer]hydrometer : (rzecz.) areometr; (rzecz.) gęstościomierz; (rzecz.) hydrometr
-[hydrometric]hydrometric : (przym.) hydrometryczny
-[hydrophilic]hydrophilic : (przym.) hydrofilowy
-[hydrophobia]hydrophobia : (rzecz.) hydrofobia; (rzecz.) wodowstręt
-[hydrophobic]hydrophobic : (przym.) hydrofobowy
-[hydrophone]hydrophone : (rzecz.) hydrofon
-[hydroplane]hydroplane : (rzecz.) hydroplan; (rzecz.) ślizgacz; (rzecz.) wodnopłat; (rzecz.) wodnopłatowiec
-[hydroponics]hydroponics : (rzecz.) hydroponika; (rzecz.) hydrostatyka
-[hydroquinone]hydroquinone : (rzecz.) hydrochinon
-[hydrosol]hydrosol : (rzecz.) hydrozol
-[hydrosphere]hydrosphere : (rzecz.) hydrosfera
-[hydrostat]hydrostat : (rzecz.) higrostat; (rzecz.) humidostat
-[hydrostatic]hydrostatic : (przym.) hydrostatyczny
-[hydrostatical]hydrostatical : (przym.) hydrostatyczny
-[hydrostatics]hydrostatics : (rzecz.) hydrostatyka
-[hydrotherapeutic]hydrotherapeutic : (przym.) wodoleczniczy
-[hydrotherapy]hydrotherapy : (rzecz.) hydroterapia; (rzecz.) wodolecznictwo
-[hydrothermal]hydrothermal : (przym.) hydrotermalny
-[hydrous]hydrous : (przym.) wodny
-[hydroxide]hydroxide : (rzecz.) wodorotlenek
-[hydroxyl]hydroxyl : (rzecz.) hydroksyl
-[hydroxylamine]hydroxylamine : (rzecz.) hydroksyloamina
-[hydroxylation]hydroxylation : (rzecz.) hydroksylowanie
-[hyena]hyena : (rzecz.) hiena
-[hygiene]hygiene : (rzecz.) higiena
-[hygienic]hygienic : (przym.) higieniczny
-[hygienically]hygienically : (przysł.) higienicznie
-[hygienist]hygienist : (rzecz.) higienista
-[hygrometer]hygrometer : (rzecz.) aerometr; (rzecz.) higrometr; (rzecz.) wilgotnościomierz
-[hygrometry]hygrometry : (rzecz.) higrometria
-[hygroscope]hygroscope : (rzecz.) higroskop
-[hygroscopic]hygroscopic : (przym.) higroskopijny
-[hygrostat]hygrostat : (rzecz.) higrostat; (rzecz.) humidostat
-[hymn]hymn : (rzecz.) hymn
-[hype]hype : (rzecz.) popularność; (rzecz.) szum
-[hyperacidity]hyperacidity : (rzecz.) nadkwaśność; (rzecz.) nadkwasota
-[hyperactivity]hyperactivity : (rzecz.) nadczynność
-[hyperbola]hyperbola : (rzecz.) hiperbola
-[hyperbole]hyperbole : (rzecz.) hiperbola; (rzecz.) przesada; (rzecz.) przesadnia
-[hyperbolic]hyperbolic : (przym.) hiperboliczny; (przym.) przesadny
-[hyperbolical]hyperbolical : (przym.) hiperboliczny
-[hyperboloid]hyperboloid : (rzecz.) hiperboloida
-[hyperinflation]hyperinflation : (rzecz.) hiperinflacja
-[hyperlink]hyperlink : (rzecz.) hiperłącze; (rzecz.) odsyłacz
-[hyperplasia]hyperplasia : (rzecz.) hiperplazja
-[hypersensitive]hypersensitive : (przym.) nadwrażliwy; (przym.) superczuły
-[hypersensitivity]hypersensitivity : (rzecz.) nadwrażliwość
-[hypersonic]hypersonic : (przym.) hipersoniczny
-[hypertension]hypertension : (rzecz.) nadciśnienie
-[hypertensive]hypertensive : (przym.) nadciśnieniowy
-[hypertext]hypertext : (rzecz.) hipertekst
-[hyperthermia]hyperthermia : (rzecz.) hipertermia
-[hypertrophy]hypertrophy : (rzecz.) hipertrofia
-[hyphen]hyphen : (rzecz.) kreska; (rzecz.) łącznik; (rzecz.) myślnik; (rzecz.) pauza; (rzecz.) rozłącznik
-[hypnology]hypnology : (rzecz.) hipnologia
-[hypnosis]hypnosis : (rzecz.) hipnoza
-[hypnotic]hypnotic : (przym.) hipnotyczny
-[hypnotically]hypnotically : (przysł.) hipnotycznie
-[hypnotism]hypnotism : (rzecz.) hipnotyzm
-[hypnotist]hypnotist : (rzecz.) hipnotyzer
-[hypnotization]hypnotization : (rzecz.) hipnotyzowanie
-[hypnotize]hypnotize : (czas.) hipnotyzować; (czas.) zahipnotyzować
-[hypo]hypo : (rzecz.) strzykawka; (rzecz.) zastrzyk
-[hypochlorite]hypochlorite : (rzecz.) podchloryn
-[hypochondria]hypochondria : (rzecz.) hipochondria
-[hypochondriac]hypochondriac : (przym.) hipochondryczny; (rzecz.) hipochondryk
-[hypocoristic]hypocoristic : (przym.) pieszczotliwy
-[hypocrisy]hypocrisy : (rzecz.) faryzeizm; (rzecz.) faryzeuszostwo; (rzecz.) hipokryzja; (rzecz.) obłuda; (rzecz.) zakłamanie
-[hypocrite]hypocrite : (rzecz.) hipokryta; (rzecz.) obłudnica; (rzecz.) obłudnik
-[hypocritical]hypocritical : (przym.) obłudny
-[hypocycloid]hypocycloid : (rzecz.) hipocykloida
-[hypodermic]hypodermic : (przym.) podskórny
-[hyposulfite]hyposulfite : (rzecz.) podsiarczyn; (rzecz.) tiosiarczan
-[hypotension]hypotension : (rzecz.) hipotonia; (rzecz.) niedociśnienie
-[hypotenuse]hypotenuse : (rzecz.) przeciwprostokątna
-[hypothermia]hypothermia : (rzecz.) hipotermia
-[hypothesis]hypothesis : (rzecz.) hipoteza
-[hypothetic]hypothetic : (przym.) hipotetyczny; (przym.) przykładowy
-[hypothetical]hypothetical : (przym.) hipotetyczny; (przym.) przykładowy
-[hypothetically]hypothetically : (przysł.) hipotetycznie; (przysł.) przypuszczalnie
-[hypoxia]hypoxia : (rzecz.) niedotlenienie
-[hypsometer]hypsometer : (rzecz.) hipsotermometr
-[hypsometry]hypsometry : (rzecz.) hipsometria
-[hyssop]hyssop : (rzecz.) hizop
-[hysteria]hysteria : (rzecz.) histeria
-[hysteric]hysteric : (rzecz.) histeryk
-[hysterical]hysterical : (przym.) histeryczny
-[hysterically]hysterically : (przysł.) histerycznie
-[hysterics]hysterics : (rzecz.) histeria
+[h-hydrogen]H-hydrogen (EN) : (rz.) wodór
+[harriet]Harriet (EN) : (rz.) Henryka
+[hebrew]Hebrew (EN) : (p.) hebrajski
+[hegelianism]Hegelianism (EN) : (rz.) heglizm
+[helen]Helen (EN) : (rz.) Halina
+[hellenism]Hellenism (EN) : (rz.) hellenizm
+[hellenist]Hellenist (EN) : (rz.) hellenista
+[hellenistic]Hellenistic (EN) : (p.) hellenistyczny
+[henry]Henry (EN) : (rz.) Henryk
+[herculean]Herculean (EN) : (p.) herkulesowy
+[hinduism]Hinduism (EN) : (rz.) hinduizm
+[holocene]Holocene (EN) : (rz.) holocen
+[homeric]Homeric (EN) : (p.) homeryczny
+[huguenot]Huguenot (EN) : (rz.) hugenot
+[h-hour]h-hour (EN) : (rz.) godzina
+[ha-hectare]ha-hectare (EN) : (rz.) hektar
+[haberdasher]haberdasher (EN) : (rz.) szmuklerz
+[haberdasher's]haberdasher's (EN) : (p.) pasmanteryjny
+[haberdashery]haberdashery (EN) : (rz.) galanteria; (rz.) pasmanteria
+[habergeon]habergeon (EN) : (rz.) kolczuga
+[habile]habile (EN) : (p.) zręczny
+[habiliment]habiliment (EN) : (rz.) odzież; (rz.) ubiór
+[habit]habit (EN) : (rz.) budowa; (rz.) habit; (rz.) habitus; (rz.) nałóg; (rz.) nawyk; (rz.) obyczaj; (rz.) odzież; (rz.) przyzwyczajenie; (rz.) właściwość; (rz.) zwyczaj
+[habitable]habitable (EN) : (p.) mieszkalny
+[habitant]habitant (EN) : (rz.) mieszkaniec
+[habitat]habitat (EN) : (rz.) środowisko
+[habitation]habitation (EN) : (rz.) mieszkanie; (rz.) zamieszkanie; (rz.) zamieszkiwanie
+[habitual]habitual (EN) : (p.) charakterystyczny; (p.) nałogowy; (p.) nawykowy; (p.) notoryczny; (p.) powszedni; (p.) zwyczajny; (p.) zwykły
+[habitually]habitually (EN) : (p-sł.) nałogowo; (p-sł.) notorycznie
+[habituation]habituation (EN) : (rz.) nawyk; (rz.) wdrożenie
+[hachure]hachure (EN) : (cz.) kreskować
+[hacienda]hacienda (EN) : (rz.) gospodarstwo; (rz.) hacjenda; (rz.) rezydencja
+[hack]hack (EN) : (cz.) ciosać; (cz.) kopać; (cz.) pokaszliwać; (cz.) rąbać; (cz.) siekać; (rz.) cięcie; (rz.) kilof; (rz.) motyka; (rz.) pismak
+[hackamore]hackamore (EN) : (rz.) powróz; (rz.) wędzidło
+[hacker]hacker (EN) : (rz.) hacker; (rz.) haker; (rz.) pirat; (rz.) włamywacz
+[hackle]hackle (EN) : (rz.) cierlica; (rz.) konopi
+[hackly]hackly (EN) : (p.) ostry
+[hackney]hackney (EN) : (rz.) dorożka; (rz.) najemnik; (rz.) powóz
+[hackney-carriage]hackney-carriage (EN) : (rz.) dorożka
+[hackneyed]hackneyed (EN) : (p.) banalny; (p.) oklepany; (p.) szablonowy; (p.) tuzinkowy
+[hackwork]hackwork (EN) : (rz.) chałtura; (rz.) wyrobnictwo
+[hack«]hack« (EN) : (rz.) murzyn; (rz.) najemnik
+[haddock]haddock (EN) : (rz.) łupacz; (rz.) plamiak
+[hade]hade (EN) : (rz.) góra
+[haematologist]haematologist (EN) : (rz.) hematolog
+[haematology]haematology (EN) : (rz.) hematologia
+[haematoma]haematoma (EN) : (rz.) krwiak
+[haemin]haemin (EN) : (rz.) hemina
+[haemoglobin]haemoglobin (EN) : (rz.) hemoglobina
+[haemolysis]haemolysis (EN) : (rz.) hemoliza
+[haemolytic]haemolytic (EN) : (p.) hemolityczny
+[haemophilia]haemophilia (EN) : (rz.) hemofilia
+[haemorrhage]haemorrhage (EN) : (rz.) krwotok; (rz.) wylew
+[haemorrhagic]haemorrhagic (EN) : (p.) krwotoczny
+[haemorrhoid]haemorrhoid (EN) : (rz.) hemoroid
+[haemorrhoidal]haemorrhoidal (EN) : (p.) hemoroidalny
+[haemostatic]haemostatic (EN) : (p.) hemostatyczny
+[hafnium]hafnium (EN) : (rz.) hafn
+[haft]haft (EN) : (rz.) rękojeść
+[hag]hag (EN) : (rz.) czarownica; (rz.) jędza; (rz.) wiedźma
+[haggard]haggard (EN) : (p.) dziki; (p.) wymizerowany
+[haggis]haggis (EN) : (rz.) serce
+[haggish]haggish (EN) : (p.) jędzowaty
+[haggle]haggle (EN) : (cz.) targować
+[hagiographic]hagiographic (EN) : (p.) hagiograficzny
+[hagiography]hagiography (EN) : (rz.) hagiografia
+[hail]hail (EN) : (cz.) obwołać; (cz.) pochodzić; (cz.) pozdrawiać; (cz.) przywołać; (cz.) witać; (rz.) grad; (rz.) gradobicie; (rz.) pocisk; (rz.) powitanie; (rz.) pozdrowienie
+[hail-stone]hail-stone (EN) : (rz.) gradzina
+[hailstorm]hailstorm (EN) : (rz.) grad; (rz.) gradobicie
+[hair]hair (EN) : (rz.) owłosienie; (rz.) sierść; (rz.) włos; (rz.) włosie; (rz.) włosy; (rz.) zarost
+[hair-cutting]hair-cutting (EN) : (rz.) strzyżenie
+[hair-do]hair-do (EN) : (rz.) fryzura; (rz.) uczesanie
+[hair-slide]hair-slide (EN) : (rz.) wsuwka
+[hair-splitting]hair-splitting (EN) : (rz.) drobiazgowość
+[hair-spring]hair-spring (EN) : (rz.) włos
+[hairbrush]hairbrush (EN) : (rz.) szczotka
+[haircloth]haircloth (EN) : (rz.) włosianka
+[haircut]haircut (EN) : (rz.) fryzura; (rz.) ostrzyżenie; (rz.) strzyżenie
+[haircutting]haircutting (EN) : (rz.) strzyżenie
+[hairdo]hairdo (EN) : (rz.) fryzura; (rz.) uczesanie
+[hairdresser]hairdresser (EN) : (rz.) fryzjer
+[hairdresser's]hairdresser's (EN) : (p.) fryzjerski
+[hairdressing]hairdressing (EN) : (rz.) fryzjerstwo
+[hairdryer]hairdryer (EN) : (rz.) suszarka
+[hairiness]hairiness (EN) : (rz.) kosmatość; (rz.) włochatość
+[hairless]hairless (EN) : (p.) bezwłosy
+[hairlines]hairlines (EN) : (rz.) ryski
+[hairpiece]hairpiece (EN) : (rz.) peruka
+[hairpin]hairpin (EN) : (rz.) szpilka
+[hairs]hairs (EN) : (rz.) sierść
+[hairspring]hairspring (EN) : (rz.) włos
+[hairstyle]hairstyle (EN) : (rz.) fryzura; (rz.) uczesanie
+[hairstylist]hairstylist (EN) : (rz.) fryzjer
+[hairworm]hairworm (EN) : (rz.) trychina
+[hairy]hairy (EN) : (p.) kosmaty; (p.) kudłaty; (p.) włochaty; (p.) włosisty
+[hake]hake (EN) : (rz.) dorsz; (rz.) miętus; (rz.) morszczuk
+[halation]halation (EN) : (rz.) aureola; (rz.) halo
+[halberd]halberd (EN) : (rz.) halabarda
+[halberdier]halberdier (EN) : (rz.) halabardnik; (rz.) halabardzista
+[halcyon]halcyon (EN) : (p.) błogi; (rz.) zimorodek
+[hale]hale (EN) : (p.) czerstwy; (p.) krzepki; (p.) zdrowy
+[half]half (EN) : (rz.) połowa; (rz.) połowica; (rz.) połówka; (rz.) półrocze
+[half-adder]half-adder (EN) : (rz.) półsumator
+[half-back]half-back (EN) : (rz.) obrońca
+[half-baked]half-baked (EN) : (p.) wpółsurowy
+[half-bleaching]half-bleaching (EN) : (rz.) podbielanie
+[half-breed]half-breed (EN) : (rz.) mieszaniec
+[half-byte]half-byte (EN) : (rz.) półbajt
+[half-carcase]half-carcase (EN) : (rz.) półtusza
+[half-carcass]half-carcass (EN) : (rz.) półtusza
+[half-caste]half-caste (EN) : (rz.) mieszaniec
+[half-cell]half-cell (EN) : (rz.) półogniwo
+[half-century]half-century (EN) : (rz.) półwiecze
+[half-cloth]half-cloth (EN) : (rz.) półpłótno
+[half-conscious]half-conscious (EN) : (p.) półprzytomny
+[half-crown]half-crown (EN) : (rz.) półkoronówka
+[half-dead]half-dead (EN) : (p.) półmartwy; (p.) półżywy
+[half-element]half-element (EN) : (rz.) półogniwo
+[half-grown]half-grown (EN) : (p.) niewyrośnięty
+[half-hourly]half-hourly (EN) : (p.) półgodzinny
+[half-kilogramme]half-kilogramme (EN) : (p.) półkilogramowy
+[half-kilometre]half-kilometre (EN) : (p.) półkilometrowy
+[half-life]half-life (EN) : (rz.) półokres
+[half-light]half-light (EN) : (rz.) półświatło
+[half-litre]half-litre (EN) : (p.) półlitrowy
+[half-loop]half-loop (EN) : (rz.) półpętla
+[half-matt]half-matt (EN) : (rz.) półmat
+[half-measure]half-measure (EN) : (rz.) półśrodek
+[half-moon]half-moon (EN) : (rz.) półksiężyc
+[half-open]half-open (EN) : (p.) półotwarty; (p.) rozchylony
+[half-product]half-product (EN) : (rz.) półfabrykat
+[half-round]half-round (EN) : (p.) półokrągły
+[half-shadow]half-shadow (EN) : (rz.) półcień
+[half-smile]half-smile (EN) : (rz.) półuśmiech
+[half-stuff]half-stuff (EN) : (rz.) półmasa
+[half-timbered]half-timbered (EN) : (p.) ryglowy
+[half-time]half-time (EN) : (rz.) przerwa
+[half-title]half-title (EN) : (rz.) przedtytuł
+[half-tone]half-tone (EN) : (rz.) półton
+[half-truth]half-truth (EN) : (rz.) półprawda
+[half-turn]half-turn (EN) : (rz.) półobrót
+[half-wit]half-wit (EN) : (rz.) półgłówek
+[half-witted]half-witted (EN) : (p.) głupkowaty
+[half-year]half-year (EN) : (rz.) półrocze; (rz.) semestr
+[half-yearly]half-yearly (EN) : (p.) półroczny
+[halfback]halfback (EN) : (rz.) obrońca; (rz.) stoper
+[halftime]halftime (EN) : (rz.) połowa; (rz.) przerwa
+[halftone]halftone (EN) : (rz.) półcienie; (rz.) półton
+[halfwit]halfwit (EN) : (rz.) półgłówek
+[halibut]halibut (EN) : (rz.) halibut; (rz.) płastuga
+[halide]halide (EN) : (rz.) halogenek
+[halite]halite (EN) : (rz.) halit
+[hall]hall (EN) : (rz.) aula; (rz.) hala; (rz.) hall; (rz.) hol; (rz.) korytarz; (rz.) przedpokój; (rz.) sala
+[hall-mark]hall-mark (EN) : (rz.) cecha; (rz.) oznaka; (rz.) piętno
+[halleluiah]halleluiah (EN) : (wykrzyknik) alleluja
+[hallelujah]hallelujah (EN) : (wykrzyknik) alleluja
+[hallmark]hallmark (EN) : (rz.) cecha; (rz.) oznaka; (rz.) piętno; (rz.) próba
+[halloo]halloo (EN) : (cz.) poszczuć
+[hallow]hallow (EN) : (cz.) poświęcać; (cz.) święcić; (cz.) uświęcać
+[hallowed]hallowed (EN) : (p.) czcigodny; (p.) święty
+[halls]halls (EN) : (rz.) salami
+[hallucination]hallucination (EN) : (rz.) halucynacja; (rz.) majaczenie; (rz.) omam
+[hallucinations]hallucinations (EN) : (rz.) majaczenie
+[hallucinatory]hallucinatory (EN) : (p.) halucynacyjny
+[hallucinogen]hallucinogen (EN) : (rz.) halucynogen
+[hallucinogenic]hallucinogenic (EN) : (p.) halucynogenny
+[hallway]hallway (EN) : (rz.) korytarz; (rz.) sień
+[halo]halo (EN) : (rz.) aureola; (rz.) nimb; (rz.) odblask
+[halogen]halogen (EN) : (rz.) chlorowiec
+[halt]halt (EN) : (cz.) rozłączyć; (cz.) stać; (cz.) stawać; (cz.) zatrzymać; (cz.) zatrzymywać; (cz.) zawahać; (cz.) zawiesić; (rz.) popas; (rz.) postój; (rz.) powstrzymanie; (rz.) przystanek; (rz.) stacja; (rz.) utykanie; (rz.) zatrzymanie
+[halter]halter (EN) : (rz.) kantar; (rz.) postronek; (rz.) stryczek; (rz.) uździenica
+[halting]halting (EN) : (p.) postojowy
+[haltingly]haltingly (EN) : (p-sł.) wahająco
+[halva]halva (EN) : (rz.) chałwa
+[halvah]halvah (EN) : (rz.) chałwa
+[halve]halve (EN) : (cz.) przepoławiać; (cz.) przepołowić; (cz.) rozpołowić
+[halyard]halyard (EN) : (rz.) fał; (rz.) flaglinka; (rz.) podnośnica
+[ham]ham (EN) : (rz.) baleron; (rz.) radioamator; (rz.) szynka; (rz.) zad
+[ham-fisted]ham-fisted (EN) : (p.) nieporadny; (p.) niezdarny; (p.) niezręczny
+[ham-handed]ham-handed (EN) : (p.) niezdarny; (p.) niezręczny
+[hamburger]hamburger (EN) : (rz.) hamburger
+[hamlet]hamlet (EN) : (rz.) osada; (rz.) sioło; (rz.) wioska
+[hammer]hammer (EN) : (cz.) uderzać; (cz.) walić; (cz.) wbijać; (cz.) zaklepać; (rz.) młot; (rz.) młotek
+[hammer-smith]hammer-smith (EN) : (p.) młotowy
+[hammerer]hammerer (EN) : (rz.) młotnik
+[hammering]hammering (EN) : (rz.) młotkowanie; (rz.) młotowanie; (rz.) wbijanie
+[hammock]hammock (EN) : (rz.) hamak
+[hammy]hammy (EN) : (p.) kabotyński
+[hamper]hamper (EN) : (cz.) hamować; (cz.) przeszkadzać; (cz.) utrudniać; (rz.) hamowanie; (rz.) kosz; (rz.) koszałka; (rz.) ograniczanie; (rz.) przeszkadzanie
+[hamster]hamster (EN) : (rz.) chomik
+[hamstring]hamstring (EN) : (rz.) sparaliżowanie
+[hand]hand (EN) : (cz.) podawać; (cz.) wręczać; (cz.) wręczyć; (rz.) chwyt; (rz.) dłoń; (rz.) pracownik; (rz.) ręka; (rz.) rozdanie; (rz.) udział; (rz.) wskazówka
+[hand-axe]hand-axe (EN) : (rz.) toporek
+[hand-barrow]hand-barrow (EN) : (rz.) nosze
+[hand-bill]hand-bill (EN) : (rz.) ulotka
+[hand-cart]hand-cart (EN) : (rz.) wózek
+[hand-held]hand-held (EN) : (p.) podręczny; (p.) ręczny
+[hand-made]hand-made (EN) : (p.) odręczny
+[hand-rail]hand-rail (EN) : (rz.) balustrada; (rz.) poręcz
+[handbag]handbag (EN) : (rz.) torebka
+[handbill]handbill (EN) : (rz.) ulotka
+[handbook]handbook (EN) : (rz.) informator; (rz.) podręcznik; (rz.) poradnik; (rz.) wademekum
+[handcart]handcart (EN) : (rz.) wózek
+[handcuff]handcuff (EN) : (rz.) kajdanki; (rz.) kajdany
+[handcuffs]handcuffs (EN) : (rz.) kajdanek; (rz.) kajdanki; (rz.) kajdany
+[handful]handful (EN) : (rz.) garść; (rz.) garstka
+[handgun]handgun (EN) : (rz.) pistolet; (rz.) rewolwer
+[handheld]handheld (EN) : (p.) kieszonkowy; (p.) podręczny; (p.) ręczny
+[handhold]handhold (EN) : (rz.) poręczhand
+[handicap]handicap (EN) : (rz.) fory; (rz.) niepełnosprawność; (rz.) obciążenie; (rz.) przeszkoda; (rz.) ułomność; (rz.) upośledzenie; (rz.) utrudnienie; (rz.) zawada
+[handicapped]handicapped (EN) : (p.) niepełnosprawny; (p.) ułomny
+[handicraft]handicraft (EN) : (rz.) rękodzielnictwo; (rz.) rękodzieło; (rz.) rzemiosło
+[handicraftsman]handicraftsman (EN) : (rz.) rękodzielnik; (rz.) rzemieślnik
+[handily]handily (EN) : (p-sł.) łatwo; (p-sł.) zręcznie
+[handiness]handiness (EN) : (rz.) zręczność; (rz.) zwrotność
+[handkerchief]handkerchief (EN) : (rz.) chusteczka; (rz.) chustka
+[handle]handle (EN) : (cz.) dotykać; (cz.) kierować; (cz.) manipulować; (cz.) obchodzić; (cz.) obracać; (cz.) obsługiwać; (cz.) obsłużyć; (cz.) odcinać; (cz.) posługiwać; (cz.) przerabiać; (cz.) traktować; (rz.) antaba; (rz.) chwyt; (rz.) dojście; (rz.) klamka; (rz.) rączka; (rz.) rękojeść; (rz.) stylisko; (rz.) trzonek; (rz.) ucho; (rz.) uchwyt; (rz.) uszko; (rz.) zacisk
+[handle-bar]handle-bar (EN) : (rz.) kierownica; (rz.) poręcz
+[handlebar]handlebar (EN) : (rz.) kierownica; (rz.) poręcz
+[handled]handled (EN) : (cz.) obchodzić
+[handler]handler (EN) : (rz.) farba; (rz.) trener; (rz.) treser
+[handles]handles (EN) : (rz.) kolportaż
+[handling]handling (EN) : (rz.) obchodzenie; (rz.) obsługa; (rz.) obsługiwanie; (rz.) opracowanie; (rz.) przeładunek; (rz.) załatwienie
+[handmade]handmade (EN) : (p.) odręczny
+[handmaid]handmaid (EN) : (rz.) służebnica
+[handmaiden]handmaiden (EN) : (rz.) służebnica
+[handout]handout (EN) : (rz.) datek; (rz.) jałmużna; (rz.) ulotka
+[handrail]handrail (EN) : (rz.) balustrada; (rz.) bariera; (rz.) poręcz
+[hands-off]hands-off (EN) : (p.) nieinterwencyjny
+[handset]handset (EN) : (rz.) mikrotelefon; (rz.) słuchawka
+[handshake]handshake (EN) : (rz.) chwyt; (rz.) uścisk; (rz.) uzgodnienie; (rz.) zacisk
+[handshaking]handshaking (EN) : (rz.) uzgadnianie
+[handsome]handsome (EN) : (p.) atrakcyjny; (p.) dorodny; (p.) foremny; (p.) hojny; (p.) ładny; (p.) nadobny; (p.) pokaźny; (p.) postawny; (p.) przystojny; (p.) urodziwy
+[handsomely]handsomely (EN) : (p-sł.) elegancko; (p-sł.) ładnie
+[handstand]handstand (EN) : (rz.) stójka
+[handwork]handwork (EN) : (rz.) rękodzieło
+[handwriting]handwriting (EN) : (rz.) pismo
+[handwritten]handwritten (EN) : (p.) odręczny
+[handy]handy (EN) : (p.) dogodny; (p.) podręczny; (p.) poręczny; (p.) przydatny; (p.) sprytny; (p.) wygodny; (p.) zręczny
+[handy-man]handy-man (EN) : (p.) zręczny
+[handyman]handyman (EN) : (rz.) majster; (rz.) majsterkowicz
+[hang]hang (EN) : (cz.) obijać; (cz.) powiesić; (cz.) wałęsać; (cz.) wieszać; (cz.) wisieć; (cz.) zawiesić; (cz.) zawieszać; (cz.) zwisać
+[hang-glider]hang-glider (EN) : (rz.) lotnia; (rz.) lotniarz
+[hang-gliding]hang-gliding (EN) : (rz.) lotniarstwo; (rz.) paralotniarstwo
+[hang-over]hang-over (EN) : (rz.) kac
+[hang-up]hang-up (EN) : (rz.) obawa; (rz.) rozejm; (rz.) zahamowanie; (rz.) zawieszenie
+[hangar]hangar (EN) : (rz.) hangar
+[hangdog]hangdog (EN) : (rz.) szubienicznik
+[hanger]hanger (EN) : (rz.) pasożyt; (rz.) pieczeniarz; (rz.) wieszak; (rz.) zapychacz
+[hanger-on]hanger-on (EN) : (rz.) pieczeniarz; (rz.) pochlebca
+[hanging]hanging (EN) : (rz.) obwieszenie; (rz.) powieszenie; (rz.) wieszanie; (rz.) wiszenie; (rz.) zawieszenie; (rz.) zwisanie
+[hangman]hangman (EN) : (rz.) kat; (rz.) oprawca; (rz.) wisielec
+[hangnail]hangnail (EN) : (rz.) zadzior
+[hangover]hangover (EN) : (rz.) kac; (rz.) kociokwik; (rz.) pozostałość; (rz.) przeżytek
+[hank]hank (EN) : (rz.) kłębek; (rz.) motek; (rz.) pełzacz
+[hanker]hanker (EN) : (cz.) tęsknić; (cz.) wzdychać
+[hankering]hankering (EN) : (rz.) potrzeba; (rz.) pożądanie; (rz.) pragnienie; (rz.) tęsknota
+[hanky-panky]hanky-panky (EN) : (rz.) oszustwo
+[hansom]hansom (EN) : (rz.) dwukołowiec
+[haphazard]haphazard (EN) : (p.) dorywczy; (p.) niesystematyczny; (p.) przypadkowy; (p-sł.) przypadkowo; (rz.) przypadek
+[haphazardly]haphazardly (EN) : (p-sł.) przypadkowo
+[hapless]hapless (EN) : (p.) feralny; (p.) nieszczęśliwy
+[haplite]haplite (EN) : (rz.) aplit
+[haploid]haploid (EN) : (rz.) haploid
+[happen]happen (EN) : (cz.) natrafić; (cz.) przydarzać; (cz.) przydarzyć; (cz.) trafić; (cz.) wydarzyć; (cz.) zaistnieć; (cz.) zdarzać; (cz.) zdarzyć; (cz.) znajdować
+[happening]happening (EN) : (rz.) wydarzenie; (rz.) zdarzenie
+[happenstance]happenstance (EN) : (rz.) ewentualność
+[happily]happily (EN) : (p-sł.) szczęśliwie; (p-sł.) wesoło
+[happiness]happiness (EN) : (rz.) błogostan; (rz.) szczęście; (rz.) szczęśliwość; (rz.) uszczęśliwienie
+[happy]happy (EN) : (p.) radosny; (p.) szczęśliwy
+[happy-go-lucky]happy-go-lucky (EN) : (p.) beztroski; (p.) niefrasobliwy
+[hara-kiri]hara-kiri (EN) : (rz.) harakiri
+[harangue]harangue (EN) : (rz.) przemowa; (rz.) przemówienie
+[harass]harass (EN) : (cz.) dokuczać; (cz.) dręczyć; (cz.) gnębić; (cz.) morzyć; (cz.) nacierać; (cz.) nękać; (cz.) niepokoić
+[harassment]harassment (EN) : (rz.) molestowanie; (rz.) napastowanie; (rz.) nękanie; (rz.) prześladowanie; (rz.) szykana; (rz.) szykanowanie
+[harbinger]harbinger (EN) : (rz.) zwiastowanie; (rz.) zwiastun
+[harbour]harbour (EN) : (cz.) żywić; (rz.) port; (rz.) przystań; (rz.) schronienie
+[harbourage]harbourage (EN) : (rz.) przystań; (rz.) schronienie
+[hard]hard (EN) : (p.) ciężki; (p.) ostry; (p.) przenikliwy; (p.) surowy; (p.) trudny; (p.) twardy; (p.) usilny; (p-sł.) ciężko; (p-sł.) mocno; (p-sł.) obficie; (p-sł.) silnie; (p-sł.) trudno; (p-sł.) twardo
+[hard-boiled]hard-boiled (EN) : (p.) bezwzględny; (p.) niezmienny; (p.) twardy
+[hard-coded]hard-coded (EN) : (p.) niezmienny; (p.) ustalony
+[hard-core]hard-core (EN) : (p.) niezmienny; (p.) twardy; (p.) wulgarny
+[hard-fisted]hard-fisted (EN) : (p.) skąpy
+[hard-headed]hard-headed (EN) : (p.) praktyczny
+[hard-hearted]hard-hearted (EN) : (p.) bezwzględny
+[hard-wired]hard-wired (EN) : (p.) układowy
+[hard-working]hard-working (EN) : (p.) pracowity; (p.) robotny
+[hardboiled]hardboiled (EN) : (p.) bezwzględny; (p.) niezmienny; (p.) twardy; (p.) uparty
+[hardcopy]hardcopy (EN) : (rz.) wydruk
+[hardcore]hardcore (EN) : (p.) niezmienny; (p.) twardy; (p.) wulgarny; (rz.) trzon
+[harden]harden (EN) : (cz.) hartować; (cz.) stężeć; (cz.) twardnieć; (cz.) umacniać; (cz.) umocnić; (cz.) uodpornić; (cz.) utwardzać; (cz.) wapnieć; (cz.) wzmacniać
+[hardener]hardener (EN) : (rz.) utwardzacz; (rz.) zaprawa
+[hardening]hardening (EN) : (rz.) hartowanie; (rz.) stwardnienie; (rz.) twardnienie; (rz.) utwardzanie; (rz.) utwardzenie; (rz.) zahartowanie
+[hardhearted]hardhearted (EN) : (p.) bezwzględny
+[hardihood]hardihood (EN) : (rz.) odwaga; (rz.) zuchwalstwo
+[hardiness]hardiness (EN) : (rz.) hardość; (rz.) wytrzymałość
+[hardly]hardly (EN) : (p-sł.) ledwie; (p-sł.) ledwo; (p-sł.) prawie; (p-sł.) zaledwie
+[hardness]hardness (EN) : (rz.) twardość; (rz.) wytrzymałość
+[hardpan]hardpan (EN) : (rz.) orsztyn; (rz.) rudawiec
+[hardship]hardship (EN) : (rz.) bieda; (rz.) dolegliwość; (rz.) męka; (rz.) niedostatek; (rz.) niewygoda; (rz.) trud; (rz.) trudność; (rz.) znój
+[hardtack]hardtack (EN) : (rz.) suchar
+[hardware]hardware (EN) : (rz.) hardware; (rz.) informatyk; (rz.) osprzęt; (rz.) sprzęt; (rz.) żelastwo
+[hardworking]hardworking (EN) : (p.) robotny
+[hardy]hardy (EN) : (p.) mocny; (p.) odporny; (p.) odważny; (p.) śmiały
+[hare]hare (EN) : (rz.) szarak; (rz.) zając
+[hark]hark (EN) : (cz.) posłuchać; (cz.) słuchać
+[harlequin]harlequin (EN) : (rz.) arlekin; (rz.) pajac
+[harlequinade]harlequinade (EN) : (rz.) arlekinada
+[harlot]harlot (EN) : (rz.) jawnogrzesznica; (rz.) ladacznica; (rz.) nierządnica
+[harlotry]harlotry (EN) : (rz.) nierząd; (rz.) wszeteczeństwo
+[harm]harm (EN) : (rz.) krzywda; (rz.) krzywdzenie; (rz.) skrzywdzenie; (rz.) szkoda; (rz.) szkodliwość; (rz.) szwank; (rz.) zło
+[harmful]harmful (EN) : (p.) szkodliwy; (p.) ujemny
+[harmfully]harmfully (EN) : (p-sł.) szkodliwie
+[harmfulness]harmfulness (EN) : (rz.) szkodliwość
+[harmless]harmless (EN) : (p.) niegroźny; (p.) nieszkodliwy; (p.) niewinny
+[harmlessly]harmlessly (EN) : (p-sł.) nieszkodliwie; (p-sł.) niewinnie
+[harmlessness]harmlessness (EN) : (rz.) nieszkodliwość
+[harmonic]harmonic (EN) : (p.) harmoniczny; (p.) harmonijny; (rz.) harmoniczna
+[harmonica]harmonica (EN) : (rz.) harmonijka; (rz.) harmonika
+[harmonics]harmonics (EN) : (rz.) harmonika
+[harmonious]harmonious (EN) : (p.) harmonijny; (p.) melodyjny; (p.) zgodny
+[harmoniously]harmoniously (EN) : (p-sł.) harmonijnie
+[harmoniousness]harmoniousness (EN) : (rz.) harmoniczność
+[harmonise]harmonise (EN) : (cz.) współbrzmieć
+[harmonist]harmonist (EN) : (rz.) harmonista
+[harmonium]harmonium (EN) : (rz.) fisharmonia
+[harmonization]harmonization (EN) : (rz.) harmonizacja
+[harmonize]harmonize (EN) : (cz.) harmonizować; (cz.) ujednolicać; (cz.) współbrzmieć; (cz.) zharmonizować
+[harmony]harmony (EN) : (rz.) harmonia; (rz.) zestrój; (rz.) zestrojenie; (rz.) zgoda; (rz.) zgodność; (rz.) zgranie
+[harness]harness (EN) : (cz.) zaprzęgać; (rz.) okablowanie; (rz.) uprząż
+[harnessed]harnessed (EN) : (cz.) ujarzmić
+[harp]harp (EN) : (cz.) ględzić; (rz.) harfa
+[harpist]harpist (EN) : (rz.) harfiarz
+[harpoon]harpoon (EN) : (rz.) harpun
+[harpooner]harpooner (EN) : (rz.) harpunnik
+[harpsichord]harpsichord (EN) : (rz.) klawesyn; (rz.) klawikord
+[harpy]harpy (EN) : (rz.) harpia; (rz.) jędza
+[harquebus]harquebus (EN) : (rz.) rusznica
+[harridan]harridan (EN) : (rz.) wiedźma
+[harrier]harrier (EN) : (rz.) błotniak; (rz.) ciskacz; (rz.) grabieżca; (rz.) rabuś; (rz.) wozak
+[harrow]harrow (EN) : (cz.) bronować; (cz.) dokuczać; (cz.) męczyć; (cz.) pustoszyć; (cz.) wybronować; (cz.) wymęczyć; (cz.) zabronować; (rz.) brona
+[harsh]harsh (EN) : (p.) brutalny; (p.) chrapliwy; (p.) chropowaty; (p.) cierpki; (p.) ciężki; (p.) nieprzyjemny; (p.) ostry; (p.) przykry; (p.) srogi; (p.) surowy; (p.) szorstki; (p.) zgrzytliwy
+[harshly]harshly (EN) : (p-sł.) cierpko; (p-sł.) opryskliwie; (p-sł.) szorstko; (p-sł.) zgryźliwie
+[harshness]harshness (EN) : (rz.) chropowatość; (rz.) opryskliwość; (rz.) surowość; (rz.) szorstkość
+[hart]hart (EN) : (rz.) jeleń; (rz.) rogacz
+[harum-scarum]harum-scarum (EN) : (rz.) postrzeleniec
+[harvest]harvest (EN) : (cz.) zbierać; (rz.) dożynki; (rz.) plon; (rz.) urodzaj; (rz.) zbiór; (rz.) żniwa; (rz.) żniwo
+[harvester]harvester (EN) : (rz.) kombajn; (rz.) podbieracz; (rz.) żniwiarz
+[harvesting]harvesting (EN) : (rz.) żęcie
+[has]has (EN) : (cz.) mieć; (cz.) musieć
+[hash]hash (EN) : (cz.) posiekać; (cz.) siekać; (rz.) hasz; (rz.) mieszanie; (rz.) mieszanina; (rz.) pomyłkowe; (rz.) siekanina; (rz.) siekanka; (rz.) szumy
+[hashish]hashish (EN) : (rz.) haszysz
+[hasp]hasp (EN) : (rz.) klamka; (rz.) skobel; (rz.) zasuwka
+[hassle]hassle (EN) : (cz.) dokuczać; (cz.) dręczyć; (cz.) zamęczać; (rz.) kłopot
+[hassock]hassock (EN) : (rz.) pęk
+[haste]haste (EN) : (rz.) pośpiech
+[hasten]hasten (EN) : (cz.) pędzić; (cz.) pospieszyć; (cz.) przynaglać; (cz.) przyspieszać; (cz.) przyśpieszać; (cz.) spieszyć; (cz.) śpieszyć
+[hastily]hastily (EN) : (p-sł.) lekkomyślnie; (p-sł.) naprędce; (p-sł.) pochopnie; (p-sł.) pospiesznie; (p-sł.) pośpiesznie; (p-sł.) szybko
+[hastiness]hastiness (EN) : (rz.) nierozwaga; (rz.) pochopność; (rz.) porywczość; (rz.) pośpiech
+[hasty]hasty (EN) : (p.) gwałtowny; (p.) pochopny; (p.) popędliwy; (p.) pospieszny; (p.) pośpieszny; (p.) szybki
+[hat]hat (EN) : (rz.) czapka; (rz.) kapelusz; (rz.) mycka
+[hatch]hatch (EN) : (cz.) kreskować; (cz.) legnąć; (cz.) lęgnąć; (cz.) spiskować; (cz.) wykluwać; (cz.) wylegać; (cz.) wylęgać; (cz.) wysiadywać; (cz.) zakreskować; (rz.) drzwiczki; (rz.) luk; (rz.) śluza; (rz.) właz; (rz.) wyklucie; (rz.) wyląg; (rz.) wylęg
+[hatchery]hatchery (EN) : (rz.) wylęgarnia
+[hatchet]hatchet (EN) : (rz.) ciupaga; (rz.) siekiera; (rz.) siekierka; (rz.) topór; (rz.) toporek
+[hatching]hatching (EN) : (rz.) klucie; (rz.) kreskowanie; (rz.) wyklucie; (rz.) wylęganie
+[hatchway]hatchway (EN) : (rz.) luk; (rz.) właz
+[hate]hate (EN) : (cz.) nienawidzić; (rz.) nienawiść
+[hateful]hateful (EN) : (p.) nienawistny; (p.) okropny
+[hatefully]hatefully (EN) : (p-sł.) nienawistnie
+[hater]hater (EN) : (rz.) przeciwnik
+[hating]hating (EN) : (cz.) nienawidzić; (rz.) nienawiść
+[hatred]hatred (EN) : (rz.) nienawiść
+[hatter]hatter (EN) : (rz.) kapelusznik
+[hauberk]hauberk (EN) : (rz.) kolczuga
+[haughtily]haughtily (EN) : (p-sł.) wyniośle; (p-sł.) wysoko
+[haughtiness]haughtiness (EN) : (rz.) arogancja; (rz.) duma; (rz.) hardość; (rz.) pycha; (rz.) wyniosłość
+[haughty]haughty (EN) : (p.) butny; (p.) dumny; (p.) hardy; (p.) wyniosły
+[haul]haul (EN) : (cz.) holować; (cz.) transportować; (rz.) ciągnienie; (rz.) holowanie; (rz.) połów; (rz.) wleczenie; (rz.) zaciąg
+[haulage]haulage (EN) : (rz.) holowanie; (rz.) odstawa; (rz.) transport
+[hauler]hauler (EN) : (rz.) holownik; (rz.) przewoźnik; (rz.) spedytor; (rz.) wozak; (rz.) woźnica
+[haulm]haulm (EN) : (rz.) łodyga; (rz.) nać
+[haunch]haunch (EN) : (rz.) biodro; (rz.) pośladek; (rz.) udziec
+[haunt]haunt (EN) : (cz.) nawiedzać; (cz.) niepokoić; (cz.) odwiedzać; (cz.) straszyć; (cz.) zwiedzać; (rz.) kryjówka; (rz.) spelunka
+[haunting]haunting (EN) : (p.) natrętny
+[hautboy]hautboy (EN) : (rz.) obój
+[hauteur]hauteur (EN) : (rz.) duma
+[have]have (EN) : (cz.) być; (cz.) cechować; (cz.) dostawać; (cz.) dysponować; (cz.) jeść; (cz.) mieć; (cz.) miewać; (cz.) posiadać
+[haven]haven (EN) : (rz.) przystań; (rz.) schronienie
+[haversack]haversack (EN) : (rz.) chlebak; (rz.) plecak
+[having]having (EN) : (p-sł.) żmudnie; (rz.) dobytek; (rz.) własność
+[havoc]havoc (EN) : (rz.) spustoszenie; (rz.) zamieszanie; (rz.) zniszczenie
+[haw]haw (EN) : (rz.) głóg; (rz.) rechot
+[hawfinch]hawfinch (EN) : (rz.) grubodziób
+[hawk]hawk (EN) : (cz.) kolportować; (cz.) odchrząkiwać; (rz.) jastrząb; (rz.) łupieżca; (rz.) sokół
+[hawker]hawker (EN) : (rz.) domokrążca; (rz.) sprzedawca
+[hawkish]hawkish (EN) : (p.) jastrzębi; (p.) konfrontacyjny
+[hawser]hawser (EN) : (rz.) cuma; (rz.) lina
+[hawthorn]hawthorn (EN) : (rz.) głóg
+[hay]hay (EN) : (rz.) siano
+[hay-maker]hay-maker (EN) : (rz.) grabiarka
+[hay-making]hay-making (EN) : (rz.) sianokosy
+[hay-rake]hay-rake (EN) : (rz.) grabiarka
+[haymaker]haymaker (EN) : (rz.) grabiarka; (rz.) kosiarz
+[haymaking]haymaking (EN) : (rz.) sianokosy
+[haystack]haystack (EN) : (rz.) bróg; (rz.) stóg
+[hazard]hazard (EN) : (cz.) ryzykować; (rz.) hazard; (rz.) niebezpieczeństwo; (rz.) przypadek; (rz.) ryzyko; (rz.) zagrożenie
+[hazardous]hazardous (EN) : (p.) awanturniczy; (p.) hazardowy; (p.) niebezpieczny; (p.) ryzykowny
+[haze]haze (EN) : (rz.) mgiełka; (rz.) mgła; (rz.) opar; (rz.) otumanienie; (rz.) zamglenie
+[hazel]hazel (EN) : (rz.) leszczyna
+[hazel-grouse]hazel-grouse (EN) : (rz.) jarząbek
+[hazel-hen]hazel-hen (EN) : (rz.) jarząbek
+[haziness]haziness (EN) : (rz.) mglistość; (rz.) niejasność
+[hazy]hazy (EN) : (p.) mglisty; (p.) niewyraźny; (p.) zamglony
+[head]head (EN) : (rz.) czub; (rz.) dyrektor; (rz.) głowa; (rz.) głowica; (rz.) głowizna; (rz.) główka; (rz.) kierownik; (rz.) kożuch; (rz.) kurs; (rz.) łeb; (rz.) łepetyna; (rz.) makówka; (rz.) mózgownica; (rz.) naczelnik; (rz.) nadlew; (rz.) nagłówek; (rz.) obuch; (rz.) ordynator; (rz.) piana; (rz.) przywódca; (rz.) szczyt; (rz.) szef; (rz.) umysł
+[head-dress]head-dress (EN) : (rz.) fryzura; (rz.) ufryzowanie
+[head-light]head-light (EN) : (rz.) reflektor
+[head-line]head-line (EN) : (rz.) nagłówek
+[head-piece]head-piece (EN) : (rz.) hełm; (rz.) stropnica
+[head-rest]head-rest (EN) : (rz.) podgłówek
+[head-voice]head-voice (EN) : (rz.) falset
+[headache]headache (EN) : (rz.) zmartwienie
+[headband]headband (EN) : (rz.) kapitałka; (rz.) opaska; (rz.) pałąk
+[headcheese]headcheese (EN) : (rz.) salceson
+[headdress]headdress (EN) : (rz.) fryzura; (rz.) ufryzowanie
+[headed]headed (EN) : (p.) głowiasty
+[header]header (EN) : (rz.) cegła; (rz.) główka; (rz.) komora; (rz.) kuźniarka; (rz.) nagłówek; (rz.) sekcja; (rz.) skrzynia
+[headiness]headiness (EN) : (rz.) nierozwaga; (rz.) porywczość
+[heading]heading (EN) : (rz.) kurs; (rz.) nagłówek; (rz.) wyrobisko
+[headlamp]headlamp (EN) : (rz.) reflektor
+[headland]headland (EN) : (rz.) cypel; (rz.) przylądek
+[headlight]headlight (EN) : (rz.) reflektor
+[headline]headline (EN) : (rz.) nagłówek
+[headlines]headlines (EN) : (rz.) nagłówki
+[headman]headman (EN) : (rz.) ciskacz; (rz.) przodownik; (rz.) przywódca; (rz.) wódz; (rz.) wozak
+[headmaster]headmaster (EN) : (rz.) dyrektor
+[headmistress]headmistress (EN) : (rz.) dyrektorka
+[headphone]headphone (EN) : (rz.) słuchawka
+[headphones]headphones (EN) : (rz.) słuchawki
+[headpiece]headpiece (EN) : (rz.) hełm; (rz.) winieta
+[headquarters]headquarters (EN) : (rz.) centrala; (rz.) dowództwo; (rz.) komenda; (rz.) komendantura; (rz.) kwatera; (rz.) sztab
+[headrest]headrest (EN) : (rz.) podgłówek; (rz.) zagłówek
+[headroom]headroom (EN) : (rz.) prześwit
+[headscarf]headscarf (EN) : (rz.) chusta
+[headset]headset (EN) : (rz.) hełmofon; (rz.) słuchawka
+[headsman]headsman (EN) : (rz.) kat
+[headstall]headstall (EN) : (rz.) naczółek
+[headstone]headstone (EN) : (rz.) nagrobek
+[headstrong]headstrong (EN) : (p.) nieustępliwy
+[headway]headway (EN) : (rz.) postęp; (rz.) posuw; (rz.) powodzenie
+[headword]headword (EN) : (rz.) hasło
+[heady]heady (EN) : (p.) gwałtowny; (p.) mocny; (p.) upojny
+[heal]heal (EN) : (cz.) bliźnić; (cz.) goić; (cz.) łagodzić; (cz.) leczyć; (cz.) uleczyć; (cz.) uśmierzyć; (cz.) uspokajać; (cz.) uzdrawiać; (cz.) uzdrowić; (cz.) wydobrzeć; (cz.) wyleczyć; (cz.) zagoić
+[healable]healable (EN) : (p.) wyleczalny
+[healer]healer (EN) : (rz.) uzdrawiacz; (rz.) uzdrowiciel
+[healing]healing (EN) : (p.) leczniczy; (rz.) gojenie; (rz.) leczenie; (rz.) uzdrawianie; (rz.) uzdrowienie; (rz.) wygojenie; (rz.) zagojenie; (rz.) zgojenie
+[health]health (EN) : (rz.) zdrowie; (rz.) zdrowotność
+[healthful]healthful (EN) : (p.) odżywczy; (p.) zdrowy
+[healthily]healthily (EN) : (p-sł.) zdrowo
+[healthy]healthy (EN) : (p.) silny; (p.) zdrów; (p.) zdrowotny; (p.) zdrowy
+[heap]heap (EN) : (cz.) gromadzić; (cz.) obładować; (cz.) piętrzyć; (cz.) spiętrzać; (cz.) zładować; (rz.) fura; (rz.) góra; (rz.) gromada; (rz.) hałda; (rz.) kupa; (rz.) kupka; (rz.) mnóstwo; (rz.) pryzma; (rz.) pudło; (rz.) sterta; (rz.) stóg; (rz.) stos; (rz.) usypisko; (rz.) zwał
+[hear]hear (EN) : (cz.) dosłyszeć; (cz.) dowiedzieć; (cz.) nasłuchać; (cz.) przesłuchać; (cz.) przesłuchiwać; (cz.) słuchać; (cz.) słychać; (cz.) słyszeć; (cz.) usłyszeć; (cz.) wiedzieć
+[heard]heard (EN) : (cz.) słyszeć
+[hearer]hearer (EN) : (rz.) słuchacz
+[hearing]hearing (EN) : (rz.) próba; (rz.) przesłuchanie; (rz.) rozprawa; (rz.) słuch; (rz.) słuchanie; (rz.) słyszenie; (rz.) wysłuchanie; (rz.) zmysł
+[hearken]hearken (EN) : (cz.) słuchać
+[hearsay]hearsay (EN) : (rz.) plotka; (rz.) pogłoska
+[hearse]hearse (EN) : (rz.) karawan; (rz.) katafalk
+[heart]heart (EN) : (rz.) głąb; (rz.) kardiolog; (rz.) męstwo; (rz.) rdzeń; (rz.) sedno; (rz.) serce
+[heart-burn]heart-burn (EN) : (rz.) zgaga
+[heart-burning]heart-burning (EN) : (rz.) zawiść
+[heart-felt]heart-felt (EN) : (p.) szczery
+[heart-shaped]heart-shaped (EN) : (p.) sercowaty
+[heart-to-heart]heart-to-heart (EN) : (p.) szczery
+[heart-wood]heart-wood (EN) : (rz.) twardziel
+[heartache]heartache (EN) : (rz.) cierpienie; (rz.) smutek; (rz.) strapienie
+[heartbeat]heartbeat (EN) : (rz.) uderzenie
+[heartbreak]heartbreak (EN) : (rz.) boleść; (rz.) żal; (rz.) zawód
+[heartburn]heartburn (EN) : (rz.) zgaga
+[heartburning]heartburning (EN) : (rz.) zawiść
+[hearten]hearten (EN) : (cz.) dodawać; (cz.) pocieszać
+[heartfelt]heartfelt (EN) : (p.) szczery
+[hearth]hearth (EN) : (rz.) kominek; (rz.) krata; (rz.) ognisko; (rz.) palenisko; (rz.) spód; (rz.) spodek; (rz.) topnisko; (rz.) trzon
+[heartiest]heartiest (EN) : (p.) obfity; (p.) serdeczny; (p.) szczery
+[heartily]heartily (EN) : (p-sł.) ochoczo; (p-sł.) serdecznie
+[heartiness]heartiness (EN) : (rz.) serdeczność
+[heartland]heartland (EN) : (rz.) centrum
+[heartlessness]heartlessness (EN) : (rz.) nieczułość
+[hearts]hearts (EN) : (rz.) kier
+[hearty]hearty (EN) : (p.) kordialny; (p.) obfity; (p.) serdeczny; (p.) silny; (p.) szczery
+[heat]heat (EN) : (cz.) dogrzać; (cz.) grzać; (cz.) nagrzać; (cz.) nagrzewać; (cz.) napalić; (cz.) ogrzać; (cz.) ogrzewać; (cz.) palić; (cz.) podgrzać; (cz.) podgrzewać; (cz.) pogrzać; (cz.) rozżarzać; (cz.) wygrzać; (cz.) zagrzewać; (p.) cieplny; (rz.) cieczka; (rz.) ciepło; (rz.) ciepłownictwo; (rz.) gorąco; (rz.) ogrzewanie; (rz.) skwar; (rz.) spiekota; (rz.) upał; (rz.) wytop; (rz.) żar
+[heat-hardening]heat-hardening (EN) : (p.) termoutwardzalny
+[heat-insulating]heat-insulating (EN) : (p.) termoizolacyjny
+[heat-proof]heat-proof (EN) : (p.) żaroodporny
+[heat-resistant]heat-resistant (EN) : (p.) żaroodporny
+[heat-resisting]heat-resisting (EN) : (p.) termoodporny; (p.) żaroodporny
+[heat-sink]heat-sink (EN) : (rz.) radiator
+[heated]heated (EN) : (p.) gorący; (p.) ożywiony; (p.) zapalczywy
+[heater]heater (EN) : (rz.) grzałka; (rz.) grzejnik; (rz.) nagrzewacz; (rz.) nagrzewnica; (rz.) ogrzewacz; (rz.) piecyk; (rz.) podgrzewacz
+[heath]heath (EN) : (rz.) pustkowie; (rz.) wrzos; (rz.) wrzosiec; (rz.) wrzosowisko
+[heath-cock]heath-cock (EN) : (rz.) cietrzew
+[heathen]heathen (EN) : (rz.) poganin; (rz.) pogaństwo
+[heathenish]heathenish (EN) : (p.) pogański
+[heathenism]heathenism (EN) : (rz.) pogaństwo
+[heather]heather (EN) : (rz.) wrzos
+[heating]heating (EN) : (rz.) ciepłomierz; (rz.) grzanie; (rz.) nagrzewanie; (rz.) ogrzewanie; (rz.) ogrzewnictwo; (rz.) opalenie; (rz.) podgrzewanie; (rz.) rozgrzanie
+[heatproof]heatproof (EN) : (p.) żaroodporny
+[heave]heave (EN) : (cz.) dźwigać; (cz.) podźwigać; (cz.) wydobywać; (rz.) dźwignięcie; (rz.) nurzanie; (rz.) podniesienie; (rz.) wysadzina
+[heaven]heaven (EN) : (rz.) niebiosa; (rz.) niebo
+[heaven-sent]heaven-sent (EN) : (p.) opatrznościowy
+[heavenly]heavenly (EN) : (p.) cudowny; (p.) nadziemski; (p.) niebiański; (p.) niebieski; (p.) rajski
+[heavens]heavens (EN) : (rz.) niebiosa
+[heaver]heaver (EN) : (rz.) drąg; (rz.) dźwignia
+[heaviest]heaviest (EN) : (p.) ciężki
+[heavily]heavily (EN) : (p-sł.) ciężko; (p-sł.) mocno; (p-sł.) obficie; (p-sł.) ociężale
+[heaviness]heaviness (EN) : (rz.) ciężkość; (rz.) ociężałość
+[heavy]heavy (EN) : (p.) ciężarny; (p.) ciężki; (p.) dotkliwy; (p.) gruby; (p.) intensywny; (p.) mocny; (p.) obfity; (p.) silny; (p.) wielki
+[heavy-duty]heavy-duty (EN) : (p.) wysokowydajny
+[heavy-handed]heavy-handed (EN) : (p.) brutalny; (p.) niesprawiedliwy; (p.) nietaktowny; (p.) niezgrabny
+[heavy-walled]heavy-walled (EN) : (p.) grubościenny
+[hecatomb]hecatomb (EN) : (rz.) hekatomba
+[heck]heck (EN) : (rz.) jaz; (rz.) zapora; (rz.) zastawa
+[heckle]heckle (EN) : (cz.) dręczyć; (cz.) przeszkadzać
+[heckler]heckler (EN) : (rz.) krzykacz
+[hectare]hectare (EN) : (rz.) hektar
+[hectic]hectic (EN) : (p.) gorączkowy; (p.) hektyczny; (p.) malaryczny; (p.) suchotniczy
+[hectograph]hectograph (EN) : (rz.) powielacz
+[hectolitre]hectolitre (EN) : (rz.) hektolitr
+[hector]hector (EN) : (cz.) awanturować; (cz.) dokazywać; (rz.) zawadiaka
+[heddle]heddle (EN) : (cz.) nawlekać
+[hedge]hedge (EN) : (rz.) ogrodzenie; (rz.) szpaler; (rz.) unik; (rz.) zabezpieczenie; (rz.) żywopłot
+[hedge-row]hedge-row (EN) : (rz.) żywopłot
+[hedgehog]hedgehog (EN) : (rz.) jeż
+[hedger]hedger (EN) : (rz.) osoba
+[hedgerow]hedgerow (EN) : (rz.) żywopłot
+[hedonism]hedonism (EN) : (rz.) hedonizm
+[hedonist]hedonist (EN) : (rz.) hedonista
+[hedonistic]hedonistic (EN) : (p.) hedonistyczny
+[hee-haw]hee-haw (EN) : (cz.) ryczeć
+[heed]heed (EN) : (cz.) uważać; (rz.) uwaga
+[heedful]heedful (EN) : (p.) baczny; (p.) dbały; (p.) ostrożny; (p.) uważny
+[heedless]heedless (EN) : (p.) lekkomyślny; (p.) niebaczny; (p.) niedbały; (p.) nieostrożny; (p.) nieuważny
+[heedlessly]heedlessly (EN) : (p-sł.) niedbale
+[heedlessness]heedlessness (EN) : (rz.) nieostrożność
+[heel]heel (EN) : (rz.) napiętek; (rz.) obcas; (rz.) pięta; (rz.) piętka; (rz.) ścięgno
+[heel-tap]heel-tap (EN) : (rz.) flek
+[heeltap]heeltap (EN) : (rz.) flek
+[heft]heft (EN) : (rz.) waga
+[hefty]hefty (EN) : (p.) masywny; (p.) mocny
+[hegemonic]hegemonic (EN) : (p.) władczy
+[hegemony]hegemony (EN) : (rz.) hegemonia
+[heifer]heifer (EN) : (rz.) jałowica; (rz.) jałówka
+[height]height (EN) : (rz.) apogeum; (rz.) pagórek; (rz.) rozkwit; (rz.) szczyt; (rz.) wyniosłość; (rz.) wysokość; (rz.) wzrost
+[heighten]heighten (EN) : (cz.) podnosić; (cz.) podwyższać; (cz.) potęgować; (cz.) powiększać; (cz.) rozdymać; (cz.) spotęgować
+[heinous]heinous (EN) : (p.) haniebny; (p.) nienawistny; (p.) obrzydliwy; (p.) ohydny; (p.) potworny
+[heinousness]heinousness (EN) : (rz.) ohyda
+[heir]heir (EN) : (rz.) dziedzic; (rz.) następca; (rz.) spadkobierca; (rz.) sukcesor
+[heirloom]heirloom (EN) : (rz.) dziedzictwo; (rz.) scheda; (rz.) spadek
+[heist]heist (EN) : (rz.) kradzież; (rz.) napad
+[heliacal]heliacal (EN) : (p.) heliakalny
+[helianthus]helianthus (EN) : (rz.) słonecznik
+[helical]helical (EN) : (p.) ślimakowaty; (p.) spiralny; (p.) śrubowaty; (p.) śrubowy
+[helicopter]helicopter (EN) : (rz.) helikopter; (rz.) śmigłowiec
+[heliocentric]heliocentric (EN) : (p.) heliocentryczny
+[heliodor]heliodor (EN) : (rz.) heliodor
+[heliograph]heliograph (EN) : (rz.) heliograf
+[heliographs]heliographs (EN) : (rz.) heliografia
+[heliography]heliography (EN) : (rz.) heliograwiura
+[heliotherapy]heliotherapy (EN) : (rz.) helioterapia
+[heliotrope]heliotrope (EN) : (rz.) heliotrop
+[heliotropism]heliotropism (EN) : (rz.) heliotropizm
+[heliotype]heliotype (EN) : (rz.) odbitka
+[helium]helium (EN) : (rz.) hel
+[helix]helix (EN) : (rz.) helisa; (rz.) ślimacznica; (rz.) ślimak
+[hell]hell (EN) : (rz.) piekło
+[hell-cat]hell-cat (EN) : (rz.) piekielnica
+[hellebore]hellebore (EN) : (rz.) ciemiernik
+[hellish]hellish (EN) : (p.) cholerny; (p.) diabelski; (p.) piekielny; (p.) potępieńczy
+[helm]helm (EN) : (rz.) kierowanie; (rz.) rumpel; (rz.) ster; (rz.) sterownica
+[helmet]helmet (EN) : (rz.) hełm; (rz.) kask; (rz.) szyszak
+[helmsman]helmsman (EN) : (rz.) sternik
+[helot]helot (EN) : (rz.) helota; (rz.) niewolnik
+[helotism]helotism (EN) : (rz.) helotyzm
+[help]help (EN) : (cz.) częstować; (cz.) dopomagać; (cz.) poczęstować; (cz.) pomagać; (cz.) poradzić; (cz.) ułatwić; (cz.) wspomagać; (cz.) wstrzymać; (cz.) zaradzać; (cz.) zaradzić; (rz.) podpowiadanie; (rz.) pomaganie; (rz.) pomoc; (rz.) pomóc; (rz.) poratowanie; (rz.) rada; (rz.) ratunek; (rz.) sukurs; (rz.) współpracownik; (rz.) wspomożenie
+[helper]helper (EN) : (rz.) pomagier; (rz.) pomocnica; (rz.) pomocnik
+[helpful]helpful (EN) : (p.) pomocny; (p.) pożyteczny; (p.) uczynny; (p.) użyteczny
+[helpfully]helpfully (EN) : (p-sł.) pomocnie; (p-sł.) uczynnie; (p-sł.) użytecznie
+[helpfulness]helpfulness (EN) : (rz.) przydatność; (rz.) uczynność; (rz.) użyteczność
+[helping]helping (EN) : (rz.) pomaganie; (rz.) porcja
+[helpless]helpless (EN) : (p.) bezbronny; (p.) bezradny; (p.) bezsilny; (p.) niezaradny
+[helplessly]helplessly (EN) : (p-sł.) bezradnie
+[helplessness]helplessness (EN) : (rz.) bezradność
+[helpmate]helpmate (EN) : (rz.) towarzysz
+[helpmeet]helpmeet (EN) : (rz.) towarzysz
+[helter-skelter]helter-skelter (EN) : (rz.) bezład; (rz.) zamęt; (rz.) zjeżdżalnia
+[helve]helve (EN) : (rz.) trzonek
+[hem]hem (EN) : (cz.) oblamować; (cz.) obrabiać; (cz.) obrąbiać; (cz.) obramować; (cz.) obrębiać; (cz.) obszyć; (cz.) obszywać; (cz.) pochrząkiwać; (rz.) brzeg; (rz.) oblamowanie; (rz.) obrąbek; (rz.) obszycie; (rz.) obszywka; (rz.) obwódka; (rz.) odchrząknięcie; (rz.) odkaszlnięcie; (rz.) rąbek
+[hematite]hematite (EN) : (rz.) hematyt
+[hemisphere]hemisphere (EN) : (rz.) hemisfera; (rz.) półkula
+[hemispheric]hemispheric (EN) : (p.) półkulisty
+[hemispherical]hemispherical (EN) : (p.) półkulisty
+[hemistich]hemistich (EN) : (rz.) półwiersz
+[hemlock]hemlock (EN) : (rz.) cykuta; (rz.) pietrasznik; (rz.) szalej
+[hemorrhagic]hemorrhagic (EN) : (p.) krwotoczny
+[hemp]hemp (EN) : (rz.) juta; (rz.) stryczek
+[hempen]hempen (EN) : (p.) konopny
+[hemps]hemps (EN) : (rz.) konopie
+[hemstitch]hemstitch (EN) : (rz.) ażurek; (rz.) mereżka
+[hen]hen (EN) : (rz.) kura
+[hen's]hen's (EN) : (p.) kurzy
+[hen-harrier]hen-harrier (EN) : (rz.) błotniak
+[hence]hence (EN) : (p-sł.) odtąd; (p-sł.) stąd
+[henceforth]henceforth (EN) : (p-sł.) odtąd
+[henceforward]henceforward (EN) : (p-sł.) odtąd
+[henchman]henchman (EN) : (rz.) giermek; (rz.) stronnik
+[henna]henna (EN) : (rz.) henna
+[hens]hens (EN) : (rz.) kur
+[heparin]heparin (EN) : (rz.) heparyna
+[hepatic]hepatic (EN) : (p.) wątrobowy
+[hepatitis]hepatitis (EN) : (rz.) żółtaczka
+[hepcat]hepcat (EN) : (rz.) znawca
+[heptagon]heptagon (EN) : (rz.) siedmiokąt
+[heptameter]heptameter (EN) : (rz.) heptametr
+[heptavalent]heptavalent (EN) : (p.) siedmiowartościowy
+[heptode]heptode (EN) : (rz.) heptoda
+[herald]herald (EN) : (cz.) ogłosić; (cz.) zwiastować; (rz.) herold; (rz.) zapowiedź; (rz.) zwiastun
+[heraldic]heraldic (EN) : (p.) heraldyczny; (p.) herbowy
+[heraldries]heraldries (EN) : (rz.) heraldyk
+[heraldry]heraldry (EN) : (rz.) heraldyka
+[herb]herb (EN) : (rz.) trójząb; (rz.) ziele; (rz.) zioło
+[herb-cultivation]herb-cultivation (EN) : (rz.) zielarstwo
+[herbaceous]herbaceous (EN) : (p.) zielny; (p.) ziołowy
+[herbage]herbage (EN) : (rz.) trawa; (rz.) trawy
+[herbal]herbal (EN) : (p.) zielarski; (p.) zielny; (p.) ziołowy
+[herbalist]herbalist (EN) : (rz.) zielarz
+[herbarium]herbarium (EN) : (rz.) zielnik
+[herbicidal]herbicidal (EN) : (p.) chwastobójczy; (p.) herbicydowy
+[herbicide]herbicide (EN) : (rz.) herbicyd
+[herbivore]herbivore (EN) : (rz.) trawojad
+[herbivorous]herbivorous (EN) : (p.) roślinożerny; (p.) trawożerny
+[herd]herd (EN) : (cz.) jednoczyć; (cz.) tłoczyć; (rz.) sfora; (rz.) stado; (rz.) tabun; (rz.) tłum; (rz.) trzoda
+[herder]herder (EN) : (rz.) pasterz; (rz.) pastuch
+[herdsman]herdsman (EN) : (rz.) pasterz; (rz.) pastuch; (rz.) poganiacz
+[here]here (EN) : (p-sł.) tędy; (p-sł.) tu; (p-sł.) tutaj
+[hereabouts]hereabouts (EN) : (p-sł.) blisko; (p-sł.) gdzieś
+[hereditable]hereditable (EN) : (p.) dziedziczny
+[hereditary]hereditary (EN) : (p.) dziedziczny
+[heredity]heredity (EN) : (rz.) dziedziczność
+[herein]herein (EN) : (p-sł.) tu
+[heresy]heresy (EN) : (rz.) herezja; (rz.) innowierstwo; (rz.) kacerstwo
+[heretic]heretic (EN) : (rz.) heretyk; (rz.) kacerz
+[heretical]heretical (EN) : (p.) heretycki
+[heretofore]heretofore (EN) : (p-sł.) dotychczas; (p-sł.) poprzednio
+[heritable]heritable (EN) : (p.) dziedziczny
+[heritage]heritage (EN) : (rz.) dziedzictwo; (rz.) scheda; (rz.) spadek; (rz.) spuścizna; (rz.) szlak
+[heritor]heritor (EN) : (rz.) dziedzic
+[hermaphrodite]hermaphrodite (EN) : (p.) obojnaczy; (p.) obupłciowy; (rz.) hermafrodyta; (rz.) obojnak
+[hermaphroditic]hermaphroditic (EN) : (p.) obojnaczy; (p.) obupłciowy
+[hermaphroditical]hermaphroditical (EN) : (p.) obojnaczy; (rz.) obojnak
+[hermeneutic]hermeneutic (EN) : (p.) hermeneutyczny
+[hermeneutical]hermeneutical (EN) : (p.) hermeneutyczny
+[hermeneutics]hermeneutics (EN) : (rz.) hermeneutyka
+[hermetic]hermetic (EN) : (p.) hermetyczny; (p.) szczelny
+[hermetical]hermetical (EN) : (p.) hermetyczny; (p.) szczelny
+[hermetically]hermetically (EN) : (p-sł.) hermetycznie
+[hermit]hermit (EN) : (rz.) anachoreta; (rz.) pustelnik
+[hermitage]hermitage (EN) : (rz.) ermitaż; (rz.) odosobnienie; (rz.) pustelnia
+[hermitic]hermitic (EN) : (p.) pustelniczy
+[hernia]hernia (EN) : (rz.) przepuklina; (rz.) ruptura
+[hero]hero (EN) : (rz.) bohater; (rz.) heros; (rz.) idol
+[heroic]heroic (EN) : (p.) bohaterski; (p.) heroiczny
+[heroically]heroically (EN) : (p-sł.) bohatersko; (p-sł.) heroicznie
+[heroin]heroin (EN) : (rz.) heroina
+[heroine]heroine (EN) : (rz.) bohaterka; (rz.) heroina
+[heroism]heroism (EN) : (rz.) bohaterstwo; (rz.) heroiczność; (rz.) heroizm
+[heron]heron (EN) : (rz.) czapla
+[herpes]herpes (EN) : (rz.) liszaj; (rz.) opryszczka
+[herpetic]herpetic (EN) : (p.) opryszczkowy
+[herpetological]herpetological (EN) : (p.) herpetologiczny
+[herring]herring (EN) : (rz.) śledź
+[herring-bone]herring-bone (EN) : (rz.) jodełka
+[herringbone]herringbone (EN) : (rz.) jodełka
+[hertz]hertz (EN) : (rz.) herc
+[hesitance]hesitance (EN) : (rz.) niepewność; (rz.) niezdecydowanie; (rz.) wahanie
+[hesitancy]hesitancy (EN) : (rz.) niezdecydowanie; (rz.) wahanie
+[hesitantly]hesitantly (EN) : (p-sł.) niepewnie
+[hesitate]hesitate (EN) : (cz.) wahać; (cz.) zawahać; (cz.) zwlekać
+[hesitation]hesitation (EN) : (rz.) niepewność; (rz.) niezdecydowanie; (rz.) wahanie
+[heteroatom]heteroatom (EN) : (rz.) heteroatom
+[heterochromatin]heterochromatin (EN) : (rz.) heterochromatyna
+[heterochromosome]heterochromosome (EN) : (rz.) heterochromosom
+[heterocyclic]heterocyclic (EN) : (p.) heterocykliczny
+[heterodox]heterodox (EN) : (p.) heterodoksyjny; (p.) innowierczy
+[heterodoxy]heterodoxy (EN) : (rz.) heterodoksja; (rz.) innowierstwo
+[heterodyne]heterodyne (EN) : (rz.) heterodyna
+[heterogeneity]heterogeneity (EN) : (rz.) niejednorodność; (rz.) różnorodność
+[heterogeneous]heterogeneous (EN) : (p.) heterogeniczny; (p.) niejednorodny; (p.) rozbieżny; (p.) różnogatunkowy; (p.) różnorodny
+[heterogeneously]heterogeneously (EN) : (p-sł.) heterogenicznie
+[heterogenic]heterogenic (EN) : (p.) heterogeniczny; (p.) niejednorodny
+[heteronymous]heteronymous (EN) : (p.) różnoimienny
+[heterosexual]heterosexual (EN) : (p.) heteroseksualny
+[heterotrophic]heterotrophic (EN) : (p.) cudzożywny
+[heterotrophy]heterotrophy (EN) : (rz.) cudzożywność
+[heterozygote]heterozygote (EN) : (rz.) heterozygota
+[hetman]hetman (EN) : (p.) hetmański; (rz.) hetman
+[heuristic]heuristic (EN) : (p.) heurystyczny
+[heuristically]heuristically (EN) : (p-sł.) heurystycznie
+[heuristics]heuristics (EN) : (rz.) heurystyka
+[hew]hew (EN) : (cz.) ciosać; (cz.) kuć; (cz.) ociosać; (cz.) porąbać; (cz.) rąbać; (cz.) wkuć; (cz.) wrębiać
+[hex]hex (EN) : (rz.) czar; (rz.) urok
+[hexadecane]hexadecane (EN) : (rz.) cetan
+[hexadecimal]hexadecimal (EN) : (p.) heksadecymalny; (p.) szesnastkowy
+[hexadecimal-to-binary]hexadecimal-to-binary (EN) : (p.) heksadecymalno-binarny; (p.) szesnastkowo-dwójkowy
+[hexadecimal-to-decimal]hexadecimal-to-decimal (EN) : (p.) szesnastkowo-dziesiętny
+[hexagon]hexagon (EN) : (rz.) heksagon; (rz.) sześciobok; (rz.) sześciokąt
+[hexagonal]hexagonal (EN) : (p.) heksagonalny; (p.) sześciokątny
+[hexagons]hexagons (EN) : (rz.) sześciokąt
+[hexahedron]hexahedron (EN) : (rz.) sześcian; (rz.) sześciobok
+[hexameter]hexameter (EN) : (rz.) heksametr
+[hexamethylenetetramine]hexamethylenetetramine (EN) : (rz.) urotropina
+[hexametrical]hexametrical (EN) : (p.) heksametryczny
+[hexane]hexane (EN) : (rz.) heksan
+[hexode]hexode (EN) : (rz.) heksoda
+[hexogen]hexogen (EN) : (rz.) heksogen
+[hey]hey (EN) : (wykrzyknik) hej
+[heyday]heyday (EN) : (rz.) szczyt; (rz.) zenit
+[hi]hi (EN) : (wykrzyknik) hej; (wykrzyknik) serwus
+[hiatus]hiatus (EN) : (rz.) luka; (rz.) przerwa; (rz.) rozziew
+[hibernate]hibernate (EN) : (cz.) przezimować; (cz.) zimować
+[hibernation]hibernation (EN) : (rz.) hibernacja; (rz.) uśpienie
+[hiccough]hiccough (EN) : (cz.) czkać; (rz.) czkawka
+[hiccup]hiccup (EN) : (cz.) czkać; (rz.) czkawka
+[hick]hick (EN) : (rz.) prostak; (rz.) wieśniak
+[hickory]hickory (EN) : (rz.) hikora; (rz.) orzesznik
+[hid]hid (EN) : (cz.) ukrywać
+[hidden]hidden (EN) : (cz.) ukrywać
+[hide]hide (EN) : (cz.) chować; (cz.) kryć; (cz.) schować; (cz.) skryć; (cz.) taić; (cz.) ukryć; (cz.) ukrywać; (cz.) zaczaić; (cz.) zamelinować; (cz.) zasłaniać; (cz.) zataić; (rz.) skóra; (rz.) ukrycie; (rz.) ukrywanie
+[hide-out]hide-out (EN) : (rz.) kryjówka
+[hideaway]hideaway (EN) : (rz.) kryjówka
+[hideous]hideous (EN) : (p.) ohydny; (p.) pokraczny; (p.) straszny; (p.) szkaradny; (p.) wstrętny
+[hideously]hideously (EN) : (p-sł.) brzydko; (p-sł.) ohydnie
+[hideousness]hideousness (EN) : (rz.) brzydota; (rz.) okropność; (rz.) szkaradność
+[hideout]hideout (EN) : (rz.) kryjówka
+[hiding]hiding (EN) : (rz.) pochowanie; (rz.) schowanie; (rz.) ukrywanie
+[hiding-place]hiding-place (EN) : (rz.) kryjówka; (rz.) schowek; (rz.) ukrycie
+[hierarch]hierarch (EN) : (rz.) hierarcha
+[hierarchic]hierarchic (EN) : (p.) hierarchiczny
+[hierarchical]hierarchical (EN) : (p.) hierarchiczny
+[hierarchically]hierarchically (EN) : (p-sł.) hierarchicznie
+[hierarchy]hierarchy (EN) : (rz.) hierarchia; (rz.) władza
+[hieratic]hieratic (EN) : (p.) hieratyczny; (p.) kapłański
+[hieratical]hieratical (EN) : (p.) hieratyczny; (p.) kapłański
+[hieroglyph]hieroglyph (EN) : (rz.) hieroglif
+[hieroglyphic]hieroglyphic (EN) : (p.) hieroglificzny; (rz.) hieroglif
+[higgledy-piggledy]higgledy-piggledy (EN) : (p.) bezładny; (p-sł.) bezładnie; (p-sł.) bezwładnie
+[high]high (EN) : (p.) dumny; (p.) główny; (p.) silny; (p.) światowy; (p.) wielki; (p.) wybitny; (p.) wysoki; (p.) żywy; (p-sł.) mocno; (p-sł.) wysoko
+[high-availability]high-availability (EN) : (rz.) dyspozycyjność
+[high-boiling]high-boiling (EN) : (p.) wysokowrzący
+[high-class]high-class (EN) : (p.) ekskluzywny; (p.) pierwszorzędny
+[high-duty]high-duty (EN) : (p.) wysokosprawny; (p.) wysokowydajny
+[high-efficiency]high-efficiency (EN) : (p.) wysokowydajny
+[high-flown]high-flown (EN) : (p.) górnolotny
+[high-grade]high-grade (EN) : (p.) wysokogatunkowy; (p.) wysokojakościowy; (p.) wysokoprocentowy; (p.) wysokowartościowy
+[high-handed]high-handed (EN) : (p.) arbitralny; (p.) despotyczny; (p.) władczy
+[high-level]high-level (EN) : (p.) ogólny
+[high-melting]high-melting (EN) : (p.) trudnotopliwy; (p.) wysokotopliwy
+[high-minded]high-minded (EN) : (p.) szlachetny
+[high-octane]high-octane (EN) : (p.) wysokooktanowy
+[high-performance]high-performance (EN) : (p.) wysokosprawny
+[high-pitched]high-pitched (EN) : (p.) wysoki
+[high-pressure]high-pressure (EN) : (p.) wysokociśnieniowy
+[high-principled]high-principled (EN) : (p.) honorowy
+[high-quality]high-quality (EN) : (p.) wysokogatunkowy
+[high-rise]high-rise (EN) : (p.) wielopoziomowy; (p.) wysokościowy; (rz.) wieżowiec; (rz.) wysokościowiec
+[high-sounding]high-sounding (EN) : (p.) szumny
+[high-speed]high-speed (EN) : (p.) szybkobieżny; (p.) szybkościowy; (p.) wysokoobrotowy
+[high-spirited]high-spirited (EN) : (p.) żwawy; (p.) żywy
+[high-strung]high-strung (EN) : (p.) wrażliwy
+[high-temperature]high-temperature (EN) : (p.) wysokotemperaturowy
+[high-up]high-up (EN) : (rz.) osobistość
+[high-wrought]high-wrought (EN) : (p.) ozdobny; (p-sł.) gwałtownie
+[highbrow]highbrow (EN) : (rz.) intelektualista; (rz.) inteligent
+[higher]higher (EN) : (p.) ponadpodstawowy
+[highest]highest (EN) : (p.) główny
+[highfaluting]highfaluting (EN) : (p.) górnolotny
+[highhanded]highhanded (EN) : (p.) arbitralny; (p.) despotyczny; (p.) władczy
+[highjack]highjack (EN) : (rz.) porwanie
+[highland]highland (EN) : (rz.) podgórze; (rz.) średniogórze; (rz.) wyżyna; (rz.) wzgórze
+[highlander]highlander (EN) : (rz.) góral
+[highlander's]highlander's (EN) : (p.) góralski
+[highlands]highlands (EN) : (rz.) pogórze; (rz.) wyżyna
+[highlight]highlight (EN) : (cz.) naświetlić; (cz.) podkreślać; (cz.) podkreślić; (cz.) podświetlać; (cz.) podświetlić; (cz.) unaocznić; (cz.) uwydatniać; (cz.) uwydatnić; (cz.) uwypuklać; (cz.) uwypuklić; (cz.) wyodrębniać; (cz.) wyodrębnić; (cz.) wyróżnić
+[highly]highly (EN) : (p-sł.) dumnie; (p-sł.) wielce; (p-sł.) wysoce; (p-sł.) wysoko
+[highness]highness (EN) : (rz.) siła; (rz.) szlachetność; (rz.) wysokość; (rz.) wzniosłość
+[highroad]highroad (EN) : (rz.) gościniec; (rz.) szosa
+[highway]highway (EN) : (rz.) autostrada; (rz.) droga; (rz.) gościniec; (rz.) magistrala; (rz.) szosa
+[highwayman]highwayman (EN) : (rz.) rozbójnik
+[hijack]hijack (EN) : (cz.) porwać; (cz.) porywać; (rz.) porwanie
+[hijacked]hijacked (EN) : (cz.) porywać
+[hijacker]hijacker (EN) : (rz.) porywacz
+[hijacking]hijacking (EN) : (rz.) porwanie; (rz.) porywanie; (rz.) uprowadzenie
+[hike]hike (EN) : (cz.) chodzić; (cz.) wędrować; (cz.) windować; (rz.) wędrówka
+[hiker]hiker (EN) : (rz.) piechur; (rz.) turysta; (rz.) wycieczkowicz
+[hilarious]hilarious (EN) : (p.) komiczny; (p.) wesoły; (p.) zabawny
+[hilarity]hilarity (EN) : (rz.) wesołość
+[hill]hill (EN) : (rz.) górka; (rz.) kopcenie; (rz.) pagórek; (rz.) wzgórze; (rz.) wzniesienie
+[hill-side]hill-side (EN) : (rz.) stok
+[hilliness]hilliness (EN) : (rz.) pagórkowatość
+[hillock]hillock (EN) : (rz.) górka; (rz.) kopczyk; (rz.) pagórek; (rz.) wzgórek
+[hillside]hillside (EN) : (rz.) stok; (rz.) zbocze
+[hilltop]hilltop (EN) : (rz.) szczyt
+[hilly]hilly (EN) : (p.) górzysty; (p.) pagórkowaty; (p.) stromy
+[hilt]hilt (EN) : (rz.) rękojeść
+[hind]hind (EN) : (p.) tylni; (p.) tylny; (rz.) łania; (rz.) parobek; (rz.) udziec
+[hinder]hinder (EN) : (cz.) powstrzymywać; (cz.) przeszkadzać
+[hindmost]hindmost (EN) : (p.) ostatni
+[hindquarters]hindquarters (EN) : (rz.) zad
+[hindrance]hindrance (EN) : (rz.) przeszkadzanie; (rz.) przeszkoda; (rz.) utrudnianie; (rz.) utrudnienie; (rz.) zawada
+[hinge]hinge (EN) : (cz.) obracać; (cz.) zależeć; (rz.) zawias; (rz.) zawiasa
+[hint]hint (EN) : (cz.) insynuować; (cz.) nadmieniać; (cz.) napomykać; (cz.) przebąkiwać; (cz.) sugerować; (rz.) aluzja; (rz.) domyślnik; (rz.) napomknięcie; (rz.) napomknienie; (rz.) niedomówienie; (rz.) podpowiedź; (rz.) półsłówko; (rz.) pomoc; (rz.) przycinek; (rz.) przymówka; (rz.) rada; (rz.) ślad; (rz.) sugestia; (rz.) wskazówka
+[hinterland]hinterland (EN) : (rz.) zaplecze
+[hints]hints (EN) : (rz.) prowadnica
+[hip]hip (EN) : (p.) biodrowy; (rz.) biodro
+[hip-bath]hip-bath (EN) : (rz.) nasiadówka
+[hip-flask]hip-flask (EN) : (rz.) piersiówka
+[hipbath]hipbath (EN) : (rz.) nasiadówka
+[hippie]hippie (EN) : (rz.) hipis; (rz.) hippis
+[hippo]hippo (EN) : (rz.) hipopotam
+[hippodrome]hippodrome (EN) : (rz.) hipodrom
+[hippopotamus]hippopotamus (EN) : (rz.) hipopotam
+[hippy]hippy (EN) : (rz.) hipis; (rz.) hippis
+[hircine]hircine (EN) : (p.) kozi
+[hire]hire (EN) : (cz.) angażować; (cz.) godzić; (cz.) najmować; (cz.) wynajmować; (cz.) zatrudniać; (cz.) zatrudnić; (rz.) dzierżawa; (rz.) najem; (rz.) wynajęcie; (rz.) wynajem
+[hireling]hireling (EN) : (rz.) najemnik; (rz.) najmita
+[hirer]hirer (EN) : (rz.) najemca
+[hirsute]hirsute (EN) : (p.) kosmaty; (p.) kudłaty; (p.) włochaty
+[hispid]hispid (EN) : (p.) kolczasty; (p.) kosmaty; (p.) szczeciniasty
+[hiss]hiss (EN) : (cz.) bzykać; (cz.) syczeć; (rz.) poszum; (rz.) syczenie; (rz.) syk
+[hisses]hisses (EN) : (rz.) wygwizdanie
+[histamine]histamine (EN) : (rz.) histamina
+[histogram]histogram (EN) : (rz.) histogram; (rz.) wykres
+[histological]histological (EN) : (p.) histologiczny
+[histologist]histologist (EN) : (rz.) histolog
+[histology]histology (EN) : (rz.) histologia
+[histopathology]histopathology (EN) : (rz.) histopatologia
+[historian]historian (EN) : (rz.) dziejopis; (rz.) dziejopisarz; (rz.) historyk
+[historic]historic (EN) : (p.) dziejowy; (p.) historyczny; (p.) zabytkowy
+[historical]historical (EN) : (p.) dziejowy; (p.) historyczny
+[historically]historically (EN) : (p-sł.) historycznie
+[historicism]historicism (EN) : (rz.) historyzm
+[historicity]historicity (EN) : (rz.) historyczność
+[historiographer]historiographer (EN) : (rz.) dziejopis; (rz.) historiograf
+[historiography]historiography (EN) : (rz.) dziejopisarstwo; (rz.) historiografia
+[history]history (EN) : (rz.) dzieje; (rz.) historia
+[histrionic]histrionic (EN) : (p.) dramatyczny; (p.) sceniczny; (p.) teatralny
+[histrionics]histrionics (EN) : (rz.) aktorstwo
+[hit]hit (EN) : (cz.) trafiać; (cz.) trafić; (cz.) trzaskać; (cz.) uderzać; (cz.) uderzyć; (rz.) cios; (rz.) nagranie; (rz.) piosenka; (rz.) przebój; (rz.) szlagier; (rz.) trafienie; (rz.) uderzenie
+[hitch]hitch (EN) : (cz.) kuśtykać; (cz.) odciągać; (cz.) pociągnąć; (cz.) podnosić; (cz.) popychać; (cz.) posuwać; (cz.) przyczepiać; (cz.) przyczepić; (cz.) szarpnąć; (cz.) uczepić; (cz.) umocować; (cz.) umocowywać; (cz.) zaczepiać; (rz.) szarpnięcie; (rz.) szkopuł; (rz.) uczep; (rz.) zatrzymanie
+[hitch-hiker]hitch-hiker (EN) : (rz.) autostopowicz
+[hitch-hiking]hitch-hiking (EN) : (rz.) autostop
+[hitchhiker]hitchhiker (EN) : (rz.) autostopowicz
+[hither]hither (EN) : (p-sł.) tu
+[hitherto]hitherto (EN) : (p-sł.) dotąd; (p-sł.) dotychczas
+[hitter]hitter (EN) : (rz.) zastępca; (rz.) zastępstwo
+[hive]hive (EN) : (cz.) gromadzić; (cz.) roić; (rz.) ul
+[hl]hl (EN) : (rz.) hektolitr
+[hoar]hoar (EN) : (p.) siwy
+[hoar-frost]hoar-frost (EN) : (rz.) szron
+[hoard]hoard (EN) : (cz.) chować; (cz.) ciułać; (cz.) gromadzić; (cz.) zbierać; (rz.) skarb; (rz.) zapas; (rz.) zasób
+[hoarding]hoarding (EN) : (rz.) ciułanie; (rz.) oszalowanie; (rz.) parkan
+[hoarfrost]hoarfrost (EN) : (rz.) szron
+[hoarse]hoarse (EN) : (p.) chrapliwy; (p.) chrypliwy; (p.) ochrypły; (p.) zachrypły
+[hoarsely]hoarsely (EN) : (p-sł.) chrapliwie
+[hoarsen]hoarsen (EN) : (cz.) zachrypieć
+[hoarseness]hoarseness (EN) : (rz.) chrypa; (rz.) chrypka; (rz.) szorstkość
+[hoary]hoary (EN) : (p.) siwy
+[hoax]hoax (EN) : (cz.) nabierać; (rz.) kaczka; (rz.) mistyfikacja; (rz.) żart
+[hob]hob (EN) : (rz.) ćwiek; (rz.) figiel; (rz.) kołek
+[hobble]hobble (EN) : (cz.) chromać; (cz.) kulawieć; (cz.) kuleć; (cz.) pętać; (cz.) utykać; (rz.) chromanie; (rz.) kulawka; (rz.) utykanie
+[hobbledehoy]hobbledehoy (EN) : (rz.) chłystek; (rz.) ciamajda; (rz.) młokos
+[hobby]hobby (EN) : (rz.) hobby; (rz.) konik; (rz.) pasja; (rz.) zainteresowanie
+[hobbyhorse]hobbyhorse (EN) : (rz.) konik
+[hobbyist]hobbyist (EN) : (rz.) hobbista
+[hobgoblin]hobgoblin (EN) : (rz.) skrzat; (rz.) straszak
+[hobnail]hobnail (EN) : (rz.) ćwiek; (rz.) gwóźdź; (rz.) podkowiak
+[hobnob]hobnob (EN) : (cz.) poufalić; (cz.) zadać; (cz.) zadawać
+[hobo]hobo (EN) : (rz.) menel; (rz.) włóczęga
+[hock]hock (EN) : (cz.) zastawiać; (rz.) golonka; (rz.) pęcina; (rz.) zastaw
+[hockey]hockey (EN) : (rz.) hokej
+[hockshop]hockshop (EN) : (rz.) lombard
+[hocus-pocus]hocus-pocus (EN) : (rz.) matactwo
+[hodgepodge]hodgepodge (EN) : (rz.) mieszanina
+[hodograph]hodograph (EN) : (rz.) hodograf
+[hoe]hoe (EN) : (cz.) gracować; (cz.) radlić; (cz.) spulchniać; (cz.) spulchnić; (rz.) graca; (rz.) kilof; (rz.) motyka
+[hog]hog (EN) : (cz.) przegiąć; (cz.) spaczyć; (rz.) knur; (rz.) świnia; (rz.) tucznik; (rz.) wieprz
+[hogs]hogs (EN) : (rz.) nierogacizna
+[hoist]hoist (EN) : (cz.) dźwigać; (cz.) podnieść; (cz.) podnosić; (cz.) unosić; (cz.) wciągać; (cz.) windować; (cz.) wyciągać; (cz.) wywiesić; (rz.) dźwig; (rz.) lewar; (rz.) linociąg; (rz.) skrót; (rz.) winda; (rz.) wyciąg; (rz.) wyciągarka
+[hoister]hoister (EN) : (rz.) elewator; (rz.) sztaplarka
+[hokum]hokum (EN) : (rz.) banał
+[hold]hold (EN) : (rz.) uchwyt; (cz.) chwytać; (cz.) czekać; (cz.) dzierżyć; (cz.) mieścić; (cz.) nadstawiać; (cz.) obchodzić; (cz.) odbywać; (cz.) piastować; (cz.) pomieścić; (cz.) posiadać; (cz.) postanawiać; (cz.) przetrzymywać; (cz.) przytrzymać; (cz.) ściskać; (cz.) trzymać; (cz.) zaczekać; (cz.) zawierać; (cz.) zgotować; (rz.) chwyt; (rz.) ładownia; (rz.) przytrzymanie; (rz.) trzymanie
+[hold-up]hold-up (EN) : (rz.) napad; (rz.) zdzierstwo
+[holdall]holdall (EN) : (rz.) torba
+[holder]holder (EN) : (rz.) klaser; (rz.) okaziciel; (rz.) oprawka; (rz.) posiadacz; (rz.) trzymacz; (rz.) uchwyt; (rz.) właściciel
+[holdfast]holdfast (EN) : (rz.) docisk
+[holding]holding (EN) : (rz.) dzierżawa; (rz.) posiadanie; (rz.) sprawowanie; (rz.) trzymanie; (rz.) władanie; (rz.) wytrzymywanie; (rz.) zapas
+[holdover]holdover (EN) : (rz.) przeżytek
+[hole]hole (EN) : (cz.) przekopać; (cz.) uszczuplać; (rz.) dołek; (rz.) dziura; (rz.) dziurka; (rz.) jama; (rz.) nora; (rz.) otwór; (rz.) włom
+[hole-and-corner]hole-and-corner (EN) : (p.) potajemny
+[hole-saw]hole-saw (EN) : (rz.) sękarka
+[hole-through]hole-through (EN) : (rz.) przebicie; (rz.) przecinka; (rz.) wrębienie
+[holey]holey (EN) : (p.) dziurawy
+[holiday]holiday (EN) : (rz.) ferie; (rz.) święto; (rz.) wakacje; (rz.) wczasy
+[holiday-maker]holiday-maker (EN) : (rz.) letnik; (rz.) urlopowicz; (rz.) wczasowicz
+[holidaymaker]holidaymaker (EN) : (rz.) letnik; (rz.) turysta; (rz.) urlopowicz; (rz.) wczasowicz
+[holidaymakers]holidaymakers (EN) : (rz.) wczasowicz
+[holidays]holidays (EN) : (rz.) urlop; (rz.) wakacje; (rz.) wczasy
+[holiness]holiness (EN) : (rz.) świątobliwość; (rz.) świętość
+[holism]holism (EN) : (rz.) holizm
+[holistic]holistic (EN) : (p.) holistyczny; (p.) odświętny
+[holler]holler (EN) : (cz.) ryczeć; (cz.) wrzeszczeć; (cz.) wykrzykiwać
+[hollering]hollering (EN) : (rz.) wrzask
+[hollow]hollow (EN) : (cz.) wydrążyć; (p.) dziurawy; (p.) próżny; (p.) pusty; (rz.) dół; (rz.) dziupla; (rz.) dziura; (rz.) dźwięk; (rz.) jama; (rz.) kotlina; (rz.) próżnia; (rz.) wgłębienie; (rz.) wydrążenie; (rz.) zagłębienie; (rz.) zapadlisko
+[holly]holly (EN) : (rz.) ostrokrzew
+[hollyhock]hollyhock (EN) : (rz.) malwa
+[holmium]holmium (EN) : (rz.) holm
+[holocaust]holocaust (EN) : (rz.) całopalenie; (rz.) holokaust; (rz.) zagłada
+[hologram]hologram (EN) : (rz.) hologram
+[holograms]holograms (EN) : (rz.) hologram
+[holograph]holograph (EN) : (rz.) holograf
+[holographic]holographic (EN) : (p.) holograficzny
+[holography]holography (EN) : (rz.) holografia
+[holster]holster (EN) : (rz.) futerał; (rz.) kabura; (rz.) olstro
+[holt]holt (EN) : (rz.) gaj
+[holy]holy (EN) : (p.) religijny; (p.) świątobliwy; (p.) święty
+[homage]homage (EN) : (rz.) hołd
+[home]home (EN) : (p.) domatorski; (p.) domowy; (p.) krajowy; (p.) ojczyźniany; (p.) rodzimy; (p-sł.) domowo; (rz.) dom; (rz.) domatorstwo; (rz.) kolebka; (rz.) mieszkanie; (rz.) ojczyzna; (rz.) sadyba
+[home-brew]home-brew (EN) : (rz.) podpiwek
+[home-made]home-made (EN) : (p.) domowy
+[homeland]homeland (EN) : (rz.) macierz; (rz.) ojczyzna
+[homeless]homeless (EN) : (p.) bezdomny; (p.) tułaczy
+[homelessness]homelessness (EN) : (rz.) bezdomność
+[homelike]homelike (EN) : (p.) domowy; (p.) miły; (p.) przytulny
+[homely]homely (EN) : (p.) brzydki; (p.) domowy; (p.) prosty; (p.) przytulny; (p.) swojski
+[homemade]homemade (EN) : (p.) domowy; (p.) krajowy; (p.) swojski
+[homeomorphism]homeomorphism (EN) : (rz.) homeomorfizm
+[homeopath]homeopath (EN) : (rz.) homeopata
+[homeopathic]homeopathic (EN) : (p.) homeopatyczny
+[homeopathy]homeopathy (EN) : (rz.) homeopatia
+[homeowner]homeowner (EN) : (rz.) właściciel
+[homepage]homepage (EN) : (rz.) witryna
+[homesick]homesick (EN) : (p.) nostalgiczny
+[homesickness]homesickness (EN) : (rz.) tęsknota
+[homespun]homespun (EN) : (p.) bezpośredni; (p.) prosty; (p.) samodziałowy; (rz.) samodział
+[homestead]homestead (EN) : (rz.) domostwo; (rz.) farma; (rz.) gospodarstwo
+[homesteader]homesteader (EN) : (rz.) osadnik
+[homeward]homeward (EN) : (p.) powrotny
+[homework]homework (EN) : (rz.) chałupnictwo; (rz.) zadanie
+[homey]homey (EN) : (p.) domowy
+[homicidal]homicidal (EN) : (p.) morderczy
+[homicide]homicide (EN) : (rz.) morderca; (rz.) morderczyni; (rz.) zabójca; (rz.) zabójstwo
+[homiletic]homiletic (EN) : (p.) homiletyczny; (p.) kaznodziejski
+[homily]homily (EN) : (rz.) homilia; (rz.) kazanie
+[hominid]hominid (EN) : (rz.) małpolud
+[hominy]hominy (EN) : (rz.) mamałyga
+[homocentric]homocentric (EN) : (p.) współśrodkowy
+[homoeopath]homoeopath (EN) : (rz.) homeopata
+[homoeopathic]homoeopathic (EN) : (p.) homeopatyczny
+[homoeopathy]homoeopathy (EN) : (rz.) homeopatia
+[homogeneity]homogeneity (EN) : (rz.) homogeniczność; (rz.) jednorodność
+[homogeneous]homogeneous (EN) : (p.) homogeniczny; (p.) jednolity
+[homogeneously]homogeneously (EN) : (p-sł.) homogenicznie; (p-sł.) jednorodnie
+[homogenisation]homogenisation (EN) : (rz.) homogenizacja; (rz.) ujednorodnienie
+[homogeniser]homogeniser (EN) : (rz.) homogenizator
+[homogenization]homogenization (EN) : (rz.) homogenizacja
+[homogenize]homogenize (EN) : (cz.) homogenizować
+[homogenizer]homogenizer (EN) : (rz.) homogenizator
+[homogenizing]homogenizing (EN) : (rz.) homogenizacja; (rz.) ujednorodnianie
+[homogenous]homogenous (EN) : (p.) homogeniczny; (p.) jednolity
+[homographic]homographic (EN) : (p.) homograficzny
+[homologation]homologation (EN) : (rz.) homologacja
+[homologous]homologous (EN) : (p.) homologiczny; (p.) odpowiedni; (p.) pokrewny
+[homologue]homologue (EN) : (rz.) homolog
+[homologues]homologues (EN) : (rz.) homologia
+[homology]homology (EN) : (rz.) homologia
+[homomorphism]homomorphism (EN) : (rz.) homomorfizm
+[homonym]homonym (EN) : (rz.) homonim
+[homonymic]homonymic (EN) : (p.) homonimiczny
+[homonymous]homonymous (EN) : (p.) homonimiczny
+[homonymy]homonymy (EN) : (rz.) homonimia
+[homophobia]homophobia (EN) : (rz.) homofonia
+[homophone]homophone (EN) : (rz.) homofon
+[homophonous]homophonous (EN) : (p.) homofoniczny
+[homophony]homophony (EN) : (rz.) homofonia
+[homosexual]homosexual (EN) : (p.) homoseksualny; (rz.) homoseksualista; (rz.) lesbijka; (rz.) pederasta
+[homosexuality]homosexuality (EN) : (rz.) homoseksualizm
+[homozygote]homozygote (EN) : (rz.) homozygota
+[homozygous]homozygous (EN) : (p.) homozygotyczny
+[homunculus]homunculus (EN) : (rz.) plemnik
+[hone]hone (EN) : (cz.) ostrzyć; (rz.) brus; (rz.) osełka
+[honest]honest (EN) : (p.) poczciwy; (p.) prawy; (p.) rzetelny; (p.) szczery; (p.) uczciwy
+[honestly]honestly (EN) : (p-sł.) szczerze; (p-sł.) uczciwie
+[honesty]honesty (EN) : (rz.) miesiącznica; (rz.) porządność; (rz.) prawość; (rz.) szczerość; (rz.) uczciwość
+[honey]honey (EN) : (rz.) kochanie; (rz.) miód; (rz.) miodek; (rz.) złotko
+[honey-buzzard]honey-buzzard (EN) : (rz.) pszczołojad
+[honey-tongued]honey-tongued (EN) : (p.) miodousty
+[honeybee]honeybee (EN) : (rz.) pszczoła
+[honeycomb]honeycomb (EN) : (rz.) bąbel
+[honeydew]honeydew (EN) : (rz.) spadź
+[honeyed]honeyed (EN) : (p.) miodopłynny; (p.) słodki
+[honeysuckle]honeysuckle (EN) : (rz.) wiciokrzew
+[honk]honk (EN) : (cz.) krzyczeć; (cz.) trąbić; (rz.) klakson; (rz.) krzyk
+[honky-tonk]honky-tonk (EN) : (rz.) mordownia
+[honorary]honorary (EN) : (p.) bezpłatny; (p.) honorowy
+[honorific]honorific (EN) : (p.) zaszczytny
+[honour]honour (EN) : (cz.) honorować; (cz.) poważać; (cz.) zaszczycać; (rz.) cześć; (rz.) honor; (rz.) zaszczyt
+[honourable]honourable (EN) : (p.) czcigodny; (p.) honorowy; (p.) prawy; (p.) szanowny; (p.) uczciwy; (p.) zaszczytny
+[hooch]hooch (EN) : (rz.) bimber; (rz.) gorzała; (rz.) samogon
+[hood]hood (EN) : (cz.) okapturzyć; (rz.) kapiszon; (rz.) kaptur; (rz.) kapturek; (rz.) kapuza; (rz.) maska; (rz.) okap
+[hoodlum]hoodlum (EN) : (rz.) bandzior; (rz.) chuligan
+[hoodwink]hoodwink (EN) : (cz.) oszukać; (cz.) ukrywać; (cz.) zmylać; (cz.) zmylić
+[hooey]hooey (EN) : (rz.) bzdura
+[hoof]hoof (EN) : (rz.) kopytko; (rz.) kopyto; (rz.) racica
+[hook]hook (EN) : (cz.) krzywić; (cz.) podpiąć; (cz.) przyczepiać; (cz.) skrzywić; (cz.) zaczepiać; (cz.) zaczepić; (cz.) zagiąć; (cz.) zahaczać; (cz.) zahaczyć; (rz.) haczyk; (rz.) hak; (rz.) ogonek; (rz.) zagięcie
+[hookah]hookah (EN) : (rz.) nargile
+[hooked]hooked (EN) : (p.) garbaty; (p.) haczykowaty; (p.) hakowaty; (p.) zahaczony
+[hooker]hooker (EN) : (rz.) dziwka; (rz.) prostytutka
+[hookworm]hookworm (EN) : (rz.) tęgoryjec
+[hooligan]hooligan (EN) : (rz.) chuligan; (rz.) łobuz
+[hooliganism]hooliganism (EN) : (rz.) chuligaństwo; (rz.) rozrabiactwo
+[hoop]hoop (EN) : (cz.) obrębiać; (cz.) obrębić
+[hoop-la]hoop-la (EN) : (rz.) rozgardiasz
+[hoopla]hoopla (EN) : (rz.) rozgardiasz
+[hoopoe]hoopoe (EN) : (rz.) dudek; (rz.) dudka
+[hoopoes]hoopoes (EN) : (rz.) dudki
+[hooray]hooray (EN) : (wykrzyknik) hura; (wykrzyknik) hurra
+[hoot]hoot (EN) : (cz.) gwizdać; (cz.) huczeć; (cz.) hukać; (cz.) krzyczeć; (cz.) szydzić; (cz.) wyć; (cz.) zawyć; (rz.) gwizd; (rz.) hukanie
+[hooves]hooves (EN) : (rz.) kopyta
+[hop]hop (EN) : (cz.) podskakiwać; (cz.) skakać; (rz.) chmiel; (rz.) podskok; (rz.) przeskok; (rz.) skok; (rz.) taniec
+[hope]hope (EN) : (cz.) spodziewać; (rz.) nadzieja
+[hopeful]hopeful (EN) : (p.) optymistyczny
+[hopefulness]hopefulness (EN) : (rz.) nadzieja; (rz.) optymizm
+[hopeless]hopeless (EN) : (p.) beznadziejny; (p.) rozpaczliwy
+[hopelessly]hopelessly (EN) : (p-sł.) beznadziejnie
+[hopelessness]hopelessness (EN) : (rz.) beznadziejność; (rz.) desperacja; (rz.) rozpaczliwość
+[hophead]hophead (EN) : (rz.) narkoman
+[hopper]hopper (EN) : (rz.) leja; (rz.) pchła; (rz.) skoczek; (rz.) zbiornik; (rz.) zsyp
+[horde]horde (EN) : (rz.) chmara; (rz.) gromada; (rz.) horda; (rz.) orda; (rz.) tabun
+[horizon]horizon (EN) : (rz.) horyzont; (rz.) nieboskłon; (rz.) poziom; (rz.) widnokrąg
+[horizontal]horizontal (EN) : (p.) horyzontalny; (p.) międzybranżowy; (p.) poziomy; (p.) ułamkowy
+[horizontally]horizontally (EN) : (p-sł.) horyzontalnie; (p-sł.) poziomo
+[hormonal]hormonal (EN) : (p.) hormonalny
+[hormone]hormone (EN) : (rz.) hormon
+[horn]horn (EN) : (rz.) czułek; (rz.) klakson; (rz.) róg; (rz.) rożek; (rz.) syrena; (rz.) trąba; (rz.) tuba
+[horn-rimmed]horn-rimmed (EN) : (p.) rogowy
+[hornbeam]hornbeam (EN) : (rz.) grab; (rz.) grabie
+[hornblende]hornblende (EN) : (rz.) amfibol; (rz.) hornblenda
+[horned]horned (EN) : (p.) rogaty
+[hornet]hornet (EN) : (rz.) szerszeń
+[horniness]horniness (EN) : (rz.) zrogowacenie
+[hornless]hornless (EN) : (p.) bezrogi
+[hornstone]hornstone (EN) : (rz.) rogowiec
+[horny]horny (EN) : (p.) ostry; (p.) rogowaty; (p.) rogowy; (p.) zrogowaciały
+[horologe]horologe (EN) : (rz.) czasomierz; (rz.) zegar
+[horologer]horologer (EN) : (rz.) zegarmistrz
+[horology]horology (EN) : (rz.) zegarmistrzostwo
+[horoscope]horoscope (EN) : (rz.) horoskop
+[horrendous]horrendous (EN) : (p.) horrendalny; (p.) niezmierny; (p.) straszliwy
+[horrendously]horrendously (EN) : (p-sł.) horrendalnie
+[horrible]horrible (EN) : (p.) horrendalny; (p.) okropny; (p.) potworny; (p.) straszny; (p.) zły
+[horribly]horribly (EN) : (p-sł.) haniebnie; (p-sł.) potwornie; (p-sł.) strasznie
+[horrid]horrid (EN) : (p.) nieznośny; (p.) odrażający; (p.) okropny; (p.) paskudny; (p.) straszny
+[horridly]horridly (EN) : (p-sł.) nieznośnie; (p-sł.) strasznie
+[horrific]horrific (EN) : (p.) okropny; (p.) przerażający; (p.) straszliwy
+[horrify]horrify (EN) : (cz.) przerażać; (cz.) przerazić; (cz.) szokować
+[horror]horror (EN) : (rz.) makabra; (rz.) okropność; (rz.) przerażenie; (rz.) zgroza
+[hors]hors (EN) : (rz.) przekąska; (rz.) zakąska
+[horse]horse (EN) : (rz.) jazda; (rz.) kawaleria; (rz.) koń; (rz.) konik; (rz.) konina; (rz.) trzepak
+[horse-breaker]horse-breaker (EN) : (rz.) ujeżdżacz
+[horse-chestnut]horse-chestnut (EN) : (rz.) kasztanowiec
+[horse-collar]horse-collar (EN) : (rz.) chomąto
+[horse-comb]horse-comb (EN) : (rz.) zgrzebło
+[horse-race]horse-race (EN) : (rz.) gonitwa
+[horse-radish]horse-radish (EN) : (rz.) chrzan
+[horse-riding]horse-riding (EN) : (rz.) jeździectwo
+[horseback]horseback (EN) : (p-sł.) konno; (p-sł.) wierzchem
+[horsefly]horsefly (EN) : (rz.) giez; (rz.) mucha
+[horsehair]horsehair (EN) : (rz.) włosie
+[horseless]horseless (EN) : (p.) mechaniczny
+[horseman]horseman (EN) : (rz.) jeździec; (rz.) kawalerzysta
+[horsemanship]horsemanship (EN) : (rz.) hipika; (rz.) hippika; (rz.) jeździectwo
+[horsemeat]horsemeat (EN) : (rz.) konina
+[horsepower]horsepower (EN) : (rz.) kierat
+[horsepower-hour]horsepower-hour (EN) : (rz.) Koniogodzina
+[horserace]horserace (EN) : (rz.) gonitwa
+[horseradish]horseradish (EN) : (rz.) chrzan
+[horseshoe]horseshoe (EN) : (rz.) podkowa
+[horsetail]horsetail (EN) : (rz.) skrzyp
+[horsewhip]horsewhip (EN) : (rz.) pejcz; (rz.) szpicruta
+[horsewoman]horsewoman (EN) : (rz.) amazonka
+[horsing]horsing (EN) : (rz.) dosiadanie
+[horst]horst (EN) : (rz.) horst; (rz.) uskok; (rz.) zrąb
+[horsy]horsy (EN) : (p.) koński; (p.) wyścigowy
+[horticultural]horticultural (EN) : (p.) ogrodniczy
+[horticulture]horticulture (EN) : (rz.) ogrodnictwo
+[horticulturist]horticulturist (EN) : (rz.) ogrodnik
+[hose]hose (EN) : (rz.) pończocha; (rz.) szlauch; (rz.) wąż
+[hosiery]hosiery (EN) : (rz.) bielizna; (rz.) galanteria; (rz.) trykotaż; (rz.) trykotaże
+[hospice]hospice (EN) : (rz.) hospicjum
+[hospitable]hospitable (EN) : (p.) dostępny; (p.) gościnny
+[hospital]hospital (EN) : (rz.) lazaret; (rz.) szpital
+[hospitality]hospitality (EN) : (rz.) gościna; (rz.) gościnność; (rz.) serdeczność
+[hospitalization]hospitalization (EN) : (rz.) hospitalizacja
+[hospitalize]hospitalize (EN) : (cz.) hospitalizować
+[hospitalized]hospitalized (EN) : (cz.) hospitalizować
+[host]host (EN) : (cz.) gościć; (rz.) bezlik; (rz.) chmara; (rz.) czereda; (rz.) falanga; (rz.) gospodarz; (rz.) goszczenie; (rz.) hostia; (rz.) konferansjer; (rz.) orszak; (rz.) szynkarz; (rz.) tłum; (rz.) zastęp; (rz.) żywiciel
+[hostage]hostage (EN) : (rz.) zakładnik
+[hostel]hostel (EN) : (rz.) akademik; (rz.) hospicjum; (rz.) internat; (rz.) noclegownia; (rz.) schronisko
+[hostelry]hostelry (EN) : (rz.) oberża; (rz.) zajazd
+[hostess]hostess (EN) : (rz.) hostessa
+[hostile]hostile (EN) : (p.) napastniczy; (p.) nieprzyjazny; (p.) wrogi
+[hostility]hostility (EN) : (rz.) wrogość
+[hot]hot (EN) : (cz.) nagrzać; (cz.) rozgrzać; (cz.) zagrzać; (cz.) zgrzać; (p.) ciepły; (p.) gorący; (p.) ostry; (p.) pikantny; (p.) pokupny; (p.) upalny
+[hot-blooded]hot-blooded (EN) : (p.) gorącokrwisty; (p.) krewki
+[hot-cathode]hot-cathode (EN) : (rz.) termokatoda
+[hot-headed]hot-headed (EN) : (p.) popędliwy
+[hot-house]hot-house (EN) : (rz.) cieplarnia
+[hot-setting]hot-setting (EN) : (p.) termoutwardzalny
+[hot-tempered]hot-tempered (EN) : (p.) porywczy; (p.) wybuchowy
+[hotbed]hotbed (EN) : (rz.) chłodnia; (rz.) inspekt; (rz.) przyśpiesznik; (rz.) wylęgarnia
+[hotcake]hotcake (EN) : (rz.) naleśnik
+[hotchpotch]hotchpotch (EN) : (rz.) galimatias; (rz.) mieszanina; (rz.) miszmasz
+[hotel]hotel (EN) : (rz.) hotel
+[hotel-keeper]hotel-keeper (EN) : (rz.) hotelarz
+[hotelier]hotelier (EN) : (rz.) hotelarz
+[hotfoot]hotfoot (EN) : (p-sł.) ochoczo
+[hothead]hothead (EN) : (rz.) narwaniec; (rz.) pasjonat
+[hothouse]hothouse (EN) : (rz.) cieplarnia; (rz.) konserwatorium; (rz.) oranżeria; (rz.) pomarańczarnia; (rz.) szklarnia
+[hotlink]hotlink (EN) : (rz.) odnośnik
+[hotpot]hotpot (EN) : (rz.) bigos
+[hotshot]hotshot (EN) : (rz.) mądrala
+[hound]hound (EN) : (cz.) podjudzać; (cz.) ścigać; (cz.) tropić; (rz.) miłośnik; (rz.) ogar
+[hour]hour (EN) : (rz.) godzina; (rz.) godzinka
+[hour-glass]hour-glass (EN) : (rz.) klepsydra
+[hourglass]hourglass (EN) : (rz.) klepsydra
+[hourly]hourly (EN) : (p.) ciągły; (p.) cogodzinny; (p.) godzinowy
+[hours]hours (EN) : (rz.) doba; (rz.) godzina
+[house]house (EN) : (cz.) magazynować; (cz.) mieścić; (cz.) ulokować; (cz.) umieścić; (rz.) budynek; (rz.) dom; (rz.) domek; (rz.) domostwo; (rz.) firma; (rz.) izba; (rz.) kamienica; (rz.) pensjonat; (rz.) ród; (rz.) widownia
+[house-breaker]house-breaker (EN) : (rz.) włamywacz
+[house-to-house]house-to-house (EN) : (p.) domokrążny
+[houseboat]houseboat (EN) : (rz.) barka; (rz.) koszarka; (rz.) łódź
+[housebreaker]housebreaker (EN) : (rz.) włamywacz
+[housebreaking]housebreaking (EN) : (rz.) włamanie
+[housecoat]housecoat (EN) : (rz.) podomka; (rz.) szlafrok
+[housefly]housefly (EN) : (rz.) mucha
+[household]household (EN) : (p.) domownicy; (p.) domowy; (rz.) dom; (rz.) domostwo; (rz.) gospodarstwo
+[householder]householder (EN) : (rz.) domownik; (rz.) właściciel
+[housekeeper]housekeeper (EN) : (rz.) dozorczyni; (rz.) gospodyni; (rz.) gosposia; (rz.) zarządca
+[housekeeping]housekeeping (EN) : (rz.) gospodarowanie
+[houseless]houseless (EN) : (p.) bezdomny
+[houseline]houseline (EN) : (rz.) juzing; (rz.) trójnitka
+[housemaid]housemaid (EN) : (rz.) gosposia; (rz.) pokojówka; (rz.) służąca
+[houseman]houseman (EN) : (rz.) asystent; (rz.) stażysta
+[houseplant]houseplant (EN) : (p.) doniczkowy
+[housewarming]housewarming (EN) : (rz.) parapetówka
+[housewife]housewife (EN) : (rz.) gospodyni; (rz.) gosposia
+[housework]housework (EN) : (rz.) sprzątanie
+[housing]housing (EN) : (rz.) akomodacja; (rz.) budownictwo; (rz.) czaprak; (rz.) obudowa; (rz.) osłona; (rz.) pomieszczenie; (rz.) zamieszkiwanie
+[hovel]hovel (EN) : (rz.) buda; (rz.) chałupa; (rz.) ciupa; (rz.) nora; (rz.) puszka; (rz.) rudera; (rz.) szałas; (rz.) szopa
+[hover]hover (EN) : (cz.) ociągać; (cz.) unosić; (cz.) wahać
+[hovercraft]hovercraft (EN) : (rz.) poduszkowiec
+[how]how (EN) : (p-sł.) jak; (p-sł.) jakże
+[however]however (EN) : (p-sł.) jakkolwiek; (p-sł.) jakże; (spójnik) jednak; (spójnik) jednakże; (spójnik) natomiast
+[howitzer]howitzer (EN) : (rz.) granatnik; (rz.) haubica
+[howl]howl (EN) : (cz.) ryczeć; (cz.) wyć; (cz.) zawyć; (rz.) jęk; (rz.) płacz; (rz.) ryk; (rz.) wycie
+[howler]howler (EN) : (rz.) buczek; (rz.) byk; (rz.) wsypa; (rz.) wyjec
+[howsoever]howsoever (EN) : (p-sł.) jakkolwiek
+[hoyden]hoyden (EN) : (rz.) chłopczyca
+[hr]hr (EN) : (rz.) kadr
+[hub]hub (EN) : (rz.) centrum; (rz.) huba; (rz.) koncentrator; (rz.) piasta; (rz.) środek
+[hubble-bubble]hubble-bubble (EN) : (rz.) gwar; (rz.) wrzawa
+[hubbub]hubbub (EN) : (rz.) gwar; (rz.) hałas; (rz.) harmider; (rz.) zgiełk
+[hubby]hubby (EN) : (rz.) mężulek
+[hubcap]hubcap (EN) : (rz.) dekiel; (rz.) kołpak
+[huckleberry]huckleberry (EN) : (rz.) borówka; (rz.) jagoda
+[huckster]huckster (EN) : (rz.) kramarz; (rz.) paskarz
+[huddle]huddle (EN) : (rz.) kupa
+[hue]hue (EN) : (rz.) barwa; (rz.) objęcie; (rz.) odcień; (rz.) zabarwienie
+[huff]huff (EN) : (cz.) obrażać; (rz.) irytacja; (rz.) rozdrażnienie
+[huffish]huffish (EN) : (p.) drażliwy; (p.) obraźliwy
+[huffy]huffy (EN) : (p.) drażliwy; (p.) obraźliwy
+[hug]hug (EN) : (cz.) przytulać; (cz.) przytulić; (cz.) ściskać; (cz.) tulić; (cz.) uściskać; (rz.) przytulenie; (rz.) uścisk
+[huge]huge (EN) : (p.) ogromny; (p.) olbrzymi
+[hugely]hugely (EN) : (p-sł.) ogromnie; (p-sł.) potwornie
+[hugeness]hugeness (EN) : (rz.) ogrom
+[hugger-mugger]hugger-mugger (EN) : (rz.) bałagan
+[huggermugger]huggermugger (EN) : (rz.) bałagan
+[hulk]hulk (EN) : (rz.) kolos; (rz.) pudło
+[hulking]hulking (EN) : (p.) ciężki; (p.) kulfoniasty; (p.) niezdarny
+[hull]hull (EN) : (cz.) łuskać; (rz.) kadłub; (rz.) łupa; (rz.) łupina; (rz.) łuska; (rz.) otoczka; (rz.) skorupa; (rz.) strączek; (rz.) strąk
+[hullabaloo]hullabaloo (EN) : (rz.) harmider
+[huller]huller (EN) : (rz.) łuszczarka; (rz.) obłuskiwacz
+[hum]hum (EN) : (cz.) brzęczeć; (cz.) buczeć; (cz.) bzyczeć; (cz.) bzykać; (cz.) mruczeć; (cz.) nucić; (cz.) podśpiewywać; (cz.) szumieć; (cz.) warkotać; (cz.) zanucić; (rz.) brzęczenie; (rz.) buczenie; (rz.) gwar; (rz.) jazgot; (rz.) pomrukiwanie; (rz.) przydźwięk; (rz.) rozgwar; (rz.) szum
+[human]human (EN) : (p.) człowieczy; (p.) ludzki; (rz.) człowiek; (rz.) łudzenie
+[humane]humane (EN) : (p.) humanistyczny; (p.) humanitarny; (p.) ludzki
+[humanely]humanely (EN) : (p-sł.) humanitarnie
+[humaneness]humaneness (EN) : (rz.) człowieczeństwo; (rz.) humanitarność
+[humanism]humanism (EN) : (rz.) humanizm
+[humanist]humanist (EN) : (rz.) humanista
+[humanistic]humanistic (EN) : (p.) humanistyczny
+[humanitarian]humanitarian (EN) : (p.) humanitarny
+[humanitarianism]humanitarianism (EN) : (rz.) humanitaryzm
+[humanities]humanities (EN) : (rz.) humanistyka
+[humanity]humanity (EN) : (rz.) człowieczeństwo; (rz.) humanitarność; (rz.) ludzkość
+[humanize]humanize (EN) : (cz.) humanizować; (cz.) uczłowieczać; (cz.) zhumanizować
+[humankind]humankind (EN) : (rz.) ludzkość
+[humanly]humanly (EN) : (p-sł.) ludzko
+[humanoid]humanoid (EN) : (p.) humanoidalny
+[humble]humble (EN) : (cz.) upokarzać; (cz.) upokorzyć; (p.) korny; (p.) pokorny; (p.) potulny; (p.) skromny
+[humble-bee]humble-bee (EN) : (rz.) bąk; (rz.) trzmiel
+[humblebee]humblebee (EN) : (rz.) trzmiel
+[humbleness]humbleness (EN) : (rz.) pokora; (rz.) uniżoność
+[humbler]humbler (EN) : (p.) pokorny; (p.) skromny
+[humbly]humbly (EN) : (p-sł.) pokornie
+[humbug]humbug (EN) : (rz.) blaga; (rz.) blagier; (rz.) lipa; (rz.) nonsens; (rz.) oszust; (rz.) oszustwo; (rz.) szachraj; (rz.) zakłamanie
+[humdrum]humdrum (EN) : (p.) monotonny; (p.) nudny; (rz.) banalność; (rz.) nuda; (rz.) prozaiczność
+[humeral]humeral (EN) : (p.) barkowy; (p.) ramienny
+[humid]humid (EN) : (p.) parny; (p.) wilgotny
+[humidification]humidification (EN) : (rz.) nawilżanie; (rz.) zwilżanie
+[humidifier]humidifier (EN) : (rz.) nawilżacz
+[humidifiers]humidifiers (EN) : (rz.) nawilżacz
+[humidify]humidify (EN) : (cz.) nawilżać; (cz.) zwilżać
+[humidity]humidity (EN) : (rz.) wilgoć; (rz.) wilgotność
+[humiliate]humiliate (EN) : (cz.) korzyć; (cz.) poniżać; (cz.) poniżyć; (cz.) upokarzać; (cz.) upokorzyć
+[humiliation]humiliation (EN) : (rz.) poniżenie; (rz.) upokorzenie
+[humility]humility (EN) : (rz.) pokora; (rz.) potulność; (rz.) skromność; (rz.) uniżoność
+[hummer]hummer (EN) : (rz.) brzęczyk
+[humming-bird]humming-bird (EN) : (rz.) koliber
+[hummingbird]hummingbird (EN) : (rz.) koliber
+[hummock]hummock (EN) : (rz.) pagórek; (rz.) wzgórek; (rz.) wzniesienie
+[hummocky]hummocky (EN) : (p.) pagórkowaty
+[humoresque]humoresque (EN) : (rz.) humoreska
+[humorist]humorist (EN) : (rz.) humorysta
+[humoristic]humoristic (EN) : (p.) humorystyczny
+[humorous]humorous (EN) : (p.) dowcipny; (p.) humorystyczny; (p.) zabawny; (p.) żartobliwy
+[humour]humour (EN) : (rz.) humor; (rz.) nastrój; (rz.) płyn
+[hump]hump (EN) : (cz.) garbić; (cz.) zginać; (rz.) garb; (rz.) przesilenie
+[humpback]humpback (EN) : (rz.) garb; (rz.) garbus
+[humpbacked]humpbacked (EN) : (p.) garbaty; (p.) łukowaty
+[humus]humus (EN) : (rz.) czarnoziem; (rz.) próchnica
+[hunch]hunch (EN) : (cz.) kulić; (rz.) wrażenie
+[hunchback]hunchback (EN) : (rz.) garbus
+[hunchbacked]hunchbacked (EN) : (p.) garbaty
+[hunched]hunched (EN) : (p.) garbaty
+[hundred]hundred (EN) : (p.) setny; (rz.) setka; (rz.) stówa
+[hundred-year]hundred-year (EN) : (p.) stuletni
+[hundredfold]hundredfold (EN) : (p.) stokrotny; (p.) stukrotny; (p-sł.) stokrotnie
+[hundredth]hundredth (EN) : (p.) setny; (rz.) setna
+[hundredweight]hundredweight (EN) : (rz.) cetnar
+[hunger]hunger (EN) : (rz.) głód; (rz.) łaknienie; (rz.) pożądanie; (rz.) żądza
+[hunger-strike]hunger-strike (EN) : (rz.) głodówka
+[hungrily]hungrily (EN) : (p-sł.) chciwie; (p-sł.) łapczywie; (p-sł.) pożądliwie
+[hungry]hungry (EN) : (p.) głodny; (p.) jałowy; (p.) ubogi
+[hunk]hunk (EN) : (rz.) bryła; (rz.) kawałek; (rz.) kęs; (rz.) przystojniak
+[hunker]hunker (EN) : (cz.) kucać
+[hunks]hunks (EN) : (rz.) kutwa; (rz.) sknera
+[hunky-dory]hunky-dory (EN) : (p.) dobry; (p.) świetny
+[hunt]hunt (EN) : (cz.) dopaść; (cz.) gonić; (cz.) polować; (cz.) poszukiwać; (cz.) ścigać; (cz.) tropić; (rz.) obława; (rz.) polowanie
+[hunted]hunted (EN) : (cz.) polować
+[hunter]hunter (EN) : (rz.) łowca; (rz.) szukacz
+[hunters]hunters (EN) : (rz.) łowca
+[hunting]hunting (EN) : (rz.) łowiectwo; (rz.) myślistwo; (rz.) polowanie; (rz.) szukanie
+[hurdle]hurdle (EN) : (rz.) opłotek; (rz.) płot; (rz.) płotek; (rz.) przeszkoda
+[hurdler]hurdler (EN) : (rz.) płotkarz
+[hurdy-gurdy]hurdy-gurdy (EN) : (rz.) katarynka
+[hurl]hurl (EN) : (cz.) ciskać; (cz.) miotać; (cz.) rzucać; (cz.) rzucić; (rz.) miotanie; (rz.) rzut
+[hurling]hurling (EN) : (rz.) miotanie
+[hurly-burly]hurly-burly (EN) : (rz.) rozgardiasz; (rz.) wrzawa; (rz.) zgiełk
+[hurrah]hurrah (EN) : (wykrzyknik) hurra
+[hurray]hurray (EN) : (cz.) wiwatować; (wykrzyknik) hura; (wykrzyknik) hurra
+[hurricane]hurricane (EN) : (rz.) huragan; (rz.) orkan
+[hurried]hurried (EN) : (p.) pośpieszny; (p.) śpieszny
+[hurriedly]hurriedly (EN) : (p-sł.) pospiesznie; (p-sł.) pośpiesznie
+[hurry]hurry (EN) : (cz.) pędzić; (cz.) podgonić; (cz.) ponaglać; (cz.) pospieszać; (cz.) pośpieszać; (cz.) pospieszyć; (cz.) pośpieszyć; (cz.) przyspieszać; (cz.) spieszyć; (cz.) śpieszyć; (rz.) pośpiech
+[hurry-scurry]hurry-scurry (EN) : (p-sł.) bezładnie; (rz.) zamieszanie
+[hurt]hurt (EN) : (cz.) boleć; (cz.) kaleczyć; (cz.) ranić
+[hurtful]hurtful (EN) : (p.) bolesny
+[hurtle]hurtle (EN) : (cz.) miotać; (cz.) uderzać; (cz.) uderzyć
+[husband]husband (EN) : (cz.) gospodarować; (cz.) zarządzać; (rz.) małżonek; (rz.) mąż
+[husbandman]husbandman (EN) : (rz.) gospodarz; (rz.) rolnik
+[husbandry]husbandry (EN) : (rz.) cisza; (rz.) spokój
+[hush]hush (EN) : (cz.) ucichnąć; (cz.) uciszać; (cz.) uciszyć; (rz.) cisza; (rz.) spokój
+[husk]husk (EN) : (cz.) łupać; (cz.) łuskać; (cz.) łuszczyć; (cz.) obłuskiwać; (cz.) wyłuskiwać; (rz.) łupina; (rz.) łupinka; (rz.) łuska; (rz.) plewa
+[huskily]huskily (EN) : (p-sł.) krzepko
+[huskiness]huskiness (EN) : (rz.) łuskowatość; (rz.) ochrypnięcie
+[husky]husky (EN) : (p.) chrapliwy; (p.) czerstwy; (p.) gardłowy; (p.) krzepki; (p.) zdrowy
+[hussar]hussar (EN) : (rz.) husarz; (rz.) huzar
+[hussars]hussars (EN) : (rz.) husaria
+[hussy]hussy (EN) : (rz.) latawica
+[hustle]hustle (EN) : (cz.) krzątać; (cz.) pchać; (cz.) popychać; (cz.) przepychać; (cz.) śpieszyć; (cz.) tłoczyć; (rz.) bieganina; (rz.) krzątanina; (rz.) ścisk; (rz.) szwindel; (rz.) tłok
+[hustler]hustler (EN) : (rz.) hochsztapler; (rz.) prostytutka
+[hut]hut (EN) : (rz.) buda; (rz.) budka; (rz.) chałupa; (rz.) chata; (rz.) chatka; (rz.) szałas
+[hutch]hutch (EN) : (rz.) chatka; (rz.) klatka; (rz.) klecenie; (rz.) klitka; (rz.) płuczka; (rz.) skrzynia; (rz.) skrzynka
+[hyacinth]hyacinth (EN) : (rz.) hiacynt
+[hyaline]hyaline (EN) : (p.) szklisty
+[hybrid]hybrid (EN) : (p.) hybrydowy; (p.) mieszańcowy; (rz.) hybryd; (rz.) hybryda; (rz.) mieszaniec
+[hybridism]hybridism (EN) : (rz.) hybrydyzm
+[hybridization]hybridization (EN) : (rz.) hybrydyzacja; (rz.) hybrydyzm; (rz.) krzyżowanie; (rz.) krzyżówka
+[hybridize]hybridize (EN) : (cz.) krzyżować; (cz.) skrzyżować
+[hydra]hydra (EN) : (rz.) hydra; (rz.) stułbia
+[hydrant]hydrant (EN) : (rz.) hydrant
+[hydrastine]hydrastine (EN) : (rz.) hydrastyna
+[hydrate]hydrate (EN) : (cz.) uwadniać; (rz.) hydrat; (rz.) wodzian
+[hydrated]hydrated (EN) : (p.) hydratyzowany; (p.) uwodniony
+[hydration]hydration (EN) : (rz.) hydratacja; (rz.) uwodnienie
+[hydraulic]hydraulic (EN) : (p.) hydrauliczny
+[hydraulically]hydraulically (EN) : (p-sł.) hydraulicznie
+[hydraulics]hydraulics (EN) : (rz.) hydraulika
+[hydrazine]hydrazine (EN) : (rz.) hydrazyna
+[hydride]hydride (EN) : (rz.) wodorek
+[hydro]hydro (EN) : (rz.) hydroelektrownia
+[hydro-engineering]hydro-engineering (EN) : (rz.) hydrotechnika
+[hydro-generator]hydro-generator (EN) : (rz.) hydrogenerator
+[hydrobiology]hydrobiology (EN) : (rz.) hydrobiologia
+[hydrocarbon]hydrocarbon (EN) : (rz.) węglowodór
+[hydrocephalus]hydrocephalus (EN) : (rz.) wodogłowie
+[hydrochloric]hydrochloric (EN) : (p.) chlorowodorowy
+[hydrochloride]hydrochloride (EN) : (rz.) chlorowodorek
+[hydrodynamic]hydrodynamic (EN) : (p.) hydrodynamiczny
+[hydrodynamics]hydrodynamics (EN) : (rz.) hydrodynamika
+[hydroelectric]hydroelectric (EN) : (p.) hydroelektryczny
+[hydrofluoric]hydrofluoric (EN) : (p.) fluorowodorowy
+[hydrofoil]hydrofoil (EN) : (rz.) hydropłat; (rz.) wodolot
+[hydrogen]hydrogen (EN) : (rz.) wodór
+[hydrogenate]hydrogenate (EN) : (cz.) uwodorniać
+[hydrogenation]hydrogenation (EN) : (rz.) uwodornianie
+[hydrogenize]hydrogenize (EN) : (rz.) uwodornianie; (rz.) uwodornienie
+[hydrogenous]hydrogenous (EN) : (p.) wodorowy
+[hydrogeology]hydrogeology (EN) : (rz.) hydrogeologia
+[hydrograph]hydrograph (EN) : (rz.) hydrograf
+[hydrokinetic]hydrokinetic (EN) : (p.) hydrodynamiczny
+[hydrokinetics]hydrokinetics (EN) : (rz.) hydrokinetyka
+[hydrological]hydrological (EN) : (p.) hydrologiczny
+[hydrologist]hydrologist (EN) : (rz.) hydrolog
+[hydrology]hydrology (EN) : (rz.) hydrologia
+[hydrolysis]hydrolysis (EN) : (rz.) hydroliza
+[hydrolytic]hydrolytic (EN) : (p.) hydrolityczny
+[hydrolyze]hydrolyze (EN) : (cz.) hydrolizować
+[hydromechanics]hydromechanics (EN) : (rz.) hydraulika; (rz.) hydromechanika
+[hydrometallurgy]hydrometallurgy (EN) : (rz.) hydrometalurgia
+[hydrometeorology]hydrometeorology (EN) : (rz.) hydrometeorologia
+[hydrometeors]hydrometeors (EN) : (p.) hydrometeory
+[hydrometer]hydrometer (EN) : (rz.) areometr; (rz.) gęstościomierz; (rz.) hydrometr
+[hydrometric]hydrometric (EN) : (p.) hydrometryczny
+[hydrophilic]hydrophilic (EN) : (p.) hydrofilowy
+[hydrophobia]hydrophobia (EN) : (rz.) hydrofobia; (rz.) wodowstręt
+[hydrophobic]hydrophobic (EN) : (p.) hydrofobowy
+[hydrophone]hydrophone (EN) : (rz.) hydrofon
+[hydroplane]hydroplane (EN) : (rz.) hydroplan; (rz.) ślizgacz; (rz.) wodnopłat; (rz.) wodnopłatowiec
+[hydroponics]hydroponics (EN) : (rz.) hydroponika; (rz.) hydrostatyka
+[hydroquinone]hydroquinone (EN) : (rz.) hydrochinon
+[hydrosol]hydrosol (EN) : (rz.) hydrozol
+[hydrosphere]hydrosphere (EN) : (rz.) hydrosfera
+[hydrostat]hydrostat (EN) : (rz.) higrostat; (rz.) humidostat
+[hydrostatic]hydrostatic (EN) : (p.) hydrostatyczny
+[hydrostatical]hydrostatical (EN) : (p.) hydrostatyczny
+[hydrostatics]hydrostatics (EN) : (rz.) hydrostatyka
+[hydrotherapeutic]hydrotherapeutic (EN) : (p.) wodoleczniczy
+[hydrotherapy]hydrotherapy (EN) : (rz.) hydroterapia; (rz.) wodolecznictwo
+[hydrothermal]hydrothermal (EN) : (p.) hydrotermalny
+[hydrous]hydrous (EN) : (p.) wodny
+[hydroxide]hydroxide (EN) : (rz.) wodorotlenek
+[hydroxyl]hydroxyl (EN) : (rz.) hydroksyl
+[hydroxylamine]hydroxylamine (EN) : (rz.) hydroksyloamina
+[hydroxylation]hydroxylation (EN) : (rz.) hydroksylowanie
+[hyena]hyena (EN) : (rz.) hiena
+[hygiene]hygiene (EN) : (rz.) higiena
+[hygienic]hygienic (EN) : (p.) higieniczny
+[hygienically]hygienically (EN) : (p-sł.) higienicznie
+[hygienist]hygienist (EN) : (rz.) higienista
+[hygrometer]hygrometer (EN) : (rz.) aerometr; (rz.) higrometr; (rz.) wilgotnościomierz
+[hygrometry]hygrometry (EN) : (rz.) higrometria
+[hygroscope]hygroscope (EN) : (rz.) higroskop
+[hygroscopic]hygroscopic (EN) : (p.) higroskopijny
+[hygrostat]hygrostat (EN) : (rz.) higrostat; (rz.) humidostat
+[hymn]hymn (EN) : (rz.) hymn
+[hype]hype (EN) : (rz.) popularność; (rz.) szum
+[hyperacidity]hyperacidity (EN) : (rz.) nadkwaśność; (rz.) nadkwasota
+[hyperactivity]hyperactivity (EN) : (rz.) nadczynność
+[hyperbola]hyperbola (EN) : (rz.) hiperbola
+[hyperbole]hyperbole (EN) : (rz.) hiperbola; (rz.) przesada; (rz.) przesadnia
+[hyperbolic]hyperbolic (EN) : (p.) hiperboliczny; (p.) przesadny
+[hyperbolical]hyperbolical (EN) : (p.) hiperboliczny
+[hyperboloid]hyperboloid (EN) : (rz.) hiperboloida
+[hyperinflation]hyperinflation (EN) : (rz.) hiperinflacja
+[hyperlink]hyperlink (EN) : (rz.) hiperłącze; (rz.) odsyłacz
+[hyperplasia]hyperplasia (EN) : (rz.) hiperplazja
+[hypersensitive]hypersensitive (EN) : (p.) nadwrażliwy; (p.) superczuły
+[hypersensitivity]hypersensitivity (EN) : (rz.) nadwrażliwość
+[hypersonic]hypersonic (EN) : (p.) hipersoniczny
+[hypertension]hypertension (EN) : (rz.) nadciśnienie
+[hypertensive]hypertensive (EN) : (p.) nadciśnieniowy
+[hypertext]hypertext (EN) : (rz.) hipertekst
+[hyperthermia]hyperthermia (EN) : (rz.) hipertermia
+[hypertrophy]hypertrophy (EN) : (rz.) hipertrofia
+[hyphen]hyphen (EN) : (rz.) kreska; (rz.) łącznik; (rz.) myślnik; (rz.) pauza; (rz.) rozłącznik
+[hypnology]hypnology (EN) : (rz.) hipnologia
+[hypnosis]hypnosis (EN) : (rz.) hipnoza
+[hypnotic]hypnotic (EN) : (p.) hipnotyczny
+[hypnotically]hypnotically (EN) : (p-sł.) hipnotycznie
+[hypnotism]hypnotism (EN) : (rz.) hipnotyzm
+[hypnotist]hypnotist (EN) : (rz.) hipnotyzer
+[hypnotization]hypnotization (EN) : (rz.) hipnotyzowanie
+[hypnotize]hypnotize (EN) : (cz.) hipnotyzować; (cz.) zahipnotyzować
+[hypo]hypo (EN) : (rz.) strzykawka; (rz.) zastrzyk
+[hypochlorite]hypochlorite (EN) : (rz.) podchloryn
+[hypochondria]hypochondria (EN) : (rz.) hipochondria
+[hypochondriac]hypochondriac (EN) : (p.) hipochondryczny; (rz.) hipochondryk
+[hypocoristic]hypocoristic (EN) : (p.) pieszczotliwy
+[hypocrisy]hypocrisy (EN) : (rz.) faryzeizm; (rz.) faryzeuszostwo; (rz.) hipokryzja; (rz.) obłuda; (rz.) zakłamanie
+[hypocrite]hypocrite (EN) : (rz.) hipokryta; (rz.) obłudnica; (rz.) obłudnik
+[hypocritical]hypocritical (EN) : (p.) obłudny
+[hypocycloid]hypocycloid (EN) : (rz.) hipocykloida
+[hypodermic]hypodermic (EN) : (p.) podskórny
+[hyposulfite]hyposulfite (EN) : (rz.) podsiarczyn; (rz.) tiosiarczan
+[hypotension]hypotension (EN) : (rz.) hipotonia; (rz.) niedociśnienie
+[hypotenuse]hypotenuse (EN) : (rz.) przeciwprostokątna
+[hypothermia]hypothermia (EN) : (rz.) hipotermia
+[hypothesis]hypothesis (EN) : (rz.) hipoteza
+[hypothetic]hypothetic (EN) : (p.) hipotetyczny; (p.) przykładowy
+[hypothetical]hypothetical (EN) : (p.) hipotetyczny; (p.) przykładowy
+[hypothetically]hypothetically (EN) : (p-sł.) hipotetycznie; (p-sł.) przypuszczalnie
+[hypoxia]hypoxia (EN) : (rz.) niedotlenienie
+[hypsometer]hypsometer (EN) : (rz.) hipsotermometr
+[hypsometry]hypsometry (EN) : (rz.) hipsometria
+[hyssop]hyssop (EN) : (rz.) hizop
+[hysteria]hysteria (EN) : (rz.) histeria
+[hysteric]hysteric (EN) : (rz.) histeryk
+[hysterical]hysterical (EN) : (p.) histeryczny
+[hysterically]hysterically (EN) : (p-sł.) histerycznie
+[hysterics]hysterics (EN) : (rz.) histeria

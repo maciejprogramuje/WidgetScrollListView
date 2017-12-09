@@ -1,870 +1,870 @@
-[october]October : (rzecz.) październik
-[olivia]Olivia : (rzecz.) Oliwia
-[olympiad]Olympiad : (rzecz.) olimpiada
-[olympian]Olympian : (przym.) olimpijski; (rzecz.) olimpijczyk
-[olympic]Olympic : (przym.) olimpijski
-[olympics]Olympics : (rzecz.) olimpiada
-[oscar]Oscar : (rzecz.) Oskar
-[oaf]oaf : (rzecz.) frajer; (rzecz.) głupek; (rzecz.) idiota; (rzecz.) niezdara; (rzecz.) podrzutek; (rzecz.) potworek; (rzecz.) prostak
-[oafish]oafish : (przym.) głupkowaty; (przym.) niezdarny
-[oak]oak : (rzecz.) dąb
-[oak-apple]oak-apple : (rzecz.) galas
-[oak-gall]oak-gall : (rzecz.) dębianka; (rzecz.) galasówka
-[oak-wood]oak-wood : (rzecz.) dębina
-[oaken]oaken : (przym.) dębowy
-[oakum]oakum : (rzecz.) pakuły
-[oar]oar : (rzecz.) wioślarz; (rzecz.) wiosło
-[oarlock]oarlock : (rzecz.) dulka
-[oarsman]oarsman : (rzecz.) wioślarz
-[oasis]oasis : (rzecz.) oaza
-[oat]oat : (rzecz.) owies
-[oaten]oaten : (przym.) owsiany
-[oath]oath : (rzecz.) przekleństwo; (rzecz.) przysięga; (rzecz.) ślubowanie
-[oatmeal]oatmeal : (rzecz.) owsianka
-[oats]oats : (rzecz.) owies
-[obduracy]obduracy : (rzecz.) upór; (rzecz.) zatwardziałość
-[obdurate]obdurate : (przym.) uparty; (przym.) zatwardziały
-[obedience]obedience : (rzecz.) obediencja; (rzecz.) posłuch; (rzecz.) posłuszeństwo
-[obedient]obedient : (przym.) posłuszny
-[obediently]obediently : (przysł.) posłusznie
-[obeisance]obeisance : (rzecz.) pokłon; (rzecz.) rewerans; (rzecz.) ukłon
-[obelisk]obelisk : (rzecz.) obelisk
-[obese]obese : (przym.) korpulentny; (przym.) otyły
-[obesity]obesity : (rzecz.) nadwaga; (rzecz.) otyłość
-[obey]obey : (czas.) podporządkować; (czas.) przestrzegać; (czas.) słuchać; (czas.) spełniać; (czas.) usłuchać; (czas.) wykonywać
-[obfuscate]obfuscate : (czas.) ściemniać; (czas.) zaciemniać; (czas.) zaciemnić
-[obfuscation]obfuscation : (rzecz.) splątanie; (rzecz.) zaciemnienie; (rzecz.) zamroczenie
-[obit]obit : (rzecz.) nekrolog
-[obituaries]obituaries : (rzecz.) nekrologia
-[obituary]obituary : (przym.) pogrzebowy; (przym.) pośmiertny; (przym.) szczątkowy; (rzecz.) nekrolog
-[object]object : (czas.) oponować; (czas.) protestować; (czas.) przytaczać; (czas.) sprzeciwiać; (czas.) sprzeciwić; (czas.) zaprotestować; (czas.) zarzucać; (rzecz.) cel; (rzecz.) dopełnienie; (rzecz.) kłopot; (rzecz.) obiekt; (rzecz.) przedmiot; (rzecz.) rzecz; (rzecz.) sprzeciwianie; (rzecz.) zadanie
-[object-glass]object-glass : (rzecz.) obiektyw
-[object-lens]object-lens : (rzecz.) obiektyw
-[object-orientation]object-orientation : (rzecz.) obiektowość
-[object-oriented]object-oriented : (przym.) obiektowy
-[object-relational]object-relational : (przym.) obiektowo-relacyjny
-[objectify]objectify : (czas.) zobiektywizować
-[objection]objection : (rzecz.) obiekcja; (rzecz.) sprzeciw; (rzecz.) twierdzenie; (rzecz.) zarzut
-[objectionable]objectionable : (przym.) naganny; (przym.) niepożądany; (przym.) niewłaściwy
-[objective]objective : (przym.) bezstronny; (przym.) dopełnieniowy; (przym.) obiektywny; (przym.) obiektywowy; (przym.) przedmiotowy; (przym.) rzeczowy; (rzecz.) cel; (rzecz.) obiektyw
-[objectively]objectively : (przysł.) obiektywnie; (przysł.) przedmiotowo
-[objectiveness]objectiveness : (rzecz.) obiektywność; (rzecz.) przedmiotowość
-[objectivism]objectivism : (rzecz.) obiektywizm
-[objectivity]objectivity : (rzecz.) obiektywizm; (rzecz.) obiektywność
-[objector]objector : (rzecz.) oponent
-[objurgate]objurgate : (czas.) strofować
-[oblast]oblast : (przym.) objazdowy
-[oblate]oblate : (przym.) spłaszczony
-[oblation]oblation : (rzecz.) eucharystia; (rzecz.) ofiara
-[obligate]obligate : (czas.) zobowiązać; (czas.) zobowiązywać
-[obligation]obligation : (rzecz.) obligacja; (rzecz.) obowiązek; (rzecz.) powinność; (rzecz.) zobowiązanie
-[obligatorily]obligatorily : (przysł.) obowiązkowo
-[obligatory]obligatory : (przym.) bieżący; (przym.) obligatoryjny; (przym.) obowiązkowy; (przym.) obowiązujący; (przym.) przymusowy
-[oblige]oblige : (czas.) obowiązywać; (czas.) wiązać; (czas.) zmuszać; (czas.) zobowiązać; (czas.) zobowiązywać
-[obliges]obliges : (czas.) obligować
-[obliging]obliging : (przym.) uczynny; (przym.) uprzejmy
-[obligingly]obligingly : (przysł.) uczynnie; (przysł.) uprzejmie; (przysł.) usłużnie
-[oblique]oblique : (przym.) nieszczery; (przym.) nieuczciwy; (przym.) niewyraźny; (przym.) skośny; (przym.) ukośny
-[obliquely]obliquely : (przysł.) skośnie; (przysł.) ukośnie
-[obliqueness]obliqueness : (rzecz.) dwulicowość
-[obliquity]obliquity : (rzecz.) fałsz; (rzecz.) nieuczciwość; (rzecz.) pochyłość; (rzecz.) pośredniość; (rzecz.) skośność; (rzecz.) ukośność
-[obliterate]obliterate : (czas.) usuwać; (czas.) wykreślić; (czas.) wymazać; (czas.) zacierać; (czas.) zamazywać; (czas.) zatrzeć; (czas.) zetrzeć; (czas.) zniszczyć
-[obliteration]obliteration : (rzecz.) wymazanie; (rzecz.) zamazanie; (rzecz.) zapominanie; (rzecz.) zarośnięcie; (rzecz.) zatkanie
-[oblivion]oblivion : (rzecz.) niepamięć; (rzecz.) zapomnienie
-[oblivious]oblivious : (przym.) niepamiętny; (przym.) niepomny; (przym.) nieświadomy
-[oblong]oblong : (przym.) podługowaty; (przym.) podłużny; (przym.) prostokątny
-[obloquy]obloquy : (rzecz.) obmowa; (rzecz.) zniesławienie
-[obnoxious]obnoxious : (przym.) odpychający; (przym.) ohydny; (przym.) przykry; (przym.) wstrętny
-[oboe]oboe : (rzecz.) obój
-[oboist]oboist : (rzecz.) oboista
-[obscene]obscene : (przym.) brudny; (przym.) grubiański; (przym.) niecenzuralny; (przym.) niemoralny; (przym.) nieprzyzwoity; (przym.) obsceniczny; (przym.) plugawy; (przym.) sprośny
-[obscenity]obscenity : (rzecz.) nieprzyzwoitość; (rzecz.) obsceniczność; (rzecz.) sprośność
-[obscurant]obscurant : (rzecz.) obskurant; (rzecz.) wstecznik
-[obscurantism]obscurantism : (rzecz.) obskurantyzm
-[obscuration]obscuration : (rzecz.) zaciemnienie
-[obscure]obscure : (czas.) skryć; (czas.) ukrywać; (czas.) zaciemniać; (czas.) zaciemnić; (przym.) ciemny; (przym.) mroczny; (przym.) niejasny; (przym.) niewyraźny; (przym.) ponury
-[obscurely]obscurely : (przysł.) niejasno
-[obscurity]obscurity : (rzecz.) ciemnia; (rzecz.) ciemność; (rzecz.) mrok; (rzecz.) niejasność; (rzecz.) niezrozumiałość; (rzecz.) obskurantyzm; (rzecz.) przygnębienie
-[obsequies]obsequies : (rzecz.) pogrzeb
-[obsequious]obsequious : (przym.) czołobitny; (przym.) służalczy; (przym.) smutny; (przym.) uległy; (przym.) wiernopoddańczy; (przym.) żałobny
-[obsequiousness]obsequiousness : (rzecz.) czołobitność; (rzecz.) wiernopoddańczość
-[observable]observable : (przym.) dostrzegalny; (przym.) widoczny
-[observance]observance : (rzecz.) obrzęd; (rzecz.) przestrzeganie; (rzecz.) zachowywanie
-[observant]observant : (przym.) przestrzegający; (przym.) spostrzegawczy; (przym.) uważny
-[observation]observation : (rzecz.) obserwacja; (rzecz.) obserwowanie; (rzecz.) spostrzegawczość; (rzecz.) spostrzeżenie; (rzecz.) uwaga
-[observational]observational : (przym.) obserwacyjny
-[observatory]observatory : (rzecz.) obserwatorium
-[observe]observe : (czas.) obserwować; (czas.) przestrzegać; (czas.) spostrzegać; (czas.) zauważać; (czas.) zauważyć
-[observed]observed : (czas.) przestrzegać
-[observer]observer : (rzecz.) obserwator
-[obsess]obsess : (czas.) nawiedzać; (czas.) nawiedzić; (czas.) opętać; (czas.) prześladować
-[obsession]obsession : (rzecz.) obsesja; (rzecz.) opętanie
-[obsessive]obsessive : (przym.) natrętny; (przym.) obsesyjny
-[obsidian]obsidian : (rzecz.) obsydian
-[obsolescence]obsolescence : (rzecz.) przestarzałość; (rzecz.) zanikanie
-[obsolete]obsolete : (przym.) nieaktualny; (przym.) przedpotopowy; (przym.) przestarzały; (przym.) staroświecki; (przym.) szczątkowy
-[obstacle]obstacle : (rzecz.) komplikacja; (rzecz.) przeszkoda; (rzecz.) trudność; (rzecz.) zawada
-[obstetric]obstetric : (przym.) położniczy
-[obstetrician]obstetrician : (rzecz.) akuszer; (rzecz.) położnik
-[obstetrics]obstetrics : (rzecz.) akuszeria; (rzecz.) położnictwo
-[obstinacy]obstinacy : (rzecz.) upór; (rzecz.) uporczywość; (rzecz.) zawziętość
-[obstinate]obstinate : (przym.) uparty; (przym.) uporczywy; (przym.) zaciekły
-[obstinately]obstinately : (przysł.) uparcie; (przysł.) uporczywie; (przysł.) zawzięcie
-[obstreperous]obstreperous : (przym.) hałaśliwy; (przym.) oporny
-[obstreperously]obstreperously : (przysł.) hałaśliwie
-[obstruct]obstruct : (czas.) blokować; (czas.) czopować; (czas.) hamować; (czas.) przesłaniać; (czas.) przesłonić; (czas.) przeszkadzać; (czas.) tamować; (czas.) tarasować; (czas.) utrudniać; (czas.) utrudnić; (czas.) wstrzymywać; (czas.) zagradzać; (czas.) zasłaniać; (czas.) zatamować
-[obstruction]obstruction : (rzecz.) niedrożność; (rzecz.) obstrukcja; (rzecz.) przeszkadzanie; (rzecz.) przeszkoda; (rzecz.) utrudnianie; (rzecz.) zaparcie; (rzecz.) zatamowanie; (rzecz.) zatkanie; (rzecz.) zawada
-[obstructionist]obstructionist : (rzecz.) obstrukcjonista
-[obstructive]obstructive : (przym.) obstrukcyjny
-[obtain]obtain : (czas.) dostawać; (czas.) nabywać; (czas.) otrzymać; (czas.) otrzymywać; (czas.) panować; (czas.) trwać; (czas.) utrzymywać; (czas.) uzyskać; (czas.) uzyskiwać; (czas.) zaopatrzyć; (czas.) zdobyć
-[obtainable]obtainable : (przym.) osiągalny
-[obtainment]obtainment : (rzecz.) uzyskanie; (rzecz.) uzyskiwanie
-[obtrude]obtrude : (czas.) narzucać; (czas.) rzucać; (czas.) wysuwać
-[obtrusion]obtrusion : (rzecz.) naprzykrzanie; (rzecz.) natręctwo; (rzecz.) wtargnięcie
-[obtrusive]obtrusive : (przym.) natarczywy; (przym.) natrętny
-[obtrusively]obtrusively : (przysł.) natrętnie
-[obtund]obtund : (czas.) przytępiać
-[obtuse]obtuse : (przym.) głupi; (przym.) przytępiony; (przym.) tępy
-[obtuseness]obtuseness : (rzecz.) tępota
-[obverse]obverse : (przym.) zewnętrzny; (rzecz.) awers
-[obviate]obviate : (czas.) ustrzec; (czas.) usunąć; (czas.) zapobiegać
-[obvious]obvious : (przym.) oczywisty
-[obviously]obviously : (przysł.) oczywiście; (przysł.) widocznie
-[obviousness]obviousness : (rzecz.) dowód; (rzecz.) oczywistość
-[ocarina]ocarina : (rzecz.) okaryna
-[occasion]occasion : (czas.) wywołać; (rzecz.) asumpt; (rzecz.) okazja; (rzecz.) powód; (rzecz.) sposobność; (rzecz.) sytuacja; (rzecz.) uroczystość; (rzecz.) wydarzenie
-[occasional]occasional : (przym.) luźny; (przym.) nieregularny; (przym.) okazjonalny; (przym.) okolicznościowy; (przym.) przelotny; (przym.) przygodny; (przym.) przypadkowy; (przym.) sezonowy; (przym.) sporadyczny
-[occasionally]occasionally : (przysł.) czasami; (przysł.) okazjonalnie; (przysł.) okazyjnie; (przysł.) przypadkowo; (przysł.) rzadko; (przysł.) sporadycznie
-[occident]occident : (rzecz.) zachód
-[occidental]occidental : (przym.) okcydentalny; (przym.) zachodni
-[occipital]occipital : (przym.) potylicowy; (przym.) potyliczny
-[occlude]occlude : (czas.) okludować; (czas.) pochłaniać; (czas.) zatkać
-[occluded]occluded : (przym.) niedrożny
-[occlusion]occlusion : (rzecz.) okluzja; (rzecz.) zamknięcie; (rzecz.) zasłanianie; (rzecz.) zgryz
-[occult]occult : (przym.) okultystyczny; (przym.) tajemny
-[occultation]occultation : (rzecz.) cieniowanie; (rzecz.) zasłanianie; (rzecz.) zasłonięcie
-[occultism]occultism : (rzecz.) okultyzm
-[occultist]occultist : (rzecz.) okultysta
-[occupancy]occupancy : (rzecz.) obłożenie; (rzecz.) okupacja; (rzecz.) zajętość; (rzecz.) zajmowanie; (rzecz.) zasiedlenie
-[occupant]occupant : (rzecz.) lokator; (rzecz.) mieszkaniec; (rzecz.) okupant; (rzecz.) posiadacz; (rzecz.) użytkownik
-[occupation]occupation : (rzecz.) okupacja; (rzecz.) praca; (rzecz.) wyznanie; (rzecz.) zajęcie; (rzecz.) zajmowanie; (rzecz.) zamieszkanie; (rzecz.) zawód
-[occupational]occupational : (przym.) okupacyjny; (przym.) zajęciowy; (przym.) zawodowy
-[occupationally]occupationally : (przysł.) zawodowo
-[occupied]occupied : (przym.) zajęty
-[occupier]occupier : (rzecz.) dzierżawca; (rzecz.) lokator; (rzecz.) najemca; (rzecz.) okupant; (rzecz.) posiadacz; (rzecz.) użytkownik
-[occupy]occupy : (czas.) okupować; (czas.) zajmować; (czas.) zamieszkiwać
-[occur]occur : (czas.) nadarzyć; (czas.) pojawiać; (czas.) trafić; (czas.) umiejscawiać; (czas.) umiejscowić; (czas.) wydarzać; (czas.) wystąpić; (czas.) występować; (czas.) zdarzać; (czas.) zdarzyć
-[occurrence]occurrence : (rzecz.) przypadek; (rzecz.) traf; (rzecz.) wydarzenie; (rzecz.) wystąpienie; (rzecz.) występowanie; (rzecz.) zdarzenie
-[ocean]ocean : (rzecz.) ocean
-[ocean-going]ocean-going : (przym.) oceaniczny; (przym.) pełnomorski
-[oceanic]oceanic : (przym.) oceaniczny
-[oceanographic]oceanographic : (przym.) oceanograficzny
-[oceanography]oceanography : (rzecz.) oceanografia
-[ocelot]ocelot : (rzecz.) ocelot
-[ochre]ochre : (rzecz.) ochra; (rzecz.) ugier
-[octagon]octagon : (rzecz.) oktagon; (rzecz.) ośmiobok; (rzecz.) ośmiokąt
-[octagonal]octagonal : (przym.) ośmiokątny
-[octahedral]octahedral : (przym.) ośmiościenny
-[octahedron]octahedron : (rzecz.) ośmiokąt; (rzecz.) ośmiościan
-[octal]octal : (przym.) oktalny; (przym.) ósemkowy
-[octal-to-binary]octal-to-binary : (przym.) ósemkowo-dwójkowy
-[octal-to-hexadecimal]octal-to-hexadecimal : (przym.) ósemkowo-szesnastkowy
-[octane]octane : (rzecz.) oktan
-[octant]octant : (rzecz.) oktant
-[octave]octave : (rzecz.) oktawa; (rzecz.) ośmiowiersz
-[octaves]octaves : (rzecz.) oktaw
-[octet]octet : (rzecz.) bajt; (rzecz.) oktet
-[octillion]octillion : (rzecz.) oktylion
-[octopus]octopus : (rzecz.) ośmiornica
-[ocular]ocular : (przym.) naoczny; (przym.) oczny; (rzecz.) okular
-[oculist]oculist : (rzecz.) okulista; (rzecz.) optyk
-[odd]odd : (przym.) dodatkowy; (przym.) dziwaczny; (przym.) dziwny; (przym.) nadliczbowy; (przym.) nieparzysty; (przym.) pokraczny; (przym.) ponadnormatywny; (rzecz.) dorywcza
-[odd-looking]odd-looking : (przym.) dziwaczny; (przym.) dziwny
-[odd-side]odd-side : (rzecz.) fałszywka
-[oddball]oddball : (rzecz.) dziwak
-[oddity]oddity : (rzecz.) cudactwo; (rzecz.) dziwactwo; (rzecz.) dziwaczność; (rzecz.) dziwność; (rzecz.) dziwowisko; (rzecz.) niezwykłość; (rzecz.) osobliwość
-[oddly]oddly : (przysł.) dziwnie; (przysł.) osobliwie
-[oddment]oddment : (rzecz.) resztka
-[oddness]oddness : (rzecz.) cudactwo; (rzecz.) dziwadło
-[odds]odds : (rzecz.) fory; (rzecz.) nierówność; (rzecz.) różnica
-[ode]ode : (rzecz.) oda
-[odious]odious : (przym.) nienawistny; (przym.) ohydny; (przym.) wstrętny
-[odiousness]odiousness : (rzecz.) ohyda
-[odometer]odometer : (rzecz.) hodometr
-[odoriferous]odoriferous : (przym.) wonny
-[odorous]odorous : (przym.) wonny
-[odour]odour : (rzecz.) aromat; (rzecz.) odór; (rzecz.) posmak; (rzecz.) woń; (rzecz.) zapach
-[odour-free]odour-free : (przym.) bezwonny
-[odourless]odourless : (przym.) bezwonny; (przym.) niewonny
-[odyssey]odyssey : (rzecz.) odyseja
-[oedema]oedema : (rzecz.) obrzęk
-[oenologist]oenologist : (rzecz.) enolog
-[oenology]oenology : (rzecz.) enologia
-[oesophagus]oesophagus : (rzecz.) przełyk
-[oestrogen]oestrogen : (rzecz.) estrogen
-[oestrus]oestrus : (rzecz.) ruja
-[of]of : (przyim.) na; (przyim.) od; (przyim.) spośród; (przyim.) z; (przyim.) ze
-[off]off : (przyim.) od; (przyim.) z; (przym.) wolny; (przysł.) opodal; (przysł.) skądś
-[off-axis]off-axis : (przym.) pozaosiowy
-[off-centre]off-centre : (przym.) mimośrodowy
-[off-grade]off-grade : (przym.) niewłaściwy
-[off-key]off-key : (przym.) fałszywy
-[off-load]off-load : (czas.) rozładować; (czas.) wyładowywać
-[off-loading]off-loading : (rzecz.) rozładowywanie; (rzecz.) wyładowywanie
-[off-print]off-print : (rzecz.) nadbitka; (rzecz.) odbitka
-[off-schedule]off-schedule : (przym.) pozaplanowy
-[off-season]off-season : (przym.) pozasezonowy
-[off-the-cuff]off-the-cuff : (przym.) spontaniczny
-[off-the-shelf]off-the-shelf : (przym.) dostępny; (przym.) gotowy
-[offal]offal : (rzecz.) ochłap; (rzecz.) odpadki; (rzecz.) podroby
-[offbeat]offbeat : (przym.) niebanalny; (przym.) nieregularny
-[offence]offence : (rzecz.) obraza; (rzecz.) ofensywa; (rzecz.) przekroczenie; (rzecz.) przestępstwo; (rzecz.) przewinienie; (rzecz.) uchybienie; (rzecz.) wykroczenie; (rzecz.) występek; (rzecz.) zaczepka
-[offend]offend : (czas.) obrażać; (czas.) obrazić; (czas.) razić; (czas.) uchybiać; (czas.) uchybić; (czas.) urażać; (czas.) urazić; (czas.) wykraczać
-[offender]offender : (rzecz.) obrażanie; (rzecz.) przestępca; (rzecz.) winowajca
-[offensive]offensive : (przym.) agresywny; (przym.) napastliwy; (przym.) napastniczy; (przym.) nieestetyczny; (przym.) obraźliwy; (przym.) odrażający; (przym.) ofensywny; (przym.) ordynarny; (przym.) zaczepny; (rzecz.) atak; (rzecz.) ofensywa
-[offensively]offensively : (przysł.) ofensywnie
-[offer]offer : (czas.) nastręczać; (czas.) oferować; (czas.) ofiarować; (czas.) podstawiać; (czas.) proponować; (czas.) zaoferować; (czas.) zaofiarować; (czas.) zaproponować; (rzecz.) oferowanie; (rzecz.) oferta; (rzecz.) ofiarowanie; (rzecz.) podaż; (rzecz.) proponowanie; (rzecz.) propozycja; (rzecz.) przedkładanie
-[offering]offering : (rzecz.) datek; (rzecz.) oferowanie; (rzecz.) oferta; (rzecz.) ofiara; (rzecz.) podarunek; (rzecz.) podsuwanie; (rzecz.) propozycja
-[offertory]offertory : (rzecz.) ofiarowanie; (rzecz.) zbiórka
-[offhand]offhand : (przym.) bezceremonialny; (przym.) improwizowany; (przym.) niegrzeczny; (przym.) szybki; (przysł.) bezceremonialnie; (przysł.) ekspresowo; (przysł.) natychmiast
-[office]office : (rzecz.) biuro; (rzecz.) biurowiec; (rzecz.) delegatura; (rzecz.) gabinet; (rzecz.) kancelaria; (rzecz.) ministerstwo; (rzecz.) obowiązek; (rzecz.) oficyna; (rzecz.) służba; (rzecz.) urząd; (rzecz.) urzędowanie
-[officer]officer : (rzecz.) dysponent; (rzecz.) funkcjonariusz; (rzecz.) intendent; (rzecz.) oficer; (rzecz.) policjant; (rzecz.) przedstawiciel; (rzecz.) pułkownik; (rzecz.) urzędnik
-[officer's]officer's : (przym.) oficerski
-[official]official : (przym.) oficjalny; (przym.) służbowy; (przym.) urzędowy; (rzecz.) biuralista; (rzecz.) oficjał; (rzecz.) urzędnik
-[officialdom]officialdom : (rzecz.) biurokracja
-[officially]officially : (przysł.) oficjalnie; (przysł.) urzędowo
-[officiate]officiate : (czas.) celebrować; (czas.) odprawiać; (czas.) przewodniczyć; (czas.) urzędować
-[officinal]officinal : (przym.) apteczny; (przym.) aptekarski; (przym.) lekarski
-[officious]officious : (przym.) nadgorliwy; (przym.) natrętny; (przym.) nieoficjalny; (przym.) półurzędowy; (przym.) uprzejmy; (przym.) usłużny
-[officiousness]officiousness : (rzecz.) nadgorliwość; (rzecz.) natrętność
-[offish]offish : (przym.) nieprzystępny; (przym.) oficjalny; (przym.) sztywny
-[offline]offline : (przym.) autonomiczny; (przym.) nieaktywny; (przym.) niegotowy; (przym.) rozłączny
-[offload]offload : (czas.) rozładować; (czas.) wyładowywać
-[offloading]offloading : (rzecz.) rozładowywanie; (rzecz.) wyładowywanie
-[offprint]offprint : (rzecz.) nadbitka; (rzecz.) odbitka
-[offset]offset : (czas.) równoważyć; (rzecz.) odgałęzienie; (rzecz.) odrośl; (rzecz.) odsadzka; (rzecz.) przesadzenie; (rzecz.) przesunięcie; (rzecz.) uchyb; (rzecz.) wylot; (rzecz.) wyrównanie
-[offshoot]offshoot : (rzecz.) gałąź; (rzecz.) odgałęzienie; (rzecz.) odnoga; (rzecz.) odrośl
-[offshore]offshore : (przym.) zamorski
-[offside]offside : (przym.) ofsajdowy
-[offspring]offspring : (rzecz.) latorośl; (rzecz.) potomek; (rzecz.) potomstwo
-[often]often : (przysł.) często; (przysł.) częstokroć; (przysł.) przeważnie
-[oftentimes]oftentimes : (przysł.) częstokroć
-[ogee]ogee : (rzecz.) esownica; (rzecz.) sima
-[ogle]ogle : (czas.) mizdrzyć; (czas.) zerkać; (rzecz.) ludożerca; (rzecz.) zerkanie
-[ogre]ogre : (rzecz.) ludojad; (rzecz.) ludożerca; (rzecz.) olbrzym; (rzecz.) potwór; (rzecz.) wilkołak; (rzecz.) zmora
-[oh]oh : (wykrzyknik) ach; (wykrzyknik) och; (wykrzyknik) ojej
-[ohm]ohm : (rzecz.) ołtarzyk; (rzecz.) om
-[ohmmeter]ohmmeter : (rzecz.) omomierz
-[oil]oil : (czas.) naoliwić; (czas.) natłuszczać; (czas.) oliwić; (czas.) posmarować; (rzecz.) nafta; (rzecz.) olej; (rzecz.) olejek; (rzecz.) olejenie; (rzecz.) oliwa; (rzecz.) ropa
-[oil-bearing]oil-bearing : (przym.) roponośny
-[oil-cloth]oil-cloth : (rzecz.) cerata
-[oil-free]oil-free : (przym.) bezolejowy
-[oil-yielding]oil-yielding : (przym.) naftodajny
-[oilcake]oilcake : (rzecz.) makuch
-[oilcan]oilcan : (rzecz.) olejarka; (rzecz.) oliwiarka
-[oilcloth]oilcloth : (rzecz.) cerata
-[oiliest]oiliest : (przym.) oleisty
-[oiliness]oiliness : (rzecz.) oleistość; (rzecz.) smarowność; (rzecz.) wazeliniarstwo
-[oilman]oilman : (rzecz.) olejarz
-[oilseed]oilseed : (przym.) oleisty
-[oilskin]oilskin : (rzecz.) cerata; (rzecz.) peleryna
-[oily]oily : (przym.) gładki; (przym.) obleśny; (przym.) oleisty; (przym.) pochlebczy; (przym.) tłusty; (przym.) wazeliniarski
-[ointment]ointment : (rzecz.) maść; (rzecz.) smarowidło
-[old]old : (przym.) dawny; (przym.) nienowy; (przym.) sędziwy; (przym.) starodawny; (przym.) staromiejski; (przym.) staroświecki; (przym.) starotestamentowy; (przym.) stary; (przym.) zabytkowy; (rzecz.) stare; (rzecz.) starodrzew; (rzecz.) starówka; (rzecz.) staruszka; (rzecz.) starzec
-[old-fashioned]old-fashioned : (przym.) staromodny; (przym.) staroświecki
-[old-time]old-time : (przym.) dawny
-[old-timer]old-timer : (rzecz.) weteran
-[olden]olden : (czas.) postarzać
-[oleaginous]oleaginous : (przym.) oleisty
-[oleander]oleander : (rzecz.) oleander
-[olefin]olefin : (rzecz.) olefina
-[olefins]olefins : (rzecz.) olefina
-[oleic]oleic : (przym.) oleinowy
-[oleomargarine]oleomargarine : (rzecz.) oleomargaryna
-[olfactory]olfactory : (przym.) węchowy
-[oligarch]oligarch : (rzecz.) oligarcha
-[oligarchic]oligarchic : (przym.) oligarchiczny
-[oligarchy]oligarchy : (rzecz.) oligarchia
-[oligopoly]oligopoly : (rzecz.) oligopol
-[oligosaccharide]oligosaccharide : (rzecz.) oligosacharyd
-[olio]olio : (rzecz.) bigos; (rzecz.) mieszanina
-[olive]olive : (rzecz.) oliwa; (rzecz.) oliwka
-[olivine]olivine : (rzecz.) oliwin
-[ombudsman]ombudsman : (rzecz.) rzecznik
-[omelette]omelette : (rzecz.) omlet
-[omen]omen : (rzecz.) wróżba; (rzecz.) zapowiedź; (rzecz.) zwiastun
-[ominous]ominous : (przym.) fatalny; (przym.) złowieszczy
-[ominously]ominously : (przysł.) niepokojąco; (przysł.) złowieszczo; (przysł.) złowrogo
-[omission]omission : (rzecz.) opuszczenie; (rzecz.) pominięcie; (rzecz.) przeoczenie
-[omit]omit : (czas.) opuszczać; (czas.) pomijać; (czas.) przeoczyć; (czas.) zaniedbać
-[omni]omni : (rzecz.) radiolatarnia
-[omnibus]omnibus : (rzecz.) autobus; (rzecz.) zbiór
-[omnipotence]omnipotence : (rzecz.) omnipotencja; (rzecz.) wszechmoc; (rzecz.) wszechpotęga
-[omnipotent]omnipotent : (przym.) wszechmocny; (przym.) wszechpotężny
-[omnipresent]omnipresent : (przym.) wszechobecny
-[omniscience]omniscience : (rzecz.) wszechwiedza
-[omniscient]omniscient : (przym.) wszechwiedzący
-[omnium-gatherum]omnium-gatherum : (rzecz.) mieszanina; (rzecz.) zbieranina
-[omnivore]omnivore : (przym.) wszystkożerny
-[omnivorous]omnivorous : (przym.) wszystkożerny
-[on]on : (przyim.) do; (przyim.) na; (przyim.) nad; (przyim.) po; (przyim.) przy; (przyim.) u; (przyim.) w; (przyim.) według
-[on-board]on-board : (przym.) pokładowy
-[on-line]on-line : (przym.) bezpośredni; (przysł.) bezpośrednio
-[on-switch]on-switch : (rzecz.) włącznik
-[on-the-fly]on-the-fly : (przym.) natychmiastowy
-[onboard]onboard : (przym.) pokładowy
-[once]once : (przysł.) jednocześnie; (przysł.) kiedy; (przysł.) kiedyś; (przysł.) niegdyś; (przysł.) onegdaj; (przysł.) ongiś; (przysł.) skoro; (przysł.) zaraz
-[oncologist]oncologist : (rzecz.) onkolog
-[oncology]oncology : (rzecz.) onkologia
-[one]one : (przym.) jeden; (przym.) jedyny; (przym.) ktokolwiek; (przym.) niejaki; (przym.) wspólny; (rzecz.) czasza; (rzecz.) jedynka; (rzecz.) ten; (rzecz.) zaimek; (rzecz.) złotówka
-[one-address]one-address : (przym.) jednoadresowy
-[one-coloured]one-coloured : (przym.) jednobarwny
-[one-day]one-day : (rzecz.) jednodniówka
-[one-kilo]one-kilo : (przym.) kilogramowy; (przym.) kilowy
-[one-mile]one-mile : (przym.) milowy
-[one-minute]one-minute : (przym.) minutowy
-[one-sided]one-sided : (przym.) jednostronny
-[one-sidedly]one-sidedly : (przysł.) jednostronnie
-[one-time]one-time : (przym.) były; (przym.) dawny
-[one-valued]one-valued : (przym.) jednoznaczny
-[one-way]one-way : (przym.) jednokierunkowy
-[one-year-old]one-year-old : (rzecz.) jednolatek
-[oneness]oneness : (rzecz.) jedność; (rzecz.) zgodność
-[onerous]onerous : (przym.) uciążliwy
-[onetime]onetime : (przym.) były; (przym.) dawny; (przym.) ówczesny
-[ongoing]ongoing : (przym.) ciągły
-[onion]onion : (rzecz.) cebula; (rzecz.) cebulka
-[onion-shaped]onion-shaped : (przym.) cebulasty
-[online]online : (przym.) bezpośredni
-[onlooker]onlooker : (rzecz.) gap; (rzecz.) obserwator; (rzecz.) widz
-[only]only : (przym.) jedyny; (przysł.) jedynie; (przysł.) niewcześnie; (przysł.) tylko; (przysł.) wyłącznie
-[onomatopoeia]onomatopoeia : (rzecz.) onomatopeja
-[onomatopoeic]onomatopoeic : (przym.) dźwiękonaśladowczy; (przym.) onomatopeiczny
-[onomatopoetic]onomatopoetic : (przym.) onomatopeiczny
-[onrush]onrush : (rzecz.) napór; (rzecz.) natarcie; (rzecz.) poryw
-[onset]onset : (rzecz.) najazd; (rzecz.) napad; (rzecz.) nawała; (rzecz.) początek; (rzecz.) rozpęd; (rzecz.) szturm
-[onshore]onshore : (przym.) nadbrzeżny
-[onslaught]onslaught : (rzecz.) najazd; (rzecz.) napad; (rzecz.) początek; (rzecz.) rozpęd; (rzecz.) szturm
-[onto]onto : (przyim.) do; (przyim.) na
-[ontogenesis]ontogenesis : (rzecz.) ontogeneza
-[ontological]ontological : (przym.) ontologiczny
-[ontology]ontology : (rzecz.) ontologia
-[onus]onus : (rzecz.) ciężar; (rzecz.) obowiązek
-[onward]onward : (przysł.) naprzód
-[onwards]onwards : (rzecz.) dalej
-[onyx]onyx : (rzecz.) onyks
-[oodles]oodles : (rzecz.) nadmiar
-[oomph]oomph : (rzecz.) energia
-[oops]oops : (wykrzyknik) ojej
-[ooze]ooze : (czas.) odpływać; (czas.) podsiąkać; (czas.) sączyć; (rzecz.) muł; (rzecz.) sączenie; (rzecz.) szlam; (rzecz.) uchodzenie
-[oozy]oozy : (przym.) mulisty
-[opacity]opacity : (rzecz.) nieprzezroczystość; (rzecz.) tępota; (rzecz.) zaczernienie; (rzecz.) zmętnienie
-[opal]opal : (rzecz.) opal
-[opalescence]opalescence : (rzecz.) opalescencja; (rzecz.) opalizacja; (rzecz.) opalizowanie
-[opalescent]opalescent : (przym.) opalizujący
-[opaque]opaque : (przym.) mętny; (przym.) nieprzezroczysty; (przym.) nieprzeźroczysty
-[opaquely]opaquely : (przysł.) nieprzejrzyście
-[opaqueness]opaqueness : (rzecz.) mętność; (rzecz.) nieprzejrzystość; (rzecz.) nieprzezroczystość
-[open]open : (czas.) brać; (czas.) inaugurować; (czas.) objawiać; (czas.) ogłaszać; (czas.) otwierać; (czas.) otworzyć; (czas.) rozpiąć; (czas.) rozpocząć; (czas.) rozpoczynać; (przym.) czynny; (przym.) jawny; (przym.) otwarty; (przym.) publiczny; (przym.) rozwarty; (przym.) skłonny; (przym.) szczery; (przym.) wolny
-[open-closed]open-closed : (przym.) otwarty-zamknięty; (przym.) rozwarty-zwarty
-[open-end]open-end : (przym.) nieograniczony; (przym.) otwarty; (przym.) rozszerzalny
-[open-ended]open-ended : (przym.) elastyczny; (przym.) nieograniczony; (przym.) otwarty; (przym.) rozszerzalny
-[open-handed]open-handed : (przym.) hojny; (przym.) szczodry; (przym.) wielkoduszny
-[open-hearted]open-hearted : (przym.) serdeczny; (przym.) szczery
-[opencast]opencast : (przym.) odkrywkowy; (rzecz.) odkrywka
-[opener]opener : (rzecz.) otwieracz; (rzecz.) rozluźniarka; (rzecz.) spulchniacz; (rzecz.) urządzenie
-[openhearted]openhearted : (przym.) serdeczny; (przym.) szczery
-[opening]opening : (rzecz.) inauguracja; (rzecz.) napoczęcie; (rzecz.) odsłona; (rzecz.) otwarcie; (rzecz.) otwór; (rzecz.) początek; (rzecz.) polana; (rzecz.) przedstawienie; (rzecz.) rozwarcie; (rzecz.) szansa; (rzecz.) wycięcie
-[openly]openly : (przysł.) jawnie; (przysł.) szczerze
-[openness]openness : (rzecz.) otwartość; (rzecz.) szczerość
-[openwork]openwork : (rzecz.) ażur
-[opera]opera : (rzecz.) opera
-[opera-house]opera-house : (rzecz.) opera
-[operable]operable : (przym.) operacyjny
-[operand]operand : (rzecz.) argument; (rzecz.) operand
-[operate]operate : (czas.) działać; (czas.) eksploatować; (czas.) funkcjonować; (czas.) obowiązywać; (czas.) obsługiwać; (czas.) operować; (czas.) opracowywać; (czas.) poruszać; (czas.) pracować; (czas.) zadziałać
-[operatic]operatic : (przym.) operowy
-[operating]operating : (przym.) operacyjny
-[operation]operation : (rzecz.) akcja; (rzecz.) czynność; (rzecz.) działanie; (rzecz.) eksploatacja; (rzecz.) funkcjonowanie; (rzecz.) obsługa; (rzecz.) operacja; (rzecz.) użytkowanie
-[operational]operational : (przym.) operacyjny; (przym.) operatorowy; (przym.) sprawny
-[operationally]operationally : (przysł.) roboczo; (przysł.) sprawnie
-[operative]operative : (przym.) czynny; (przym.) działający; (przym.) operacyjny; (przym.) operatywny; (przym.) praktyczny; (przym.) skuteczny; (przym.) sprawny
-[operator]operator : (rzecz.) operator; (rzecz.) telefonista
-[operetta]operetta : (rzecz.) operetka
-[ophidian]ophidian : (przym.) wężowy
-[ophthalmic]ophthalmic : (przym.) oczny
-[ophthalmologist]ophthalmologist : (rzecz.) oftalmolog; (rzecz.) okulista
-[ophthalmology]ophthalmology : (rzecz.) okulistyka
-[ophthalmoscope]ophthalmoscope : (rzecz.) oftalmoskop
-[opine]opine : (czas.) mniemać; (czas.) sądzić
-[opinion]opinion : (rzecz.) mniemanie; (rzecz.) ocena; (rzecz.) opinia; (rzecz.) pogląd; (rzecz.) porada; (rzecz.) zdanie
-[opinionated]opinionated : (przym.) dogmatyczny
-[opium]opium : (rzecz.) opium
-[opossum]opossum : (rzecz.) opos
-[opponent]opponent : (przym.) przeciwny; (rzecz.) adwersarz; (rzecz.) kontrkandydat; (rzecz.) oponent; (rzecz.) przeciwnik; (rzecz.) współzawodnik
-[opportune]opportune : (przym.) dogodny; (przym.) odpowiedni; (przym.) pomyślny; (przym.) stosowny; (przym.) właściwy
-[opportunely]opportunely : (przysł.) nieco; (przysł.) właściwie
-[opportunism]opportunism : (rzecz.) oportunizm
-[opportunist]opportunist : (rzecz.) oportunista
-[opportunistic]opportunistic : (przym.) oportunistyczny
-[opportunity]opportunity : (rzecz.) możliwość; (rzecz.) możność; (rzecz.) okazja; (rzecz.) sposobność
-[oppose]oppose : (czas.) oponować; (czas.) przeciwstawiać; (czas.) sprzeciwiać; (czas.) sprzeciwić; (czas.) zwalczać
-[opposed]opposed : (przym.) przeciwny; (przym.) przeciwstawny; (przym.) wrogi
-[opposite]opposite : (przym.) naprzeciwległy; (przym.) odwrotny; (przym.) przeciwległy; (przym.) przeciwny; (przym.) przeciwstawny; (rzecz.) przeciwieństwo
-[oppositeness]oppositeness : (rzecz.) przeciwność
-[opposition]opposition : (rzecz.) opór; (rzecz.) opozycja; (rzecz.) przeciwieństwo; (rzecz.) przeciwnik; (rzecz.) przeciwstawianie; (rzecz.) przeciwstawienie; (rzecz.) sprzeciw
-[oppositional]oppositional : (przym.) opozycyjny
-[oppositionist]oppositionist : (rzecz.) opozycjonista
-[oppress]oppress : (czas.) ciemiężyć; (czas.) cisnąć; (czas.) gnębić; (czas.) męczyć; (czas.) przygniatać; (czas.) uciemiężać; (czas.) uciskać
-[oppression]oppression : (rzecz.) gnębienie; (rzecz.) opresja; (rzecz.) ucisk
-[oppressive]oppressive : (przym.) ciążący; (przym.) despotyczny; (przym.) duszny; (przym.) gnębicielski; (przym.) prześladowczy; (przym.) uciążliwy; (przym.) uciskający
-[oppressiveness]oppressiveness : (rzecz.) ucisk
-[oppressor]oppressor : (rzecz.) ciemiężyciel; (rzecz.) napastnik
-[opprobrious]opprobrious : (przym.) obraźliwy
-[opprobrium]opprobrium : (rzecz.) hańba; (rzecz.) niesława
-[oppugn]oppugn : (czas.) zakwestionować
-[opt]opt : (czas.) dokooptować; (czas.) opowiedzieć; (czas.) optować
-[optic]optic : (przym.) oczny; (przym.) optyczny; (przym.) wzrokowy; (rzecz.) oko
-[optical]optical : (przym.) optyczny; (przym.) wzrokowy
-[optically]optically : (przysł.) optycznie; (przysł.) wzrokowo
-[optician]optician : (rzecz.) optyk; (rzecz.) optyka
-[optics]optics : (rzecz.) optyka
-[optimal]optimal : (przym.) optymalny
-[optimality]optimality : (rzecz.) optymalność
-[optimally]optimally : (przysł.) optymalnie
-[optimism]optimism : (rzecz.) optymizm
-[optimist]optimist : (rzecz.) optymista
-[optimistic]optimistic : (przym.) optymistyczny
-[optimistically]optimistically : (przysł.) optymistycznie
-[optimization]optimization : (rzecz.) optymalizacja; (rzecz.) optymizacja
-[optimize]optimize : (czas.) optymalizować; (czas.) zoptymalizować
-[optimizer]optimizer : (rzecz.) optymalizator; (rzecz.) optymizator
-[optimizers]optimizers : (rzecz.) optymizator
-[optimizing]optimizing : (rzecz.) optymalizowanie
-[optimum]optimum : (rzecz.) optimum
-[option]option : (rzecz.) alternatywa; (rzecz.) opcja; (rzecz.) wariant; (rzecz.) wybór
-[optional]optional : (przym.) dodatkowy; (przym.) dowolny; (przym.) fakultatywny; (przym.) nadobowiązkowy; (przym.) nieobowiązkowy; (przym.) obieralny; (przym.) opcjonalny
-[optionally]optionally : (przysł.) dowolnie; (przysł.) opcjonalnie
-[optoelectronics]optoelectronics : (rzecz.) optoelektronika
-[opulence]opulence : (rzecz.) bogactwo; (rzecz.) zamożność
-[opulent]opulent : (przym.) bogaty; (przym.) żyzny
-[opulently]opulently : (przysł.) wystawnie
-[opus]opus : (rzecz.) dzieło
-[or]or : (spójnik) albo; (spójnik) ani; (spójnik) bądź; (spójnik) czy; (spójnik) lub
-[oracle]oracle : (rzecz.) wyrocznia
-[oral]oral : (przym.) doustny; (przym.) oralny; (przym.) ustny
-[orally]orally : (przysł.) ustnie
-[orang-utan]orang-utan : (rzecz.) orangutan
-[orange]orange : (przym.) pomarańczowy; (rzecz.) oranż; (rzecz.) pomarańcz; (rzecz.) pomarańcza; (rzecz.) smak
-[orangeade]orangeade : (rzecz.) oranżada
-[oration]oration : (rzecz.) mowa; (rzecz.) mówka; (rzecz.) oracja; (rzecz.) perora
-[orator]orator : (rzecz.) krasomówca; (rzecz.) mówca; (rzecz.) powód
-[oratorical]oratorical : (przym.) krasomówczy; (przym.) oratorski; (przym.) oratoryjny
-[oratorio]oratorio : (rzecz.) oratorium
-[oratory]oratory : (rzecz.) krasomówstwo; (rzecz.) oratorium; (rzecz.) oratorstwo
-[orb]orb : (rzecz.) glob; (rzecz.) kamień; (rzecz.) kula
-[orbicular]orbicular : (przym.) okrągły; (przym.) pierścieniowaty
-[orbit]orbit : (czas.) okrążać; (czas.) orbitować; (rzecz.) orbita
-[orbital]orbital : (przym.) oczodołowy; (przym.) orbitalny
-[orbiting]orbiting : (rzecz.) obieg; (rzecz.) orbitowanie
-[orchard]orchard : (rzecz.) sad
-[orchestra]orchestra : (rzecz.) instrumentarium; (rzecz.) orkiestra
-[orchestral]orchestral : (przym.) orkiestralny; (przym.) orkiestrowy
-[orchestrate]orchestrate : (czas.) orkiestrować; (czas.) zorkiestrować
-[orchestration]orchestration : (rzecz.) orkiestracja
-[orchid]orchid : (rzecz.) orchidea; (rzecz.) storczyk
-[ordain]ordain : (czas.) mianować; (czas.) przepisać; (czas.) wprowadzać; (czas.) wprowadzić; (czas.) wyświecać; (czas.) wyświęcać; (czas.) zarządzać
-[ordeal]ordeal : (rzecz.) doświadczenie; (rzecz.) gehenna; (rzecz.) katorga; (rzecz.) męka; (rzecz.) próba; (rzecz.) przeprawa; (rzecz.) przeżycie
-[order]order : (czas.) porządkować; (czas.) potrzebować; (czas.) rozkazywać; (czas.) zamawiać; (czas.) zamówić; (rzecz.) dekret; (rzecz.) kolejność; (rzecz.) ład; (rzecz.) polecenie; (rzecz.) porządek; (rzecz.) ranga; (rzecz.) rozkaz; (rzecz.) stan; (rzecz.) zakon; (rzecz.) zamówienie; (rzecz.) zarządzenie; (rzecz.) zlecenie
-[orderliness]orderliness : (rzecz.) uporządkowanie; (rzecz.) zdyscyplinowanie
-[orderly]orderly : (przym.) cichy; (przym.) czysty; (przym.) dokładny; (przym.) dyżurny; (przym.) porządnicki; (przym.) porządny; (przym.) skromny; (rzecz.) ordynans; (rzecz.) sanitariusz
-[ordinal]ordinal : (przym.) porządkowy
-[ordinance]ordinance : (rzecz.) komunia; (rzecz.) rozkaz; (rzecz.) rozporządzenie; (rzecz.) zarządzenie
-[ordinarily]ordinarily : (przysł.) zazwyczaj; (przysł.) zwyczajnie
-[ordinariness]ordinariness : (rzecz.) pospolitość; (rzecz.) zwyczajność
-[ordinary]ordinary : (przym.) codzienny; (przym.) pospolity; (przym.) powszedni; (przym.) przeciętny; (przym.) trywialny; (przym.) zwyczajny; (przym.) zwykły; (rzecz.) ordynariusz; (rzecz.) urząd; (rzecz.) zwyczaj
-[ordinate]ordinate : (rzecz.) rzędna
-[ordination]ordination : (rzecz.) święcenie; (rzecz.) układ; (rzecz.) wyświęcanie; (rzecz.) wyświęcenie
-[ordnance]ordnance : (rzecz.) artyleria; (rzecz.) działo; (rzecz.) uzbrojenie
-[ordure]ordure : (rzecz.) nieczystości; (rzecz.) odchody
-[ore]ore : (rzecz.) kruszec; (rzecz.) ruda
-[ore-bearing]ore-bearing : (przym.) rudonośny
-[oregano]oregano : (rzecz.) lebiodka
-[organ]organ : (rzecz.) narząd; (rzecz.) organ; (rzecz.) organy
-[organ-grinder]organ-grinder : (rzecz.) kataryniarz
-[organdie]organdie : (rzecz.) organdyna
-[organic]organic : (przym.) ekologiczny; (przym.) narządowy; (przym.) organiczny
-[organisation]organisation : (rzecz.) instytucja; (rzecz.) organizacja; (rzecz.) organizowanie; (rzecz.) zrzeszanie; (rzecz.) zrzeszenie
-[organisationally]organisationally : (przysł.) organizacyjnie
-[organise]organise : (czas.) organizować
-[organised]organised : (przym.) zorganizowany
-[organism]organism : (rzecz.) organizm
-[organist]organist : (rzecz.) organista
-[organization]organization : (rzecz.) organizacja; (rzecz.) organizowanie; (rzecz.) porządkowanie; (rzecz.) struktura
-[organizational]organizational : (przym.) organizacyjny; (przym.) organizatorski
-[organizationally]organizationally : (przysł.) organizacyjnie
-[organize]organize : (czas.) organizować; (czas.) urządzać; (czas.) zorganizować
-[organizer]organizer : (rzecz.) aranżer; (rzecz.) notes; (rzecz.) organizator
-[orgasm]orgasm : (rzecz.) orgazm
-[orgiastic]orgiastic : (przym.) orgiastyczny
-[orgy]orgy : (rzecz.) orgia
-[orient]orient : (rzecz.) połysk; (rzecz.) wschód
-[oriental]oriental : (przym.) orientalny; (rzecz.) wschodni
-[orientate]orientate : (czas.) orientować
-[orientation]orientation : (rzecz.) orientacja; (rzecz.) orientowanie; (rzecz.) ukierunkowywanie
-[orifice]orifice : (rzecz.) kryza; (rzecz.) otwór; (rzecz.) ujście; (rzecz.) wylot
-[origin]origin : (rzecz.) geneza; (rzecz.) pochodzenie; (rzecz.) początek; (rzecz.) rodowód; (rzecz.) źródło
-[original]original : (przym.) autentyczny; (przym.) naturalny; (przym.) niebanalny; (przym.) oryginalny; (przym.) pierwotny; (przym.) początkowy; (przym.) rdzenny; (przym.) samorodny; (przym.) własnoręczny; (rzecz.) autentyk; (rzecz.) cudak; (rzecz.) kolor; (rzecz.) oryginał; (rzecz.) pierwowzór
-[originality]originality : (rzecz.) oryginalność; (rzecz.) osobliwość
-[originally]originally : (przysł.) oryginalnie; (przysł.) pierwotnie; (przysł.) początkowo
-[originate]originate : (czas.) ogłaszać; (czas.) pochodzić; (czas.) wypływać; (czas.) zapoczątkować
-[origination]origination : (rzecz.) pochodzenie; (rzecz.) początek; (rzecz.) tworzenie
-[originator]originator : (rzecz.) inicjator; (rzecz.) nadawca; (rzecz.) plakat; (rzecz.) pomysłodawca; (rzecz.) twórca
-[origins]origins : (rzecz.) geneza
-[oriole]oriole : (rzecz.) kacyk; (rzecz.) wilga
-[orison]orison : (rzecz.) modlitwa
-[ornament]ornament : (czas.) upiększać; (czas.) zdobić; (rzecz.) dekoracja; (rzecz.) ornament; (rzecz.) ornamentacja; (rzecz.) ozdoba; (rzecz.) ozdobnik
-[ornamental]ornamental : (przym.) dekoracyjny; (przym.) ornamentacyjny; (przym.) ornamentalny; (przym.) ornamentowy; (przym.) ozdobny; (przym.) zdobniczy
-[ornamentally]ornamentally : (przysł.) dekoracyjnie; (przysł.) ozdobnie
-[ornamentation]ornamentation : (rzecz.) ornamentacja; (rzecz.) ornamentowanie; (rzecz.) ornamentyka; (rzecz.) ozdoba; (rzecz.) zdobnictwo
-[ornaments]ornaments : (rzecz.) ornamentyka
-[ornate]ornate : (przym.) kwiecisty; (przym.) ozdobny; (przym.) strojny; (przym.) stromy; (przym.) zdobny
-[ornery]ornery : (przym.) ordynarny; (przym.) prostacki
-[ornithological]ornithological : (przym.) ornitologiczny
-[ornithologist]ornithologist : (rzecz.) ornitolog
-[ornithology]ornithology : (rzecz.) ornitologia
-[orotund]orotund : (przym.) bombastyczny; (przym.) dźwięczny; (przym.) pełny; (przym.) wyraźny
-[orphan]orphan : (czas.) osierocić; (przym.) sierocy; (rzecz.) bękart; (rzecz.) sierota; (rzecz.) sierotka
-[orphan's]orphan's : (przym.) sierocy
-[orphanage]orphanage : (rzecz.) ochronka; (rzecz.) sierociniec; (rzecz.) sieroctwo
-[orpiment]orpiment : (rzecz.) aurypigment
-[orthicon]orthicon : (rzecz.) ortikon
-[orthoclase]orthoclase : (rzecz.) ortoklaz
-[orthodontia]orthodontia : (rzecz.) ortodoncja
-[orthodontics]orthodontics : (rzecz.) ortodoncja
-[orthodontist]orthodontist : (rzecz.) ortodonta
-[orthodox]orthodox : (przym.) klasyczny; (przym.) konwencjonalny; (przym.) ortodoksyjny; (przym.) prawosławny; (przym.) prawowierny
-[orthodoxy]orthodoxy : (rzecz.) norma; (rzecz.) ortodoksja; (rzecz.) prawosławie; (rzecz.) prawowierność
-[orthogonal]orthogonal : (przym.) ortogonalny; (przym.) prostokątny; (przym.) prostopadły
-[orthographic]orthographic : (przym.) ortograficzny
-[orthographical]orthographical : (przym.) ortograficzny
-[orthographically]orthographically : (przysł.) ortograficznie
-[orthography]orthography : (rzecz.) ortografia
-[orthopaedic]orthopaedic : (przym.) ortopedyczny
-[orthopaedist]orthopaedist : (rzecz.) ortopeda
-[orthorhombic]orthorhombic : (przym.) rombowy
-[oscillate]oscillate : (czas.) drgać; (czas.) oscylować
-[oscillation]oscillation : (rzecz.) drganie; (rzecz.) oscylacja; (rzecz.) wahanie
-[oscillator]oscillator : (rzecz.) generator; (rzecz.) oscylator
-[oscillatory]oscillatory : (przym.) oscylacyjny; (przym.) oscylujący; (przym.) wahadłowy; (przym.) wahliwy
-[oscilloscope]oscilloscope : (rzecz.) oscyloskop
-[oscilloscopes]oscilloscopes : (rzecz.) oscyloskop
-[osculation]osculation : (rzecz.) przyleganie; (rzecz.) przystawanie; (rzecz.) stykanie
-[osier]osier : (rzecz.) łoza; (rzecz.) łozina
-[osmium]osmium : (rzecz.) osm
-[osmosis]osmosis : (rzecz.) osmoza
-[osmotic]osmotic : (przym.) osmotyczny
-[osprey]osprey : (rzecz.) kitka; (rzecz.) rybołów
-[osseous]osseous : (przym.) kościsty; (przym.) kostny
-[ossification]ossification : (rzecz.) kostnienie; (rzecz.) skostnienie
-[ossify]ossify : (czas.) kostnieć; (czas.) skostnieć
-[ostensible]ostensible : (przym.) pozorny; (przym.) rzekomy; (przym.) wirtualny
-[ostensibly]ostensibly : (przysł.) pozornie
-[ostentation]ostentation : (rzecz.) ostentacja; (rzecz.) wystawność
-[ostentatious]ostentatious : (przym.) demonstracyjny; (przym.) manifestacyjny; (przym.) ostentacyjny
-[ostentatiously]ostentatiously : (przysł.) ostentacyjnie
-[osteopathic]osteopathic : (rzecz.) kręglarstwo
-[osteopathy]osteopathy : (rzecz.) osteopatia
-[osteoporosis]osteoporosis : (rzecz.) osteoporoza
-[ostracism]ostracism : (rzecz.) ostracyzm
-[ostracize]ostracize : (czas.) wykluczać
-[ostrich]ostrich : (rzecz.) struś
-[other]other : (przym.) drugi; (przym.) inny; (przym.) następny
-[otherness]otherness : (rzecz.) odmienność
-[otherwise]otherwise : (przysł.) owak; (przysł.) skądinąd
-[otherworldly]otherworldly : (przym.) bezładny
-[otiose]otiose : (przym.) zbyteczny
-[otology]otology : (rzecz.) otologia
-[otter]otter : (rzecz.) wydra
-[ought]ought : (czas.) robić; (czas.) zrobić
-[ounce]ounce : (rzecz.) odrobina; (rzecz.) uncja
-[ounces]ounces : (rzecz.) uncja
-[oust]oust : (czas.) usuwać; (czas.) wyrugować; (czas.) wyrzucać; (czas.) wyrzucić
-[out]out : (czas.) pomniejszyć; (czas.) przekonać; (przym.) autowy; (przym.) zewnętrzny; (przysł.) jawnie; (przysł.) obecnie; (przysł.) zewnątrz
-[out-and-out]out-and-out : (przym.) absolutny; (przym.) całkowity
-[out-gate]out-gate : (rzecz.) nadlew
-[out-of-date]out-of-date : (przym.) nieaktualny
-[outage]outage : (rzecz.) przerwa; (rzecz.) przestój
-[outback]outback : (rzecz.) busz
-[outbalance]outbalance : (czas.) przeważać; (czas.) przeważyć
-[outbid]outbid : (czas.) podkupić; (czas.) przelicytować; (czas.) przelicytowywać
-[outbound]outbound : (przym.) wejściowy; (przym.) wyjściowy; (przym.) zewnętrzny
-[outbreak]outbreak : (rzecz.) epidemia; (rzecz.) wybuch
-[outbuilding]outbuilding : (rzecz.) dobudówka; (rzecz.) przybudówka
-[outburst]outburst : (rzecz.) poryw; (rzecz.) wybuch; (rzecz.) zapęd
-[outcast]outcast : (przym.) odepchnięty; (przym.) wypędzony; (przym.) wyrzucony; (rzecz.) banita; (rzecz.) włóczęga; (rzecz.) wyrzutek
-[outcome]outcome : (rzecz.) rezultat; (rzecz.) wynik
-[outcrop]outcrop : (rzecz.) odkrywka
-[outcry]outcry : (rzecz.) hałas; (rzecz.) krzyk; (rzecz.) licytacja; (rzecz.) okrzyk; (rzecz.) wrzawa
-[outdate]outdate : (czas.) przedawniać
-[outdated]outdated : (przym.) przedawniony; (przym.) przestarzały; (przym.) przeterminowany
-[outdistance]outdistance : (czas.) prześcigać; (czas.) zdystansować
-[outdo]outdo : (czas.) prześcigać; (czas.) prześcignąć; (czas.) przewyższać
-[outdoor]outdoor : (przym.) plenerowy; (przym.) pozadomowy
-[outdoors]outdoors : (przysł.) zewnątrz
-[outer]outer : (przym.) zewnętrzny
-[outermost]outermost : (przym.) ostateczny; (przym.) skrajny; (przym.) zewnętrzny
-[outfall]outfall : (rzecz.) ujście; (rzecz.) wylot
-[outfit]outfit : (rzecz.) aparatura; (rzecz.) ekipa; (rzecz.) ekwipunek; (rzecz.) rynsztunek; (rzecz.) sprzęt; (rzecz.) strój; (rzecz.) wyposażenie
-[outfitter]outfitter : (rzecz.) armator
-[outflow]outflow : (rzecz.) odpływ; (rzecz.) wyciekanie; (rzecz.) wypływ
-[outfox]outfox : (czas.) przechytrzać; (czas.) przechytrzyć; (czas.) wykiwać
-[outgo]outgo : (czas.) prześcignąć; (czas.) wyprzedzić
-[outgoing]outgoing : (przym.) otwarty; (przym.) rozchodowy; (przym.) towarzyski; (przym.) wyjazdowy; (rzecz.) wyjście
-[outgoings]outgoings : (rzecz.) rozchody
-[outgrew]outgrew : (czas.) wyrastać
-[outgrow]outgrow : (czas.) pozbywać; (czas.) przerastać; (czas.) wyrastać
-[outgrown]outgrown : (czas.) wyrastać
-[outgrowth]outgrowth : (rzecz.) latorośl; (rzecz.) narośl; (rzecz.) następstwo; (rzecz.) pęd; (rzecz.) przerost; (rzecz.) wynik; (rzecz.) wyrostek
-[outguess]outguess : (czas.) przechytrzyć
-[outhouse]outhouse : (rzecz.) dobudówka; (rzecz.) oficyna; (rzecz.) przybudówka
-[outing]outing : (rzecz.) przechadzka; (rzecz.) wycieczka
-[outlandish]outlandish : (przym.) barbarzyński; (przym.) cudzoziemski; (przym.) dziwaczny; (przym.) obcy; (przym.) ustronny
-[outlast]outlast : (czas.) przetrwać; (czas.) trwać
-[outlaw]outlaw : (rzecz.) banita; (rzecz.) przestępca
-[outlawry]outlawry : (rzecz.) banicja
-[outlay]outlay : (rzecz.) nakład; (rzecz.) wydatek
-[outlet]outlet : (rzecz.) gniazdo; (rzecz.) odpływ; (rzecz.) placówka; (rzecz.) ujście; (rzecz.) wylot
-[outlier]outlier : (rzecz.) ostaniec
-[outline]outline : (czas.) narysować; (czas.) naszkicować; (czas.) rysować; (czas.) szkicować; (rzecz.) konspekt; (rzecz.) kontur; (rzecz.) nakreślenie; (rzecz.) rys; (rzecz.) streszczenie; (rzecz.) szkic; (rzecz.) zarys
-[outlines]outlines : (rzecz.) zakreślanie
-[outlive]outlive : (czas.) przetrwać; (czas.) przeżyć; (czas.) przeżywać
-[outlook]outlook : (rzecz.) czujność; (rzecz.) perspektywa; (rzecz.) pogląd; (rzecz.) prognoza; (rzecz.) światopogląd; (rzecz.) widok; (rzecz.) wygląd
-[outlying]outlying : (przym.) zewnętrzny
-[outmanoeuvre]outmanoeuvre : (czas.) przechytrzać; (czas.) wymanewrować
-[outmatch]outmatch : (czas.) prześcigać; (czas.) przewyższać
-[outmoded]outmoded : (przym.) niemodny
-[outmost]outmost : (przym.) ostateczny; (przym.) skrajny
-[outpace]outpace : (czas.) dystansować; (czas.) wyprzedzać
-[outpatient]outpatient : (rzecz.) pacjent
-[outperform]outperform : (czas.) przewyższać
-[outplay]outplay : (czas.) pokonać
-[outpost]outpost : (rzecz.) forpoczta; (rzecz.) placówka
-[outpour]outpour : (czas.) wylewać
-[outpouring]outpouring : (rzecz.) potok; (rzecz.) wynurzenie
-[output]output : (czas.) wyprowadzić; (rzecz.) dorobek; (rzecz.) plon; (rzecz.) produkcja; (rzecz.) twórczość; (rzecz.) urobek; (rzecz.) uzysk; (rzecz.) wydajność; (rzecz.) wydobycie; (rzecz.) wyjście; (rzecz.) wytwórczość
-[outrage]outrage : (czas.) bezcześcić; (czas.) obrażać; (czas.) obrazić; (czas.) uwłaczać; (czas.) zhańbić; (czas.) znieważyć; (rzecz.) gwałt; (rzecz.) obelga; (rzecz.) obraza; (rzecz.) oburzenie; (rzecz.) przestępstwo; (rzecz.) ujma; (rzecz.) urąganie; (rzecz.) zgorszenie; (rzecz.) zniewaga
-[outrageous]outrageous : (przym.) bezczelny; (przym.) ciężki; (przym.) gwałtowny; (przym.) niegodziwy; (przym.) obrażający; (przym.) skandaliczny; (przym.) znieważający
-[outrageously]outrageously : (przysł.) skandalicznie
-[outreach]outreach : (rzecz.) bomu
-[outride]outride : (czas.) prześcigać; (czas.) prześcignąć; (czas.) przewyższyć
-[outrider]outrider : (rzecz.) foryś
-[outrigger]outrigger : (rzecz.) wysięgnik
-[outright]outright : (przym.) bezpośredni; (przym.) całkowity; (przym.) otwarty; (przym.) pełny; (przym.) stanowczy; (przym.) szczery; (przym.) uczciwy; (przysł.) bezapelacyjnie; (przysł.) obcesowo; (przysł.) ordynarnie
-[outrun]outrun : (czas.) przeganiać; (czas.) przegonić; (czas.) prześcigać; (czas.) wymykać; (czas.) wyprzedzać; (czas.) zdystansować
-[outré]outré : (przym.) dziwny; (przym.) niecodzienny; (przym.) przesadny
-[outset]outset : (rzecz.) początek
-[outshine]outshine : (czas.) zaćmić; (czas.) zaćmiewać
-[outside]outside : (przyim.) przed; (przym.) postronny; (przym.) zewnętrzny; (przysł.) zewnątrz; (rzecz.) poza; (rzecz.) wierzch
-[outsider]outsider : (rzecz.) laik
-[outsize]outsize : (przym.) nietypowy; (przym.) ponadwymiarowy
-[outsized]outsized : (przym.) ponadwymiarowy
-[outskirt]outskirt : (rzecz.) kraniec
-[outskirts]outskirts : (rzecz.) kraniec; (rzecz.) kresy; (rzecz.) margines; (rzecz.) peryferie; (rzecz.) skraj
-[outsmart]outsmart : (czas.) przechytrzyć
-[outspoken]outspoken : (przym.) otwarty; (przym.) rozszerzalny; (przym.) szczery
-[outstanding]outstanding : (przym.) należny; (przym.) niepospolity; (przym.) wybitny; (przym.) wyjątkowy; (przym.) zaległy
-[outstandingly]outstandingly : (przysł.) nadzwyczajnie; (przysł.) wybitnie
-[outstay]outstay : (czas.) przetrzymywać
-[outstretch]outstretch : (czas.) rozciągać
-[outstrip]outstrip : (czas.) dystansować; (czas.) przewyższać; (czas.) przewyższyć; (czas.) wyprzedzać; (czas.) zdystansować
-[outvote]outvote : (czas.) przegłosować; (czas.) przegłosowywać
-[outward]outward : (przym.) powierzchowny; (przym.) widoczny; (przym.) zewnętrzny
-[outwardly]outwardly : (przysł.) pozornie; (przysł.) zewnętrznie
-[outwear]outwear : (czas.) przetrwać; (czas.) znieść; (czas.) zużywać
-[outweigh]outweigh : (czas.) przeważać; (czas.) przeważyć; (czas.) przewyższyć
-[outwit]outwit : (czas.) podchodzić; (czas.) podejść; (czas.) przechytrzać; (czas.) przechytrzyć
-[outworn]outworn : (przym.) znoszony; (przym.) znużony
-[ouzel]ouzel : (rzecz.) kos
-[oval]oval : (przym.) obły; (przym.) owalny; (rzecz.) owal
-[ovarian]ovarian : (przym.) jajnikowy
-[ovary]ovary : (rzecz.) jajnik; (rzecz.) zalążnia
-[ovation]ovation : (rzecz.) owacja
-[oven]oven : (rzecz.) piec; (rzecz.) piekarnik; (rzecz.) suszarka
-[oven-pan]oven-pan : (rzecz.) brytfanna
-[ovenproof]ovenproof : (przym.) żaroodporny
-[over]over : (przyim.) na; (przyim.) nad; (przyim.) nade; (przyim.) po; (przyim.) ponad; (przyim.) przez; (przysł.) biegiem; (przysł.) nadmiernie; (przysł.) przesadnie; (przysł.) przesądnie; (przysł.) wzwyż; (rzecz.) nadpłata; (rzecz.) odbiór; (rzecz.) przejęcie; (rzecz.) przejma; (rzecz.) przełączanie; (rzecz.) przewrócenie; (rzecz.) ruch
-[over-population]over-population : (rzecz.) przeludnienie
-[over-regulation]over-regulation : (rzecz.) przeregulowanie
-[over-sensitive]over-sensitive : (przym.) nadwrażliwy
-[overabundant]overabundant : (przym.) nadmierny
-[overact]overact : (czas.) zgrywać
-[overactive]overactive : (przym.) nadpobudliwy
-[overage]overage : (rzecz.) nadwyżka
-[overall]overall : (przym.) całkowity; (przym.) całościowy; (przym.) ogólny; (rzecz.) chałat; (rzecz.) kitel; (rzecz.) kitla; (rzecz.) kombinezon
-[overalls]overalls : (rzecz.) farmerki; (rzecz.) kombinezon
-[overate]overate : (czas.) przejadać
-[overawe]overawe : (czas.) onieśmielać; (czas.) straszyć; (czas.) zastraszyć
-[overbalance]overbalance : (czas.) przeważyć; (rzecz.) nadwyżka; (rzecz.) przewaga; (rzecz.) przeważenie
-[overbear]overbear : (czas.) lekceważyć; (czas.) onieśmielać; (czas.) pokonać; (czas.) przeciążyć; (czas.) przemagać
-[overbearing]overbearing : (przym.) apodyktyczny; (przym.) despotyczny; (przym.) dumny
-[overburden]overburden : (czas.) przeciążać; (czas.) przeciążyć
-[overcame]overcame : (czas.) pokonać
-[overcapitalize]overcapitalize : (czas.) przeinwestować
-[overcast]overcast : (przym.) pochmurny; (przym.) posępny; (rzecz.) zachmurzone
-[overcharge]overcharge : (czas.) przeciążyć; (czas.) przeładować; (rzecz.) nadpłata; (rzecz.) przeciążenie
-[overcoat]overcoat : (rzecz.) jesionka; (rzecz.) osłona; (rzecz.) palto; (rzecz.) płaszcz; (rzecz.) surdut
-[overcome]overcome : (czas.) pokonać; (czas.) pokonywać; (czas.) przełamać; (czas.) przezwyciężać; (czas.) przezwyciężyć; (czas.) rozładowywać; (czas.) sforsować; (czas.) zwalczyć; (czas.) zwyciężać
-[overconfidence]overconfidence : (rzecz.) zadufanie
-[overcook]overcook : (czas.) przegotowywać; (czas.) rozgotować
-[overcooling]overcooling : (rzecz.) przechłodzenie
-[overcrowd]overcrowd : (czas.) przepełniać; (czas.) przepełnić; (czas.) zatłoczyć
-[overcrowded]overcrowded : (przym.) ludny; (przym.) przepełniony
-[overcrowding]overcrowding : (rzecz.) przepełnianie
-[overdevelopment]overdevelopment : (rzecz.) przewołanie
-[overdo]overdo : (czas.) przedobrzyć; (czas.) przekraczać; (czas.) przesadzać; (czas.) przesadzić
-[overdone]overdone : (czas.) przedawkować; (czas.) przesadzać
-[overdose]overdose : (czas.) przedawkować; (rzecz.) przedawkowanie
-[overdosing]overdosing : (rzecz.) przedawkowanie
-[overdraft]overdraft : (rzecz.) debet; (rzecz.) przeciąg; (rzecz.) przekroczenie
-[overdraw]overdraw : (czas.) przejaskrawiać; (czas.) przejaskrawić; (czas.) przekraczać; (czas.) przekroczyć
-[overdrive]overdrive : (czas.) zajeździć; (rzecz.) nadbieg
-[overdue]overdue : (przym.) opóźniony; (przym.) przekroczony; (przym.) przeterminowany; (przym.) spóźniony; (przym.) zaległy
-[overeager]overeager : (przym.) nadgorliwy
-[overeat]overeat : (czas.) przejadać; (czas.) przejechać
-[overeaten]overeaten : (czas.) przejeść
-[overemphasize]overemphasize : (czas.) przeakcentować
-[overestimate]overestimate : (czas.) przeceniać; (czas.) przeszacować; (czas.) zawyżać
-[overestimation]overestimation : (rzecz.) przecena; (rzecz.) przeszacowanie; (rzecz.) przewartościowanie
-[overexert]overexert : (czas.) forsować; (czas.) przemęczyć
-[overexposure]overexposure : (rzecz.) prześwietlenie
-[overfeed]overfeed : (czas.) przekarmiać
-[overfeeding]overfeeding : (rzecz.) przekarmianie
-[overfill]overfill : (czas.) przepełniać; (czas.) przepełnić
-[overflow]overflow : (czas.) przelać; (czas.) przelewać; (czas.) przepełniać; (czas.) wylewać; (czas.) zalewać; (rzecz.) nadmiar; (rzecz.) przelew; (rzecz.) przepełnienie; (rzecz.) przerzutnia; (rzecz.) rozlew; (rzecz.) wylanie; (rzecz.) wylew
-[overflowing]overflowing : (przym.) przelewający
-[overgrow]overgrow : (czas.) obrastać; (czas.) porastać; (czas.) przerastać
-[overgrowing]overgrowing : (rzecz.) zarastanie
-[overgrown]overgrown : (przym.) wyrośnięty; (przym.) zarośnięty
-[overgrowth]overgrowth : (rzecz.) nadmiar; (rzecz.) narośl; (rzecz.) przerost; (rzecz.) zarastanie; (rzecz.) zarośla; (rzecz.) zarost
-[overhang]overhang : (czas.) nadwiesić
-[overhaul]overhaul : (czas.) dopędzać; (czas.) przeglądać; (czas.) remontować; (rzecz.) przegląd; (rzecz.) przerobienie; (rzecz.) remont
-[overhead]overhead : (przym.) górny; (przym.) nadziemny; (przym.) napowietrzny
-[overheads]overheads : (rzecz.) narzut
-[overhear]overhear : (czas.) podsłuchać; (czas.) podsłuchiwać
-[overheard]overheard : (czas.) podsłuchać
-[overheat]overheat : (czas.) przegrzać
-[overkill]overkill : (rzecz.) nadmiar; (rzecz.) przesada
-[overland]overland : (przym.) lądowy; (przysł.) lądem
-[overlap]overlap : (czas.) nakładać; (czas.) pokrywać; (czas.) zachodzić
-[overlay]overlay : (czas.) nakładać; (czas.) nakładkować; (czas.) natapiać; (czas.) powlekać; (rzecz.) nakładka; (rzecz.) nakrycie; (rzecz.) narzuta; (rzecz.) pokrycie; (rzecz.) powłoka
-[overleap]overleap : (czas.) przeskoczyć
-[overlie]overlie : (czas.) pokryć
-[overload]overload : (czas.) przeciążać; (czas.) przeciążyć; (czas.) przeładować; (rzecz.) przeciążenie; (rzecz.) przetężenie
-[overlook]overlook : (czas.) baczyć; (czas.) górować; (czas.) nadzorować; (czas.) pomijać; (czas.) przegapiać; (czas.) przeglądać; (czas.) przeoczać; (czas.) przeoczyć; (czas.) sterczeć; (czas.) uważać; (czas.) wystawać; (czas.) wystawiać
-[overly]overly : (przysł.) nadmiernie; (przysł.) zbytnio
-[overmaster]overmaster : (czas.) opanować
-[overmuch]overmuch : (przysł.) nadmiernie; (przysł.) zanadto; (przysł.) zbytnio
-[overnight]overnight : (przym.) nocny; (przysł.) nagle
-[overpass]overpass : (czas.) pokonać; (czas.) pomijać; (czas.) pominąć; (czas.) przejść; (czas.) przekraczać; (czas.) przeoczyć; (rzecz.) estakada
-[overpay]overpay : (czas.) nadpłacić; (czas.) przepłacać; (czas.) przepłacić
-[overpayment]overpayment : (rzecz.) nadpłata
-[overpopulate]overpopulate : (czas.) przeludnić
-[overpopulated]overpopulated : (przym.) przeludniony
-[overpopulation]overpopulation : (rzecz.) przeludnienie
-[overpower]overpower : (czas.) obezwładniać; (czas.) opanować; (czas.) pokonać; (czas.) pokonywać; (czas.) poskramiać; (czas.) przemagać
-[overpressure]overpressure : (rzecz.) nadciśnienie
-[overprint]overprint : (czas.) nadrukować
-[overprize]overprize : (czas.) przeceniać; (czas.) przesadzać; (czas.) przesadzić
-[overproduction]overproduction : (rzecz.) nadprodukcja
-[overrate]overrate : (czas.) przeceniać; (czas.) przecenić; (czas.) przesadzać; (czas.) przesadzić
-[overreach]overreach : (czas.) nadwerężać; (czas.) przecenić
-[overreact]overreact : (czas.) przereagowywać
-[override]override : (czas.) lekceważyć; (czas.) nadpisać; (czas.) nadużywać; (czas.) odłączać; (czas.) pokryć; (czas.) pomijać; (czas.) przekraczać; (czas.) przełamywać; (czas.) przesłaniać; (czas.) przesłonić; (czas.) stratować
-[overripe]overripe : (przym.) przejrzały
-[overrule]overrule : (czas.) górować; (czas.) oddalać; (czas.) odrzucać; (czas.) odrzucić; (czas.) odwracać; (czas.) odwrócić; (czas.) opanować; (czas.) pomijać; (czas.) skierować; (czas.) uchylać; (czas.) zarzucać; (czas.) zarzucić
-[overrun]overrun : (czas.) najechać; (czas.) opanowywać; (czas.) przedłużać; (czas.) pustoszyć; (czas.) wybiegać; (czas.) zalewać
-[overseas]overseas : (przym.) międzynarodowy; (przym.) zagraniczny; (przym.) zamorski
-[oversee]oversee : (czas.) doglądać; (czas.) kontrolować; (czas.) nadzorować; (czas.) pilnować
-[overseer]overseer : (rzecz.) nadzorca
-[oversensitive]oversensitive : (przym.) nadwrażliwy; (przym.) przeczulony
-[overshadow]overshadow : (czas.) górować; (czas.) ocieniać; (czas.) przyciemniać; (czas.) przyciemnić; (czas.) zacieniać; (czas.) zacienić; (czas.) zaćmiewać; (czas.) zasłaniać
-[overshoe]overshoe : (rzecz.) bot; (rzecz.) but; (rzecz.) kalosz; (rzecz.) śniegowiec
-[overshoot]overshoot : (czas.) przeholować; (czas.) przestrzelić; (czas.) przestrzeliwać; (czas.) strzelać
-[oversight]oversight : (rzecz.) nadzór; (rzecz.) niedopatrzenie; (rzecz.) przegląd; (rzecz.) przeoczenie
-[oversimplification]oversimplification : (rzecz.) uproszczenie
-[oversimplify]oversimplify : (czas.) upraszczać
-[oversized]oversized : (przym.) nadmiarowy
-[oversleep]oversleep : (czas.) zaspać
-[overspend]overspend : (czas.) przepłacać
-[overspill]overspill : (rzecz.) nadmiar; (rzecz.) zgęszczenie
-[overspread]overspread : (czas.) rozciągać
-[overstate]overstate : (czas.) przesadzać; (czas.) wyolbrzymiać
-[overstatement]overstatement : (rzecz.) przesada
-[overstep]overstep : (czas.) przekraczać; (czas.) przekroczyć
-[overstock]overstock : (czas.) przeciążyć; (czas.) przepełniać; (czas.) przepełnić; (czas.) zapchać; (czas.) zatkać
-[overstrain]overstrain : (czas.) naciągać; (czas.) przeciągać; (czas.) przeciągnąć; (czas.) przeciążyć; (czas.) wyczerpać
-[overstrike]overstrike : (rzecz.) nadruk; (rzecz.) przebijanie
-[overt]overt : (przym.) jawny; (przym.) otwarty
-[overtake]overtake : (czas.) doganiać; (czas.) prześcigać; (czas.) wyprzedzać; (czas.) wyprzedzić
-[overtax]overtax : (czas.) nadwerężać; (czas.) przecenić; (czas.) przeciążać
-[overthrow]overthrow : (czas.) obalać; (czas.) obalić; (czas.) przewracać; (czas.) utrącić; (rzecz.) obalenie; (rzecz.) przewrót
-[overtime]overtime : (przysł.) nadliczbowo; (przysł.) nadprogramowo; (rzecz.) dogrywka; (rzecz.) nadgodzina
-[overtly]overtly : (przysł.) jawnie
-[overtone]overtone : (rzecz.) barwa; (rzecz.) charakter; (rzecz.) implikacja; (rzecz.) propozycja; (rzecz.) uwertura; (rzecz.) wydźwięk
-[overtraining]overtraining : (rzecz.) przetrenowanie
-[overture]overture : (rzecz.) oferta; (rzecz.) propozycja; (rzecz.) uwertura
-[overturn]overturn : (czas.) obalać; (czas.) obalić; (czas.) przewracać; (czas.) przewrócić; (czas.) wywracać; (czas.) wywrócić
-[overuse]overuse : (czas.) nadużyć; (czas.) nadużywać
-[overvalue]overvalue : (czas.) przeceniać; (rzecz.) nadwartość
-[overview]overview : (rzecz.) omówienie; (rzecz.) opis; (rzecz.) przegląd
-[overweening]overweening : (przym.) arogancki
-[overweigh]overweigh : (czas.) przeważać; (czas.) przeważyć
-[overweight]overweight : (rzecz.) nadwaga; (rzecz.) otyłość; (rzecz.) przewaga
-[overwhelm]overwhelm : (czas.) obezwładniać; (czas.) obezwładnić; (czas.) ogarniać; (czas.) pognębić; (czas.) przygniatać; (czas.) przygnieść; (czas.) zalać; (czas.) zasypywać; (czas.) zatkać
-[overwhelming]overwhelming : (przym.) walny
-[overwhelmingly]overwhelmingly : (przysł.) niezwykle; (przysł.) przytłaczająco
-[overwork]overwork : (czas.) przeciążać; (czas.) przemęczać; (czas.) przepracować; (czas.) przepracowywać; (rzecz.) przeciążenie; (rzecz.) przemęczenie; (rzecz.) przepracowanie; (rzecz.) umocnienie
-[overwrite]overwrite : (czas.) nadpisać; (czas.) nadpisywać; (czas.) zacierać; (czas.) zatrzeć
-[overwriting]overwriting : (rzecz.) nadpis; (rzecz.) nadpisywanie
-[overwrought]overwrought : (przym.) nerwowy; (przym.) przepracowany
-[oviduct]oviduct : (rzecz.) jajowód
-[oviform]oviform : (przym.) jajowaty
-[ovine]ovine : (przym.) owczy
-[oviparous]oviparous : (przym.) jajorodny
-[ovipositor]ovipositor : (rzecz.) pokładełko
-[ovoid]ovoid : (przym.) jajowaty
-[ovoviviparous]ovoviviparous : (przym.) jajożyworodny
-[ovulate]ovulate : (czas.) jajeczkować
-[ovulation]ovulation : (rzecz.) jajeczkowanie; (rzecz.) owulacja
-[ovule]ovule : (rzecz.) jajeczko
-[ovum]ovum : (rzecz.) jajeczko; (rzecz.) jajo; (rzecz.) jajownik; (rzecz.) zalążek
-[owe]owe : (czas.) zawdzięczać
-[owing]owing : (przym.) dłużny; (przym.) należny; (przym.) winien; (przym.) winny
-[owl]owl : (rzecz.) sowa
-[owlet]owlet : (rzecz.) sówka
-[owlish]owlish : (przym.) sowi
-[own]own : (czas.) posiadać; (czas.) przyznać; (czas.) przyznawać; (czas.) wyznawać; (przym.) własny
-[owner]owner : (rzecz.) armator; (rzecz.) posiadacz; (rzecz.) właściciel
-[ownerless]ownerless : (przym.) niczyj
-[ownership]ownership : (rzecz.) posiadanie; (rzecz.) własność
-[ownerships]ownerships : (rzecz.) posiadanie
-[ox]ox : (rzecz.) wół; (rzecz.) wole
-[oxalate]oxalate : (rzecz.) szczawian
-[oxalic]oxalic : (przym.) szczawiowy
-[oxidant]oxidant : (rzecz.) utleniacz
-[oxidation]oxidation : (rzecz.) oksydacja; (rzecz.) utlenianie; (rzecz.) utlenienie
-[oxide]oxide : (rzecz.) tlenek
-[oxidiser]oxidiser : (rzecz.) utleniacz
-[oxidize]oxidize : (czas.) oksydować; (czas.) tlenić; (czas.) utleniać
-[oxidizer]oxidizer : (rzecz.) utleniacz
-[oxygen]oxygen : (rzecz.) niedotlenienie; (rzecz.) tlen; (rzecz.) tlenienie; (rzecz.) tlenowiec
-[oxygenate]oxygenate : (czas.) natleniać; (czas.) utleniać
-[oxygenation]oxygenation : (rzecz.) utlenianie; (rzecz.) utlenienie
-[oxygenic]oxygenic : (przym.) tlenowy
-[oxygenize]oxygenize : (czas.) utlenić
-[oxymoron]oxymoron : (rzecz.) oksymoron
-[oyez]oyez : (rzecz.) uwaga
-[oyster]oyster : (rzecz.) ostryga; (rzecz.) ostrygojad
-[ozone]ozone : (rzecz.) chód; (rzecz.) krok; (rzecz.) ozon
-[ozonosphere]ozonosphere : (rzecz.) ozonosfera
+[october]October (EN) : (rz.) październik
+[olivia]Olivia (EN) : (rz.) Oliwia
+[olympiad]Olympiad (EN) : (rz.) olimpiada
+[olympian]Olympian (EN) : (p.) olimpijski; (rz.) olimpijczyk
+[olympic]Olympic (EN) : (p.) olimpijski
+[olympics]Olympics (EN) : (rz.) olimpiada
+[oscar]Oscar (EN) : (rz.) Oskar
+[oaf]oaf (EN) : (rz.) frajer; (rz.) głupek; (rz.) idiota; (rz.) niezdara; (rz.) podrzutek; (rz.) potworek; (rz.) prostak
+[oafish]oafish (EN) : (p.) głupkowaty; (p.) niezdarny
+[oak]oak (EN) : (rz.) dąb
+[oak-apple]oak-apple (EN) : (rz.) galas
+[oak-gall]oak-gall (EN) : (rz.) dębianka; (rz.) galasówka
+[oak-wood]oak-wood (EN) : (rz.) dębina
+[oaken]oaken (EN) : (p.) dębowy
+[oakum]oakum (EN) : (rz.) pakuły
+[oar]oar (EN) : (rz.) wioślarz; (rz.) wiosło
+[oarlock]oarlock (EN) : (rz.) dulka
+[oarsman]oarsman (EN) : (rz.) wioślarz
+[oasis]oasis (EN) : (rz.) oaza
+[oat]oat (EN) : (rz.) owies
+[oaten]oaten (EN) : (p.) owsiany
+[oath]oath (EN) : (rz.) przekleństwo; (rz.) przysięga; (rz.) ślubowanie
+[oatmeal]oatmeal (EN) : (rz.) owsianka
+[oats]oats (EN) : (rz.) owies
+[obduracy]obduracy (EN) : (rz.) upór; (rz.) zatwardziałość
+[obdurate]obdurate (EN) : (p.) uparty; (p.) zatwardziały
+[obedience]obedience (EN) : (rz.) obediencja; (rz.) posłuch; (rz.) posłuszeństwo
+[obedient]obedient (EN) : (p.) posłuszny
+[obediently]obediently (EN) : (p-sł.) posłusznie
+[obeisance]obeisance (EN) : (rz.) pokłon; (rz.) rewerans; (rz.) ukłon
+[obelisk]obelisk (EN) : (rz.) obelisk
+[obese]obese (EN) : (p.) korpulentny; (p.) otyły
+[obesity]obesity (EN) : (rz.) nadwaga; (rz.) otyłość
+[obey]obey (EN) : (cz.) podporządkować; (cz.) przestrzegać; (cz.) słuchać; (cz.) spełniać; (cz.) usłuchać; (cz.) wykonywać
+[obfuscate]obfuscate (EN) : (cz.) ściemniać; (cz.) zaciemniać; (cz.) zaciemnić
+[obfuscation]obfuscation (EN) : (rz.) splątanie; (rz.) zaciemnienie; (rz.) zamroczenie
+[obit]obit (EN) : (rz.) nekrolog
+[obituaries]obituaries (EN) : (rz.) nekrologia
+[obituary]obituary (EN) : (p.) pogrzebowy; (p.) pośmiertny; (p.) szczątkowy; (rz.) nekrolog
+[object]object (EN) : (cz.) oponować; (cz.) protestować; (cz.) przytaczać; (cz.) sprzeciwiać; (cz.) sprzeciwić; (cz.) zaprotestować; (cz.) zarzucać; (rz.) cel; (rz.) dopełnienie; (rz.) kłopot; (rz.) obiekt; (rz.) przedmiot; (rz.) rzecz; (rz.) sprzeciwianie; (rz.) zadanie
+[object-glass]object-glass (EN) : (rz.) obiektyw
+[object-lens]object-lens (EN) : (rz.) obiektyw
+[object-orientation]object-orientation (EN) : (rz.) obiektowość
+[object-oriented]object-oriented (EN) : (p.) obiektowy
+[object-relational]object-relational (EN) : (p.) obiektowo-relacyjny
+[objectify]objectify (EN) : (cz.) zobiektywizować
+[objection]objection (EN) : (rz.) obiekcja; (rz.) sprzeciw; (rz.) twierdzenie; (rz.) zarzut
+[objectionable]objectionable (EN) : (p.) naganny; (p.) niepożądany; (p.) niewłaściwy
+[objective]objective (EN) : (p.) bezstronny; (p.) dopełnieniowy; (p.) obiektywny; (p.) obiektywowy; (p.) przedmiotowy; (p.) rzeczowy; (rz.) cel; (rz.) obiektyw
+[objectively]objectively (EN) : (p-sł.) obiektywnie; (p-sł.) przedmiotowo
+[objectiveness]objectiveness (EN) : (rz.) obiektywność; (rz.) przedmiotowość
+[objectivism]objectivism (EN) : (rz.) obiektywizm
+[objectivity]objectivity (EN) : (rz.) obiektywizm; (rz.) obiektywność
+[objector]objector (EN) : (rz.) oponent
+[objurgate]objurgate (EN) : (cz.) strofować
+[oblast]oblast (EN) : (p.) objazdowy
+[oblate]oblate (EN) : (p.) spłaszczony
+[oblation]oblation (EN) : (rz.) eucharystia; (rz.) ofiara
+[obligate]obligate (EN) : (cz.) zobowiązać; (cz.) zobowiązywać
+[obligation]obligation (EN) : (rz.) obligacja; (rz.) obowiązek; (rz.) powinność; (rz.) zobowiązanie
+[obligatorily]obligatorily (EN) : (p-sł.) obowiązkowo
+[obligatory]obligatory (EN) : (p.) bieżący; (p.) obligatoryjny; (p.) obowiązkowy; (p.) obowiązujący; (p.) przymusowy
+[oblige]oblige (EN) : (cz.) obowiązywać; (cz.) wiązać; (cz.) zmuszać; (cz.) zobowiązać; (cz.) zobowiązywać
+[obliges]obliges (EN) : (cz.) obligować
+[obliging]obliging (EN) : (p.) uczynny; (p.) uprzejmy
+[obligingly]obligingly (EN) : (p-sł.) uczynnie; (p-sł.) uprzejmie; (p-sł.) usłużnie
+[oblique]oblique (EN) : (p.) nieszczery; (p.) nieuczciwy; (p.) niewyraźny; (p.) skośny; (p.) ukośny
+[obliquely]obliquely (EN) : (p-sł.) skośnie; (p-sł.) ukośnie
+[obliqueness]obliqueness (EN) : (rz.) dwulicowość
+[obliquity]obliquity (EN) : (rz.) fałsz; (rz.) nieuczciwość; (rz.) pochyłość; (rz.) pośredniość; (rz.) skośność; (rz.) ukośność
+[obliterate]obliterate (EN) : (cz.) usuwać; (cz.) wykreślić; (cz.) wymazać; (cz.) zacierać; (cz.) zamazywać; (cz.) zatrzeć; (cz.) zetrzeć; (cz.) zniszczyć
+[obliteration]obliteration (EN) : (rz.) wymazanie; (rz.) zamazanie; (rz.) zapominanie; (rz.) zarośnięcie; (rz.) zatkanie
+[oblivion]oblivion (EN) : (rz.) niepamięć; (rz.) zapomnienie
+[oblivious]oblivious (EN) : (p.) niepamiętny; (p.) niepomny; (p.) nieświadomy
+[oblong]oblong (EN) : (p.) podługowaty; (p.) podłużny; (p.) prostokątny
+[obloquy]obloquy (EN) : (rz.) obmowa; (rz.) zniesławienie
+[obnoxious]obnoxious (EN) : (p.) odpychający; (p.) ohydny; (p.) przykry; (p.) wstrętny
+[oboe]oboe (EN) : (rz.) obój
+[oboist]oboist (EN) : (rz.) oboista
+[obscene]obscene (EN) : (p.) brudny; (p.) grubiański; (p.) niecenzuralny; (p.) niemoralny; (p.) nieprzyzwoity; (p.) obsceniczny; (p.) plugawy; (p.) sprośny
+[obscenity]obscenity (EN) : (rz.) nieprzyzwoitość; (rz.) obsceniczność; (rz.) sprośność
+[obscurant]obscurant (EN) : (rz.) obskurant; (rz.) wstecznik
+[obscurantism]obscurantism (EN) : (rz.) obskurantyzm
+[obscuration]obscuration (EN) : (rz.) zaciemnienie
+[obscure]obscure (EN) : (cz.) skryć; (cz.) ukrywać; (cz.) zaciemniać; (cz.) zaciemnić; (p.) ciemny; (p.) mroczny; (p.) niejasny; (p.) niewyraźny; (p.) ponury
+[obscurely]obscurely (EN) : (p-sł.) niejasno
+[obscurity]obscurity (EN) : (rz.) ciemnia; (rz.) ciemność; (rz.) mrok; (rz.) niejasność; (rz.) niezrozumiałość; (rz.) obskurantyzm; (rz.) przygnębienie
+[obsequies]obsequies (EN) : (rz.) pogrzeb
+[obsequious]obsequious (EN) : (p.) czołobitny; (p.) służalczy; (p.) smutny; (p.) uległy; (p.) wiernopoddańczy; (p.) żałobny
+[obsequiousness]obsequiousness (EN) : (rz.) czołobitność; (rz.) wiernopoddańczość
+[observable]observable (EN) : (p.) dostrzegalny; (p.) widoczny
+[observance]observance (EN) : (rz.) obrzęd; (rz.) przestrzeganie; (rz.) zachowywanie
+[observant]observant (EN) : (p.) przestrzegający; (p.) spostrzegawczy; (p.) uważny
+[observation]observation (EN) : (rz.) obserwacja; (rz.) obserwowanie; (rz.) spostrzegawczość; (rz.) spostrzeżenie; (rz.) uwaga
+[observational]observational (EN) : (p.) obserwacyjny
+[observatory]observatory (EN) : (rz.) obserwatorium
+[observe]observe (EN) : (cz.) obserwować; (cz.) przestrzegać; (cz.) spostrzegać; (cz.) zauważać; (cz.) zauważyć
+[observed]observed (EN) : (cz.) przestrzegać
+[observer]observer (EN) : (rz.) obserwator
+[obsess]obsess (EN) : (cz.) nawiedzać; (cz.) nawiedzić; (cz.) opętać; (cz.) prześladować
+[obsession]obsession (EN) : (rz.) obsesja; (rz.) opętanie
+[obsessive]obsessive (EN) : (p.) natrętny; (p.) obsesyjny
+[obsidian]obsidian (EN) : (rz.) obsydian
+[obsolescence]obsolescence (EN) : (rz.) przestarzałość; (rz.) zanikanie
+[obsolete]obsolete (EN) : (p.) nieaktualny; (p.) przedpotopowy; (p.) przestarzały; (p.) staroświecki; (p.) szczątkowy
+[obstacle]obstacle (EN) : (rz.) komplikacja; (rz.) przeszkoda; (rz.) trudność; (rz.) zawada
+[obstetric]obstetric (EN) : (p.) położniczy
+[obstetrician]obstetrician (EN) : (rz.) akuszer; (rz.) położnik
+[obstetrics]obstetrics (EN) : (rz.) akuszeria; (rz.) położnictwo
+[obstinacy]obstinacy (EN) : (rz.) upór; (rz.) uporczywość; (rz.) zawziętość
+[obstinate]obstinate (EN) : (p.) uparty; (p.) uporczywy; (p.) zaciekły
+[obstinately]obstinately (EN) : (p-sł.) uparcie; (p-sł.) uporczywie; (p-sł.) zawzięcie
+[obstreperous]obstreperous (EN) : (p.) hałaśliwy; (p.) oporny
+[obstreperously]obstreperously (EN) : (p-sł.) hałaśliwie
+[obstruct]obstruct (EN) : (cz.) blokować; (cz.) czopować; (cz.) hamować; (cz.) przesłaniać; (cz.) przesłonić; (cz.) przeszkadzać; (cz.) tamować; (cz.) tarasować; (cz.) utrudniać; (cz.) utrudnić; (cz.) wstrzymywać; (cz.) zagradzać; (cz.) zasłaniać; (cz.) zatamować
+[obstruction]obstruction (EN) : (rz.) niedrożność; (rz.) obstrukcja; (rz.) przeszkadzanie; (rz.) przeszkoda; (rz.) utrudnianie; (rz.) zaparcie; (rz.) zatamowanie; (rz.) zatkanie; (rz.) zawada
+[obstructionist]obstructionist (EN) : (rz.) obstrukcjonista
+[obstructive]obstructive (EN) : (p.) obstrukcyjny
+[obtain]obtain (EN) : (cz.) dostawać; (cz.) nabywać; (cz.) otrzymać; (cz.) otrzymywać; (cz.) panować; (cz.) trwać; (cz.) utrzymywać; (cz.) uzyskać; (cz.) uzyskiwać; (cz.) zaopatrzyć; (cz.) zdobyć
+[obtainable]obtainable (EN) : (p.) osiągalny
+[obtainment]obtainment (EN) : (rz.) uzyskanie; (rz.) uzyskiwanie
+[obtrude]obtrude (EN) : (cz.) narzucać; (cz.) rzucać; (cz.) wysuwać
+[obtrusion]obtrusion (EN) : (rz.) naprzykrzanie; (rz.) natręctwo; (rz.) wtargnięcie
+[obtrusive]obtrusive (EN) : (p.) natarczywy; (p.) natrętny
+[obtrusively]obtrusively (EN) : (p-sł.) natrętnie
+[obtund]obtund (EN) : (cz.) przytępiać
+[obtuse]obtuse (EN) : (p.) głupi; (p.) przytępiony; (p.) tępy
+[obtuseness]obtuseness (EN) : (rz.) tępota
+[obverse]obverse (EN) : (p.) zewnętrzny; (rz.) awers
+[obviate]obviate (EN) : (cz.) ustrzec; (cz.) usunąć; (cz.) zapobiegać
+[obvious]obvious (EN) : (p.) oczywisty
+[obviously]obviously (EN) : (p-sł.) oczywiście; (p-sł.) widocznie
+[obviousness]obviousness (EN) : (rz.) dowód; (rz.) oczywistość
+[ocarina]ocarina (EN) : (rz.) okaryna
+[occasion]occasion (EN) : (cz.) wywołać; (rz.) asumpt; (rz.) okazja; (rz.) powód; (rz.) sposobność; (rz.) sytuacja; (rz.) uroczystość; (rz.) wydarzenie
+[occasional]occasional (EN) : (p.) luźny; (p.) nieregularny; (p.) okazjonalny; (p.) okolicznościowy; (p.) przelotny; (p.) przygodny; (p.) przypadkowy; (p.) sezonowy; (p.) sporadyczny
+[occasionally]occasionally (EN) : (p-sł.) czasami; (p-sł.) okazjonalnie; (p-sł.) okazyjnie; (p-sł.) przypadkowo; (p-sł.) rzadko; (p-sł.) sporadycznie
+[occident]occident (EN) : (rz.) zachód
+[occidental]occidental (EN) : (p.) okcydentalny; (p.) zachodni
+[occipital]occipital (EN) : (p.) potylicowy; (p.) potyliczny
+[occlude]occlude (EN) : (cz.) okludować; (cz.) pochłaniać; (cz.) zatkać
+[occluded]occluded (EN) : (p.) niedrożny
+[occlusion]occlusion (EN) : (rz.) okluzja; (rz.) zamknięcie; (rz.) zasłanianie; (rz.) zgryz
+[occult]occult (EN) : (p.) okultystyczny; (p.) tajemny
+[occultation]occultation (EN) : (rz.) cieniowanie; (rz.) zasłanianie; (rz.) zasłonięcie
+[occultism]occultism (EN) : (rz.) okultyzm
+[occultist]occultist (EN) : (rz.) okultysta
+[occupancy]occupancy (EN) : (rz.) obłożenie; (rz.) okupacja; (rz.) zajętość; (rz.) zajmowanie; (rz.) zasiedlenie
+[occupant]occupant (EN) : (rz.) lokator; (rz.) mieszkaniec; (rz.) okupant; (rz.) posiadacz; (rz.) użytkownik
+[occupation]occupation (EN) : (rz.) okupacja; (rz.) praca; (rz.) wyznanie; (rz.) zajęcie; (rz.) zajmowanie; (rz.) zamieszkanie; (rz.) zawód
+[occupational]occupational (EN) : (p.) okupacyjny; (p.) zajęciowy; (p.) zawodowy
+[occupationally]occupationally (EN) : (p-sł.) zawodowo
+[occupied]occupied (EN) : (p.) zajęty
+[occupier]occupier (EN) : (rz.) dzierżawca; (rz.) lokator; (rz.) najemca; (rz.) okupant; (rz.) posiadacz; (rz.) użytkownik
+[occupy]occupy (EN) : (cz.) okupować; (cz.) zajmować; (cz.) zamieszkiwać
+[occur]occur (EN) : (cz.) nadarzyć; (cz.) pojawiać; (cz.) trafić; (cz.) umiejscawiać; (cz.) umiejscowić; (cz.) wydarzać; (cz.) wystąpić; (cz.) występować; (cz.) zdarzać; (cz.) zdarzyć
+[occurrence]occurrence (EN) : (rz.) przypadek; (rz.) traf; (rz.) wydarzenie; (rz.) wystąpienie; (rz.) występowanie; (rz.) zdarzenie
+[ocean]ocean (EN) : (rz.) ocean
+[ocean-going]ocean-going (EN) : (p.) oceaniczny; (p.) pełnomorski
+[oceanic]oceanic (EN) : (p.) oceaniczny
+[oceanographic]oceanographic (EN) : (p.) oceanograficzny
+[oceanography]oceanography (EN) : (rz.) oceanografia
+[ocelot]ocelot (EN) : (rz.) ocelot
+[ochre]ochre (EN) : (rz.) ochra; (rz.) ugier
+[octagon]octagon (EN) : (rz.) oktagon; (rz.) ośmiobok; (rz.) ośmiokąt
+[octagonal]octagonal (EN) : (p.) ośmiokątny
+[octahedral]octahedral (EN) : (p.) ośmiościenny
+[octahedron]octahedron (EN) : (rz.) ośmiokąt; (rz.) ośmiościan
+[octal]octal (EN) : (p.) oktalny; (p.) ósemkowy
+[octal-to-binary]octal-to-binary (EN) : (p.) ósemkowo-dwójkowy
+[octal-to-hexadecimal]octal-to-hexadecimal (EN) : (p.) ósemkowo-szesnastkowy
+[octane]octane (EN) : (rz.) oktan
+[octant]octant (EN) : (rz.) oktant
+[octave]octave (EN) : (rz.) oktawa; (rz.) ośmiowiersz
+[octaves]octaves (EN) : (rz.) oktaw
+[octet]octet (EN) : (rz.) bajt; (rz.) oktet
+[octillion]octillion (EN) : (rz.) oktylion
+[octopus]octopus (EN) : (rz.) ośmiornica
+[ocular]ocular (EN) : (p.) naoczny; (p.) oczny; (rz.) okular
+[oculist]oculist (EN) : (rz.) okulista; (rz.) optyk
+[odd]odd (EN) : (p.) dodatkowy; (p.) dziwaczny; (p.) dziwny; (p.) nadliczbowy; (p.) nieparzysty; (p.) pokraczny; (p.) ponadnormatywny; (rz.) dorywcza
+[odd-looking]odd-looking (EN) : (p.) dziwaczny; (p.) dziwny
+[odd-side]odd-side (EN) : (rz.) fałszywka
+[oddball]oddball (EN) : (rz.) dziwak
+[oddity]oddity (EN) : (rz.) cudactwo; (rz.) dziwactwo; (rz.) dziwaczność; (rz.) dziwność; (rz.) dziwowisko; (rz.) niezwykłość; (rz.) osobliwość
+[oddly]oddly (EN) : (p-sł.) dziwnie; (p-sł.) osobliwie
+[oddment]oddment (EN) : (rz.) resztka
+[oddness]oddness (EN) : (rz.) cudactwo; (rz.) dziwadło
+[odds]odds (EN) : (rz.) fory; (rz.) nierówność; (rz.) różnica
+[ode]ode (EN) : (rz.) oda
+[odious]odious (EN) : (p.) nienawistny; (p.) ohydny; (p.) wstrętny
+[odiousness]odiousness (EN) : (rz.) ohyda
+[odometer]odometer (EN) : (rz.) hodometr
+[odoriferous]odoriferous (EN) : (p.) wonny
+[odorous]odorous (EN) : (p.) wonny
+[odour]odour (EN) : (rz.) aromat; (rz.) odór; (rz.) posmak; (rz.) woń; (rz.) zapach
+[odour-free]odour-free (EN) : (p.) bezwonny
+[odourless]odourless (EN) : (p.) bezwonny; (p.) niewonny
+[odyssey]odyssey (EN) : (rz.) odyseja
+[oedema]oedema (EN) : (rz.) obrzęk
+[oenologist]oenologist (EN) : (rz.) enolog
+[oenology]oenology (EN) : (rz.) enologia
+[oesophagus]oesophagus (EN) : (rz.) przełyk
+[oestrogen]oestrogen (EN) : (rz.) estrogen
+[oestrus]oestrus (EN) : (rz.) ruja
+[of]of (EN) : (p-im.) na; (p-im.) od; (p-im.) spośród; (p-im.) z; (p-im.) ze
+[off]off (EN) : (p-im.) od; (p-im.) z; (p.) wolny; (p-sł.) opodal; (p-sł.) skądś
+[off-axis]off-axis (EN) : (p.) pozaosiowy
+[off-centre]off-centre (EN) : (p.) mimośrodowy
+[off-grade]off-grade (EN) : (p.) niewłaściwy
+[off-key]off-key (EN) : (p.) fałszywy
+[off-load]off-load (EN) : (cz.) rozładować; (cz.) wyładowywać
+[off-loading]off-loading (EN) : (rz.) rozładowywanie; (rz.) wyładowywanie
+[off-print]off-print (EN) : (rz.) nadbitka; (rz.) odbitka
+[off-schedule]off-schedule (EN) : (p.) pozaplanowy
+[off-season]off-season (EN) : (p.) pozasezonowy
+[off-the-cuff]off-the-cuff (EN) : (p.) spontaniczny
+[off-the-shelf]off-the-shelf (EN) : (p.) dostępny; (p.) gotowy
+[offal]offal (EN) : (rz.) ochłap; (rz.) odpadki; (rz.) podroby
+[offbeat]offbeat (EN) : (p.) niebanalny; (p.) nieregularny
+[offence]offence (EN) : (rz.) obraza; (rz.) ofensywa; (rz.) przekroczenie; (rz.) przestępstwo; (rz.) przewinienie; (rz.) uchybienie; (rz.) wykroczenie; (rz.) występek; (rz.) zaczepka
+[offend]offend (EN) : (cz.) obrażać; (cz.) obrazić; (cz.) razić; (cz.) uchybiać; (cz.) uchybić; (cz.) urażać; (cz.) urazić; (cz.) wykraczać
+[offender]offender (EN) : (rz.) obrażanie; (rz.) przestępca; (rz.) winowajca
+[offensive]offensive (EN) : (p.) agresywny; (p.) napastliwy; (p.) napastniczy; (p.) nieestetyczny; (p.) obraźliwy; (p.) odrażający; (p.) ofensywny; (p.) ordynarny; (p.) zaczepny; (rz.) atak; (rz.) ofensywa
+[offensively]offensively (EN) : (p-sł.) ofensywnie
+[offer]offer (EN) : (cz.) nastręczać; (cz.) oferować; (cz.) ofiarować; (cz.) podstawiać; (cz.) proponować; (cz.) zaoferować; (cz.) zaofiarować; (cz.) zaproponować; (rz.) oferowanie; (rz.) oferta; (rz.) ofiarowanie; (rz.) podaż; (rz.) proponowanie; (rz.) propozycja; (rz.) przedkładanie
+[offering]offering (EN) : (rz.) datek; (rz.) oferowanie; (rz.) oferta; (rz.) ofiara; (rz.) podarunek; (rz.) podsuwanie; (rz.) propozycja
+[offertory]offertory (EN) : (rz.) ofiarowanie; (rz.) zbiórka
+[offhand]offhand (EN) : (p.) bezceremonialny; (p.) improwizowany; (p.) niegrzeczny; (p.) szybki; (p-sł.) bezceremonialnie; (p-sł.) ekspresowo; (p-sł.) natychmiast
+[office]office (EN) : (rz.) biuro; (rz.) biurowiec; (rz.) delegatura; (rz.) gabinet; (rz.) kancelaria; (rz.) ministerstwo; (rz.) obowiązek; (rz.) oficyna; (rz.) służba; (rz.) urząd; (rz.) urzędowanie
+[officer]officer (EN) : (rz.) dysponent; (rz.) funkcjonariusz; (rz.) intendent; (rz.) oficer; (rz.) policjant; (rz.) przedstawiciel; (rz.) pułkownik; (rz.) urzędnik
+[officer's]officer's (EN) : (p.) oficerski
+[official]official (EN) : (p.) oficjalny; (p.) służbowy; (p.) urzędowy; (rz.) biuralista; (rz.) oficjał; (rz.) urzędnik
+[officialdom]officialdom (EN) : (rz.) biurokracja
+[officially]officially (EN) : (p-sł.) oficjalnie; (p-sł.) urzędowo
+[officiate]officiate (EN) : (cz.) celebrować; (cz.) odprawiać; (cz.) przewodniczyć; (cz.) urzędować
+[officinal]officinal (EN) : (p.) apteczny; (p.) aptekarski; (p.) lekarski
+[officious]officious (EN) : (p.) nadgorliwy; (p.) natrętny; (p.) nieoficjalny; (p.) półurzędowy; (p.) uprzejmy; (p.) usłużny
+[officiousness]officiousness (EN) : (rz.) nadgorliwość; (rz.) natrętność
+[offish]offish (EN) : (p.) nieprzystępny; (p.) oficjalny; (p.) sztywny
+[offline]offline (EN) : (p.) autonomiczny; (p.) nieaktywny; (p.) niegotowy; (p.) rozłączny
+[offload]offload (EN) : (cz.) rozładować; (cz.) wyładowywać
+[offloading]offloading (EN) : (rz.) rozładowywanie; (rz.) wyładowywanie
+[offprint]offprint (EN) : (rz.) nadbitka; (rz.) odbitka
+[offset]offset (EN) : (cz.) równoważyć; (rz.) odgałęzienie; (rz.) odrośl; (rz.) odsadzka; (rz.) przesadzenie; (rz.) przesunięcie; (rz.) uchyb; (rz.) wylot; (rz.) wyrównanie
+[offshoot]offshoot (EN) : (rz.) gałąź; (rz.) odgałęzienie; (rz.) odnoga; (rz.) odrośl
+[offshore]offshore (EN) : (p.) zamorski
+[offside]offside (EN) : (p.) ofsajdowy
+[offspring]offspring (EN) : (rz.) latorośl; (rz.) potomek; (rz.) potomstwo
+[often]often (EN) : (p-sł.) często; (p-sł.) częstokroć; (p-sł.) przeważnie
+[oftentimes]oftentimes (EN) : (p-sł.) częstokroć
+[ogee]ogee (EN) : (rz.) esownica; (rz.) sima
+[ogle]ogle (EN) : (cz.) mizdrzyć; (cz.) zerkać; (rz.) ludożerca; (rz.) zerkanie
+[ogre]ogre (EN) : (rz.) ludojad; (rz.) ludożerca; (rz.) olbrzym; (rz.) potwór; (rz.) wilkołak; (rz.) zmora
+[oh]oh (EN) : (wykrzyknik) ach; (wykrzyknik) och; (wykrzyknik) ojej
+[ohm]ohm (EN) : (rz.) ołtarzyk; (rz.) om
+[ohmmeter]ohmmeter (EN) : (rz.) omomierz
+[oil]oil (EN) : (cz.) naoliwić; (cz.) natłuszczać; (cz.) oliwić; (cz.) posmarować; (rz.) nafta; (rz.) olej; (rz.) olejek; (rz.) olejenie; (rz.) oliwa; (rz.) ropa
+[oil-bearing]oil-bearing (EN) : (p.) roponośny
+[oil-cloth]oil-cloth (EN) : (rz.) cerata
+[oil-free]oil-free (EN) : (p.) bezolejowy
+[oil-yielding]oil-yielding (EN) : (p.) naftodajny
+[oilcake]oilcake (EN) : (rz.) makuch
+[oilcan]oilcan (EN) : (rz.) olejarka; (rz.) oliwiarka
+[oilcloth]oilcloth (EN) : (rz.) cerata
+[oiliest]oiliest (EN) : (p.) oleisty
+[oiliness]oiliness (EN) : (rz.) oleistość; (rz.) smarowność; (rz.) wazeliniarstwo
+[oilman]oilman (EN) : (rz.) olejarz
+[oilseed]oilseed (EN) : (p.) oleisty
+[oilskin]oilskin (EN) : (rz.) cerata; (rz.) peleryna
+[oily]oily (EN) : (p.) gładki; (p.) obleśny; (p.) oleisty; (p.) pochlebczy; (p.) tłusty; (p.) wazeliniarski
+[ointment]ointment (EN) : (rz.) maść; (rz.) smarowidło
+[old]old (EN) : (p.) dawny; (p.) nienowy; (p.) sędziwy; (p.) starodawny; (p.) staromiejski; (p.) staroświecki; (p.) starotestamentowy; (p.) stary; (p.) zabytkowy; (rz.) stare; (rz.) starodrzew; (rz.) starówka; (rz.) staruszka; (rz.) starzec
+[old-fashioned]old-fashioned (EN) : (p.) staromodny; (p.) staroświecki
+[old-time]old-time (EN) : (p.) dawny
+[old-timer]old-timer (EN) : (rz.) weteran
+[olden]olden (EN) : (cz.) postarzać
+[oleaginous]oleaginous (EN) : (p.) oleisty
+[oleander]oleander (EN) : (rz.) oleander
+[olefin]olefin (EN) : (rz.) olefina
+[olefins]olefins (EN) : (rz.) olefina
+[oleic]oleic (EN) : (p.) oleinowy
+[oleomargarine]oleomargarine (EN) : (rz.) oleomargaryna
+[olfactory]olfactory (EN) : (p.) węchowy
+[oligarch]oligarch (EN) : (rz.) oligarcha
+[oligarchic]oligarchic (EN) : (p.) oligarchiczny
+[oligarchy]oligarchy (EN) : (rz.) oligarchia
+[oligopoly]oligopoly (EN) : (rz.) oligopol
+[oligosaccharide]oligosaccharide (EN) : (rz.) oligosacharyd
+[olio]olio (EN) : (rz.) bigos; (rz.) mieszanina
+[olive]olive (EN) : (rz.) oliwa; (rz.) oliwka
+[olivine]olivine (EN) : (rz.) oliwin
+[ombudsman]ombudsman (EN) : (rz.) rzecznik
+[omelette]omelette (EN) : (rz.) omlet
+[omen]omen (EN) : (rz.) wróżba; (rz.) zapowiedź; (rz.) zwiastun
+[ominous]ominous (EN) : (p.) fatalny; (p.) złowieszczy
+[ominously]ominously (EN) : (p-sł.) niepokojąco; (p-sł.) złowieszczo; (p-sł.) złowrogo
+[omission]omission (EN) : (rz.) opuszczenie; (rz.) pominięcie; (rz.) przeoczenie
+[omit]omit (EN) : (cz.) opuszczać; (cz.) pomijać; (cz.) przeoczyć; (cz.) zaniedbać
+[omni]omni (EN) : (rz.) radiolatarnia
+[omnibus]omnibus (EN) : (rz.) autobus; (rz.) zbiór
+[omnipotence]omnipotence (EN) : (rz.) omnipotencja; (rz.) wszechmoc; (rz.) wszechpotęga
+[omnipotent]omnipotent (EN) : (p.) wszechmocny; (p.) wszechpotężny
+[omnipresent]omnipresent (EN) : (p.) wszechobecny
+[omniscience]omniscience (EN) : (rz.) wszechwiedza
+[omniscient]omniscient (EN) : (p.) wszechwiedzący
+[omnium-gatherum]omnium-gatherum (EN) : (rz.) mieszanina; (rz.) zbieranina
+[omnivore]omnivore (EN) : (p.) wszystkożerny
+[omnivorous]omnivorous (EN) : (p.) wszystkożerny
+[on]on (EN) : (p-im.) do; (p-im.) na; (p-im.) nad; (p-im.) po; (p-im.) przy; (p-im.) u; (p-im.) w; (p-im.) według
+[on-board]on-board (EN) : (p.) pokładowy
+[on-line]on-line (EN) : (p.) bezpośredni; (p-sł.) bezpośrednio
+[on-switch]on-switch (EN) : (rz.) włącznik
+[on-the-fly]on-the-fly (EN) : (p.) natychmiastowy
+[onboard]onboard (EN) : (p.) pokładowy
+[once]once (EN) : (p-sł.) jednocześnie; (p-sł.) kiedy; (p-sł.) kiedyś; (p-sł.) niegdyś; (p-sł.) onegdaj; (p-sł.) ongiś; (p-sł.) skoro; (p-sł.) zaraz
+[oncologist]oncologist (EN) : (rz.) onkolog
+[oncology]oncology (EN) : (rz.) onkologia
+[one]one (EN) : (p.) jeden; (p.) jedyny; (p.) ktokolwiek; (p.) niejaki; (p.) wspólny; (rz.) czasza; (rz.) jedynka; (rz.) ten; (rz.) zaimek; (rz.) złotówka
+[one-address]one-address (EN) : (p.) jednoadresowy
+[one-coloured]one-coloured (EN) : (p.) jednobarwny
+[one-day]one-day (EN) : (rz.) jednodniówka
+[one-kilo]one-kilo (EN) : (p.) kilogramowy; (p.) kilowy
+[one-mile]one-mile (EN) : (p.) milowy
+[one-minute]one-minute (EN) : (p.) minutowy
+[one-sided]one-sided (EN) : (p.) jednostronny
+[one-sidedly]one-sidedly (EN) : (p-sł.) jednostronnie
+[one-time]one-time (EN) : (p.) były; (p.) dawny
+[one-valued]one-valued (EN) : (p.) jednoznaczny
+[one-way]one-way (EN) : (p.) jednokierunkowy
+[one-year-old]one-year-old (EN) : (rz.) jednolatek
+[oneness]oneness (EN) : (rz.) jedność; (rz.) zgodność
+[onerous]onerous (EN) : (p.) uciążliwy
+[onetime]onetime (EN) : (p.) były; (p.) dawny; (p.) ówczesny
+[ongoing]ongoing (EN) : (p.) ciągły
+[onion]onion (EN) : (rz.) cebula; (rz.) cebulka
+[onion-shaped]onion-shaped (EN) : (p.) cebulasty
+[online]online (EN) : (p.) bezpośredni
+[onlooker]onlooker (EN) : (rz.) gap; (rz.) obserwator; (rz.) widz
+[only]only (EN) : (p.) jedyny; (p-sł.) jedynie; (p-sł.) niewcześnie; (p-sł.) tylko; (p-sł.) wyłącznie
+[onomatopoeia]onomatopoeia (EN) : (rz.) onomatopeja
+[onomatopoeic]onomatopoeic (EN) : (p.) dźwiękonaśladowczy; (p.) onomatopeiczny
+[onomatopoetic]onomatopoetic (EN) : (p.) onomatopeiczny
+[onrush]onrush (EN) : (rz.) napór; (rz.) natarcie; (rz.) poryw
+[onset]onset (EN) : (rz.) najazd; (rz.) napad; (rz.) nawała; (rz.) początek; (rz.) rozpęd; (rz.) szturm
+[onshore]onshore (EN) : (p.) nadbrzeżny
+[onslaught]onslaught (EN) : (rz.) najazd; (rz.) napad; (rz.) początek; (rz.) rozpęd; (rz.) szturm
+[onto]onto (EN) : (p-im.) do; (p-im.) na
+[ontogenesis]ontogenesis (EN) : (rz.) ontogeneza
+[ontological]ontological (EN) : (p.) ontologiczny
+[ontology]ontology (EN) : (rz.) ontologia
+[onus]onus (EN) : (rz.) ciężar; (rz.) obowiązek
+[onward]onward (EN) : (p-sł.) naprzód
+[onwards]onwards (EN) : (rz.) dalej
+[onyx]onyx (EN) : (rz.) onyks
+[oodles]oodles (EN) : (rz.) nadmiar
+[oomph]oomph (EN) : (rz.) energia
+[oops]oops (EN) : (wykrzyknik) ojej
+[ooze]ooze (EN) : (cz.) odpływać; (cz.) podsiąkać; (cz.) sączyć; (rz.) muł; (rz.) sączenie; (rz.) szlam; (rz.) uchodzenie
+[oozy]oozy (EN) : (p.) mulisty
+[opacity]opacity (EN) : (rz.) nieprzezroczystość; (rz.) tępota; (rz.) zaczernienie; (rz.) zmętnienie
+[opal]opal (EN) : (rz.) opal
+[opalescence]opalescence (EN) : (rz.) opalescencja; (rz.) opalizacja; (rz.) opalizowanie
+[opalescent]opalescent (EN) : (p.) opalizujący
+[opaque]opaque (EN) : (p.) mętny; (p.) nieprzezroczysty; (p.) nieprzeźroczysty
+[opaquely]opaquely (EN) : (p-sł.) nieprzejrzyście
+[opaqueness]opaqueness (EN) : (rz.) mętność; (rz.) nieprzejrzystość; (rz.) nieprzezroczystość
+[open]open (EN) : (cz.) brać; (cz.) inaugurować; (cz.) objawiać; (cz.) ogłaszać; (cz.) otwierać; (cz.) otworzyć; (cz.) rozpiąć; (cz.) rozpocząć; (cz.) rozpoczynać; (p.) czynny; (p.) jawny; (p.) otwarty; (p.) publiczny; (p.) rozwarty; (p.) skłonny; (p.) szczery; (p.) wolny
+[open-closed]open-closed (EN) : (p.) otwarty-zamknięty; (p.) rozwarty-zwarty
+[open-end]open-end (EN) : (p.) nieograniczony; (p.) otwarty; (p.) rozszerzalny
+[open-ended]open-ended (EN) : (p.) elastyczny; (p.) nieograniczony; (p.) otwarty; (p.) rozszerzalny
+[open-handed]open-handed (EN) : (p.) hojny; (p.) szczodry; (p.) wielkoduszny
+[open-hearted]open-hearted (EN) : (p.) serdeczny; (p.) szczery
+[opencast]opencast (EN) : (p.) odkrywkowy; (rz.) odkrywka
+[opener]opener (EN) : (rz.) otwieracz; (rz.) rozluźniarka; (rz.) spulchniacz; (rz.) urządzenie
+[openhearted]openhearted (EN) : (p.) serdeczny; (p.) szczery
+[opening]opening (EN) : (rz.) inauguracja; (rz.) napoczęcie; (rz.) odsłona; (rz.) otwarcie; (rz.) otwór; (rz.) początek; (rz.) polana; (rz.) przedstawienie; (rz.) rozwarcie; (rz.) szansa; (rz.) wycięcie
+[openly]openly (EN) : (p-sł.) jawnie; (p-sł.) szczerze
+[openness]openness (EN) : (rz.) otwartość; (rz.) szczerość
+[openwork]openwork (EN) : (rz.) ażur
+[opera]opera (EN) : (rz.) opera
+[opera-house]opera-house (EN) : (rz.) opera
+[operable]operable (EN) : (p.) operacyjny
+[operand]operand (EN) : (rz.) argument; (rz.) operand
+[operate]operate (EN) : (cz.) działać; (cz.) eksploatować; (cz.) funkcjonować; (cz.) obowiązywać; (cz.) obsługiwać; (cz.) operować; (cz.) opracowywać; (cz.) poruszać; (cz.) pracować; (cz.) zadziałać
+[operatic]operatic (EN) : (p.) operowy
+[operating]operating (EN) : (p.) operacyjny
+[operation]operation (EN) : (rz.) akcja; (rz.) czynność; (rz.) działanie; (rz.) eksploatacja; (rz.) funkcjonowanie; (rz.) obsługa; (rz.) operacja; (rz.) użytkowanie
+[operational]operational (EN) : (p.) operacyjny; (p.) operatorowy; (p.) sprawny
+[operationally]operationally (EN) : (p-sł.) roboczo; (p-sł.) sprawnie
+[operative]operative (EN) : (p.) czynny; (p.) działający; (p.) operacyjny; (p.) operatywny; (p.) praktyczny; (p.) skuteczny; (p.) sprawny
+[operator]operator (EN) : (rz.) operator; (rz.) telefonista
+[operetta]operetta (EN) : (rz.) operetka
+[ophidian]ophidian (EN) : (p.) wężowy
+[ophthalmic]ophthalmic (EN) : (p.) oczny
+[ophthalmologist]ophthalmologist (EN) : (rz.) oftalmolog; (rz.) okulista
+[ophthalmology]ophthalmology (EN) : (rz.) okulistyka
+[ophthalmoscope]ophthalmoscope (EN) : (rz.) oftalmoskop
+[opine]opine (EN) : (cz.) mniemać; (cz.) sądzić
+[opinion]opinion (EN) : (rz.) mniemanie; (rz.) ocena; (rz.) opinia; (rz.) pogląd; (rz.) porada; (rz.) zdanie
+[opinionated]opinionated (EN) : (p.) dogmatyczny
+[opium]opium (EN) : (rz.) opium
+[opossum]opossum (EN) : (rz.) opos
+[opponent]opponent (EN) : (p.) przeciwny; (rz.) adwersarz; (rz.) kontrkandydat; (rz.) oponent; (rz.) przeciwnik; (rz.) współzawodnik
+[opportune]opportune (EN) : (p.) dogodny; (p.) odpowiedni; (p.) pomyślny; (p.) stosowny; (p.) właściwy
+[opportunely]opportunely (EN) : (p-sł.) nieco; (p-sł.) właściwie
+[opportunism]opportunism (EN) : (rz.) oportunizm
+[opportunist]opportunist (EN) : (rz.) oportunista
+[opportunistic]opportunistic (EN) : (p.) oportunistyczny
+[opportunity]opportunity (EN) : (rz.) możliwość; (rz.) możność; (rz.) okazja; (rz.) sposobność
+[oppose]oppose (EN) : (cz.) oponować; (cz.) przeciwstawiać; (cz.) sprzeciwiać; (cz.) sprzeciwić; (cz.) zwalczać
+[opposed]opposed (EN) : (p.) przeciwny; (p.) przeciwstawny; (p.) wrogi
+[opposite]opposite (EN) : (p.) naprzeciwległy; (p.) odwrotny; (p.) przeciwległy; (p.) przeciwny; (p.) przeciwstawny; (rz.) przeciwieństwo
+[oppositeness]oppositeness (EN) : (rz.) przeciwność
+[opposition]opposition (EN) : (rz.) opór; (rz.) opozycja; (rz.) przeciwieństwo; (rz.) przeciwnik; (rz.) przeciwstawianie; (rz.) przeciwstawienie; (rz.) sprzeciw
+[oppositional]oppositional (EN) : (p.) opozycyjny
+[oppositionist]oppositionist (EN) : (rz.) opozycjonista
+[oppress]oppress (EN) : (cz.) ciemiężyć; (cz.) cisnąć; (cz.) gnębić; (cz.) męczyć; (cz.) przygniatać; (cz.) uciemiężać; (cz.) uciskać
+[oppression]oppression (EN) : (rz.) gnębienie; (rz.) opresja; (rz.) ucisk
+[oppressive]oppressive (EN) : (p.) ciążący; (p.) despotyczny; (p.) duszny; (p.) gnębicielski; (p.) prześladowczy; (p.) uciążliwy; (p.) uciskający
+[oppressiveness]oppressiveness (EN) : (rz.) ucisk
+[oppressor]oppressor (EN) : (rz.) ciemiężyciel; (rz.) napastnik
+[opprobrious]opprobrious (EN) : (p.) obraźliwy
+[opprobrium]opprobrium (EN) : (rz.) hańba; (rz.) niesława
+[oppugn]oppugn (EN) : (cz.) zakwestionować
+[opt]opt (EN) : (cz.) dokooptować; (cz.) opowiedzieć; (cz.) optować
+[optic]optic (EN) : (p.) oczny; (p.) optyczny; (p.) wzrokowy; (rz.) oko
+[optical]optical (EN) : (p.) optyczny; (p.) wzrokowy
+[optically]optically (EN) : (p-sł.) optycznie; (p-sł.) wzrokowo
+[optician]optician (EN) : (rz.) optyk; (rz.) optyka
+[optics]optics (EN) : (rz.) optyka
+[optimal]optimal (EN) : (p.) optymalny
+[optimality]optimality (EN) : (rz.) optymalność
+[optimally]optimally (EN) : (p-sł.) optymalnie
+[optimism]optimism (EN) : (rz.) optymizm
+[optimist]optimist (EN) : (rz.) optymista
+[optimistic]optimistic (EN) : (p.) optymistyczny
+[optimistically]optimistically (EN) : (p-sł.) optymistycznie
+[optimization]optimization (EN) : (rz.) optymalizacja; (rz.) optymizacja
+[optimize]optimize (EN) : (cz.) optymalizować; (cz.) zoptymalizować
+[optimizer]optimizer (EN) : (rz.) optymalizator; (rz.) optymizator
+[optimizers]optimizers (EN) : (rz.) optymizator
+[optimizing]optimizing (EN) : (rz.) optymalizowanie
+[optimum]optimum (EN) : (rz.) optimum
+[option]option (EN) : (rz.) alternatywa; (rz.) opcja; (rz.) wariant; (rz.) wybór
+[optional]optional (EN) : (p.) dodatkowy; (p.) dowolny; (p.) fakultatywny; (p.) nadobowiązkowy; (p.) nieobowiązkowy; (p.) obieralny; (p.) opcjonalny
+[optionally]optionally (EN) : (p-sł.) dowolnie; (p-sł.) opcjonalnie
+[optoelectronics]optoelectronics (EN) : (rz.) optoelektronika
+[opulence]opulence (EN) : (rz.) bogactwo; (rz.) zamożność
+[opulent]opulent (EN) : (p.) bogaty; (p.) żyzny
+[opulently]opulently (EN) : (p-sł.) wystawnie
+[opus]opus (EN) : (rz.) dzieło
+[or]or (EN) : (spójnik) albo; (spójnik) ani; (spójnik) bądź; (spójnik) czy; (spójnik) lub
+[oracle]oracle (EN) : (rz.) wyrocznia
+[oral]oral (EN) : (p.) doustny; (p.) oralny; (p.) ustny
+[orally]orally (EN) : (p-sł.) ustnie
+[orang-utan]orang-utan (EN) : (rz.) orangutan
+[orange]orange (EN) : (p.) pomarańczowy; (rz.) oranż; (rz.) pomarańcz; (rz.) pomarańcza; (rz.) smak
+[orangeade]orangeade (EN) : (rz.) oranżada
+[oration]oration (EN) : (rz.) mowa; (rz.) mówka; (rz.) oracja; (rz.) perora
+[orator]orator (EN) : (rz.) krasomówca; (rz.) mówca; (rz.) powód
+[oratorical]oratorical (EN) : (p.) krasomówczy; (p.) oratorski; (p.) oratoryjny
+[oratorio]oratorio (EN) : (rz.) oratorium
+[oratory]oratory (EN) : (rz.) krasomówstwo; (rz.) oratorium; (rz.) oratorstwo
+[orb]orb (EN) : (rz.) glob; (rz.) kamień; (rz.) kula
+[orbicular]orbicular (EN) : (p.) okrągły; (p.) pierścieniowaty
+[orbit]orbit (EN) : (cz.) okrążać; (cz.) orbitować; (rz.) orbita
+[orbital]orbital (EN) : (p.) oczodołowy; (p.) orbitalny
+[orbiting]orbiting (EN) : (rz.) obieg; (rz.) orbitowanie
+[orchard]orchard (EN) : (rz.) sad
+[orchestra]orchestra (EN) : (rz.) instrumentarium; (rz.) orkiestra
+[orchestral]orchestral (EN) : (p.) orkiestralny; (p.) orkiestrowy
+[orchestrate]orchestrate (EN) : (cz.) orkiestrować; (cz.) zorkiestrować
+[orchestration]orchestration (EN) : (rz.) orkiestracja
+[orchid]orchid (EN) : (rz.) orchidea; (rz.) storczyk
+[ordain]ordain (EN) : (cz.) mianować; (cz.) przepisać; (cz.) wprowadzać; (cz.) wprowadzić; (cz.) wyświecać; (cz.) wyświęcać; (cz.) zarządzać
+[ordeal]ordeal (EN) : (rz.) doświadczenie; (rz.) gehenna; (rz.) katorga; (rz.) męka; (rz.) próba; (rz.) przeprawa; (rz.) przeżycie
+[order]order (EN) : (cz.) porządkować; (cz.) potrzebować; (cz.) rozkazywać; (cz.) zamawiać; (cz.) zamówić; (rz.) dekret; (rz.) kolejność; (rz.) ład; (rz.) polecenie; (rz.) porządek; (rz.) ranga; (rz.) rozkaz; (rz.) stan; (rz.) zakon; (rz.) zamówienie; (rz.) zarządzenie; (rz.) zlecenie
+[orderliness]orderliness (EN) : (rz.) uporządkowanie; (rz.) zdyscyplinowanie
+[orderly]orderly (EN) : (p.) cichy; (p.) czysty; (p.) dokładny; (p.) dyżurny; (p.) porządnicki; (p.) porządny; (p.) skromny; (rz.) ordynans; (rz.) sanitariusz
+[ordinal]ordinal (EN) : (p.) porządkowy
+[ordinance]ordinance (EN) : (rz.) komunia; (rz.) rozkaz; (rz.) rozporządzenie; (rz.) zarządzenie
+[ordinarily]ordinarily (EN) : (p-sł.) zazwyczaj; (p-sł.) zwyczajnie
+[ordinariness]ordinariness (EN) : (rz.) pospolitość; (rz.) zwyczajność
+[ordinary]ordinary (EN) : (p.) codzienny; (p.) pospolity; (p.) powszedni; (p.) przeciętny; (p.) trywialny; (p.) zwyczajny; (p.) zwykły; (rz.) ordynariusz; (rz.) urząd; (rz.) zwyczaj
+[ordinate]ordinate (EN) : (rz.) rzędna
+[ordination]ordination (EN) : (rz.) święcenie; (rz.) układ; (rz.) wyświęcanie; (rz.) wyświęcenie
+[ordnance]ordnance (EN) : (rz.) artyleria; (rz.) działo; (rz.) uzbrojenie
+[ordure]ordure (EN) : (rz.) nieczystości; (rz.) odchody
+[ore]ore (EN) : (rz.) kruszec; (rz.) ruda
+[ore-bearing]ore-bearing (EN) : (p.) rudonośny
+[oregano]oregano (EN) : (rz.) lebiodka
+[organ]organ (EN) : (rz.) narząd; (rz.) organ; (rz.) organy
+[organ-grinder]organ-grinder (EN) : (rz.) kataryniarz
+[organdie]organdie (EN) : (rz.) organdyna
+[organic]organic (EN) : (p.) ekologiczny; (p.) narządowy; (p.) organiczny
+[organisation]organisation (EN) : (rz.) instytucja; (rz.) organizacja; (rz.) organizowanie; (rz.) zrzeszanie; (rz.) zrzeszenie
+[organisationally]organisationally (EN) : (p-sł.) organizacyjnie
+[organise]organise (EN) : (cz.) organizować
+[organised]organised (EN) : (p.) zorganizowany
+[organism]organism (EN) : (rz.) organizm
+[organist]organist (EN) : (rz.) organista
+[organization]organization (EN) : (rz.) organizacja; (rz.) organizowanie; (rz.) porządkowanie; (rz.) struktura
+[organizational]organizational (EN) : (p.) organizacyjny; (p.) organizatorski
+[organizationally]organizationally (EN) : (p-sł.) organizacyjnie
+[organize]organize (EN) : (cz.) organizować; (cz.) urządzać; (cz.) zorganizować
+[organizer]organizer (EN) : (rz.) aranżer; (rz.) notes; (rz.) organizator
+[orgasm]orgasm (EN) : (rz.) orgazm
+[orgiastic]orgiastic (EN) : (p.) orgiastyczny
+[orgy]orgy (EN) : (rz.) orgia
+[orient]orient (EN) : (rz.) połysk; (rz.) wschód
+[oriental]oriental (EN) : (p.) orientalny; (rz.) wschodni
+[orientate]orientate (EN) : (cz.) orientować
+[orientation]orientation (EN) : (rz.) orientacja; (rz.) orientowanie; (rz.) ukierunkowywanie
+[orifice]orifice (EN) : (rz.) kryza; (rz.) otwór; (rz.) ujście; (rz.) wylot
+[origin]origin (EN) : (rz.) geneza; (rz.) pochodzenie; (rz.) początek; (rz.) rodowód; (rz.) źródło
+[original]original (EN) : (p.) autentyczny; (p.) naturalny; (p.) niebanalny; (p.) oryginalny; (p.) pierwotny; (p.) początkowy; (p.) rdzenny; (p.) samorodny; (p.) własnoręczny; (rz.) autentyk; (rz.) cudak; (rz.) kolor; (rz.) oryginał; (rz.) pierwowzór
+[originality]originality (EN) : (rz.) oryginalność; (rz.) osobliwość
+[originally]originally (EN) : (p-sł.) oryginalnie; (p-sł.) pierwotnie; (p-sł.) początkowo
+[originate]originate (EN) : (cz.) ogłaszać; (cz.) pochodzić; (cz.) wypływać; (cz.) zapoczątkować
+[origination]origination (EN) : (rz.) pochodzenie; (rz.) początek; (rz.) tworzenie
+[originator]originator (EN) : (rz.) inicjator; (rz.) nadawca; (rz.) plakat; (rz.) pomysłodawca; (rz.) twórca
+[origins]origins (EN) : (rz.) geneza
+[oriole]oriole (EN) : (rz.) kacyk; (rz.) wilga
+[orison]orison (EN) : (rz.) modlitwa
+[ornament]ornament (EN) : (cz.) upiększać; (cz.) zdobić; (rz.) dekoracja; (rz.) ornament; (rz.) ornamentacja; (rz.) ozdoba; (rz.) ozdobnik
+[ornamental]ornamental (EN) : (p.) dekoracyjny; (p.) ornamentacyjny; (p.) ornamentalny; (p.) ornamentowy; (p.) ozdobny; (p.) zdobniczy
+[ornamentally]ornamentally (EN) : (p-sł.) dekoracyjnie; (p-sł.) ozdobnie
+[ornamentation]ornamentation (EN) : (rz.) ornamentacja; (rz.) ornamentowanie; (rz.) ornamentyka; (rz.) ozdoba; (rz.) zdobnictwo
+[ornaments]ornaments (EN) : (rz.) ornamentyka
+[ornate]ornate (EN) : (p.) kwiecisty; (p.) ozdobny; (p.) strojny; (p.) stromy; (p.) zdobny
+[ornery]ornery (EN) : (p.) ordynarny; (p.) prostacki
+[ornithological]ornithological (EN) : (p.) ornitologiczny
+[ornithologist]ornithologist (EN) : (rz.) ornitolog
+[ornithology]ornithology (EN) : (rz.) ornitologia
+[orotund]orotund (EN) : (p.) bombastyczny; (p.) dźwięczny; (p.) pełny; (p.) wyraźny
+[orphan]orphan (EN) : (cz.) osierocić; (p.) sierocy; (rz.) bękart; (rz.) sierota; (rz.) sierotka
+[orphan's]orphan's (EN) : (p.) sierocy
+[orphanage]orphanage (EN) : (rz.) ochronka; (rz.) sierociniec; (rz.) sieroctwo
+[orpiment]orpiment (EN) : (rz.) aurypigment
+[orthicon]orthicon (EN) : (rz.) ortikon
+[orthoclase]orthoclase (EN) : (rz.) ortoklaz
+[orthodontia]orthodontia (EN) : (rz.) ortodoncja
+[orthodontics]orthodontics (EN) : (rz.) ortodoncja
+[orthodontist]orthodontist (EN) : (rz.) ortodonta
+[orthodox]orthodox (EN) : (p.) klasyczny; (p.) konwencjonalny; (p.) ortodoksyjny; (p.) prawosławny; (p.) prawowierny
+[orthodoxy]orthodoxy (EN) : (rz.) norma; (rz.) ortodoksja; (rz.) prawosławie; (rz.) prawowierność
+[orthogonal]orthogonal (EN) : (p.) ortogonalny; (p.) prostokątny; (p.) prostopadły
+[orthographic]orthographic (EN) : (p.) ortograficzny
+[orthographical]orthographical (EN) : (p.) ortograficzny
+[orthographically]orthographically (EN) : (p-sł.) ortograficznie
+[orthography]orthography (EN) : (rz.) ortografia
+[orthopaedic]orthopaedic (EN) : (p.) ortopedyczny
+[orthopaedist]orthopaedist (EN) : (rz.) ortopeda
+[orthorhombic]orthorhombic (EN) : (p.) rombowy
+[oscillate]oscillate (EN) : (cz.) drgać; (cz.) oscylować
+[oscillation]oscillation (EN) : (rz.) drganie; (rz.) oscylacja; (rz.) wahanie
+[oscillator]oscillator (EN) : (rz.) generator; (rz.) oscylator
+[oscillatory]oscillatory (EN) : (p.) oscylacyjny; (p.) oscylujący; (p.) wahadłowy; (p.) wahliwy
+[oscilloscope]oscilloscope (EN) : (rz.) oscyloskop
+[oscilloscopes]oscilloscopes (EN) : (rz.) oscyloskop
+[osculation]osculation (EN) : (rz.) przyleganie; (rz.) przystawanie; (rz.) stykanie
+[osier]osier (EN) : (rz.) łoza; (rz.) łozina
+[osmium]osmium (EN) : (rz.) osm
+[osmosis]osmosis (EN) : (rz.) osmoza
+[osmotic]osmotic (EN) : (p.) osmotyczny
+[osprey]osprey (EN) : (rz.) kitka; (rz.) rybołów
+[osseous]osseous (EN) : (p.) kościsty; (p.) kostny
+[ossification]ossification (EN) : (rz.) kostnienie; (rz.) skostnienie
+[ossify]ossify (EN) : (cz.) kostnieć; (cz.) skostnieć
+[ostensible]ostensible (EN) : (p.) pozorny; (p.) rzekomy; (p.) wirtualny
+[ostensibly]ostensibly (EN) : (p-sł.) pozornie
+[ostentation]ostentation (EN) : (rz.) ostentacja; (rz.) wystawność
+[ostentatious]ostentatious (EN) : (p.) demonstracyjny; (p.) manifestacyjny; (p.) ostentacyjny
+[ostentatiously]ostentatiously (EN) : (p-sł.) ostentacyjnie
+[osteopathic]osteopathic (EN) : (rz.) kręglarstwo
+[osteopathy]osteopathy (EN) : (rz.) osteopatia
+[osteoporosis]osteoporosis (EN) : (rz.) osteoporoza
+[ostracism]ostracism (EN) : (rz.) ostracyzm
+[ostracize]ostracize (EN) : (cz.) wykluczać
+[ostrich]ostrich (EN) : (rz.) struś
+[other]other (EN) : (p.) drugi; (p.) inny; (p.) następny
+[otherness]otherness (EN) : (rz.) odmienność
+[otherwise]otherwise (EN) : (p-sł.) owak; (p-sł.) skądinąd
+[otherworldly]otherworldly (EN) : (p.) bezładny
+[otiose]otiose (EN) : (p.) zbyteczny
+[otology]otology (EN) : (rz.) otologia
+[otter]otter (EN) : (rz.) wydra
+[ought]ought (EN) : (cz.) robić; (cz.) zrobić
+[ounce]ounce (EN) : (rz.) odrobina; (rz.) uncja
+[ounces]ounces (EN) : (rz.) uncja
+[oust]oust (EN) : (cz.) usuwać; (cz.) wyrugować; (cz.) wyrzucać; (cz.) wyrzucić
+[out]out (EN) : (cz.) pomniejszyć; (cz.) przekonać; (p.) autowy; (p.) zewnętrzny; (p-sł.) jawnie; (p-sł.) obecnie; (p-sł.) zewnątrz
+[out-and-out]out-and-out (EN) : (p.) absolutny; (p.) całkowity
+[out-gate]out-gate (EN) : (rz.) nadlew
+[out-of-date]out-of-date (EN) : (p.) nieaktualny
+[outage]outage (EN) : (rz.) przerwa; (rz.) przestój
+[outback]outback (EN) : (rz.) busz
+[outbalance]outbalance (EN) : (cz.) przeważać; (cz.) przeważyć
+[outbid]outbid (EN) : (cz.) podkupić; (cz.) przelicytować; (cz.) przelicytowywać
+[outbound]outbound (EN) : (p.) wejściowy; (p.) wyjściowy; (p.) zewnętrzny
+[outbreak]outbreak (EN) : (rz.) epidemia; (rz.) wybuch
+[outbuilding]outbuilding (EN) : (rz.) dobudówka; (rz.) przybudówka
+[outburst]outburst (EN) : (rz.) poryw; (rz.) wybuch; (rz.) zapęd
+[outcast]outcast (EN) : (p.) odepchnięty; (p.) wypędzony; (p.) wyrzucony; (rz.) banita; (rz.) włóczęga; (rz.) wyrzutek
+[outcome]outcome (EN) : (rz.) rezultat; (rz.) wynik
+[outcrop]outcrop (EN) : (rz.) odkrywka
+[outcry]outcry (EN) : (rz.) hałas; (rz.) krzyk; (rz.) licytacja; (rz.) okrzyk; (rz.) wrzawa
+[outdate]outdate (EN) : (cz.) przedawniać
+[outdated]outdated (EN) : (p.) przedawniony; (p.) przestarzały; (p.) przeterminowany
+[outdistance]outdistance (EN) : (cz.) prześcigać; (cz.) zdystansować
+[outdo]outdo (EN) : (cz.) prześcigać; (cz.) prześcignąć; (cz.) przewyższać
+[outdoor]outdoor (EN) : (p.) plenerowy; (p.) pozadomowy
+[outdoors]outdoors (EN) : (p-sł.) zewnątrz
+[outer]outer (EN) : (p.) zewnętrzny
+[outermost]outermost (EN) : (p.) ostateczny; (p.) skrajny; (p.) zewnętrzny
+[outfall]outfall (EN) : (rz.) ujście; (rz.) wylot
+[outfit]outfit (EN) : (rz.) aparatura; (rz.) ekipa; (rz.) ekwipunek; (rz.) rynsztunek; (rz.) sprzęt; (rz.) strój; (rz.) wyposażenie
+[outfitter]outfitter (EN) : (rz.) armator
+[outflow]outflow (EN) : (rz.) odpływ; (rz.) wyciekanie; (rz.) wypływ
+[outfox]outfox (EN) : (cz.) przechytrzać; (cz.) przechytrzyć; (cz.) wykiwać
+[outgo]outgo (EN) : (cz.) prześcignąć; (cz.) wyprzedzić
+[outgoing]outgoing (EN) : (p.) otwarty; (p.) rozchodowy; (p.) towarzyski; (p.) wyjazdowy; (rz.) wyjście
+[outgoings]outgoings (EN) : (rz.) rozchody
+[outgrew]outgrew (EN) : (cz.) wyrastać
+[outgrow]outgrow (EN) : (cz.) pozbywać; (cz.) przerastać; (cz.) wyrastać
+[outgrown]outgrown (EN) : (cz.) wyrastać
+[outgrowth]outgrowth (EN) : (rz.) latorośl; (rz.) narośl; (rz.) następstwo; (rz.) pęd; (rz.) przerost; (rz.) wynik; (rz.) wyrostek
+[outguess]outguess (EN) : (cz.) przechytrzyć
+[outhouse]outhouse (EN) : (rz.) dobudówka; (rz.) oficyna; (rz.) przybudówka
+[outing]outing (EN) : (rz.) przechadzka; (rz.) wycieczka
+[outlandish]outlandish (EN) : (p.) barbarzyński; (p.) cudzoziemski; (p.) dziwaczny; (p.) obcy; (p.) ustronny
+[outlast]outlast (EN) : (cz.) przetrwać; (cz.) trwać
+[outlaw]outlaw (EN) : (rz.) banita; (rz.) przestępca
+[outlawry]outlawry (EN) : (rz.) banicja
+[outlay]outlay (EN) : (rz.) nakład; (rz.) wydatek
+[outlet]outlet (EN) : (rz.) gniazdo; (rz.) odpływ; (rz.) placówka; (rz.) ujście; (rz.) wylot
+[outlier]outlier (EN) : (rz.) ostaniec
+[outline]outline (EN) : (cz.) narysować; (cz.) naszkicować; (cz.) rysować; (cz.) szkicować; (rz.) konspekt; (rz.) kontur; (rz.) nakreślenie; (rz.) rys; (rz.) streszczenie; (rz.) szkic; (rz.) zarys
+[outlines]outlines (EN) : (rz.) zakreślanie
+[outlive]outlive (EN) : (cz.) przetrwać; (cz.) przeżyć; (cz.) przeżywać
+[outlook]outlook (EN) : (rz.) czujność; (rz.) perspektywa; (rz.) pogląd; (rz.) prognoza; (rz.) światopogląd; (rz.) widok; (rz.) wygląd
+[outlying]outlying (EN) : (p.) zewnętrzny
+[outmanoeuvre]outmanoeuvre (EN) : (cz.) przechytrzać; (cz.) wymanewrować
+[outmatch]outmatch (EN) : (cz.) prześcigać; (cz.) przewyższać
+[outmoded]outmoded (EN) : (p.) niemodny
+[outmost]outmost (EN) : (p.) ostateczny; (p.) skrajny
+[outpace]outpace (EN) : (cz.) dystansować; (cz.) wyprzedzać
+[outpatient]outpatient (EN) : (rz.) pacjent
+[outperform]outperform (EN) : (cz.) przewyższać
+[outplay]outplay (EN) : (cz.) pokonać
+[outpost]outpost (EN) : (rz.) forpoczta; (rz.) placówka
+[outpour]outpour (EN) : (cz.) wylewać
+[outpouring]outpouring (EN) : (rz.) potok; (rz.) wynurzenie
+[output]output (EN) : (cz.) wyprowadzić; (rz.) dorobek; (rz.) plon; (rz.) produkcja; (rz.) twórczość; (rz.) urobek; (rz.) uzysk; (rz.) wydajność; (rz.) wydobycie; (rz.) wyjście; (rz.) wytwórczość
+[outrage]outrage (EN) : (cz.) bezcześcić; (cz.) obrażać; (cz.) obrazić; (cz.) uwłaczać; (cz.) zhańbić; (cz.) znieważyć; (rz.) gwałt; (rz.) obelga; (rz.) obraza; (rz.) oburzenie; (rz.) przestępstwo; (rz.) ujma; (rz.) urąganie; (rz.) zgorszenie; (rz.) zniewaga
+[outrageous]outrageous (EN) : (p.) bezczelny; (p.) ciężki; (p.) gwałtowny; (p.) niegodziwy; (p.) obrażający; (p.) skandaliczny; (p.) znieważający
+[outrageously]outrageously (EN) : (p-sł.) skandalicznie
+[outreach]outreach (EN) : (rz.) bomu
+[outride]outride (EN) : (cz.) prześcigać; (cz.) prześcignąć; (cz.) przewyższyć
+[outrider]outrider (EN) : (rz.) foryś
+[outrigger]outrigger (EN) : (rz.) wysięgnik
+[outright]outright (EN) : (p.) bezpośredni; (p.) całkowity; (p.) otwarty; (p.) pełny; (p.) stanowczy; (p.) szczery; (p.) uczciwy; (p-sł.) bezapelacyjnie; (p-sł.) obcesowo; (p-sł.) ordynarnie
+[outrun]outrun (EN) : (cz.) przeganiać; (cz.) przegonić; (cz.) prześcigać; (cz.) wymykać; (cz.) wyprzedzać; (cz.) zdystansować
+[outré]outré (EN) : (p.) dziwny; (p.) niecodzienny; (p.) przesadny
+[outset]outset (EN) : (rz.) początek
+[outshine]outshine (EN) : (cz.) zaćmić; (cz.) zaćmiewać
+[outside]outside (EN) : (p-im.) przed; (p.) postronny; (p.) zewnętrzny; (p-sł.) zewnątrz; (rz.) poza; (rz.) wierzch
+[outsider]outsider (EN) : (rz.) laik
+[outsize]outsize (EN) : (p.) nietypowy; (p.) ponadwymiarowy
+[outsized]outsized (EN) : (p.) ponadwymiarowy
+[outskirt]outskirt (EN) : (rz.) kraniec
+[outskirts]outskirts (EN) : (rz.) kraniec; (rz.) kresy; (rz.) margines; (rz.) peryferie; (rz.) skraj
+[outsmart]outsmart (EN) : (cz.) przechytrzyć
+[outspoken]outspoken (EN) : (p.) otwarty; (p.) rozszerzalny; (p.) szczery
+[outstanding]outstanding (EN) : (p.) należny; (p.) niepospolity; (p.) wybitny; (p.) wyjątkowy; (p.) zaległy
+[outstandingly]outstandingly (EN) : (p-sł.) nadzwyczajnie; (p-sł.) wybitnie
+[outstay]outstay (EN) : (cz.) przetrzymywać
+[outstretch]outstretch (EN) : (cz.) rozciągać
+[outstrip]outstrip (EN) : (cz.) dystansować; (cz.) przewyższać; (cz.) przewyższyć; (cz.) wyprzedzać; (cz.) zdystansować
+[outvote]outvote (EN) : (cz.) przegłosować; (cz.) przegłosowywać
+[outward]outward (EN) : (p.) powierzchowny; (p.) widoczny; (p.) zewnętrzny
+[outwardly]outwardly (EN) : (p-sł.) pozornie; (p-sł.) zewnętrznie
+[outwear]outwear (EN) : (cz.) przetrwać; (cz.) znieść; (cz.) zużywać
+[outweigh]outweigh (EN) : (cz.) przeważać; (cz.) przeważyć; (cz.) przewyższyć
+[outwit]outwit (EN) : (cz.) podchodzić; (cz.) podejść; (cz.) przechytrzać; (cz.) przechytrzyć
+[outworn]outworn (EN) : (p.) znoszony; (p.) znużony
+[ouzel]ouzel (EN) : (rz.) kos
+[oval]oval (EN) : (p.) obły; (p.) owalny; (rz.) owal
+[ovarian]ovarian (EN) : (p.) jajnikowy
+[ovary]ovary (EN) : (rz.) jajnik; (rz.) zalążnia
+[ovation]ovation (EN) : (rz.) owacja
+[oven]oven (EN) : (rz.) piec; (rz.) piekarnik; (rz.) suszarka
+[oven-pan]oven-pan (EN) : (rz.) brytfanna
+[ovenproof]ovenproof (EN) : (p.) żaroodporny
+[over]over (EN) : (p-im.) na; (p-im.) nad; (p-im.) nade; (p-im.) po; (p-im.) ponad; (p-im.) przez; (p-sł.) biegiem; (p-sł.) nadmiernie; (p-sł.) przesadnie; (p-sł.) przesądnie; (p-sł.) wzwyż; (rz.) nadpłata; (rz.) odbiór; (rz.) przejęcie; (rz.) przejma; (rz.) przełączanie; (rz.) przewrócenie; (rz.) ruch
+[over-population]over-population (EN) : (rz.) przeludnienie
+[over-regulation]over-regulation (EN) : (rz.) przeregulowanie
+[over-sensitive]over-sensitive (EN) : (p.) nadwrażliwy
+[overabundant]overabundant (EN) : (p.) nadmierny
+[overact]overact (EN) : (cz.) zgrywać
+[overactive]overactive (EN) : (p.) nadpobudliwy
+[overage]overage (EN) : (rz.) nadwyżka
+[overall]overall (EN) : (p.) całkowity; (p.) całościowy; (p.) ogólny; (rz.) chałat; (rz.) kitel; (rz.) kitla; (rz.) kombinezon
+[overalls]overalls (EN) : (rz.) farmerki; (rz.) kombinezon
+[overate]overate (EN) : (cz.) przejadać
+[overawe]overawe (EN) : (cz.) onieśmielać; (cz.) straszyć; (cz.) zastraszyć
+[overbalance]overbalance (EN) : (cz.) przeważyć; (rz.) nadwyżka; (rz.) przewaga; (rz.) przeważenie
+[overbear]overbear (EN) : (cz.) lekceważyć; (cz.) onieśmielać; (cz.) pokonać; (cz.) przeciążyć; (cz.) przemagać
+[overbearing]overbearing (EN) : (p.) apodyktyczny; (p.) despotyczny; (p.) dumny
+[overburden]overburden (EN) : (cz.) przeciążać; (cz.) przeciążyć
+[overcame]overcame (EN) : (cz.) pokonać
+[overcapitalize]overcapitalize (EN) : (cz.) przeinwestować
+[overcast]overcast (EN) : (p.) pochmurny; (p.) posępny; (rz.) zachmurzone
+[overcharge]overcharge (EN) : (cz.) przeciążyć; (cz.) przeładować; (rz.) nadpłata; (rz.) przeciążenie
+[overcoat]overcoat (EN) : (rz.) jesionka; (rz.) osłona; (rz.) palto; (rz.) płaszcz; (rz.) surdut
+[overcome]overcome (EN) : (cz.) pokonać; (cz.) pokonywać; (cz.) przełamać; (cz.) przezwyciężać; (cz.) przezwyciężyć; (cz.) rozładowywać; (cz.) sforsować; (cz.) zwalczyć; (cz.) zwyciężać
+[overconfidence]overconfidence (EN) : (rz.) zadufanie
+[overcook]overcook (EN) : (cz.) przegotowywać; (cz.) rozgotować
+[overcooling]overcooling (EN) : (rz.) przechłodzenie
+[overcrowd]overcrowd (EN) : (cz.) przepełniać; (cz.) przepełnić; (cz.) zatłoczyć
+[overcrowded]overcrowded (EN) : (p.) ludny; (p.) przepełniony
+[overcrowding]overcrowding (EN) : (rz.) przepełnianie
+[overdevelopment]overdevelopment (EN) : (rz.) przewołanie
+[overdo]overdo (EN) : (cz.) przedobrzyć; (cz.) przekraczać; (cz.) przesadzać; (cz.) przesadzić
+[overdone]overdone (EN) : (cz.) przedawkować; (cz.) przesadzać
+[overdose]overdose (EN) : (cz.) przedawkować; (rz.) przedawkowanie
+[overdosing]overdosing (EN) : (rz.) przedawkowanie
+[overdraft]overdraft (EN) : (rz.) debet; (rz.) przeciąg; (rz.) przekroczenie
+[overdraw]overdraw (EN) : (cz.) przejaskrawiać; (cz.) przejaskrawić; (cz.) przekraczać; (cz.) przekroczyć
+[overdrive]overdrive (EN) : (cz.) zajeździć; (rz.) nadbieg
+[overdue]overdue (EN) : (p.) opóźniony; (p.) przekroczony; (p.) przeterminowany; (p.) spóźniony; (p.) zaległy
+[overeager]overeager (EN) : (p.) nadgorliwy
+[overeat]overeat (EN) : (cz.) przejadać; (cz.) przejechać
+[overeaten]overeaten (EN) : (cz.) przejeść
+[overemphasize]overemphasize (EN) : (cz.) przeakcentować
+[overestimate]overestimate (EN) : (cz.) przeceniać; (cz.) przeszacować; (cz.) zawyżać
+[overestimation]overestimation (EN) : (rz.) przecena; (rz.) przeszacowanie; (rz.) przewartościowanie
+[overexert]overexert (EN) : (cz.) forsować; (cz.) przemęczyć
+[overexposure]overexposure (EN) : (rz.) prześwietlenie
+[overfeed]overfeed (EN) : (cz.) przekarmiać
+[overfeeding]overfeeding (EN) : (rz.) przekarmianie
+[overfill]overfill (EN) : (cz.) przepełniać; (cz.) przepełnić
+[overflow]overflow (EN) : (cz.) przelać; (cz.) przelewać; (cz.) przepełniać; (cz.) wylewać; (cz.) zalewać; (rz.) nadmiar; (rz.) przelew; (rz.) przepełnienie; (rz.) przerzutnia; (rz.) rozlew; (rz.) wylanie; (rz.) wylew
+[overflowing]overflowing (EN) : (p.) przelewający
+[overgrow]overgrow (EN) : (cz.) obrastać; (cz.) porastać; (cz.) przerastać
+[overgrowing]overgrowing (EN) : (rz.) zarastanie
+[overgrown]overgrown (EN) : (p.) wyrośnięty; (p.) zarośnięty
+[overgrowth]overgrowth (EN) : (rz.) nadmiar; (rz.) narośl; (rz.) przerost; (rz.) zarastanie; (rz.) zarośla; (rz.) zarost
+[overhang]overhang (EN) : (cz.) nadwiesić
+[overhaul]overhaul (EN) : (cz.) dopędzać; (cz.) przeglądać; (cz.) remontować; (rz.) przegląd; (rz.) przerobienie; (rz.) remont
+[overhead]overhead (EN) : (p.) górny; (p.) nadziemny; (p.) napowietrzny
+[overheads]overheads (EN) : (rz.) narzut
+[overhear]overhear (EN) : (cz.) podsłuchać; (cz.) podsłuchiwać
+[overheard]overheard (EN) : (cz.) podsłuchać
+[overheat]overheat (EN) : (cz.) przegrzać
+[overkill]overkill (EN) : (rz.) nadmiar; (rz.) przesada
+[overland]overland (EN) : (p.) lądowy; (p-sł.) lądem
+[overlap]overlap (EN) : (cz.) nakładać; (cz.) pokrywać; (cz.) zachodzić
+[overlay]overlay (EN) : (cz.) nakładać; (cz.) nakładkować; (cz.) natapiać; (cz.) powlekać; (rz.) nakładka; (rz.) nakrycie; (rz.) narzuta; (rz.) pokrycie; (rz.) powłoka
+[overleap]overleap (EN) : (cz.) przeskoczyć
+[overlie]overlie (EN) : (cz.) pokryć
+[overload]overload (EN) : (cz.) przeciążać; (cz.) przeciążyć; (cz.) przeładować; (rz.) przeciążenie; (rz.) przetężenie
+[overlook]overlook (EN) : (cz.) baczyć; (cz.) górować; (cz.) nadzorować; (cz.) pomijać; (cz.) przegapiać; (cz.) przeglądać; (cz.) przeoczać; (cz.) przeoczyć; (cz.) sterczeć; (cz.) uważać; (cz.) wystawać; (cz.) wystawiać
+[overly]overly (EN) : (p-sł.) nadmiernie; (p-sł.) zbytnio
+[overmaster]overmaster (EN) : (cz.) opanować
+[overmuch]overmuch (EN) : (p-sł.) nadmiernie; (p-sł.) zanadto; (p-sł.) zbytnio
+[overnight]overnight (EN) : (p.) nocny; (p-sł.) nagle
+[overpass]overpass (EN) : (cz.) pokonać; (cz.) pomijać; (cz.) pominąć; (cz.) przejść; (cz.) przekraczać; (cz.) przeoczyć; (rz.) estakada
+[overpay]overpay (EN) : (cz.) nadpłacić; (cz.) przepłacać; (cz.) przepłacić
+[overpayment]overpayment (EN) : (rz.) nadpłata
+[overpopulate]overpopulate (EN) : (cz.) przeludnić
+[overpopulated]overpopulated (EN) : (p.) przeludniony
+[overpopulation]overpopulation (EN) : (rz.) przeludnienie
+[overpower]overpower (EN) : (cz.) obezwładniać; (cz.) opanować; (cz.) pokonać; (cz.) pokonywać; (cz.) poskramiać; (cz.) przemagać
+[overpressure]overpressure (EN) : (rz.) nadciśnienie
+[overprint]overprint (EN) : (cz.) nadrukować
+[overprize]overprize (EN) : (cz.) przeceniać; (cz.) przesadzać; (cz.) przesadzić
+[overproduction]overproduction (EN) : (rz.) nadprodukcja
+[overrate]overrate (EN) : (cz.) przeceniać; (cz.) przecenić; (cz.) przesadzać; (cz.) przesadzić
+[overreach]overreach (EN) : (cz.) nadwerężać; (cz.) przecenić
+[overreact]overreact (EN) : (cz.) przereagowywać
+[override]override (EN) : (cz.) lekceważyć; (cz.) nadpisać; (cz.) nadużywać; (cz.) odłączać; (cz.) pokryć; (cz.) pomijać; (cz.) przekraczać; (cz.) przełamywać; (cz.) przesłaniać; (cz.) przesłonić; (cz.) stratować
+[overripe]overripe (EN) : (p.) przejrzały
+[overrule]overrule (EN) : (cz.) górować; (cz.) oddalać; (cz.) odrzucać; (cz.) odrzucić; (cz.) odwracać; (cz.) odwrócić; (cz.) opanować; (cz.) pomijać; (cz.) skierować; (cz.) uchylać; (cz.) zarzucać; (cz.) zarzucić
+[overrun]overrun (EN) : (cz.) najechać; (cz.) opanowywać; (cz.) przedłużać; (cz.) pustoszyć; (cz.) wybiegać; (cz.) zalewać
+[overseas]overseas (EN) : (p.) międzynarodowy; (p.) zagraniczny; (p.) zamorski
+[oversee]oversee (EN) : (cz.) doglądać; (cz.) kontrolować; (cz.) nadzorować; (cz.) pilnować
+[overseer]overseer (EN) : (rz.) nadzorca
+[oversensitive]oversensitive (EN) : (p.) nadwrażliwy; (p.) przeczulony
+[overshadow]overshadow (EN) : (cz.) górować; (cz.) ocieniać; (cz.) przyciemniać; (cz.) przyciemnić; (cz.) zacieniać; (cz.) zacienić; (cz.) zaćmiewać; (cz.) zasłaniać
+[overshoe]overshoe (EN) : (rz.) bot; (rz.) but; (rz.) kalosz; (rz.) śniegowiec
+[overshoot]overshoot (EN) : (cz.) przeholować; (cz.) przestrzelić; (cz.) przestrzeliwać; (cz.) strzelać
+[oversight]oversight (EN) : (rz.) nadzór; (rz.) niedopatrzenie; (rz.) przegląd; (rz.) przeoczenie
+[oversimplification]oversimplification (EN) : (rz.) uproszczenie
+[oversimplify]oversimplify (EN) : (cz.) upraszczać
+[oversized]oversized (EN) : (p.) nadmiarowy
+[oversleep]oversleep (EN) : (cz.) zaspać
+[overspend]overspend (EN) : (cz.) przepłacać
+[overspill]overspill (EN) : (rz.) nadmiar; (rz.) zgęszczenie
+[overspread]overspread (EN) : (cz.) rozciągać
+[overstate]overstate (EN) : (cz.) przesadzać; (cz.) wyolbrzymiać
+[overstatement]overstatement (EN) : (rz.) przesada
+[overstep]overstep (EN) : (cz.) przekraczać; (cz.) przekroczyć
+[overstock]overstock (EN) : (cz.) przeciążyć; (cz.) przepełniać; (cz.) przepełnić; (cz.) zapchać; (cz.) zatkać
+[overstrain]overstrain (EN) : (cz.) naciągać; (cz.) przeciągać; (cz.) przeciągnąć; (cz.) przeciążyć; (cz.) wyczerpać
+[overstrike]overstrike (EN) : (rz.) nadruk; (rz.) przebijanie
+[overt]overt (EN) : (p.) jawny; (p.) otwarty
+[overtake]overtake (EN) : (cz.) doganiać; (cz.) prześcigać; (cz.) wyprzedzać; (cz.) wyprzedzić
+[overtax]overtax (EN) : (cz.) nadwerężać; (cz.) przecenić; (cz.) przeciążać
+[overthrow]overthrow (EN) : (cz.) obalać; (cz.) obalić; (cz.) przewracać; (cz.) utrącić; (rz.) obalenie; (rz.) przewrót
+[overtime]overtime (EN) : (p-sł.) nadliczbowo; (p-sł.) nadprogramowo; (rz.) dogrywka; (rz.) nadgodzina
+[overtly]overtly (EN) : (p-sł.) jawnie
+[overtone]overtone (EN) : (rz.) barwa; (rz.) charakter; (rz.) implikacja; (rz.) propozycja; (rz.) uwertura; (rz.) wydźwięk
+[overtraining]overtraining (EN) : (rz.) przetrenowanie
+[overture]overture (EN) : (rz.) oferta; (rz.) propozycja; (rz.) uwertura
+[overturn]overturn (EN) : (cz.) obalać; (cz.) obalić; (cz.) przewracać; (cz.) przewrócić; (cz.) wywracać; (cz.) wywrócić
+[overuse]overuse (EN) : (cz.) nadużyć; (cz.) nadużywać
+[overvalue]overvalue (EN) : (cz.) przeceniać; (rz.) nadwartość
+[overview]overview (EN) : (rz.) omówienie; (rz.) opis; (rz.) przegląd
+[overweening]overweening (EN) : (p.) arogancki
+[overweigh]overweigh (EN) : (cz.) przeważać; (cz.) przeważyć
+[overweight]overweight (EN) : (rz.) nadwaga; (rz.) otyłość; (rz.) przewaga
+[overwhelm]overwhelm (EN) : (cz.) obezwładniać; (cz.) obezwładnić; (cz.) ogarniać; (cz.) pognębić; (cz.) przygniatać; (cz.) przygnieść; (cz.) zalać; (cz.) zasypywać; (cz.) zatkać
+[overwhelming]overwhelming (EN) : (p.) walny
+[overwhelmingly]overwhelmingly (EN) : (p-sł.) niezwykle; (p-sł.) przytłaczająco
+[overwork]overwork (EN) : (cz.) przeciążać; (cz.) przemęczać; (cz.) przepracować; (cz.) przepracowywać; (rz.) przeciążenie; (rz.) przemęczenie; (rz.) przepracowanie; (rz.) umocnienie
+[overwrite]overwrite (EN) : (cz.) nadpisać; (cz.) nadpisywać; (cz.) zacierać; (cz.) zatrzeć
+[overwriting]overwriting (EN) : (rz.) nadpis; (rz.) nadpisywanie
+[overwrought]overwrought (EN) : (p.) nerwowy; (p.) przepracowany
+[oviduct]oviduct (EN) : (rz.) jajowód
+[oviform]oviform (EN) : (p.) jajowaty
+[ovine]ovine (EN) : (p.) owczy
+[oviparous]oviparous (EN) : (p.) jajorodny
+[ovipositor]ovipositor (EN) : (rz.) pokładełko
+[ovoid]ovoid (EN) : (p.) jajowaty
+[ovoviviparous]ovoviviparous (EN) : (p.) jajożyworodny
+[ovulate]ovulate (EN) : (cz.) jajeczkować
+[ovulation]ovulation (EN) : (rz.) jajeczkowanie; (rz.) owulacja
+[ovule]ovule (EN) : (rz.) jajeczko
+[ovum]ovum (EN) : (rz.) jajeczko; (rz.) jajo; (rz.) jajownik; (rz.) zalążek
+[owe]owe (EN) : (cz.) zawdzięczać
+[owing]owing (EN) : (p.) dłużny; (p.) należny; (p.) winien; (p.) winny
+[owl]owl (EN) : (rz.) sowa
+[owlet]owlet (EN) : (rz.) sówka
+[owlish]owlish (EN) : (p.) sowi
+[own]own (EN) : (cz.) posiadać; (cz.) przyznać; (cz.) przyznawać; (cz.) wyznawać; (p.) własny
+[owner]owner (EN) : (rz.) armator; (rz.) posiadacz; (rz.) właściciel
+[ownerless]ownerless (EN) : (p.) niczyj
+[ownership]ownership (EN) : (rz.) posiadanie; (rz.) własność
+[ownerships]ownerships (EN) : (rz.) posiadanie
+[ox]ox (EN) : (rz.) wół; (rz.) wole
+[oxalate]oxalate (EN) : (rz.) szczawian
+[oxalic]oxalic (EN) : (p.) szczawiowy
+[oxidant]oxidant (EN) : (rz.) utleniacz
+[oxidation]oxidation (EN) : (rz.) oksydacja; (rz.) utlenianie; (rz.) utlenienie
+[oxide]oxide (EN) : (rz.) tlenek
+[oxidiser]oxidiser (EN) : (rz.) utleniacz
+[oxidize]oxidize (EN) : (cz.) oksydować; (cz.) tlenić; (cz.) utleniać
+[oxidizer]oxidizer (EN) : (rz.) utleniacz
+[oxygen]oxygen (EN) : (rz.) niedotlenienie; (rz.) tlen; (rz.) tlenienie; (rz.) tlenowiec
+[oxygenate]oxygenate (EN) : (cz.) natleniać; (cz.) utleniać
+[oxygenation]oxygenation (EN) : (rz.) utlenianie; (rz.) utlenienie
+[oxygenic]oxygenic (EN) : (p.) tlenowy
+[oxygenize]oxygenize (EN) : (cz.) utlenić
+[oxymoron]oxymoron (EN) : (rz.) oksymoron
+[oyez]oyez (EN) : (rz.) uwaga
+[oyster]oyster (EN) : (rz.) ostryga; (rz.) ostrygojad
+[ozone]ozone (EN) : (rz.) chód; (rz.) krok; (rz.) ozon
+[ozonosphere]ozonosphere (EN) : (rz.) ozonosfera

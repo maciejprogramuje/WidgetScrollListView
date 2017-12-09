@@ -1,1231 +1,1231 @@
-[cackac]cackać : (czas.) fondle; (czas.) pamper
-[cacko]cacko : (rzecz.) bibelot; (rzecz.) bijou; (rzecz.) falderal; (rzecz.) gem; (rzecz.) gimcrack; (rzecz.) jewel; (rzecz.) kickshaw; (rzecz.) knick; (rzecz.) knickknack; (rzecz.) knick-knack; (rzecz.) trinket
-[cal]cal : (rzecz.) inch
-[calowka]calówka : (rzecz.) inch-rule; (rzecz.) rule
-[capiec]capieć : (czas.) stink
-[cappuccino]cappuccino : (rzecz.) cappuccino
-[capstrzyk]capstrzyk : (rzecz.) tattoo
-[car]car : (rzecz.) tsar
-[carat]carat : (rzecz.) czarism
-[carski]carski : (przym.) tsarist
-[casting]casting : (rzecz.) baring; (rzecz.) topping-up
-[calka]całka : (rzecz.) integral
-[calkiem]całkiem : (przysł.) all; (przysł.) entirely; (przysł.) quite; (przysł.) sheer
-[calkowanie]całkowanie : (rzecz.) integration
-[calkowac]całkować : (czas.) integrate
-[calkowicie]całkowicie : (przysł.) absolutely; (przysł.) altogether; (przysł.) completely; (przysł.) dead; (przysł.) entirely; (przysł.) fairly; (przysł.) fully; (przysł.) purely; (przysł.) quite; (przysł.) solely; (przysł.) through; (przysł.) throughout; (przysł.) totally; (przysł.) utterly; (przysł.) wholly
-[calkowitosc]całkowitość : (rzecz.) integrity; (rzecz.) totality; (rzecz.) wholeness
-[calkowity]całkowity : (przym.) absolute; (przym.) all; (przym.) all-oat; (przym.) all-out; (przym.) clear; (przym.) complete; (przym.) downright; (przym.) entire; (przym.) gross; (przym.) out-and-out; (przym.) outright; (przym.) overall; (przym.) plenary; (przym.) profound; (przym.) thorough; (przym.) total; (przym.) undivided; (przym.) unmitigated; (przym.) utter; (przym.) whole; (przym.) wholehearted
-[calkowy]całkowy : (przym.) integral
-[calo]cało : (przysł.) all; (przysł.) safely
-[calodobowy]całodobowy : (przym.) round-the-clock
-[calodzienny]całodzienny : (przym.) daylong; (przym.) round-the-clock
-[caloksztalt]całokształt : (rzecz.) aggregate; (rzecz.) assemblage; (rzecz.) lifetime; (rzecz.) whole
-[calonocny]całonocny : (przym.) all-night; (przym.) nightlong; (przym.) night-long
-[calopalenie]całopalenie : (rzecz.) holocaust
-[calopalny]całopalny : (przym.) burnt
-[caloroczny]całoroczny : (przym.) all; (przym.) yearlong; (przym.) yearly; (przym.) year-round
-[calostronicowy]całostronicowy : (przym.) full-page
-[calowac]całować : (czas.) buss; (czas.) kiss; (czas.) smooch
-[calosciowo]całościowo : (przysł.) integrally
-[calosciowy]całościowy : (przym.) comprehensive; (przym.) end-to-end; (przym.) overall; (przym.) rational; (przym.) total
-[calosc]całość : (rzecz.) all; (rzecz.) bloc; (rzecz.) entirety; (rzecz.) integer; (rzecz.) integral; (rzecz.) integrity; (rzecz.) total; (rzecz.) totality; (rzecz.) whole
-[calun]całun : (rzecz.) cerement; (rzecz.) pall; (rzecz.) shroud
-[calus]całus : (rzecz.) buss; (rzecz.) kiss; (rzecz.) smacker; (rzecz.) smooch
-[caly]cały : (przym.) entire; (przym.) unharmed; (przym.) whole
-[ceber]ceber : (rzecz.) bucket; (rzecz.) pail
-[cebrzyk]cebrzyk : (rzecz.) kit
-[cebula]cebula : (rzecz.) bulb; (rzecz.) onion; (rzecz.) turnip
-[cebulasty]cebulasty : (przym.) bulbous; (przym.) onion-shaped
-[cebulka]cebulka : (rzecz.) bulb; (rzecz.) corm; (rzecz.) onion
-[cebulkowaty]cebulkowaty : (przym.) bulbous
-[cech]cech : (rzecz.) features; (rzecz.) guild; (rzecz.) tags
-[cecha]cecha : (rzecz.) attribute; (rzecz.) characteristic; (rzecz.) degree; (rzecz.) feature; (rzecz.) hallmark; (rzecz.) hall-mark; (rzecz.) marker; (rzecz.) pointing; (rzecz.) quality; (rzecz.) speciality; (rzecz.) tag; (rzecz.) trait
-[cechowanie]cechowanie : (rzecz.) branding; (rzecz.) marking
-[cechowac]cechować : (czas.) characterize; (czas.) feature; (czas.) have; (czas.) mark
-[cechowy]cechowy : (przym.) guild's
-[cedent]cedent : (rzecz.) assignor; (rzecz.) transferor
-[cedowanie]cedowanie : (rzecz.) cession
-[cedowac]cedować : (czas.) assign; (czas.) cede; (czas.) convey
-[cedr]cedr : (rzecz.) cedar
-[cedrat]cedrat : (rzecz.) citron
-[cedrowy]cedrowy : (przym.) cedarn
-[cedula]ceduła : (rzecz.) quotation
-[cedzak]cedzak : (rzecz.) colander; (rzecz.) strainer
-[cedzenie]cedzenie : (rzecz.) drawl; (rzecz.) filter; (rzecz.) filtration; (rzecz.) straining
-[cedzidlo]cedzidło : (rzecz.) filter; (rzecz.) skimmer; (rzecz.) strainer
-[cedzic]cedzić : (czas.) drawl; (czas.) filter; (czas.) sip; (czas.) strain
-[cefal]cefal : (rzecz.) mullet
-[cegielnia]cegielnia : (rzecz.) brickfield; (rzecz.) brick-field; (rzecz.) brickyard; (rzecz.) brick-yard; (rzecz.) brickyards
-[cegielka]cegiełka : (rzecz.) cake
-[ceglasty]ceglasty : (przym.) brick-red
-[cegla]cegła : (rzecz.) adobe; (rzecz.) brick; (rzecz.) header
-[cekin]cekin : (rzecz.) sequin
-[cel]cel : (rzecz.) aim; (rzecz.) aiming; (rzecz.) ambition; (rzecz.) cause; (rzecz.) design; (rzecz.) destination; (rzecz.) end; (rzecz.) goal; (rzecz.) mark; (rzecz.) object; (rzecz.) objective; (rzecz.) point; (rzecz.) purpose; (rzecz.) scope; (rzecz.) target; (rzecz.) targeting; (rzecz.) tee
-[cela]cela : (rzecz.) cell; (rzecz.) ward
-[celebracja]celebracja : (rzecz.) celebration
-[celebrowanie]celebrowanie : (rzecz.) celebration
-[celebrowac]celebrować : (czas.) celebrate; (czas.) officiate
-[celibat]celibat : (rzecz.) celibacy
-[celka]celka : (rzecz.) carrel; (rzecz.) cell
-[cellon]cellon : (rzecz.) dope
-[celnie]celnie : (przysł.) accurately
-[celnik]celnik : (rzecz.) tax
-[celnosc]celność : (rzecz.) accuracy; (rzecz.) marksmanship
-[celny]celny : (przym.) accurate; (przym.) deserved; (przym.) pithy; (przym.) relevant
-[celofan]celofan : (rzecz.) cellophane; (rzecz.) glassine
-[celowanie]celowanie : (rzecz.) aiming; (rzecz.) targeting
-[celowac]celować : (czas.) aim; (czas.) excel; (czas.) targeting
-[celownik]celownik : (rzecz.) crosshair; (rzecz.) dative; (rzecz.) sight; (rzecz.) viewfinder; (rzecz.) view-finder; (rzecz.) vision
-[celownikowy]celownikowy : (przym.) dative
-[celowo]celowo : (przysł.) deliberately; (przysł.) intentionally; (przysł.) purposefully; (przysł.) purposely
-[celowosc]celowość : (rzecz.) desirability; (rzecz.) purposefulness; (rzecz.) sanity
-[celowy]celowy : (przym.) advisable; (przym.) appropriate; (przym.) deliberate; (przym.) expedient; (przym.) intentional; (przym.) pertinent; (przym.) purposeful; (przym.) purposive; (przym.) special; (przym.) useful; (przym.) wilful
-[celuloid]celuloid : (rzecz.) celluloid; (rzecz.) xylonite
-[celuloza]celuloza : (rzecz.) cellulose
-[cembrowac]cembrować : (czas.) timber
-[cembrowina]cembrowina : (rzecz.) boarding
-[cement]cement : (rzecz.) cement
-[cementacja]cementacja : (rzecz.) carbonization; (rzecz.) cementation; (rzecz.) grouting
-[cementowanie]cementowanie : (rzecz.) cementation
-[cementowac]cementować : (czas.) cement
-[cena]cena : (rzecz.) cost; (rzecz.) price; (rzecz.) prix; (rzecz.) rate; (rzecz.) valuation; (rzecz.) value; (rzecz.) worth
-[cenar]cenar : (rzecz.) caner
-[cenic]cenić : (czas.) appraise; (czas.) appreciate; (czas.) charge; (czas.) cherish; (czas.) esteem; (czas.) repute; (czas.) treasure; (czas.) value
-[cennik]cennik : (rzecz.) pricelist; (rzecz.) price-list
-[cenny]cenny : (przym.) costly; (przym.) gilt-edged; (przym.) precious; (przym.) valuable
-[cenotaf]cenotaf : (rzecz.) cenotaph
-[cent]cent : (rzecz.) cent
-[centaur]centaur : (rzecz.) cents
-[centezymalny]centezymalny : (przym.) centesimal
-[centra]centra : (rzecz.) cross; (rzecz.) F-centres
-[centrala]centrala : (rzecz.) exchange; (rzecz.) headquarters; (rzecz.) switchboard
-[centralista]centralista : (rzecz.) centralist
-[centralizacja]centralizacja : (rzecz.) centralization
-[centralizator]centralizator : (rzecz.) centralizer
-[centralizm]centralizm : (rzecz.) centralism
-[centralizowanie]centralizowanie : (rzecz.) centralization
-[centralizowac]centralizować : (czas.) centralize
-[centralka]centralka : (rzecz.) central; (rzecz.) switchboard
-[centralnie]centralnie : (przysł.) centrally
-[centralny]centralny : (przym.) central
-[centrowanie]centrowanie : (rzecz.) alignment
-[centrowiec]centrowiec : (rzecz.) centrist
-[centrowy]centrowy : (przym.) centrist; (przym.) middle-of-the-road
-[centrum]centrum : (rzecz.) centre; (rzecz.) downtown; (rzecz.) focus; (rzecz.) heartland; (rzecz.) hub; (rzecz.) midpoint; (rzecz.) painkiller
-[centryczny]centryczny : (przym.) centric
-[centryfuga]centryfuga : (rzecz.) centrifuge
-[centrysta]centrysta : (rzecz.) centrist
-[centuria]centuria : (rzecz.) centaury
-[centurion]centurion : (rzecz.) centurion
-[centygram]centygram : (rzecz.) centigram
-[centylitr]centylitr : (rzecz.) centilitre
-[centym]centym : (rzecz.) centime
-[centymetr]centymetr : (rzecz.) centimetre; (rzecz.) tape-measure
-[cenzor]cenzor : (rzecz.) censor; (rzecz.) proctor
-[cenzorski]cenzorski : (przym.) censorial; (przym.) censorious
-[cenzura]cenzura : (rzecz.) censorship
-[cenzuralny]cenzuralny : (przym.) correct
-[cenzurowac]cenzurować : (czas.) censor; (czas.) censurer
-[cenzus]cenzus : (rzecz.) census; (rzecz.) qualification
-[cep]cep : (rzecz.) blockhead; (rzecz.) flail
-[cer]cer : (rzecz.) cerium
-[cera]cera : (rzecz.) complexion; (rzecz.) skin
-[ceramiczny]ceramiczny : (przym.) ceramic
-[ceramik]ceramik : (rzecz.) ceramics
-[ceramika]ceramika : (rzecz.) ceramics; (rzecz.) pottery
-[cerata]cerata : (rzecz.) cerecloth; (rzecz.) oilcloth; (rzecz.) oil-cloth; (rzecz.) oilskin; (rzecz.) wax-cloth
-[ceratka]ceratka : (rzecz.) jaconet
-[cerber]cerber : (rzecz.) Cerberus; (rzecz.) guardian
-[cerebracja]cerebracja : (rzecz.) cerebration
-[cerebralny]cerebralny : (przym.) cerebral
-[ceregiele]ceregiele : (rzecz.) ado; (rzecz.) fuss
-[ceremonia]ceremonia : (rzecz.) ceremony; (rzecz.) rite
-[ceremonialnie]ceremonialnie : (przysł.) ceremonially; (przysł.) formally
-[ceremonialny]ceremonialny : (przym.) ceremonial; (przym.) punctilious
-[ceremonial]ceremoniał : (rzecz.) etiquette; (rzecz.) rite
-[cerkiew]cerkiew : (rzecz.) church
-[cerowaczka]cerowaczka : (rzecz.) darner
-[cerowanie]cerowanie : (rzecz.) darning
-[cerowac]cerować : (czas.) darn
-[cerowy]cerowy : (przym.) eerie
-[certowac]certować : (czas.) fuss
-[certyfikacja]certyfikacja : (rzecz.) certification
-[certyfikat]certyfikat : (rzecz.) certificate; (rzecz.) certification
-[certyfikowac]certyfikować : (czas.) certify
-[cesarski]cesarski : (przym.) imperial
-[cesarstwo]cesarstwo : (rzecz.) empery; (rzecz.) empire
-[cesarz]cesarz : (rzecz.) emperor
-[cesja]cesja : (rzecz.) assignment; (rzecz.) cession; (rzecz.) transfer
-[cesjonariusz]cesjonariusz : (rzecz.) assignee; (rzecz.) cessionary; (rzecz.) grantee; (rzecz.) transferee
-[cetan]cetan : (rzecz.) hexadecane
-[cetnar]cetnar : (rzecz.) hundredweight; (rzecz.) quintal
-[cetyna]cetyna : (rzecz.) cetin; (rzecz.) needle-cuts
-[cewienie]cewienie : (rzecz.) spooling
-[cewka]cewka : (rzecz.) bobbin; (rzecz.) coil; (rzecz.) duct; (rzecz.) reel; (rzecz.) spool
-[cewkowy]cewkowy : (przym.) urethral
-[cewnik]cewnik : (rzecz.) catheter
-[cewnikowanie]cewnikowanie : (rzecz.) catheterize; (rzecz.) catheters
-[cewnikowac]cewnikować : (czas.) catheterize
-[cez]cez : (rzecz.) caesium
-[cezura]cezura : (rzecz.) caesura
-[chaber]chaber : (rzecz.) cornflower
-[chabeta]chabeta : (rzecz.) jade
-[chabrowy]chabrowy : (przym.) blue
-[chadzac]chadzać : (czas.) perambulate
-[chalcedon]chalcedon : (rzecz.) chalcedony
-[chalkopiryt]chalkopiryt : (rzecz.) chalcopyrite
-[cham]cham : (rzecz.) bastard; (rzecz.) boor; (rzecz.) brute; (rzecz.) cad; (rzecz.) lout; (rzecz.) rustic; (rzecz.) tyke
-[chamiec]chamieć : (czas.) coarsen
-[chamski]chamski : (przym.) boorish; (przym.) caddish
-[chamstwo]chamstwo : (rzecz.) boorishness; (rzecz.) caddishness; (rzecz.) riffraff
-[chan]chan : (rzecz.) khan
-[chanat]chanat : (rzecz.) khanate
-[chandra]chandra : (rzecz.) blues; (rzecz.) spleen
-[chaos]chaos : (rzecz.) chaos
-[chaotycznie]chaotycznie : (przysł.) chaotically; (przysł.) incoherently; (przysł.) pell-mell
-[chaotyczny]chaotyczny : (przym.) chaotic; (przym.) desultory; (przym.) disjointed; (przym.) disorderly; (przym.) incoherent; (przym.) rambling
-[chapnac]chapnąć : (czas.) snap
-[charakter]charakter : (rzecz.) capacity; (rzecz.) character; (rzecz.) make-up; (rzecz.) nature; (rzecz.) overtone; (rzecz.) spirit; (rzecz.) spunk; (rzecz.) temper
-[charakterystycznie]charakterystycznie : (przysł.) characteristically
-[charakterystyczny]charakterystyczny : (przym.) characteristic; (przym.) distinctive; (przym.) habitual; (przym.) racy; (przym.) representative; (przym.) typical
-[charakterystyka]charakterystyka : (rzecz.) character; (rzecz.) characteristic; (rzecz.) characteristics; (rzecz.) differential; (rzecz.) peculiarity; (rzecz.) profile
-[charakteryzacja]charakteryzacja : (rzecz.) characterization; (rzecz.) makeup; (rzecz.) make-up
-[charakteryzowanie]charakteryzowanie : (rzecz.) characterization
-[charakteryzowac]charakteryzować : (czas.) characterize; (czas.) define; (czas.) typify
-[charczec]charczeć : (czas.) wheeze
-[chart]chart : (rzecz.) greyhound
-[charytatywnosc]charytatywność : (rzecz.) charity
-[charytatywny]charytatywny : (przym.) charitable
-[charyzma]charyzma : (rzecz.) charisma
-[charyzmatyczny]charyzmatyczny : (przym.) charismatic
-[chaszcze]chaszcze : (rzecz.) brushwood; (rzecz.) scrub; (rzecz.) thicket; (rzecz.) thickets
-[chata]chata : (rzecz.) cabin; (rzecz.) chalet; (rzecz.) cottage; (rzecz.) crib; (rzecz.) hut; (rzecz.) shack; (rzecz.) shanty
-[chatka]chatka : (rzecz.) cabana; (rzecz.) chalet; (rzecz.) cottage; (rzecz.) hut; (rzecz.) hutch
-[chala]chała : (rzecz.) trash
-[chalat]chałat : (rzecz.) overall; (rzecz.) smock
-[chalka]chałka : (rzecz.) chalk
-[chaltura]chałtura : (rzecz.) hackwork; (rzecz.) moonlighting
-[chalupa]chałupa : (rzecz.) cabin; (rzecz.) cottage; (rzecz.) hovel; (rzecz.) hut; (rzecz.) shack; (rzecz.) shanty
-[chalupka]chałupka : (rzecz.) cottage
-[chalupnictwo]chałupnictwo : (rzecz.) homework
-[chalupnik]chałupnik : (rzecz.) cottager
-[chalwa]chałwa : (rzecz.) halva; (rzecz.) halvah
-[chciec]chcieć : (czas.) elect; (czas.) need; (czas.) want; (czas.) will; (czas.) wish
-[chciwie]chciwie : (przysł.) avidly; (przysł.) greedily; (przysł.) hungrily
-[chciwiec]chciwiec : (rzecz.) cormorant; (rzecz.) coveter; (rzecz.) grabber
-[chciwosc]chciwość : (rzecz.) avarice; (rzecz.) avidity; (rzecz.) covetousness; (rzecz.) cupidity; (rzecz.) greed; (rzecz.) greediness
-[chciwy]chciwy : (przym.) avaricious; (przym.) avid; (przym.) covetous; (przym.) greedy; (przym.) insatiable; (przym.) rapacious
-[chemia]chemia : (rzecz.) chemistry
-[chemicznie]chemicznie : (przysł.) chemically
-[chemiczny]chemiczny : (przym.) chemical
-[chemigrafia]chemigrafia : (rzecz.) photoengraving; (rzecz.) zincograph; (rzecz.) zincography
-[chemik]chemik : (rzecz.) chemist
-[chemikalia]chemikalia : (rzecz.) chemical; (rzecz.) chemicals
-[chemioterapia]chemioterapia : (rzecz.) chemotherapy
-[chemizm]chemizm : (rzecz.) chemistry
-[chemosynteza]chemosynteza : (rzecz.) chemosynthesis
-[chemoterapeutyczny]chemoterapeutyczny : (przym.) chemotherapeutic
-[chemoterapia]chemoterapia : (rzecz.) chemotherapy
-[chemotropizm]chemotropizm : (rzecz.) chemotropism
-[cherlactwo]cherlactwo : (rzecz.) decrepitude; (rzecz.) weakness
-[cherlak]cherlak : (rzecz.) invalid; (rzecz.) valetudinarian; (rzecz.) weakling
-[cherlawy]cherlawy : (przym.) puny; (przym.) sickly; (przym.) weedy
-[cherubin]cherubin : (rzecz.) cherub; (rzecz.) cherubim
-[chelpienie]chełpienie : (rzecz.) bragging; (rzecz.) swagger
-[chelpic]chełpić : (czas.) boast; (czas.) brag; (czas.) pride; (czas.) vaunt
-[chelpliwie]chełpliwie : (przysł.) gloatingly
-[chelpliwosc]chełpliwość : (rzecz.) boastfulness; (rzecz.) bounce; (rzecz.) vainglory
-[chelpliwy]chełpliwy : (przym.) boastful; (przym.) brash; (przym.) magniloquent; (przym.) vainglorious
-[chichot]chichot : (rzecz.) chortle; (rzecz.) chuckle; (rzecz.) giggle; (rzecz.) snigger; (rzecz.) titter
-[chichotanie]chichotanie : (rzecz.) giggle; (rzecz.) simper; (rzecz.) titter
-[chichotac]chichotać : (czas.) chortle; (czas.) chuckle; (czas.) giggle; (czas.) snigger; (czas.) titter
-[chimera]chimera : (rzecz.) chimera; (rzecz.) maggot
-[chimerycznosc]chimeryczność : (rzecz.) unreality
-[chimeryczny]chimeryczny : (przym.) chimerical; (przym.) fantastic
-[chimeryk]chimeryk : (rzecz.) visionary
-[chinina]chinina : (rzecz.) quinine
-[chiralnosc]chiralność : (rzecz.) dissymmetry
-[chiromancja]chiromancja : (rzecz.) chiromancy; (rzecz.) palmistry
-[chiromanta]chiromanta : (rzecz.) palmist
-[chiropraktyka]chiropraktyka : (rzecz.) chiropractic
-[chirurg]chirurg : (rzecz.) sawbones; (rzecz.) surgeon
-[chirurgia]chirurgia : (rzecz.) surgery
-[chirurgicznie]chirurgicznie : (przysł.) surgically
-[chirurgiczny]chirurgiczny : (przym.) surgical
-[chityna]chityna : (rzecz.) chitin
-[chlanie]chlanie : (rzecz.) bibbing
-[chlapa]chlapa : (rzecz.) slush
-[chlapanie]chlapanie : (rzecz.) blabbing; (rzecz.) slush; (rzecz.) spatter
-[chlapac]chlapać : (czas.) splash
-[chlastac]chlastać : (czas.) splash; (czas.) whack
-[chlac]chlać : (czas.) booze
-[chlasniecie]chlaśnięcie : (rzecz.) swish
-[chleb]chleb : (rzecz.) bread
-[chlebak]chlebak : (rzecz.) breadbox; (rzecz.) haversack; (rzecz.) knapsack
-[chlebodajny]chlebodajny : (przym.) fertile
-[chlebodawca]chlebodawca : (rzecz.) breadwinner; (rzecz.) employer
-[chlebodawczyni]chlebodawczyni : (rzecz.) employer
-[chlew]chlew : (rzecz.) pigpen; (rzecz.) pigsty; (rzecz.) sty
-[chlewnia]chlewnia : (rzecz.) piggery
-[chlipac]chlipać : (czas.) burble; (czas.) entail; (czas.) lap; (czas.) snivel; (czas.) sob
-[chlor]chlor : (rzecz.) chlorine
-[chloral]chloral : (rzecz.) chloral
-[chloran]chloran : (rzecz.) chlorate
-[chlorator]chlorator : (rzecz.) chlorinator
-[chlordan]chlordan : (rzecz.) chlordane
-[chlorek]chlorek : (rzecz.) chloride
-[chlorofil]chlorofil : (rzecz.) chlorophyll
-[chloroform]chloroform : (rzecz.) chloroform
-[chloroformowanie]chloroformowanie : (rzecz.) chloroforming
-[chloroformowac]chloroformować : (czas.) chloroform
-[chlorometan]chlorometan : (rzecz.) chloromethane
-[chloropikryna]chloropikryna : (rzecz.) chloropicrin
-[chloroplast]chloroplast : (rzecz.) chloroplast
-[chloropren]chloropren : (rzecz.) chloroprene
-[chlorotetracyklina]chlorotetracyklina : (rzecz.) chlortetracycline
-[chlorowanie]chlorowanie : (rzecz.) chlorination
-[chlorowany]chlorowany : (przym.) chlorinated
-[chlorowac]chlorować : (czas.) chlorinate
-[chlorowiec]chlorowiec : (rzecz.) halogen
-[chlorownik]chlorownik : (rzecz.) chlorinator
-[chlorowodorek]chlorowodorek : (rzecz.) hydrochloride
-[chlorowodorowy]chlorowodorowy : (przym.) hydrochloric
-[chloryn]chloryn : (rzecz.) chlorite
-[chloryt]chloryt : (rzecz.) chlorite
-[chluba]chluba : (rzecz.) credit; (rzecz.) glory; (rzecz.) jewel; (rzecz.) pride
-[chlubic]chlubić : (czas.) glory
-[chlubnie]chlubnie : (przysł.) creditably
-[chlubny]chlubny : (przym.) creditable; (przym.) glorious; (przym.) praiseworthy
-[chlupanie]chlupanie : (rzecz.) squelch
-[chlupac]chlupać : (czas.) flop; (czas.) lap; (czas.) splash; (czas.) squelch
-[chlupot]chlupot : (rzecz.) lap; (rzecz.) squelch
-[chlupotanie]chlupotanie : (rzecz.) squelch
-[chlupotac]chlupotać : (czas.) squelch
-[chlustac]chlustać : (czas.) gush; (czas.) spout; (czas.) spurt
-[chmara]chmara : (rzecz.) horde; (rzecz.) host; (rzecz.) swarm; (rzecz.) throng
-[chmiel]chmiel : (rzecz.) hop
-[chmura]chmura : (rzecz.) cloud; (rzecz.) cumulus; (rzecz.) nimbus; (rzecz.) thundercloud
-[chmurny]chmurny : (przym.) black; (przym.) cloudy; (przym.) glum
-[chmurzenie]chmurzenie : (rzecz.) cloud
-[chmurzyc]chmurzyć : (czas.) frown
-[chochla]chochla : (rzecz.) ladle; (rzecz.) scoop
-[chochlik]chochlik : (rzecz.) goblin; (rzecz.) gremlin; (rzecz.) imp; (rzecz.) kobold; (rzecz.) pixie; (rzecz.) pixy; (rzecz.) puck; (rzecz.) sprite
-[chochol]chochoł : (rzecz.) mulch
-[chociaz]chociaż : (spójnik) albeit; (spójnik) although; (spójnik) as; (spójnik) though
-[chodak]chodak : (rzecz.) clod; (rzecz.) clog; (rzecz.) sabot
-[chodliwy]chodliwy : (przym.) fast-selling; (przym.) saleable
-[chodnik]chodnik : (rzecz.) footpath; (rzecz.) footway; (rzecz.) pathway; (rzecz.) pavement; (rzecz.) sidewalk; (rzecz.) side-walk; (rzecz.) walkway
-[chodzenie]chodzenie : (rzecz.) walking
-[chodziarz]chodziarz : (rzecz.) walkers
-[chodzik]chodzik : (rzecz.) walker
-[chodzic]chodzić : (czas.) attend; (czas.) come; (czas.) date; (czas.) descend; (czas.) go; (czas.) hike; (czas.) walk
-[choina]choina : (rzecz.) pine
-[choinka]choinka : (rzecz.) fir; (rzecz.) pine; (rzecz.) spruce
-[choinkowy]choinkowy : (przym.) spruce
-[chojrak]chojrak : (rzecz.) daredevil; (rzecz.) dare-devil
-[cholera]cholera : (rzecz.) cholera; (rzecz.) shit
-[cholernie]cholernie : (przysł.) cursedly
-[cholernik]cholernik : (rzecz.) spitfire
-[cholerny]cholerny : (przym.) bally; (przym.) blasted; (przym.) bloody; (przym.) damned; (przym.) hellish
-[cholerstwo]cholerstwo : (rzecz.) shit
-[choleryczny]choleryczny : (przym.) choleric
-[choleryk]choleryk : (rzecz.) spitfire
-[cholesterol]cholesterol : (rzecz.) cholesterol
-[cholewa]cholewa : (rzecz.) bootleg; (rzecz.) leg
-[cholewka]cholewka : (rzecz.) shoe-top; (rzecz.) upper
-[chomik]chomik : (rzecz.) hamster
-[chomatko]chomątko : (rzecz.) clip; (rzecz.) thimble
-[chomato]chomąto : (rzecz.) collar; (rzecz.) horse-collar; (rzecz.) stirrup
-[choral]chorał : (rzecz.) chorale
-[choreograf]choreograf : (rzecz.) choreographer
-[choreografia]choreografia : (rzecz.) choreography
-[choreograficznie]choreograficznie : (przysł.) choreographically
-[choreograficzny]choreograficzny : (przym.) choreographic
-[choroba]choroba : (rzecz.) affection; (rzecz.) ailment; (rzecz.) disease; (rzecz.) disorder; (rzecz.) illness; (rzecz.) infirmity; (rzecz.) malady; (rzecz.) sickness; (rzecz.) trouble; (rzecz.) vacation
-[chorobliwie]chorobliwie : (przysł.) morbidly
-[chorobliwosc]chorobliwość : (rzecz.) morbidity
-[chorobliwy]chorobliwy : (przym.) abnormal; (przym.) morbid; (przym.) unhealthy
-[chorobotworczosc]chorobotwórczość : (rzecz.) pathogenesis
-[chorobotworczy]chorobotwórczy : (przym.) pathogenic
-[chorobowosc]chorobowość : (rzecz.) morbidity; (rzecz.) prevalence
-[chorobowy]chorobowy : (przym.) pathological
-[chorowac]chorować : (czas.) lie; (czas.) sicken; (czas.) suffer
-[chorowitosc]chorowitość : (rzecz.) sickliness; (rzecz.) valetudinarianism
-[chorowity]chorowity : (przym.) sickly
-[chory]chory : (przym.) afflicted; (przym.) bad; (przym.) bedridden; (przym.) bed-ridden; (przym.) diseased; (przym.) ill; (przym.) ill-tempered; (przym.) infirm; (przym.) insane; (przym.) invalid; (przym.) liverish; (przym.) sick; (przym.) sore; (przym.) unhealthy; (przym.) unwell
-[choragiew]chorągiew : (rzecz.) banner; (rzecz.) ensign; (rzecz.) flag; (rzecz.) streamer
-[choragiewka]chorągiewka : (rzecz.) flag; (rzecz.) pennant
-[chorazy]chorąży : (rzecz.) cornet; (rzecz.) midshipman; (rzecz.) standard-bearer
-[chow-chow]chow-chow : (rzecz.) chow
-[chowany]chowany : (przym.) retractable
-[chowac]chować : (czas.) bury; (czas.) hide; (czas.) hoard; (czas.) put; (czas.) putt; (czas.) retract; (czas.) sheathe; (czas.) stow; (czas.) tuck
-[choc]choć : (spójnik) although
-[chrabaszcz]chrabąszcz : (rzecz.) beetle; (rzecz.) chafer; (rzecz.) cockchafer
-[chrap]chrap : (rzecz.) nostrils; (rzecz.) snore
-[chrapa]chrapa : (rzecz.) nostril
-[chrapanie]chrapanie : (rzecz.) snore
-[chrapac]chrapać : (czas.) snore
-[chrapliwie]chrapliwie : (przysł.) hoarsely
-[chrapliwosc]chrapliwość : (rzecz.) asperity
-[chrapliwy]chrapliwy : (przym.) harsh; (przym.) hoarse; (przym.) husky; (przym.) throaty
-[chrestomatia]chrestomatia : (rzecz.) chrestomathy
-[chrobot]chrobot : (rzecz.) grating
-[chrobotac]chrobotać : (czas.) scrape; (czas.) scratch
-[chrobotliwy]chrobotliwy : (przym.) grating
-[chrobry]chrobry : (przym.) brave; (przym.) intrepid; (przym.) valiant
-[chrom]chrom : (rzecz.) chrome; (rzecz.) chromium
-[chromanie]chromanie : (rzecz.) hobble; (rzecz.) lameness
-[chromatograf]chromatograf : (rzecz.) chromatograph
-[chromatografia]chromatografia : (rzecz.) chromatography
-[chromatycznie]chromatycznie : (przysł.) chromatically
-[chromatycznosc]chromatyczność : (rzecz.) chromaticity
-[chromatyczny]chromatyczny : (przym.) chromatic
-[chromatyka]chromatyka : (rzecz.) chromatics
-[chromatyna]chromatyna : (rzecz.) chromatin
-[chromac]chromać : (czas.) hobble; (czas.) limp
-[chromian]chromian : (rzecz.) chromate
-[chrominancja]chrominancja : (rzecz.) chrominance
-[chromolitografia]chromolitografia : (rzecz.) chromolithograph
-[chromonikielina]chromonikielina : (rzecz.) chrome-nickel
-[chromosom]chromosom : (rzecz.) chromosome
-[chromosomowy]chromosomowy : (przym.) chromosomal
-[chromowanie]chromowanie : (rzecz.) chroming
-[chromowy]chromowy : (przym.) chromic
-[chromy]chromy : (przym.) chromes; (przym.) lame
-[chronicznie]chronicznie : (przysł.) chronically
-[chroniczny]chroniczny : (przym.) chronic
-[chroniony]chroniony : (przym.) immune
-[chronic]chronić : (czas.) guard; (czas.) prevent; (czas.) protect; (czas.) safeguard
-[chronograf]chronograf : (rzecz.) chronograph
-[chronologia]chronologia : (rzecz.) chronology
-[chronologicznie]chronologicznie : (przysł.) chronologically
-[chronologiczny]chronologiczny : (przym.) chronological
-[chronometr]chronometr : (rzecz.) chronometer; (rzecz.) timekeeper
-[chronometraz]chronometraż : (rzecz.) timekeeping; (rzecz.) timing
-[chronometrazysta]chronometrażysta : (rzecz.) timekeeper; (rzecz.) timer
-[chronometria]chronometria : (rzecz.) chronometry
-[chronoskop]chronoskop : (rzecz.) chronoscope
-[chropowato]chropowato : (przysł.) raggedly; (przysł.) roughly
-[chropowatosc]chropowatość : (rzecz.) asperity; (rzecz.) coarseness; (rzecz.) harshness; (rzecz.) roughness
-[chropowaty]chropowaty : (przym.) coarse; (przym.) gnarled; (przym.) gnarly; (przym.) grainy; (przym.) harsh; (przym.) ragged; (przym.) rough; (przym.) rugged; (przym.) scabrous
-[chrupanie]chrupanie : (rzecz.) crunch
-[chrupac]chrupać : (czas.) champ; (czas.) crack; (czas.) crunch; (czas.) munch
-[chrupot]chrupot : (rzecz.) crackle; (rzecz.) crash
-[chrust]chrust : (rzecz.) brush; (rzecz.) brushwood; (rzecz.) brush-wood; (rzecz.) firewood
-[chrusciel]chruściel : (rzecz.) crake
-[chryja]chryja : (rzecz.) ruckus
-[chrypa]chrypa : (rzecz.) hoarseness
-[chrypienie]chrypienie : (rzecz.) croak
-[chrypiec]chrypieć : (czas.) croak; (czas.) grate
-[chrypka]chrypka : (rzecz.) hoarseness
-[chrypliwy]chrypliwy : (przym.) grating; (przym.) hoarse
-[chrystianizacja]chrystianizacja : (rzecz.) Christianization
-[chrystianizm]chrystianizm : (rzecz.) Christianity
-[chryzantem]chryzantem : (rzecz.) chrysanthemum
-[chryzantema]chryzantema : (rzecz.) chrysanthemum
-[chryzmat]chryzmat : (rzecz.) chrism
-[chrzan]chrzan : (rzecz.) horseradish; (rzecz.) horse-radish
-[chrzanic]chrzanić : (czas.) cobble
-[chrzcielnica]chrzcielnica : (rzecz.) font; (rzecz.) laver
-[chrzcielny]chrzcielny : (przym.) baptismal
-[chrzcic]chrzcić : (czas.) baptise; (czas.) baptize; (czas.) christen
-[chrzczenie]chrzczenie : (rzecz.) baptizing; (rzecz.) christening
-[chrzest]chrzest : (rzecz.) baptism; (rzecz.) christening; (rzecz.) immersion
-[chrzestna]chrzestna : (rzecz.) cartilage; (rzecz.) godmother
-[chrzestny]chrzestny : (przym.) baptismal
-[chrzescijanin]chrześcijanin : (rzecz.) Christian
-[chrzescijanstwo]chrześcijaństwo : (rzecz.) Christianity
-[chrzesniak]chrześniak : (rzecz.) daughter; (rzecz.) godchild; (rzecz.) god-child; (rzecz.) godson
-[chrzakanie]chrząkanie : (rzecz.) grunt
-[chrzakac]chrząkać : (czas.) grunt
-[chrzastka]chrząstka : (rzecz.) cartilage; (rzecz.) gristle
-[chrzastkowaty]chrząstkowaty : (przym.) cartilaginous; (przym.) gristly
-[chrzastkowy]chrząstkowy : (przym.) cartilaginous
-[chrzaszcz]chrząszcz : (rzecz.) beetle; (rzecz.) cockchafer
-[chrzest]chrzęst : (rzecz.) clash; (rzecz.) clatter; (rzecz.) crackle; (rzecz.) crash; (rzecz.) crunch
-[chrzescic]chrzęścić : (czas.) crackle; (czas.) crunch; (czas.) grind; (czas.) grit
-[chuch]chuch : (rzecz.) puff
-[chuchac]chuchać : (czas.) breathe; (czas.) fondle; (czas.) puff
-[chuchro]chuchro : (rzecz.) weakling
-[chudniecie]chudnięcie : (rzecz.) thinning
-[chudoba]chudoba : (rzecz.) possessions
-[chudosc]chudość : (rzecz.) gauntness; (rzecz.) leanness; (rzecz.) thinness
-[chudy]chudy : (przym.) gaunt; (przym.) lank; (przym.) lanky; (przym.) lean; (przym.) meagre; (przym.) scraggy; (przym.) scrawny; (przym.) skinny; (przym.) thin; (przym.) thinner; (przym.) thinnest
-[chudzielec]chudzielec : (rzecz.) twiggy
-[chudzina]chudzina : (rzecz.) starveling
-[chuligan]chuligan : (rzecz.) hoodlum; (rzecz.) hooligan; (rzecz.) larrikin; (rzecz.) roughneck; (rzecz.) rough-neck; (rzecz.) rowdy; (rzecz.) thug
-[chuliganic]chuliganić : (czas.) brawl
-[chuliganstwo]chuligaństwo : (rzecz.) hooliganism
-[chusta]chusta : (rzecz.) headscarf; (rzecz.) scarf; (rzecz.) shawl; (rzecz.) wrapper
-[chusteczka]chusteczka : (rzecz.) handkerchief
-[chustka]chustka : (rzecz.) handkerchief; (rzecz.) kerchief; (rzecz.) napkin; (rzecz.) neckerchief; (rzecz.) scarf
-[chuc]chuć : (rzecz.) concupiscence; (rzecz.) lust
-[chwalba]chwalba : (rzecz.) boasting; (rzecz.) encomium; (rzecz.) eulogy; (rzecz.) praise
-[chwalca]chwalca : (rzecz.) eulogist; (rzecz.) flatterer
-[chwalebnie]chwalebnie : (przysł.) commendably
-[chwalebny]chwalebny : (przym.) commendable; (przym.) glorious; (przym.) laudable; (przym.) meritorious; (przym.) praiseworthy
-[chwalipieta]chwalipięta : (rzecz.) boaster; (rzecz.) braggart
-[chwalic]chwalić : (czas.) boast; (czas.) brag; (czas.) commend; (czas.) compliment; (czas.) glorify; (czas.) laud; (czas.) praise
-[chwastobojczy]chwastobójczy : (przym.) detergent; (przym.) herbicidal
-[chwat]chwat : (rzecz.) blade
-[chwala]chwała : (rzecz.) glory; (rzecz.) laud; (rzecz.) praise
-[chwianie]chwianie : (rzecz.) flicker; (rzecz.) flutter; (rzecz.) stagger; (rzecz.) vacillation
-[chwiac]chwiać : (czas.) falter; (czas.) flicker; (czas.) fluctuate; (czas.) shake; (czas.) stagger; (czas.) sway; (czas.) teeter; (czas.) toddle; (czas.) toss; (czas.) totter; (czas.) vacillate; (czas.) waver; (czas.) wobble
-[chwiejnosc]chwiejność : (rzecz.) indecision; (rzecz.) instability; (rzecz.) shakiness; (rzecz.) stagger; (rzecz.) unsteadiness
-[chwiejny]chwiejny : (przym.) indecisive; (przym.) irresolute; (przym.) labile; (przym.) pendulous; (przym.) rocky; (przym.) shaky; (przym.) slippery; (przym.) tottering; (przym.) unstable; (przym.) unsteady; (przym.) wishy-washy
-[chwila]chwila : (rzecz.) instant; (rzecz.) juncture; (rzecz.) minute; (rzecz.) moment; (rzecz.) spell; (rzecz.) time; (rzecz.) twinkling; (rzecz.) wee
-[chwilka]chwilka : (rzecz.) jiffy; (rzecz.) moment; (rzecz.) sec; (rzecz.) wee
-[chwilowo]chwilowo : (przysł.) momentarily; (przysł.) temporarily
-[chwilowy]chwilowy : (przym.) momentary; (przym.) temporary; (przym.) transient
-[chwycic]chwycić : (czas.) clutch; (czas.) fasten; (czas.) fumble; (czas.) grab; (czas.) grasp; (czas.) snap
-[chwyt]chwyt : (rzecz.) bite; (rzecz.) clutch; (rzecz.) device; (rzecz.) fang; (rzecz.) gimmick; (rzecz.) grapple; (rzecz.) grasp; (rzecz.) grip; (rzecz.) hand; (rzecz.) handle; (rzecz.) handshake; (rzecz.) hold; (rzecz.) knack; (rzecz.) nip; (rzecz.) pan; (rzecz.) ploy; (rzecz.) snap; (rzecz.) tang; (rzecz.) trick
-[chwytacz]chwytacz : (rzecz.) catcher; (rzecz.) grip
-[chwytak]chwytak : (rzecz.) clutch; (rzecz.) grapple
-[chwytanie]chwytanie : (rzecz.) capture; (rzecz.) seizing
-[chwytac]chwytać : (czas.) bite; (czas.) captivate; (czas.) catch; (czas.) caught; (czas.) clasp; (czas.) clung; (czas.) clutch; (czas.) comprehend; (czas.) fasten; (czas.) fumble; (czas.) grab; (czas.) grapple; (czas.) grasp; (czas.) grasped; (czas.) gripe; (czas.) hold; (czas.) seize; (czas.) snap; (czas.) snatch; (czas.) tong
-[chwytliwy]chwytliwy : (przym.) catchy; (przym.) sweet
-[chwytnik]chwytnik : (rzecz.) receptor
-[chwytny]chwytny : (przym.) prehensile
-[chyba]chyba : (przysł.) probably; (przysł.) surely
-[chybiac]chybiać : (czas.) fail; (czas.) miss
-[chybienie]chybienie : (rzecz.) miss
-[chybic]chybić : (czas.) miscarry; (czas.) miss
-[chybki]chybki : (przym.) pliant; (przym.) supple; (przym.) swift
-[chybotanie]chybotanie : (rzecz.) shimmy
-[chybotac]chybotać : (czas.) rock; (czas.) shake; (czas.) wobble
-[chybotliwy]chybotliwy : (przym.) rickety; (przym.) shaky
-[chylenie]chylenie : (rzecz.) bowing
-[chylic]chylić : (czas.) bow; (czas.) decline; (czas.) kowtow; (czas.) lean; (czas.) sink
-[chymozyna]chymozyna : (rzecz.) rennin
-[chytrosc]chytrość : (rzecz.) art; (rzecz.) artfulness; (rzecz.) artifice; (rzecz.) cunning; (rzecz.) foxiness; (rzecz.) slyness; (rzecz.) wiliness
-[chytry]chytry : (przym.) arch; (przym.) artful; (przym.) astute; (przym.) canny; (przym.) crafty; (przym.) cunning; (przym.) cute; (przym.) guileful; (przym.) knowing; (przym.) mercenary; (przym.) shrewd; (przym.) sly; (przym.) wily
-[chytrze]chytrze : (przysł.) craftily; (przysł.) cunningly; (przysł.) knowingly
-[chylkiem]chyłkiem : (przysł.) stealthily
-[chylomierz]chyłomierz : (rzecz.) inclinometer
-[chyzo]chyżo : (przysł.) fleetly
-[chyzosc]chyżość : (rzecz.) velocity
-[chyzy]chyży : (przym.) light-footed; (przym.) swift
-[chod]chód : (rzecz.) gait; (rzecz.) motion; (rzecz.) ozone; (rzecz.) pace; (rzecz.) stalk; (rzecz.) tread; (rzecz.) walk; (rzecz.) walking
-[chor]chór : (rzecz.) choir; (rzecz.) chorus; (rzecz.) loft; (rzecz.) quire
-[choralny]chóralny : (przym.) choral; (przym.) united
-[chorowy]chórowy : (przym.) choral; (przym.) choric
-[chorzysta]chórzysta : (rzecz.) chorister
-[chow]chów : (rzecz.) breeding
-[chedogi]chędogi : (przym.) tidy
-[chetka]chętka : (rzecz.) fancy; (rzecz.) whim
-[chetnie]chętnie : (przysł.) eagerly; (przysł.) fain; (przysł.) freely; (przysł.) gladly; (przysł.) readily; (przysł.) willingly
-[chetny]chętny : (przym.) anxious; (przym.) eager; (przym.) keen
-[chec]chęć : (rzecz.) desire; (rzecz.) inclination; (rzecz.) intention; (rzecz.) itch; (rzecz.) splurge; (rzecz.) will; (rzecz.) willingness; (rzecz.) wish; (rzecz.) zest
-[chleptac]chłeptać : (czas.) gulp; (czas.) lap; (czas.) sip; (czas.) sup
-[chlodnia]chłodnia : (rzecz.) cold; (rzecz.) freezer; (rzecz.) hotbed; (rzecz.) refrigerator
-[chlodnica]chłodnica : (rzecz.) condenser; (rzecz.) cooler; (rzecz.) radiator
-[chlodnictwo]chłodnictwo : (rzecz.) refrigeration
-[chlodnik]chłodnik : (rzecz.) cooler
-[chlodniowiec]chłodniowiec : (rzecz.) reefer
-[chlodno]chłodno : (przysł.) coldly; (przysł.) coolly
-[chlodny]chłodny : (przym.) chill; (przym.) chilly; (przym.) clammy; (przym.) cold; (przym.) cool; (przym.) cooled; (przym.) distant; (przym.) frigid; (przym.) tepid
-[chlodzenie]chłodzenie : (rzecz.) cooling; (rzecz.) refrigeration
-[chlodziarka]chłodziarka : (rzecz.) refrigerator
-[chlodziwo]chłodziwo : (rzecz.) coolant
-[chlodzic]chłodzić : (czas.) chill; (czas.) cool; (czas.) quench; (czas.) refresh; (czas.) refrigerate
-[chlonnosc]chłonność : (rzecz.) receptivity; (rzecz.) responsiveness
-[chlonny]chłonny : (przym.) absorbent; (przym.) absorptive; (przym.) bibulous; (przym.) lymphatic; (przym.) receptive
-[chlonac]chłonąć : (czas.) absorb; (czas.) devour; (czas.) imbibe; (czas.) inbreathe
-[chlop]chłop : (rzecz.) chuff; (rzecz.) farmer; (rzecz.) fellow; (rzecz.) kern; (rzecz.) peasant; (rzecz.) serf
-[chlopak]chłopak : (rzecz.) boy; (rzecz.) boyfriend; (rzecz.) date; (rzecz.) gossoon; (rzecz.) jack; (rzecz.) lad; (rzecz.) youngster; (rzecz.) youth
-[chlopczyca]chłopczyca : (rzecz.) hoyden; (rzecz.) tomboy
-[chlopczyk]chłopczyk : (rzecz.) boy
-[chlopek]chłopek : (rzecz.) bumpkin
-[chlopiec]chłopiec : (rzecz.) boy; (rzecz.) boyfriend; (rzecz.) lad
-[chlopisko]chłopisko : (rzecz.) chap
-[chlopiectwo]chłopięctwo : (rzecz.) boyhood
-[chlopiecy]chłopięcy : (przym.) boyish; (przym.) puerile
-[chlopski]chłopski : (przym.) rustic
-[chlopskosc]chłopskość : (rzecz.) rusticity
-[chlopstwo]chłopstwo : (rzecz.) peasantry
-[chlosta]chłosta : (rzecz.) caning; (rzecz.) flogging; (rzecz.) lashing
-[chlostac]chłostać : (czas.) cane; (czas.) flog; (czas.) lam; (czas.) lash; (czas.) scathe; (czas.) slash; (czas.) swish; (czas.) thrash; (czas.) thresh; (czas.) whale; (czas.) whip
-[chlystek]chłystek : (rzecz.) hobbledehoy; (rzecz.) squirt
-[chlod]chłód : (rzecz.) chill; (rzecz.) chilliness; (rzecz.) cold; (rzecz.) coldness; (rzecz.) cool; (rzecz.) coolness; (rzecz.) freshness; (rzecz.) frigidness
-[ciachac]ciachać : (czas.) chop
-[ciachniecie]ciachnięcie : (rzecz.) cut; (rzecz.) snip
-[ciachnac]ciachnąć : (czas.) snip
-[ciamajda]ciamajda : (rzecz.) dolt; (rzecz.) hobbledehoy; (rzecz.) nincompoop; (rzecz.) ninny; (rzecz.) slouch
-[ciamajdowaty]ciamajdowaty : (przym.) loutish
-[ciapa]ciapa : (rzecz.) slouch
-[ciapka]ciapka : (rzecz.) mortarboard; (rzecz.) mortar-board; (rzecz.) splash
-[ciarki]ciarki : (rzecz.) prickle
-[ciasno]ciasno : (przysł.) tightly
-[ciasnota]ciasnota : (rzecz.) exiguity; (rzecz.) tightness
-[ciasny]ciasny : (przym.) contracted; (przym.) cramped; (przym.) crowded; (przym.) insular; (przym.) narrow; (przym.) poky; (przym.) stringent; (przym.) tight
-[ciasteczko]ciasteczko : (rzecz.) cookie; (rzecz.) flag
-[ciastkarnia]ciastkarnia : (rzecz.) confectionery; (rzecz.) patisserie
-[ciastkarz]ciastkarz : (rzecz.) confectioner
-[ciastko]ciastko : (rzecz.) biscuit; (rzecz.) cake; (rzecz.) cookie; (rzecz.) pastry; (rzecz.) tart
-[ciasto]ciasto : (rzecz.) cake; (rzecz.) dough; (rzecz.) paste; (rzecz.) pastry; (rzecz.) pie
-[ciastowatosc]ciastowatość : (rzecz.) pastiness
-[ciastowaty]ciastowaty : (przym.) doughy
-[ciastowy]ciastowy : (przym.) doughy
-[cialko]ciałko : (rzecz.) body; (rzecz.) circuital; (rzecz.) corpus; (rzecz.) corpuscle
-[cialo]ciało : (rzecz.) blackbody; (rzecz.) body; (rzecz.) corpus; (rzecz.) council; (rzecz.) flesh
-[cibora]cibora : (rzecz.) sedge
-[cichaczem]cichaczem : (przysł.) stealthily
-[cichnac]cichnąć : (czas.) low; (czas.) subside
-[cicho]cicho : (przysł.) low; (przysł.) meekly; (przysł.) noiselessly; (przysł.) quietly; (przysł.) silently; (przysł.) softly
-[cichobiezny]cichobieżny : (przym.) silent-running
-[cichosc]cichość : (rzecz.) meekness
-[cichy]cichy : (przym.) calm; (przym.) gentle; (przym.) low; (przym.) mum; (przym.) noiseless; (przym.) orderly; (przym.) peaceful; (przym.) quiescent; (przym.) quiet; (przym.) reposeful; (przym.) silent; (przym.) soft; (przym.) still; (przym.) tacit; (przym.) tranquil; (przym.) tubby; (przym.) wordless
-[ciec]ciec : (rzecz.) leak
-[ciecierzyca]ciecierzyca : (rzecz.) chick; (rzecz.) chickpea
-[cieciorka]cieciorka : (rzecz.) chickpea; (rzecz.) garbanzo; (rzecz.) garbanzos; (rzecz.) gram
-[ciecz]ciecz : (rzecz.) fluid; (rzecz.) liquid
-[cieczenie]cieczenie : (rzecz.) dripping; (rzecz.) liquids
-[cieczka]cieczka : (rzecz.) heat
-[cieczowy]cieczowy : (przym.) fluidic; (przym.) liquid
-[ciek]ciek : (rzecz.) path
-[ciekawie]ciekawie : (przysł.) curiously; (przysł.) interestingly
-[ciekawostka]ciekawostka : (rzecz.) attraction; (rzecz.) curiosity
-[ciekawosc]ciekawość : (rzecz.) curiosity; (rzecz.) interest
-[ciekawski]ciekawski : (przym.) curious; (przym.) inquisitive; (przym.) nosy
-[ciekawy]ciekawy : (przym.) curious; (przym.) inquisitive; (przym.) interesting; (przym.) quaint
-[cieknac]cieknąć : (czas.) drip; (czas.) leak; (czas.) trickle
-[cieklokrystaliczny]ciekłokrystaliczny : (przym.) liquid
-[cieklosc]ciekłość : (rzecz.) fluidity
-[ciekly]ciekły : (przym.) fluid; (przym.) liquid
-[cielak]cielak : (rzecz.) calf
-[cielec]cielec : (rzecz.) bull; (rzecz.) calf
-[cielenie]cielenie : (rzecz.) calving
-[cielesnosc]cielesność : (rzecz.) carnality; (rzecz.) corporeality
-[cielesny]cielesny : (przym.) bodily; (przym.) carnal; (przym.) corporal; (przym.) corporeal; (przym.) physical; (przym.) sexual
-[cielesnie]cieleśnie : (przysł.) bodily
-[cielisty]cielisty : (przym.) incarnadine; (przym.) nude
-[cielic]cielić : (czas.) calve; (czas.) fawn
-[ciele]cielę : (rzecz.) calf
-[cielecina]cielęcina : (rzecz.) veal
-[ciemieniowy]ciemieniowy : (przym.) parietal
-[ciemiernik]ciemiernik : (rzecz.) bear's-foot; (rzecz.) hellebore
-[ciemiaczko]ciemiączko : (rzecz.) fontanel
-[ciemiega]ciemięga : (rzecz.) dullard
-[ciemiezca]ciemięzca : (rzecz.) taskmaster
-[ciemiezca]ciemiężca : (rzecz.) taskmaster
-[ciemiezyciel]ciemiężyciel : (rzecz.) oppressor
-[ciemiezyc]ciemiężyć : (czas.) oppress
-[ciemne]ciemne : (rzecz.) dark
-[ciemnia]ciemnia : (rzecz.) darkroom; (rzecz.) obscurity
-[ciemnica]ciemnica : (rzecz.) dark; (rzecz.) darkness; (rzecz.) dungeon
-[ciemnienie]ciemnienie : (rzecz.) blackening
-[ciemniec]ciemnieć : (czas.) darken; (czas.) dim
-[ciemno]ciemno : (rzecz.) dark
-[ciemnobrazowy]ciemnobrązowy : (przym.) auburn; (przym.) dun
-[ciemnoniebieski]ciemnoniebieski : (przym.) blue; (przym.) cerulean
-[ciemnoskory]ciemnoskóry : (przym.) dark-skinned; (przym.) swarthy
-[ciemnota]ciemnota : (rzecz.) birdseed; (rzecz.) ignorance; (rzecz.) illiteracy
-[ciemnowlosy]ciemnowłosy : (przym.) dark
-[ciemnosci]ciemności : (rzecz.) gloom
-[ciemnosc]ciemność : (rzecz.) blackness; (rzecz.) dark; (rzecz.) darkness; (rzecz.) dimmer; (rzecz.) gloom; (rzecz.) obscurity
-[ciemny]ciemny : (przym.) abstruse; (przym.) benighted; (przym.) dark; (przym.) darksome; (przym.) dim; (przym.) dimmest; (przym.) dusky; (przym.) fuliginous; (przym.) fuscous; (przym.) gloomy; (przym.) muddy; (przym.) murky; (przym.) obscure; (przym.) sad; (przym.) seamy; (przym.) shadowy; (przym.) shady; (przym.) sombre; (przym.) swarthy
-[cienias]cienias : (rzecz.) loser; (rzecz.) slouch
-[cieniec]cienieć : (czas.) fine
-[cieniolubny]cieniolubny : (przym.) photophobic
-[cieniowanie]cieniowanie : (rzecz.) layer; (rzecz.) occultation; (rzecz.) shading; (rzecz.) shadow
-[cieniowac]cieniować : (czas.) shade; (czas.) tinge; (czas.) tint
-[cienisty]cienisty : (przym.) shadowy; (przym.) shady; (przym.) umbrageous
-[cienki]cienki : (przym.) fine; (przym.) fine-spun; (przym.) flimsy; (przym.) meagre; (przym.) reedy; (przym.) slender; (przym.) slim; (przym.) tenuous; (przym.) thin; (przym.) thinnest; (przym.) wispy
-[cienko]cienko : (przysł.) thinly
-[cienkowarstwowy]cienkowarstwowy : (przym.) thin-layer
-[cienkoscienny]cienkościenny : (przym.) thin-walled
-[cienkosc]cienkość : (rzecz.) thinness
-[cieplarka]cieplarka : (rzecz.) incubator
-[cieplarnia]cieplarnia : (rzecz.) conservatory; (rzecz.) greenhouse; (rzecz.) hothouse; (rzecz.) hot-house; (rzecz.) stove
-[cieplicowy]cieplicowy : (przym.) thermal
-[cieplny]cieplny : (przym.) caloric; (przym.) calorific; (przym.) heat; (przym.) thermal
-[cieplo]ciepło : (rzecz.) cuddle; (rzecz.) heat; (rzecz.) warmer; (rzecz.) warmth
-[cieplokrwisty]ciepłokrwisty : (przym.) warm-blooded
-[cieplomierz]ciepłomierz : (rzecz.) calorimeter; (rzecz.) heating
-[cieplota]ciepłota : (rzecz.) temperature
-[cieplownictwo]ciepłownictwo : (rzecz.) heat
-[cieply]ciepły : (przym.) cosy; (przym.) hot; (przym.) thermal; (przym.) toasty; (przym.) warm
-[cierlica]cierlica : (rzecz.) hackle
-[ciernik]ciernik : (rzecz.) stickleback
-[cierniowaty]cierniowaty : (przym.) thorny
-[cierniowy]cierniowy : (przym.) thorny
-[ciernisty]ciernisty : (przym.) barbate; (przym.) prickly; (przym.) thorny
-[cierny]cierny : (przym.) frictional
-[cierpienie]cierpienie : (rzecz.) agony; (rzecz.) anguish; (rzecz.) bearing; (rzecz.) distress; (rzecz.) heartache; (rzecz.) misery; (rzecz.) pain; (rzecz.) sufferance; (rzecz.) suffering; (rzecz.) tribulation; (rzecz.) woe
-[cierpiec]cierpieć : (czas.) abide; (czas.) agonize; (czas.) bear; (czas.) brook; (czas.) endure; (czas.) pain; (czas.) smart; (czas.) suffer; (czas.) suffered; (czas.) tolerate; (czas.) writhe
-[cierpietnik]cierpiętnik : (rzecz.) martyr; (rzecz.) sufferer
-[cierpki]cierpki : (przym.) acerbic; (przym.) acid; (przym.) acrid; (przym.) acrimonious; (przym.) astringent; (przym.) crabbed; (przym.) gruff; (przym.) harsh; (przym.) snappish; (przym.) sour; (przym.) tangy; (przym.) tart
-[cierpko]cierpko : (przysł.) harshly
-[cierpkosc]cierpkość : (rzecz.) acerbity; (rzecz.) acridity; (rzecz.) acrimony; (rzecz.) sourness; (rzecz.) tartness
-[cierpliwie]cierpliwie : (przysł.) patiently
-[cierpliwosc]cierpliwość : (rzecz.) patience; (rzecz.) sufferance
-[cierpliwy]cierpliwy : (przym.) patient
-[ciern]cierń : (rzecz.) prickle; (rzecz.) spine; (rzecz.) stubble; (rzecz.) thorn
-[ciesielstwo]ciesielstwo : (rzecz.) carpentering; (rzecz.) carpentry; (rzecz.) timberwork
-[cieszyc]cieszyć : (czas.) cheer; (czas.) comfort; (czas.) delight; (czas.) enjoy; (czas.) gladden; (czas.) rejoice
-[cietrzew]cietrzew : (rzecz.) blackcock; (rzecz.) heath-cock
-[cien]cień : (rzecz.) adumbration; (rzecz.) element; (rzecz.) ghost; (rzecz.) shade; (rzecz.) shadow; (rzecz.) umbrage
-[ciesla]cieśla : (rzecz.) carpenter; (rzecz.) woodworker; (rzecz.) wood-worker
-[ciesnina]cieśnina : (rzecz.) neck; (rzecz.) sound; (rzecz.) strait
-[ciesn]cieśń : (rzecz.) isthmus
-[cinkciarz]cinkciarz : (rzecz.) exchanger
-[ciocia]ciocia : (rzecz.) aunt; (rzecz.) auntie; (rzecz.) aunty
-[cios]cios : (rzecz.) blow; (rzecz.) chop; (rzecz.) coup; (rzecz.) cue; (rzecz.) hit; (rzecz.) joint; (rzecz.) keystroke; (rzecz.) shock; (rzecz.) stroke
-[ciosanie]ciosanie : (rzecz.) blow
-[ciosac]ciosać : (czas.) chip; (czas.) hack; (czas.) hew
-[ciota]ciota : (rzecz.) fag; (rzecz.) faggot; (rzecz.) fairy
-[ciotka]ciotka : (rzecz.) aunt
-[ciotunia]ciotunia : (rzecz.) aunty
-[ciolek]ciołek : (rzecz.) yuk
-[cipa]cipa : (rzecz.) pussy; (rzecz.) twat
-[cipka]cipka : (rzecz.) pussy
-[cis]cis : (rzecz.) yew
-[ciskacz]ciskacz : (rzecz.) harrier; (rzecz.) headman
-[ciskanie]ciskanie : (rzecz.) fling; (rzecz.) putting
-[ciskac]ciskać : (czas.) cast; (czas.) chuck; (czas.) dart; (czas.) dash; (czas.) fling; (czas.) hurl; (czas.) slam; (czas.) whop
-[cisnac]cisnąć : (czas.) oppress; (czas.) pinch; (czas.) pitch; (czas.) squeeze; (czas.) swarm
-[cisza]cisza : (rzecz.) calmness; (rzecz.) husbandry; (rzecz.) hush; (rzecz.) lull; (rzecz.) quiet; (rzecz.) quietness; (rzecz.) quietude; (rzecz.) silence; (rzecz.) tranquillity
-[ciuch]ciuch : (rzecz.) garment; (rzecz.) rig-out
-[ciupa]ciupa : (rzecz.) clink; (rzecz.) hovel; (rzecz.) jail
-[ciupaga]ciupaga : (rzecz.) hatchet
-[ciura]ciura : (rzecz.) camp-follower; (rzecz.) lout
-[ciurkac]ciurkać : (czas.) trickle
-[ciut]ciut : (przysł.) slightly
-[ciulacz]ciułacz : (rzecz.) moneygrubber; (rzecz.) money-grubber; (rzecz.) saver
-[ciulanie]ciułanie : (rzecz.) hoarding
-[ciulac]ciułać : (czas.) hoard; (czas.) scrimp
-[cizia]cizia : (rzecz.) chick
-[ciag]ciąg : (rzecz.) chain; (rzecz.) course; (rzecz.) draft; (rzecz.) draught; (rzecz.) draw; (rzecz.) route; (rzecz.) sequence; (rzecz.) string; (rzecz.) succession; (rzecz.) thoroughfare; (rzecz.) thrust
-[ciagadlo]ciągadło : (rzecz.) die
-[ciagarka]ciągarka : (rzecz.) puller
-[ciagac]ciągać : (czas.) drag; (czas.) last
-[ciagle]ciągle : (przysł.) always; (przysł.) continually; (przysł.) continuously; (przysł.) still
-[ciagliwosc]ciągliwość : (rzecz.) ductility; (rzecz.) malleability
-[ciagliwy]ciągliwy : (przym.) ductile; (przym.) malleable; (przym.) stringy
-[ciagnienie]ciągnienie : (rzecz.) drafting; (rzecz.) drawing; (rzecz.) haul
-[ciagnik]ciągnik : (rzecz.) traction-engine; (rzecz.) tractor
-[ciagnac]ciągnąć : (czas.) drag; (czas.) lug; (czas.) pluck; (czas.) pull; (czas.) trek
-[ciaglosc]ciągłość : (rzecz.) continuance; (rzecz.) continuity; (rzecz.) continuum; (rzecz.) permanence; (rzecz.) permanency
-[ciagly]ciągły : (przym.) consistent; (przym.) constant; (przym.) contiguous; (przym.) continual; (przym.) continued; (przym.) continuous; (przym.) endless; (przym.) hourly; (przym.) ongoing; (przym.) permanent; (przym.) perpetual
-[ciac]ciąć : (czas.) clip; (czas.) cut; (czas.) scrap; (czas.) slash; (czas.) snip
-[ciaza]ciąża : (rzecz.) gestation; (rzecz.) gravidity; (rzecz.) pregnancy
-[ciazenie]ciążenie : (rzecz.) gravitation; (rzecz.) gravity
-[ciazowy]ciążowy : (przym.) gestational
-[ciazyc]ciążyć : (czas.) gravitate; (czas.) weigh
-[ciazacy]ciążący : (przym.) oppressive
-[ciecie]cięcie : (rzecz.) chop; (rzecz.) cut; (rzecz.) cutback; (rzecz.) cut-back; (rzecz.) cutting; (rzecz.) hack; (rzecz.) scission; (rzecz.) section; (rzecz.) slash; (rzecz.) snip
-[cieciwa]cięciwa : (rzecz.) bowstring; (rzecz.) chord; (rzecz.) string
-[ciegi]cięgi : (rzecz.) drubbing; (rzecz.) licking; (rzecz.) punishment; (rzecz.) spanking; (rzecz.) thrashing
-[ciegiel]cięgiel : (rzecz.) lanyard
-[ciegno]cięgno : (rzecz.) tie
-[cieglo]cięgło : (rzecz.) coupler
-[cietosc]ciętość : (rzecz.) bitterness
-[ciezar]ciężar : (rzecz.) burden; (rzecz.) burthen; (rzecz.) charge; (rzecz.) clod; (rzecz.) gravity; (rzecz.) load; (rzecz.) onus; (rzecz.) tax; (rzecz.) termination; (rzecz.) weight; (rzecz.) weightiness
-[ciezarek]ciężarek : (rzecz.) bob; (rzecz.) weight
-[ciezarny]ciężarny : (przym.) heavy; (przym.) pregnant; (przym.) weighty
-[ciezarowiec]ciężarowiec : (rzecz.) weightlifter; (rzecz.) weight-lifter
-[ciezarowka]ciężarówka : (rzecz.) dumper; (rzecz.) lorry; (rzecz.) pickup; (rzecz.) trolley; (rzecz.) truck
-[ciezki]ciężki : (przym.) arduous; (przym.) burdensome; (przym.) difficult; (przym.) grave; (przym.) grievous; (przym.) hard; (przym.) harsh; (przym.) heaviest; (przym.) heavy; (przym.) hulking; (przym.) logy; (przym.) outrageous; (przym.) ponderous; (przym.) serious; (przym.) severe; (przym.) stiff; (przym.) stodgy; (przym.) weighty
-[ciezko]ciężko : (przysł.) bitterly; (przysł.) hard; (przysł.) heavily; (przysł.) stiff; (przysł.) strenuously; (przysł.) thick
-[ciezkosc]ciężkość : (rzecz.) gravity; (rzecz.) heaviness; (rzecz.) severity
-[cisnienie]ciśnienie : (rzecz.) pressure; (rzecz.) stress
-[cisnieniomierz]ciśnieniomierz : (rzecz.) manometer
-[cisniecie]ciśnięcie : (rzecz.) pressure
-[cizba]ciżba : (rzecz.) crowd; (rzecz.) squeeze; (rzecz.) throng
-[ckliwie]ckliwie : (przysł.) sadly; (przysł.) sickeningly
-[ckliwosc]ckliwość : (rzecz.) insipidity; (rzecz.) mawkishness; (rzecz.) sickliness
-[ckliwy]ckliwy : (przym.) luscious; (przym.) maudlin; (przym.) mawkish; (przym.) saccharine; (przym.) sentimental; (przym.) sloppy
-[clic]clić : (czas.) clear
-[cmentarz]cmentarz : (rzecz.) cemetery; (rzecz.) churchyard; (rzecz.) graveyard
-[cmentarzysko]cmentarzysko : (rzecz.) burial-ground; (rzecz.) cemetery; (rzecz.) graveyard
-[cmokanie]cmokanie : (rzecz.) chuck; (rzecz.) smack; (rzecz.) smacking
-[cmokac]cmokać : (czas.) chirrup; (czas.) chuck; (czas.) cluck; (czas.) kiss; (czas.) smack; (czas.) suck
-[cmokniecie]cmoknięcie : (rzecz.) cluck
-[cnota]cnota : (rzecz.) dharma; (rzecz.) virginity; (rzecz.) virtue
-[cnotliwie]cnotliwie : (przysł.) virtuously
-[cnotliwosc]cnotliwość : (rzecz.) virtue; (rzecz.) virtuosity
-[cnotliwy]cnotliwy : (przym.) chaste; (przym.) virtuous
-[co]co : (przyim.) as
-[codziennie]codziennie : (przysł.) daily; (przysł.) diurnally
-[codzienny]codzienny : (przym.) commonplace; (przym.) daily; (przym.) day-to-day; (przym.) diurnal; (przym.) everyday; (przym.) ordinary; (przym.) quotidian; (przym.) trivial; (przym.) workaday
-[cofacz]cofacz : (rzecz.) backspaced; (rzecz.) backspaces; (rzecz.) backspacing
-[cofanie]cofanie : (rzecz.) backspacing; (rzecz.) recession; (rzecz.) regression; (rzecz.) removal
-[cofanie-ponawianie]cofanie-ponawianie : (rzecz.) undo/redo
-[cofac]cofać : (czas.) back; (czas.) backspace; (czas.) flinch; (czas.) quail; (czas.) recede; (czas.) recoil; (czas.) regress; (czas.) regurgitate; (czas.) retire; (czas.) retrace; (czas.) retract; (czas.) retreat; (czas.) retroact; (czas.) retrograde; (czas.) retrogress; (czas.) reverse; (czas.) revoke; (czas.) wince
-[cofka]cofka : (rzecz.) backflow; (rzecz.) backwater; (rzecz.) burp
-[cofnij-powtorz]cofnij-powtórz : (rzecz.) undo/redo; (rzecz.) undo-redo
-[cofniecie]cofnięcie : (rzecz.) pullback; (rzecz.) revocation; (rzecz.) withdrawal
-[cofnac]cofnąć : (czas.) recede; (czas.) undo
-[cogodzinny]cogodzinny : (przym.) hourly
-[cokol]cokół : (rzecz.) pedestal; (rzecz.) plinth
-[comber]comber : (rzecz.) saddle
-[comiesieczny]comiesięczny : (przym.) monthly
-[conocny]conocny : (przym.) nightly
-[consultingowy]consultingowy : (przym.) consulting
-[continuum]continuum : (rzecz.) continuum
-[coraz]coraz : (przysł.) ever
-[coroczny]coroczny : (przym.) anniversary; (przym.) annual; (przym.) yearly
-[cosecans]cosecans : (rzecz.) cosecant
-[cosinus]cosinus : (rzecz.) cosine
-[cotangens]cotangens : (rzecz.) cotangent
-[coupe]coupe : (rzecz.) fastback
-[cuchnacy]cuchnący : (przym.) rotten; (przym.) unsavoury
-[cuchnac]cuchnąć : (czas.) reek; (czas.) stink
-[cucic]cucić : (czas.) resurrect; (czas.) revive
-[cud]cud : (rzecz.) marvel; (rzecz.) miracle
-[cudactwo]cudactwo : (rzecz.) oddity; (rzecz.) oddness
-[cudacznosc]cudaczność : (rzecz.) whimsicality
-[cudaczny]cudaczny : (przym.) bizarre; (przym.) freakish; (przym.) weird; (przym.) whimsical
-[cudak]cudak : (rzecz.) crank; (rzecz.) original; (rzecz.) weirdo
-[cudem]cudem : (przysł.) scarcely
-[cudny]cudny : (przym.) beautiful; (przym.) gorgeous; (przym.) marvellous
-[cudo]cudo : (rzecz.) beauty; (rzecz.) marvel; (rzecz.) miracle; (rzecz.) portent; (rzecz.) prodigy; (rzecz.) stunner
-[cudotworca]cudotwórca : (rzecz.) magician; (rzecz.) wizard
-[cudotworstwo]cudotwórstwo : (rzecz.) thaumaturgy
-[cudowac]cudować : (czas.) fuss
-[cudownie]cudownie : (przysł.) divinely; (przysł.) miraculously; (przysł.) wonderfully
-[cudownosc]cudowność : (rzecz.) prodigy
-[cudowny]cudowny : (przym.) adorable; (przym.) amazing; (przym.) brilliant; (przym.) gorgeous; (przym.) heavenly; (przym.) incredible; (przym.) marvellous; (przym.) miraculous; (przym.) prodigious; (przym.) wonderful; (przym.) wondrous
-[cudzoziemiec]cudzoziemiec : (rzecz.) alien; (rzecz.) foreigner; (rzecz.) gringo
-[cudzoziemski]cudzoziemski : (przym.) alien; (przym.) foreign; (przym.) outlandish
-[cudzoloznik]cudzołożnik : (rzecz.) adulterer
-[cudzolozny]cudzołożny : (przym.) adulterous
-[cudzolozyc]cudzołożyć : (czas.) fornicate
-[cudzolostwo]cudzołóstwo : (rzecz.) adultery
-[cudzozywnosc]cudzożywność : (rzecz.) heterotrophy
-[cudzozywny]cudzożywny : (przym.) heterotrophic
-[cudzyslow]cudzysłów : (rzecz.) comma; (rzecz.) quotation-marks; (rzecz.) quote
-[cug]cug : (rzecz.) draft
-[cugle]cugle : (rzecz.) bridle; (rzecz.) rein; (rzecz.) reins
-[cukier]cukier : (rzecz.) sugar
-[cukierek]cukierek : (rzecz.) bonbon; (rzecz.) candy; (rzecz.) comfit; (rzecz.) confection; (rzecz.) elecampane; (rzecz.) fondant; (rzecz.) sugarplum; (rzecz.) sugar-plum; (rzecz.) sweet; (rzecz.) sweetie
-[cukierkowy]cukierkowy : (przym.) mawkish; (przym.) saccharine; (przym.) treacly
-[cukiernia]cukiernia : (rzecz.) confectionery; (rzecz.) patisserie
-[cukiernica]cukiernica : (rzecz.) sugar; (rzecz.) sugar-basin; (rzecz.) sugar-bowl
-[cukierniczka]cukierniczka : (rzecz.) sugar-bowl
-[cukiernik]cukiernik : (rzecz.) confectioner
-[cukinia]cukinia : (rzecz.) courgette; (rzecz.) marrow; (rzecz.) zucchini
-[cukrowac]cukrować : (czas.) ice
-[cukrowiec]cukrowiec : (rzecz.) sugarcane
-[cukrownia]cukrownia : (rzecz.) sugar
-[cukrownictwo]cukrownictwo : (rzecz.) sugar
-[cukrowniczy]cukrowniczy : (przym.) sugar
-[cukrownik]cukrownik : (rzecz.) boiler
-[cukrowy]cukrowy : (przym.) sugar; (przym.) sugary
-[cukry]cukry : (rzecz.) carbohydrates; (rzecz.) sugars
-[cukrzenie]cukrzenie : (rzecz.) sugar
-[cukrzyca]cukrzyca : (rzecz.) diabetes; (rzecz.) magma
-[cukrzycowy]cukrzycowy : (przym.) diabetic
-[cukrzyk]cukrzyk : (rzecz.) diabetic
-[cukrzyc]cukrzyć : (czas.) sugar
-[cuma]cuma : (rzecz.) hawser
-[cumowanie]cumowanie : (rzecz.) moorage
-[cumowac]cumować : (czas.) belay; (czas.) moor
-[cumowisko]cumowisko : (rzecz.) moorage
-[cumy]cumy : (rzecz.) moorings
-[cwaniactwo]cwaniactwo : (rzecz.) cunning
-[cwany]cwany : (przym.) canny; (przym.) cunning; (przym.) shrewd; (przym.) sly
-[cwal]cwał : (rzecz.) canter; (rzecz.) gallop
-[cwalowanie]cwałowanie : (rzecz.) gallop
-[cwalowac]cwałować : (czas.) gallop
-[cybernetyczny]cybernetyczny : (przym.) cybernetic
-[cybernetyk]cybernetyk : (rzecz.) cybernetics
-[cybernetyka]cybernetyka : (rzecz.) cybernetics
-[cybernetyzacja]cybernetyzacja : (rzecz.) cybernation
-[cyberprzestrzen]cyberprzestrzeń : (rzecz.) cyberspace
-[cyberpunk]cyberpunk : (rzecz.) cyberpunk
-[cybuch]cybuch : (rzecz.) blowpipe; (rzecz.) stem
-[cyc]cyc : (rzecz.) nipple
-[cycek]cycek : (rzecz.) boob; (rzecz.) nipple; (rzecz.) teat; (rzecz.) tit
-[cycero]cycero : (rzecz.) pica
-[cydr]cydr : (rzecz.) cider
-[cyferblat]cyferblat : (rzecz.) dial
-[cyfra]cyfra : (rzecz.) cipher; (rzecz.) digit; (rzecz.) figure; (rzecz.) numeral
-[cyfrowo]cyfrowo : (przysł.) digitally
-[cyfrowy]cyfrowy : (przym.) digital; (przym.) numeric; (przym.) numerical
-[cyfryzacja]cyfryzacja : (rzecz.) digitization
-[cygan]cygan : (rzecz.) cheat; (rzecz.) gipsy; (rzecz.) gypsy; (rzecz.) rye
-[cyganeria]cyganeria : (rzecz.) bohemians
-[cyganic]cyganić : (czas.) cheat; (czas.) fib; (czas.) swindle
-[cygarnica]cygarnica : (rzecz.) cigar
-[cygarniczka]cygarniczka : (rzecz.) cigarette-holder; (rzecz.) mouthpiece
-[cygaro]cygaro : (rzecz.) cider; (rzecz.) cigar; (rzecz.) manila; (rzecz.) puffer
-[cyganstwo]cygaństwo : (rzecz.) fib
-[cyjan]cyjan : (rzecz.) cyan
-[cyjanek]cyjanek : (rzecz.) cyanide
-[cyjanit]cyjanit : (rzecz.) cyanide
-[cyjanowy]cyjanowy : (przym.) cyanic
-[cykada]cykada : (rzecz.) cicada
-[cykanie]cykanie : (rzecz.) ticking; (rzecz.) tick-tack
-[cykac]cykać : (czas.) chirp; (czas.) tick
-[cykl]cykl : (rzecz.) cycle; (rzecz.) cycling; (rzecz.) period; (rzecz.) round
-[cyklamen]cyklamen : (rzecz.) cyclamen
-[cyklicznie]cyklicznie : (przysł.) cyclically
-[cykliczny]cykliczny : (przym.) circular; (przym.) cyclic; (przym.) cyclical; (przym.) serial
-[cyklina]cyklina : (rzecz.) brush; (rzecz.) scraper
-[cykliniarz]cykliniarz : (rzecz.) polisher
-[cyklinowac]cyklinować : (czas.) scrape; (czas.) smoothes
-[cyklista]cyklista : (rzecz.) cyclist
-[cykloida]cykloida : (rzecz.) cycloid
-[cyklon]cyklon : (rzecz.) cyclone; (rzecz.) tornado
-[cyklopowy]cyklopowy : (przym.) cyclopean
-[cyklotron]cyklotron : (rzecz.) cyclotron
-[cykor]cykor : (rzecz.) fear; (rzecz.) sissy
-[cykoria]cykoria : (rzecz.) chicory; (rzecz.) endive
-[cykuta]cykuta : (rzecz.) hemlock
-[cylinder]cylinder : (rzecz.) cylinder; (rzecz.) silk; (rzecz.) topper
-[cylindrowy]cylindrowy : (przym.) cylindrical
-[cylindryczny]cylindryczny : (przym.) cylindrical; (przym.) tubular
-[cyma]cyma : (rzecz.) cyma
-[cymbal]cymbał : (rzecz.) booby; (rzecz.) cymbal; (rzecz.) duffer; (rzecz.) dunderhead; (rzecz.) jerk; (rzecz.) moron; (rzecz.) twit; (rzecz.) yuk
-[cymbalki]cymbałki : (rzecz.) cymbals
-[cymen]cymen : (rzecz.) cymene
-[cyna]cyna : (rzecz.) pewter; (rzecz.) tin
-[cynaderka]cynaderka : (rzecz.) kidney
-[cynadra]cynadra : (rzecz.) kidney
-[cynamon]cynamon : (rzecz.) cinnamon
-[cyneol]cyneol : (rzecz.) cineole
-[cyneraria]cyneraria : (rzecz.) cineraria
-[cynfolia]cynfolia : (rzecz.) tinfoil
-[cyngiel]cyngiel : (rzecz.) trigger; (rzecz.) triggering
-[cynia]cynia : (rzecz.) zinnia
-[cynicznie]cynicznie : (przysł.) cynically
-[cyniczny]cyniczny : (przym.) cynic; (przym.) cynical; (przym.) jaundiced; (przym.) unblushing
-[cynik]cynik : (rzecz.) cynic
-[cynizm]cynizm : (rzecz.) brazenness; (rzecz.) cynicism
-[cynk]cynk : (rzecz.) zinc
-[cynkografia]cynkografia : (rzecz.) zincograph; (rzecz.) zincography
-[cynkowanie]cynkowanie : (rzecz.) galvanising; (rzecz.) zinc; (rzecz.) zincing
-[cynkowac]cynkować : (czas.) zincify
-[cynkownia]cynkownia : (rzecz.) zinc-works
-[cynober]cynober : (rzecz.) cinnabar; (rzecz.) vermilion; (rzecz.) vermillion
-[cynobrowy]cynobrowy : (przym.) vermilion
-[cynowany]cynowany : (przym.) tinned
-[cynowac]cynować : (czas.) tin
-[cynowy]cynowy : (przym.) stannic; (przym.) tinny
-[cypel]cypel : (rzecz.) cape; (rzecz.) foreland; (rzecz.) headland; (rzecz.) jag; (rzecz.) peak; (rzecz.) promontory; (rzecz.) spit; (rzecz.) spite
-[cyprys]cyprys : (rzecz.) cypress
-[cyranka]cyranka : (rzecz.) teal
-[cyrk]cyrk : (rzecz.) circus; (rzecz.) cirque
-[cyrkiel]cyrkiel : (rzecz.) compass; (rzecz.) dividers; (rzecz.) rim; (rzecz.) trigger
-[cyrklowac]cyrklować : (czas.) reckon
-[cyrkon]cyrkon : (rzecz.) zircon; (rzecz.) zirconium
-[cyrkowiec]cyrkowiec : (rzecz.) circus
-[cyrkulacja]cyrkulacja : (rzecz.) circulation; (rzecz.) gyration
-[cyrkulator]cyrkulator : (rzecz.) circulator
-[cyrkulowac]cyrkulować : (czas.) circulate
-[cyrograf]cyrograf : (rzecz.) bond; (rzecz.) pledge
-[cyrulik]cyrulik : (rzecz.) barber
-[cysta]cysta : (rzecz.) cist; (rzecz.) cyst
-[cysterna]cysterna : (rzecz.) cistern; (rzecz.) tank; (rzecz.) tanker; (rzecz.) vat
-[cysters]cysters : (rzecz.) Cistercian
-[cytadela]cytadela : (rzecz.) citadel; (rzecz.) stronghold
-[cytat]cytat : (rzecz.) citation; (rzecz.) quotation; (rzecz.) quote
-[cytolog]cytolog : (rzecz.) cytologist
-[cytologia]cytologia : (rzecz.) cytology
-[cytoplazma]cytoplazma : (rzecz.) cytoplasm
-[cytowanie]cytowanie : (rzecz.) citation; (rzecz.) quotation
-[cytowac]cytować : (czas.) adduce; (czas.) cite; (czas.) quote
-[cytozyna]cytozyna : (rzecz.) cytosine
-[cytra]cytra : (rzecz.) cither; (rzecz.) zither
-[cytron]cytron : (rzecz.) citron
-[cytrus]cytrus : (rzecz.) citrus
-[cytryna]cytryna : (rzecz.) lemon
-[cytrynian]cytrynian : (rzecz.) citrate
-[cytrynowy]cytrynowy : (przym.) citric
-[cytrzysta]cytrzysta : (rzecz.) zitherist
-[cywil]cywil : (rzecz.) civilian; (rzecz.) civvies
-[cywilizacja]cywilizacja : (rzecz.) civilisation; (rzecz.) civilization
-[cywilizowany]cywilizowany : (przym.) advanced
-[cywilizowac]cywilizować : (czas.) civilize
-[cywilnie]cywilnie : (przysł.) civilly
-[cywilny]cywilny : (przym.) civic; (przym.) civil; (przym.) civilian; (przym.) marital
-[cyzelowac]cyzelować : (czas.) chase
-[czacha]czacha : (rzecz.) skull
-[czadowy]czadowy : (przym.) cool; (przym.) zappy
-[czaic]czaić : (czas.) crouch; (czas.) lurk; (czas.) prowl; (czas.) stalk; (czas.) waylaid; (czas.) waylay
-[czajka]czajka : (rzecz.) gull; (rzecz.) lapwing; (rzecz.) peewit; (rzecz.) pewit
-[czajnik]czajnik : (rzecz.) kettle; (rzecz.) noggin; (rzecz.) pot; (rzecz.) teakettle
-[czako]czako : (rzecz.) shako
-[czapa]czapa : (rzecz.) caps
-[czapka]czapka : (rzecz.) bonnet; (rzecz.) cap; (rzecz.) hat; (rzecz.) pinner
-[czapkowac]czapkować : (czas.) bow
-[czapla]czapla : (rzecz.) egret; (rzecz.) heron
-[czapnik]czapnik : (rzecz.) capper
-[czaprak]czaprak : (rzecz.) caparison; (rzecz.) housing; (rzecz.) trappings
-[czar]czar : (rzecz.) appeal; (rzecz.) bewitchment; (rzecz.) charm; (rzecz.) glamour; (rzecz.) goblet; (rzecz.) hex; (rzecz.) magic; (rzecz.) sorcery; (rzecz.) spell; (rzecz.) witchcraft; (rzecz.) witchery
-[czara]czara : (rzecz.) basin; (rzecz.) bowl; (rzecz.) goblet; (rzecz.) jorum
-[czardasz]czardasz : (rzecz.) czardas
-[czarka]czarka : (rzecz.) bowl
-[czarno]czarno : (przysł.) blackly
-[czarnoksieski]czarnoksięski : (przym.) magic; (przym.) magical
-[czarnoksiestwo]czarnoksięstwo : (rzecz.) magic; (rzecz.) sorcery
-[czarnoksieznik]czarnoksiężnik : (rzecz.) conjurer; (rzecz.) sorcerer; (rzecz.) wizard
-[czarnorynkowy]czarnorynkowy : (przym.) black; (przym.) black-market
-[czarnoskory]czarnoskóry : (przym.) black
-[czarnoziem]czarnoziem : (rzecz.) humus; (rzecz.) mould
-[czarnuch]czarnuch : (rzecz.) nigger
-[czarnula]czarnula : (rzecz.) gypsy
-[czarny]czarny : (przym.) black; (przym.) sooty
-[czarodziej]czarodziej : (rzecz.) charmer; (rzecz.) mage; (rzecz.) magician; (rzecz.) sorcerer; (rzecz.) wizard
-[czarodziejka]czarodziejka : (rzecz.) fairy; (rzecz.) sorceress
-[czarodziejski]czarodziejski : (przym.) fairy; (przym.) magic; (przym.) magical
-[czarodziejstwo]czarodziejstwo : (rzecz.) magic
-[czarowanie]czarowanie : (rzecz.) beguilement; (rzecz.) conjuring
-[czarowac]czarować : (czas.) bewitch; (czas.) charm; (czas.) conjure; (czas.) enthral; (czas.) fascinate
-[czarownica]czarownica : (rzecz.) hag; (rzecz.) sorceress; (rzecz.) witch
-[czarownik]czarownik : (rzecz.) enchanter; (rzecz.) magician; (rzecz.) sorcerer; (rzecz.) warlock; (rzecz.) witchdoctor
-[czarowny]czarowny : (przym.) fairy; (przym.) glamorous
-[czart]czart : (rzecz.) deuce; (rzecz.) devil
-[czarter]czarter : (rzecz.) charter; (rzecz.) charter-party
-[czarterowanie]czarterowanie : (rzecz.) charter
-[czartysta]czartysta : (rzecz.) chartist
-[czarujaco]czarująco : (przysł.) charmingly; (przysł.) lusciously
-[czarujacy]czarujący : (przym.) enthralling
-[czary]czary : (rzecz.) magic; (rzecz.) witchcraft
-[czas]czas : (rzecz.) period; (rzecz.) tense; (rzecz.) tide; (rzecz.) time
-[czasami]czasami : (przysł.) occasionally; (przysł.) sometimes
-[czasem]czasem : (przysł.) sometime; (przysł.) sometimes
-[czasochlonnosc]czasochłonność : (rzecz.) time
-[czasochlonny]czasochłonny : (przym.) costly; (przym.) time; (przym.) time-consuming
-[czasokres]czasokres : (rzecz.) duration
-[czasomierz]czasomierz : (rzecz.) chronometer; (rzecz.) horologe; (rzecz.) timekeeper; (rzecz.) timepiece; (rzecz.) timer
-[czasopismo]czasopismo : (rzecz.) journal; (rzecz.) magazine; (rzecz.) paper; (rzecz.) periodical; (rzecz.) review
-[czasoprzestrzen]czasoprzestrzeń : (rzecz.) space-time
-[czasoster]czasoster : (rzecz.) timer
-[czasownik]czasownik : (rzecz.) verb
-[czasownikowy]czasownikowy : (przym.) verbal
-[czasowo]czasowo : (przysł.) temporarily
-[czasowy]czasowy : (przym.) seasonable; (przym.) temporal; (przym.) temporary
-[czasza]czasza : (rzecz.) canopy; (rzecz.) cranium; (rzecz.) one; (rzecz.) skull
-[czaszka]czaszka : (rzecz.) cranium; (rzecz.) skull
-[czaszkowy]czaszkowy : (przym.) cranial
-[czat]czat : (rzecz.) chat; (rzecz.) wait
-[czata]czata : (rzecz.) chat
-[czatowac]czatować : (czas.) chat
-[czatownik]czatownik : (rzecz.) watch
-[czciciel]czciciel : (rzecz.) adorer; (rzecz.) devotee; (rzecz.) worshipper
-[czcigodnie]czcigodnie : (przysł.) augustly
-[czcigodny]czcigodny : (przym.) august; (przym.) hallowed; (przym.) honourable; (przym.) reverend; (przym.) reverent; (przym.) reverential; (przym.) venerable; (przym.) worshipful; (przym.) worthy
-[czcionka]czcionka : (rzecz.) font; (rzecz.) fount; (rzecz.) print; (rzecz.) type
-[czcic]czcić : (czas.) adore; (czas.) enshrine; (czas.) revere; (czas.) reverence; (czas.) salute; (czas.) venerate; (czas.) worship
-[czczenie]czczenie : (rzecz.) celebration; (rzecz.) worshiping
-[czczo]czczo : (przysł.) fasting
-[czczosc]czczość : (rzecz.) futility
-[czczy]czczy : (przym.) empty; (przym.) futile; (przym.) idle; (przym.) inane; (przym.) mere; (przym.) vain
-[czeczotka]czeczotka : (rzecz.) redpoll
-[czek]czek : (rzecz.) check; (rzecz.) checker; (rzecz.) cheque
-[czekan]czekan : (rzecz.) alpenstock; (rzecz.) pick
-[czekac]czekać : (czas.) abide; (czas.) await; (czas.) expect; (czas.) hold; (czas.) listen; (czas.) wait
-[czekolada]czekolada : (rzecz.) chocolate
-[czekoladka]czekoladka : (rzecz.) bonbon; (rzecz.) chocolate
-[czeladnik]czeladnik : (rzecz.) apprentice; (rzecz.) journeyman; (rzecz.) peon
-[czeladz]czeladź : (rzecz.) servant
-[czelesta]czelesta : (rzecz.) celesta
-[czelnosc]czelność : (rzecz.) brass; (rzecz.) cheek; (rzecz.) effrontery; (rzecz.) gut; (rzecz.) nerve
-[czelny]czelny : (przym.) insolent
-[czelusc]czeluść : (rzecz.) abyss; (rzecz.) depths; (rzecz.) gorge; (rzecz.) gulf; (rzecz.) jaw; (rzecz.) precipice
-[czempion]czempion : (rzecz.) champion
-[czepek]czepek : (rzecz.) bonnet; (rzecz.) cap
-[czepiac]czepiać : (czas.) cavil; (czas.) nibble; (czas.) nitpick
-[czepic]czepić : (czas.) coif
-[czepliwy]czepliwy : (przym.) adhesive; (przym.) picky; (przym.) sticky
-[czepny]czepny : (przym.) adhesive; (przym.) sticky
-[czereda]czereda : (rzecz.) crowd; (rzecz.) host; (rzecz.) pack; (rzecz.) swarm
-[czerep]czerep : (rzecz.) skull
-[czeresnia]czereśnia : (rzecz.) cherry
-[czeresniowy]czereśniowy : (przym.) cherry
-[czerniak]czerniak : (rzecz.) melanoma
-[czernica]czernica : (rzecz.) bilberry; (rzecz.) blackberry; (rzecz.) blueberry; (rzecz.) whortleberry
-[czernidlo]czernidło : (rzecz.) black; (rzecz.) blacking
-[czernienie]czernienie : (rzecz.) blackening; (rzecz.) blacking; (rzecz.) blacks; (rzecz.) blueing; (rzecz.) browning
-[czerniec]czernieć : (czas.) blacken
-[czernic]czernić : (czas.) black; (czas.) blacken
-[czerpaczka]czerpaczka : (rzecz.) excavator
-[czerpak]czerpak : (rzecz.) bail; (rzecz.) bailer; (rzecz.) dipper; (rzecz.) ladle; (rzecz.) scoop
-[czerpanie]czerpanie : (rzecz.) baling; (rzecz.) moulding; (rzecz.) reaping
-[czerparka]czerparka : (rzecz.) digger; (rzecz.) excavator; (rzecz.) scoop
-[czerpac]czerpać : (czas.) bail; (czas.) derive; (czas.) draw; (czas.) scoop; (czas.) tap
-[czerstwy]czerstwy : (przym.) hale; (przym.) husky; (przym.) robust; (przym.) stale
-[czerw]czerw : (rzecz.) grub; (rzecz.) maggot; (rzecz.) woodworm; (rzecz.) worm
-[czerwiec]czerwiec : (rzecz.) June
-[czerwienic]czerwienić : (czas.) blush; (czas.) redden
-[czerwien]czerwień : (rzecz.) crimson; (rzecz.) magenta; (rzecz.) red; (rzecz.) scarlet
-[czerwonawy]czerwonawy : (przym.) reddish
-[czerwonka]czerwonka : (rzecz.) dysentery
-[czerwonkowy]czerwonkowy : (przym.) dysenteric
-[czerwonobrazowy]czerwonobrązowy : (przym.) puce; (przym.) russet
-[czerwonosc]czerwoność : (rzecz.) redness
-[czerwony]czerwony : (przym.) red; (przym.) ruddy; (przym.) sanguine
-[czern]czerń : (rzecz.) black; (rzecz.) blackness; (rzecz.) sable
-[czesanka]czesanka : (rzecz.) cheviot
-[czesarka]czesarka : (rzecz.) comber
-[czesac]czesać : (czas.) comb
-[czesne]czesne : (rzecz.) fee; (rzecz.) tuition
-[czesc]cześć : (rzecz.) cult; (rzecz.) esteem; (rzecz.) glory; (rzecz.) honour; (rzecz.) part; (rzecz.) reverence; (rzecz.) veneration
-[czkanie]czkanie : (rzecz.) eructation
-[czkawka]czkawka : (rzecz.) hiccough; (rzecz.) hiccup
-[czkac]czkać : (czas.) hiccough; (czas.) hiccup; (czas.) sneeze
-[czmychac]czmychać : (czas.) whip
-[czmychnac]czmychnąć : (czas.) bolt
-[czochranie]czochranie : (rzecz.) ripple
-[czochrac]czochrać : (czas.) chafe; (czas.) ripple; (czas.) rub; (czas.) ruffle; (czas.) tousle
-[czop]czop : (rzecz.) peg; (rzecz.) pivot; (rzecz.) plug; (rzecz.) spigot; (rzecz.) toe
-[czopek]czopek : (rzecz.) suppository
-[czopowac]czopować : (czas.) obstruct; (czas.) plug
-[czopuch]czopuch : (rzecz.) flue
-[czort]czort : (rzecz.) devil
-[czosnek]czosnek : (rzecz.) garlic
-[czosnkowy]czosnkowy : (przym.) alliaceous
-[czolem]czołem : (wykrzyknik) cheerio
-[czolg]czołg : (rzecz.) reptile; (rzecz.) tank
-[czolganie]czołganie : (rzecz.) crawl
-[czolgac]czołgać : (czas.) crawl; (czas.) creep; (czas.) grovel
-[czolo]czoło : (rzecz.) brow; (rzecz.) face; (rzecz.) forefront; (rzecz.) forehand; (rzecz.) forehead; (rzecz.) front
-[czolobitnosc]czołobitność : (rzecz.) obsequiousness; (rzecz.) prostration; (rzecz.) servility; (rzecz.) subservience
-[czolobitny]czołobitny : (przym.) obsequious; (przym.) servile
-[czolowy]czołowy : (przym.) forehand; (przym.) frontal; (przym.) leading
-[czolowka]czołówka : (rzecz.) forefront
-[czterdziesty]czterdziesty : (przym.) fortieth
-[czternasty]czternasty : (przym.) fourteenth
-[czterochlorek]czterochlorek : (rzecz.) tetrachloride
-[czterokrotnie]czterokrotnie : (przysł.) fourfold
-[czterokrotny]czterokrotny : (przym.) fourfold
-[czterowartosciowy]czterowartościowy : (przym.) tetrad; (przym.) tetravalent
-[czterowiersz]czterowiersz : (rzecz.) quatrain
-[czub]czub : (rzecz.) crest; (rzecz.) head
-[czubatka]czubatka : (rzecz.) guan
-[czubaty]czubaty : (przym.) crested
-[czubek]czubek : (rzecz.) tip; (rzecz.) top
-[czubic]czubić : (czas.) bicker; (czas.) quarrel
-[czucie]czucie : (rzecz.) feel; (rzecz.) feeling
-[czuciowy]czuciowy : (przym.) sensitive; (przym.) sensorial; (przym.) sensory; (przym.) sensuous
-[czujka]czujka : (rzecz.) feeler; (rzecz.) sentry
-[czujnie]czujnie : (przysł.) watchfully
-[czujnik]czujnik : (rzecz.) detector; (rzecz.) pickup; (rzecz.) sensor
-[czujnosc]czujność : (rzecz.) alert; (rzecz.) alertness; (rzecz.) lookout; (rzecz.) outlook; (rzecz.) vigilance; (rzecz.) wakefulness; (rzecz.) watchfulness
-[czujny]czujny : (przym.) alert; (przym.) perky; (przym.) vigilant; (przym.) wakeful; (przym.) wary; (przym.) watchful
-[czule]czule : (przysł.) affectionately; (przysł.) fondly; (przysł.) lovingly; (przysł.) tenderly
-[czulic]czulić : (czas.) coax
-[czupiradlo]czupiradło : (rzecz.) fright
-[czupryna]czupryna : (rzecz.) fuzz; (rzecz.) mop; (rzecz.) shag
-[czupurny]czupurny : (przym.) blustering; (przym.) defiant; (przym.) quarrelsome; (przym.) self-assertive
-[czuwajacy]czuwający : (przym.) wakeful
-[czuwanie]czuwanie : (rzecz.) vigil; (rzecz.) watch
-[czuwac]czuwać : (czas.) watch
-[czuc]czuć : (czas.) abhor; (czas.) be; (czas.) fare; (czas.) feel; (czas.) fell; (czas.) fine; (czas.) smell; (czas.) smelt
-[czulek]czułek : (rzecz.) antenna; (rzecz.) feeler; (rzecz.) horn; (rzecz.) mimosa; (rzecz.) tentacle
-[czulostkowosc]czułostkowość : (rzecz.) sentimentality
-[czulostkowy]czułostkowy : (przym.) lackadaisical; (przym.) namby-pamby; (przym.) sentimental; (przym.) slushy
-[czulosc]czułość : (rzecz.) acuteness; (rzecz.) fondness; (rzecz.) sensitivity; (rzecz.) tenderness
-[czuly]czuły : (przym.) affectionate; (przym.) delicate; (przym.) fond; (przym.) sensitive; (przym.) sensuous; (przym.) susceptible; (przym.) tender; (przym.) tender-hearted; (przym.) vulnerable
-[czwarta]czwarta : (rzecz.) four; (rzecz.) fourth; (rzecz.) quarter
-[czwartek]czwartek : (rzecz.) Thursday
-[czwartorzedowy]czwartorzędowy : (przym.) quaternary
-[czworaczki]czworaczki : (rzecz.) quadruplets
-[czworoboczny]czworoboczny : (przym.) quadrangular; (przym.) quadrate; (przym.) quadrilateral
-[czworobok]czworobok : (rzecz.) quad; (rzecz.) quadrangle; (rzecz.) quadrilateral
-[czworograniasty]czworograniasty : (przym.) square
-[czworokat]czworokąt : (rzecz.) quadrangle; (rzecz.) quadrilateral; (rzecz.) square; (rzecz.) trapezoid
-[czworokatny]czworokątny : (przym.) quadrangular; (przym.) square; (przym.) tetragonal
-[czworonogi]czworonogi : (przym.) four-footed
-[czworonozny]czworonożny : (przym.) four-footed; (przym.) quadruped
-[czworonog]czworonóg : (rzecz.) quadruped
-[czworoscian]czworościan : (rzecz.) tetrahedron
-[czworoscienny]czworościenny : (przym.) tetrahedral
-[czworkowy]czwórkowy : (przym.) quaternary
-[czwornik]czwórnik : (rzecz.) four-pole
-[czy]czy : (spójnik) if; (spójnik) or; (spójnik) unless; (spójnik) whether
-[czyhac]czyhać : (czas.) ambush; (czas.) fish; (czas.) lurk; (czas.) seek
-[czyn]czyn : (rzecz.) act; (rzecz.) action; (rzecz.) chance-medley; (rzecz.) deed; (rzecz.) volition
-[czynel]czynel : (rzecz.) cymbal
-[czynic]czynić : (czas.) activate; (czas.) did; (czas.) do; (czas.) done
-[czynnie]czynnie : (przysł.) actively
-[czynnik]czynnik : (rzecz.) agency; (rzecz.) agent; (rzecz.) consideration; (rzecz.) factor; (rzecz.) irritant; (rzecz.) stimulus
-[czynnosciowy]czynnościowy : (przym.) functional
-[czynnosc]czynność : (rzecz.) action; (rzecz.) activity; (rzecz.) operation
-[czynny]czynny : (przym.) active; (przym.) busy; (przym.) open; (przym.) operative; (przym.) removable; (przym.) virtual
-[czynsz]czynsz : (rzecz.) rent; (rzecz.) rental
-[czynszownik]czynszownik : (rzecz.) copyholder
-[czyrak]czyrak : (rzecz.) abscess; (rzecz.) boil; (rzecz.) furuncle
-[czystka]czystka : (rzecz.) purge
-[czysto]czysto : (przysł.) clean; (przysł.) cleanly; (przysł.) purely
-[czystopis]czystopis : (rzecz.) fair
-[czystorasowy]czystorasowy : (przym.) pure-bred
-[czystosc]czystość : (rzecz.) chastity; (rzecz.) clarity; (rzecz.) cleanliness; (rzecz.) cleanness; (rzecz.) fineness; (rzecz.) finesse; (rzecz.) integrity; (rzecz.) purity; (rzecz.) tidiness
-[czysty]czysty : (przym.) absolute; (przym.) bare; (przym.) blank; (przym.) chaste; (przym.) clean; (przym.) clearer; (przym.) fine; (przym.) limpid; (przym.) natty; (przym.) neat; (przym.) net; (przym.) orderly; (przym.) pure; (przym.) sanitary; (przym.) sheer; (przym.) snowy; (przym.) solid; (przym.) spick; (przym.) spotless; (przym.) straight; (przym.) tidy; (przym.) unalloyed; (przym.) virginal
-[czyszczak]czyszczak : (rzecz.) cleanout
-[czyszczarka]czyszczarka : (rzecz.) scrubber
-[czyszczenie]czyszczenie : (rzecz.) clarification; (rzecz.) cleaner; (rzecz.) cleaning; (rzecz.) cleansing; (rzecz.) purge
-[czyszczacy]czyszczący : (przym.) detergent
-[czytanie]czytanie : (rzecz.) reading; (rzecz.) spelling
-[czytanka]czytanka : (rzecz.) reader; (rzecz.) text
-[czytac]czytać : (czas.) peruse; (czas.) read
-[czytelnia]czytelnia : (rzecz.) athenaeum; (rzecz.) library; (rzecz.) reading-room
-[czytelnictwo]czytelnictwo : (rzecz.) reading
-[czytelnie]czytelnie : (przysł.) legibly
-[czytelnik]czytelnik : (rzecz.) reader
-[czytelnosc]czytelność : (rzecz.) legibility; (rzecz.) readability
-[czytelny]czytelny : (przym.) legible; (przym.) readable
-[czytnik]czytnik : (rzecz.) reader; (rzecz.) scanner
-[czyscibut]czyścibut : (rzecz.) bootblack; (rzecz.) shoeblack
-[czysciciel]czyściciel : (rzecz.) cleaner
-[czysciec]czyściec : (rzecz.) purgatory
-[czyscic]czyścić : (czas.) brush; (czas.) clean; (czas.) cleaned; (czas.) cleanse; (czas.) debug; (czas.) dust; (czas.) geld; (czas.) prune; (czas.) purge; (czas.) purify; (czas.) rub; (czas.) scour; (czas.) scrub; (czas.) shine; (czas.) tidy; (czas.) trim
-[czysccowy]czyśćcowy : (przym.) purgatorial
-[czyz]czyż : (rzecz.) siskin
-[czyzyk]czyżyk : (rzecz.) siskin
-[czolenko]czółenko : (rzecz.) boat; (rzecz.) shuttle
-[czolno]czółno : (rzecz.) boat; (rzecz.) canoe
-[czasteczka]cząsteczka : (rzecz.) circuital; (rzecz.) compound; (rzecz.) corpuscle; (rzecz.) molecule; (rzecz.) particle; (rzecz.) speck
-[czasteczkowy]cząsteczkowy : (przym.) molecular; (przym.) particulate
-[czastka]cząstka : (rzecz.) allotment; (rzecz.) bit; (rzecz.) crumb; (rzecz.) dole; (rzecz.) moiety; (rzecz.) particle; (rzecz.) segment
-[czastkowy]cząstkowy : (przym.) partial
-[czesto]często : (przysł.) frequently; (przysł.) often
-[czestokroc]częstokroć : (przysł.) often; (przysł.) oftentimes; (przysł.) repeatedly
-[czestokol]częstokół : (rzecz.) fence
-[czestoskurcz]częstoskurcz : (rzecz.) tachycardia
-[czestotliwosciowo-napieciowy]częstotliwościowo-napięciowy : (przym.) frequency-to-voltage
-[czestotliwosc]częstotliwość : (rzecz.) frequency; (rzecz.) incidence; (rzecz.) recurrence
-[czestotliwy]częstotliwy : (przym.) frequentative
-[czestowac]częstować : (czas.) help; (czas.) treat
-[czestosc]częstość : (rzecz.) frequency; (rzecz.) incidence; (rzecz.) thickness
-[czesty]częsty : (przym.) frequent; (przym.) repeated; (przym.) rife
-[czesciowo]częściowo : (przysł.) partially; (przysł.) partly; (przysł.) somewhat
-[czesciowy]częściowy : (przym.) fragmentary; (przym.) partial
-[czesc]część : (rzecz.) bit; (rzecz.) component; (rzecz.) constituent; (rzecz.) dole; (rzecz.) element; (rzecz.) faction; (rzecz.) fitting; (rzecz.) fractal; (rzecz.) fraction; (rzecz.) fragment; (rzecz.) lot; (rzecz.) part; (rzecz.) particularity; (rzecz.) piece; (rzecz.) portion; (rzecz.) proportion; (rzecz.) section; (rzecz.) share; (rzecz.) slice; (rzecz.) unit; (rzecz.) woodwork
-[czlapac]człapać : (czas.) shamble; (czas.) shuffle
-[czlekoksztaltny]człekokształtny : (przym.) anthropoid; (przym.) subhuman
-[czlon]człon : (rzecz.) element; (rzecz.) link; (rzecz.) member; (rzecz.) module; (rzecz.) state; (rzecz.) term
-[czlonek]członek : (rzecz.) commoner; (rzecz.) fellow; (rzecz.) freeman; (rzecz.) limb; (rzecz.) member; (rzecz.) penis
-[czlonkostwo]członkostwo : (rzecz.) fellowship; (rzecz.) membership
-[czlowieczenstwo]człowieczeństwo : (rzecz.) humaneness; (rzecz.) humanity
-[czlowieczy]człowieczy : (przym.) human
-[czlowiek]człowiek : (rzecz.) bloke; (rzecz.) chap; (rzecz.) creature; (rzecz.) fellow; (rzecz.) guy; (rzecz.) human; (rzecz.) man; (rzecz.) prodigy; (rzecz.) simple
-[cora]córa : (rzecz.) daughter; (rzecz.) daughters’
-[corka]córka : (rzecz.) daughter
-[cazki]cążki : (rzecz.) clipper; (rzecz.) clippers; (rzecz.) dumbbell; (rzecz.) pincers; (rzecz.) pliers
-[cegi]cęgi : (rzecz.) pincer; (rzecz.) pincers; (rzecz.) pliers; (rzecz.) tongs
-[cetka]cętka : (rzecz.) fleck; (rzecz.) speckle
-[cetkowany]cętkowany : (przym.) mottled; (przym.) spotted; (przym.) spotty
-[cetkowac]cętkować : (czas.) dapple; (czas.) speckle; (czas.) stipple
-[clo]cło : (rzecz.) custom; (rzecz.) customs; (rzecz.) duct; (rzecz.) duty; (rzecz.) levy; (rzecz.) tariff; (rzecz.) tax; (rzecz.) toll
-[cma]ćma : (rzecz.) moth
-[cmic]ćmić : (czas.) dazzle; (czas.) puff
-[cpac]ćpać : (czas.) drug
-[cpun]ćpun : (rzecz.) junkie
-[cwiartka]ćwiartka : (rzecz.) quadrant; (rzecz.) quarter
-[cwiartowac]ćwiartować : (czas.) quarter
-[cwiczenie]ćwiczenie : (rzecz.) activity; (rzecz.) drill; (rzecz.) exercise; (rzecz.) exercitation; (rzecz.) practice; (rzecz.) training
-[cwiczyc]ćwiczyć : (czas.) drill; (czas.) exercise; (czas.) practice; (czas.) practise; (czas.) rehearse; (czas.) train
-[cwiek]ćwiek : (rzecz.) hob; (rzecz.) hobnail; (rzecz.) nail; (rzecz.) stud; (rzecz.) tack
-[cwierkanie]ćwierkanie : (rzecz.) chatter; (rzecz.) chirp; (rzecz.) chirrup; (rzecz.) twitter
-[cwierkac]ćwierkać : (czas.) chatter; (czas.) chirp; (czas.) peep; (czas.) twitter
-[cwierc]ćwierć : (rzecz.) quarter
-[cwiercfinal]ćwierćfinał : (rzecz.) quarter; (rzecz.) quarterfinal; (rzecz.) quarter-final
-[cwiercfinalowy]ćwierćfinałowy : (przym.) quarterfinal
-[cwiercnuta]ćwierćnuta : (rzecz.) crotchet
-[cwik]ćwik : (rzecz.) capon
-[cwikla]ćwikła : (rzecz.) beetroot
-[cwok]ćwok : (rzecz.) knucklehead
+[cackac]cackać (PL) : (cz.) fondle; (cz.) pamper
+[cacko]cacko (PL) : (rz.) bibelot; (rz.) bijou; (rz.) falderal; (rz.) gem; (rz.) gimcrack; (rz.) jewel; (rz.) kickshaw; (rz.) knick; (rz.) knickknack; (rz.) knick-knack; (rz.) trinket
+[cal]cal (PL) : (rz.) inch
+[calowka]calówka (PL) : (rz.) inch-rule; (rz.) rule
+[capiec]capieć (PL) : (cz.) stink
+[cappuccino]cappuccino (PL) : (rz.) cappuccino
+[capstrzyk]capstrzyk (PL) : (rz.) tattoo
+[car]car (PL) : (rz.) tsar
+[carat]carat (PL) : (rz.) czarism
+[carski]carski (PL) : (p.) tsarist
+[casting]casting (PL) : (rz.) baring; (rz.) topping-up
+[calka]całka (PL) : (rz.) integral
+[calkiem]całkiem (PL) : (p-sł.) all; (p-sł.) entirely; (p-sł.) quite; (p-sł.) sheer
+[calkowanie]całkowanie (PL) : (rz.) integration
+[calkowac]całkować (PL) : (cz.) integrate
+[calkowicie]całkowicie (PL) : (p-sł.) absolutely; (p-sł.) altogether; (p-sł.) completely; (p-sł.) dead; (p-sł.) entirely; (p-sł.) fairly; (p-sł.) fully; (p-sł.) purely; (p-sł.) quite; (p-sł.) solely; (p-sł.) through; (p-sł.) throughout; (p-sł.) totally; (p-sł.) utterly; (p-sł.) wholly
+[calkowitosc]całkowitość (PL) : (rz.) integrity; (rz.) totality; (rz.) wholeness
+[calkowity]całkowity (PL) : (p.) absolute; (p.) all; (p.) all-oat; (p.) all-out; (p.) clear; (p.) complete; (p.) downright; (p.) entire; (p.) gross; (p.) out-and-out; (p.) outright; (p.) overall; (p.) plenary; (p.) profound; (p.) thorough; (p.) total; (p.) undivided; (p.) unmitigated; (p.) utter; (p.) whole; (p.) wholehearted
+[calkowy]całkowy (PL) : (p.) integral
+[calo]cało (PL) : (p-sł.) all; (p-sł.) safely
+[calodobowy]całodobowy (PL) : (p.) round-the-clock
+[calodzienny]całodzienny (PL) : (p.) daylong; (p.) round-the-clock
+[caloksztalt]całokształt (PL) : (rz.) aggregate; (rz.) assemblage; (rz.) lifetime; (rz.) whole
+[calonocny]całonocny (PL) : (p.) all-night; (p.) nightlong; (p.) night-long
+[calopalenie]całopalenie (PL) : (rz.) holocaust
+[calopalny]całopalny (PL) : (p.) burnt
+[caloroczny]całoroczny (PL) : (p.) all; (p.) yearlong; (p.) yearly; (p.) year-round
+[calostronicowy]całostronicowy (PL) : (p.) full-page
+[calowac]całować (PL) : (cz.) buss; (cz.) kiss; (cz.) smooch
+[calosciowo]całościowo (PL) : (p-sł.) integrally
+[calosciowy]całościowy (PL) : (p.) comprehensive; (p.) end-to-end; (p.) overall; (p.) rational; (p.) total
+[calosc]całość (PL) : (rz.) all; (rz.) bloc; (rz.) entirety; (rz.) integer; (rz.) integral; (rz.) integrity; (rz.) total; (rz.) totality; (rz.) whole
+[calun]całun (PL) : (rz.) cerement; (rz.) pall; (rz.) shroud
+[calus]całus (PL) : (rz.) buss; (rz.) kiss; (rz.) smacker; (rz.) smooch
+[caly]cały (PL) : (p.) entire; (p.) unharmed; (p.) whole
+[ceber]ceber (PL) : (rz.) bucket; (rz.) pail
+[cebrzyk]cebrzyk (PL) : (rz.) kit
+[cebula]cebula (PL) : (rz.) bulb; (rz.) onion; (rz.) turnip
+[cebulasty]cebulasty (PL) : (p.) bulbous; (p.) onion-shaped
+[cebulka]cebulka (PL) : (rz.) bulb; (rz.) corm; (rz.) onion
+[cebulkowaty]cebulkowaty (PL) : (p.) bulbous
+[cech]cech (PL) : (rz.) features; (rz.) guild; (rz.) tags
+[cecha]cecha (PL) : (rz.) attribute; (rz.) characteristic; (rz.) degree; (rz.) feature; (rz.) hallmark; (rz.) hall-mark; (rz.) marker; (rz.) pointing; (rz.) quality; (rz.) speciality; (rz.) tag; (rz.) trait
+[cechowanie]cechowanie (PL) : (rz.) branding; (rz.) marking
+[cechowac]cechować (PL) : (cz.) characterize; (cz.) feature; (cz.) have; (cz.) mark
+[cechowy]cechowy (PL) : (p.) guild's
+[cedent]cedent (PL) : (rz.) assignor; (rz.) transferor
+[cedowanie]cedowanie (PL) : (rz.) cession
+[cedowac]cedować (PL) : (cz.) assign; (cz.) cede; (cz.) convey
+[cedr]cedr (PL) : (rz.) cedar
+[cedrat]cedrat (PL) : (rz.) citron
+[cedrowy]cedrowy (PL) : (p.) cedarn
+[cedula]ceduła (PL) : (rz.) quotation
+[cedzak]cedzak (PL) : (rz.) colander; (rz.) strainer
+[cedzenie]cedzenie (PL) : (rz.) drawl; (rz.) filter; (rz.) filtration; (rz.) straining
+[cedzidlo]cedzidło (PL) : (rz.) filter; (rz.) skimmer; (rz.) strainer
+[cedzic]cedzić (PL) : (cz.) drawl; (cz.) filter; (cz.) sip; (cz.) strain
+[cefal]cefal (PL) : (rz.) mullet
+[cegielnia]cegielnia (PL) : (rz.) brickfield; (rz.) brick-field; (rz.) brickyard; (rz.) brick-yard; (rz.) brickyards
+[cegielka]cegiełka (PL) : (rz.) cake
+[ceglasty]ceglasty (PL) : (p.) brick-red
+[cegla]cegła (PL) : (rz.) adobe; (rz.) brick; (rz.) header
+[cekin]cekin (PL) : (rz.) sequin
+[cel]cel (PL) : (rz.) aim; (rz.) aiming; (rz.) ambition; (rz.) cause; (rz.) design; (rz.) destination; (rz.) end; (rz.) goal; (rz.) mark; (rz.) object; (rz.) objective; (rz.) point; (rz.) purpose; (rz.) scope; (rz.) target; (rz.) targeting; (rz.) tee
+[cela]cela (PL) : (rz.) cell; (rz.) ward
+[celebracja]celebracja (PL) : (rz.) celebration
+[celebrowanie]celebrowanie (PL) : (rz.) celebration
+[celebrowac]celebrować (PL) : (cz.) celebrate; (cz.) officiate
+[celibat]celibat (PL) : (rz.) celibacy
+[celka]celka (PL) : (rz.) carrel; (rz.) cell
+[cellon]cellon (PL) : (rz.) dope
+[celnie]celnie (PL) : (p-sł.) accurately
+[celnik]celnik (PL) : (rz.) tax
+[celnosc]celność (PL) : (rz.) accuracy; (rz.) marksmanship
+[celny]celny (PL) : (p.) accurate; (p.) deserved; (p.) pithy; (p.) relevant
+[celofan]celofan (PL) : (rz.) cellophane; (rz.) glassine
+[celowanie]celowanie (PL) : (rz.) aiming; (rz.) targeting
+[celowac]celować (PL) : (cz.) aim; (cz.) excel; (cz.) targeting
+[celownik]celownik (PL) : (rz.) crosshair; (rz.) dative; (rz.) sight; (rz.) viewfinder; (rz.) view-finder; (rz.) vision
+[celownikowy]celownikowy (PL) : (p.) dative
+[celowo]celowo (PL) : (p-sł.) deliberately; (p-sł.) intentionally; (p-sł.) purposefully; (p-sł.) purposely
+[celowosc]celowość (PL) : (rz.) desirability; (rz.) purposefulness; (rz.) sanity
+[celowy]celowy (PL) : (p.) advisable; (p.) appropriate; (p.) deliberate; (p.) expedient; (p.) intentional; (p.) pertinent; (p.) purposeful; (p.) purposive; (p.) special; (p.) useful; (p.) wilful
+[celuloid]celuloid (PL) : (rz.) celluloid; (rz.) xylonite
+[celuloza]celuloza (PL) : (rz.) cellulose
+[cembrowac]cembrować (PL) : (cz.) timber
+[cembrowina]cembrowina (PL) : (rz.) boarding
+[cement]cement (PL) : (rz.) cement
+[cementacja]cementacja (PL) : (rz.) carbonization; (rz.) cementation; (rz.) grouting
+[cementowanie]cementowanie (PL) : (rz.) cementation
+[cementowac]cementować (PL) : (cz.) cement
+[cena]cena (PL) : (rz.) cost; (rz.) price; (rz.) prix; (rz.) rate; (rz.) valuation; (rz.) value; (rz.) worth
+[cenar]cenar (PL) : (rz.) caner
+[cenic]cenić (PL) : (cz.) appraise; (cz.) appreciate; (cz.) charge; (cz.) cherish; (cz.) esteem; (cz.) repute; (cz.) treasure; (cz.) value
+[cennik]cennik (PL) : (rz.) pricelist; (rz.) price-list
+[cenny]cenny (PL) : (p.) costly; (p.) gilt-edged; (p.) precious; (p.) valuable
+[cenotaf]cenotaf (PL) : (rz.) cenotaph
+[cent]cent (PL) : (rz.) cent
+[centaur]centaur (PL) : (rz.) cents
+[centezymalny]centezymalny (PL) : (p.) centesimal
+[centra]centra (PL) : (rz.) cross; (rz.) F-centres
+[centrala]centrala (PL) : (rz.) exchange; (rz.) headquarters; (rz.) switchboard
+[centralista]centralista (PL) : (rz.) centralist
+[centralizacja]centralizacja (PL) : (rz.) centralization
+[centralizator]centralizator (PL) : (rz.) centralizer
+[centralizm]centralizm (PL) : (rz.) centralism
+[centralizowanie]centralizowanie (PL) : (rz.) centralization
+[centralizowac]centralizować (PL) : (cz.) centralize
+[centralka]centralka (PL) : (rz.) central; (rz.) switchboard
+[centralnie]centralnie (PL) : (p-sł.) centrally
+[centralny]centralny (PL) : (p.) central
+[centrowanie]centrowanie (PL) : (rz.) alignment
+[centrowiec]centrowiec (PL) : (rz.) centrist
+[centrowy]centrowy (PL) : (p.) centrist; (p.) middle-of-the-road
+[centrum]centrum (PL) : (rz.) centre; (rz.) downtown; (rz.) focus; (rz.) heartland; (rz.) hub; (rz.) midpoint; (rz.) painkiller
+[centryczny]centryczny (PL) : (p.) centric
+[centryfuga]centryfuga (PL) : (rz.) centrifuge
+[centrysta]centrysta (PL) : (rz.) centrist
+[centuria]centuria (PL) : (rz.) centaury
+[centurion]centurion (PL) : (rz.) centurion
+[centygram]centygram (PL) : (rz.) centigram
+[centylitr]centylitr (PL) : (rz.) centilitre
+[centym]centym (PL) : (rz.) centime
+[centymetr]centymetr (PL) : (rz.) centimetre; (rz.) tape-measure
+[cenzor]cenzor (PL) : (rz.) censor; (rz.) proctor
+[cenzorski]cenzorski (PL) : (p.) censorial; (p.) censorious
+[cenzura]cenzura (PL) : (rz.) censorship
+[cenzuralny]cenzuralny (PL) : (p.) correct
+[cenzurowac]cenzurować (PL) : (cz.) censor; (cz.) censurer
+[cenzus]cenzus (PL) : (rz.) census; (rz.) qualification
+[cep]cep (PL) : (rz.) blockhead; (rz.) flail
+[cer]cer (PL) : (rz.) cerium
+[cera]cera (PL) : (rz.) complexion; (rz.) skin
+[ceramiczny]ceramiczny (PL) : (p.) ceramic
+[ceramik]ceramik (PL) : (rz.) ceramics
+[ceramika]ceramika (PL) : (rz.) ceramics; (rz.) pottery
+[cerata]cerata (PL) : (rz.) cerecloth; (rz.) oilcloth; (rz.) oil-cloth; (rz.) oilskin; (rz.) wax-cloth
+[ceratka]ceratka (PL) : (rz.) jaconet
+[cerber]cerber (PL) : (rz.) Cerberus; (rz.) guardian
+[cerebracja]cerebracja (PL) : (rz.) cerebration
+[cerebralny]cerebralny (PL) : (p.) cerebral
+[ceregiele]ceregiele (PL) : (rz.) ado; (rz.) fuss
+[ceremonia]ceremonia (PL) : (rz.) ceremony; (rz.) rite
+[ceremonialnie]ceremonialnie (PL) : (p-sł.) ceremonially; (p-sł.) formally
+[ceremonialny]ceremonialny (PL) : (p.) ceremonial; (p.) punctilious
+[ceremonial]ceremoniał (PL) : (rz.) etiquette; (rz.) rite
+[cerkiew]cerkiew (PL) : (rz.) church
+[cerowaczka]cerowaczka (PL) : (rz.) darner
+[cerowanie]cerowanie (PL) : (rz.) darning
+[cerowac]cerować (PL) : (cz.) darn
+[cerowy]cerowy (PL) : (p.) eerie
+[certowac]certować (PL) : (cz.) fuss
+[certyfikacja]certyfikacja (PL) : (rz.) certification
+[certyfikat]certyfikat (PL) : (rz.) certificate; (rz.) certification
+[certyfikowac]certyfikować (PL) : (cz.) certify
+[cesarski]cesarski (PL) : (p.) imperial
+[cesarstwo]cesarstwo (PL) : (rz.) empery; (rz.) empire
+[cesarz]cesarz (PL) : (rz.) emperor
+[cesja]cesja (PL) : (rz.) assignment; (rz.) cession; (rz.) transfer
+[cesjonariusz]cesjonariusz (PL) : (rz.) assignee; (rz.) cessionary; (rz.) grantee; (rz.) transferee
+[cetan]cetan (PL) : (rz.) hexadecane
+[cetnar]cetnar (PL) : (rz.) hundredweight; (rz.) quintal
+[cetyna]cetyna (PL) : (rz.) cetin; (rz.) needle-cuts
+[cewienie]cewienie (PL) : (rz.) spooling
+[cewka]cewka (PL) : (rz.) bobbin; (rz.) coil; (rz.) duct; (rz.) reel; (rz.) spool
+[cewkowy]cewkowy (PL) : (p.) urethral
+[cewnik]cewnik (PL) : (rz.) catheter
+[cewnikowanie]cewnikowanie (PL) : (rz.) catheterize; (rz.) catheters
+[cewnikowac]cewnikować (PL) : (cz.) catheterize
+[cez]cez (PL) : (rz.) caesium
+[cezura]cezura (PL) : (rz.) caesura
+[chaber]chaber (PL) : (rz.) cornflower
+[chabeta]chabeta (PL) : (rz.) jade
+[chabrowy]chabrowy (PL) : (p.) blue
+[chadzac]chadzać (PL) : (cz.) perambulate
+[chalcedon]chalcedon (PL) : (rz.) chalcedony
+[chalkopiryt]chalkopiryt (PL) : (rz.) chalcopyrite
+[cham]cham (PL) : (rz.) bastard; (rz.) boor; (rz.) brute; (rz.) cad; (rz.) lout; (rz.) rustic; (rz.) tyke
+[chamiec]chamieć (PL) : (cz.) coarsen
+[chamski]chamski (PL) : (p.) boorish; (p.) caddish
+[chamstwo]chamstwo (PL) : (rz.) boorishness; (rz.) caddishness; (rz.) riffraff
+[chan]chan (PL) : (rz.) khan
+[chanat]chanat (PL) : (rz.) khanate
+[chandra]chandra (PL) : (rz.) blues; (rz.) spleen
+[chaos]chaos (PL) : (rz.) chaos
+[chaotycznie]chaotycznie (PL) : (p-sł.) chaotically; (p-sł.) incoherently; (p-sł.) pell-mell
+[chaotyczny]chaotyczny (PL) : (p.) chaotic; (p.) desultory; (p.) disjointed; (p.) disorderly; (p.) incoherent; (p.) rambling
+[chapnac]chapnąć (PL) : (cz.) snap
+[charakter]charakter (PL) : (rz.) capacity; (rz.) character; (rz.) make-up; (rz.) nature; (rz.) overtone; (rz.) spirit; (rz.) spunk; (rz.) temper
+[charakterystycznie]charakterystycznie (PL) : (p-sł.) characteristically
+[charakterystyczny]charakterystyczny (PL) : (p.) characteristic; (p.) distinctive; (p.) habitual; (p.) racy; (p.) representative; (p.) typical
+[charakterystyka]charakterystyka (PL) : (rz.) character; (rz.) characteristic; (rz.) characteristics; (rz.) differential; (rz.) peculiarity; (rz.) profile
+[charakteryzacja]charakteryzacja (PL) : (rz.) characterization; (rz.) makeup; (rz.) make-up
+[charakteryzowanie]charakteryzowanie (PL) : (rz.) characterization
+[charakteryzowac]charakteryzować (PL) : (cz.) characterize; (cz.) define; (cz.) typify
+[charczec]charczeć (PL) : (cz.) wheeze
+[chart]chart (PL) : (rz.) greyhound
+[charytatywnosc]charytatywność (PL) : (rz.) charity
+[charytatywny]charytatywny (PL) : (p.) charitable
+[charyzma]charyzma (PL) : (rz.) charisma
+[charyzmatyczny]charyzmatyczny (PL) : (p.) charismatic
+[chaszcze]chaszcze (PL) : (rz.) brushwood; (rz.) scrub; (rz.) thicket; (rz.) thickets
+[chata]chata (PL) : (rz.) cabin; (rz.) chalet; (rz.) cottage; (rz.) crib; (rz.) hut; (rz.) shack; (rz.) shanty
+[chatka]chatka (PL) : (rz.) cabana; (rz.) chalet; (rz.) cottage; (rz.) hut; (rz.) hutch
+[chala]chała (PL) : (rz.) trash
+[chalat]chałat (PL) : (rz.) overall; (rz.) smock
+[chalka]chałka (PL) : (rz.) chalk
+[chaltura]chałtura (PL) : (rz.) hackwork; (rz.) moonlighting
+[chalupa]chałupa (PL) : (rz.) cabin; (rz.) cottage; (rz.) hovel; (rz.) hut; (rz.) shack; (rz.) shanty
+[chalupka]chałupka (PL) : (rz.) cottage
+[chalupnictwo]chałupnictwo (PL) : (rz.) homework
+[chalupnik]chałupnik (PL) : (rz.) cottager
+[chalwa]chałwa (PL) : (rz.) halva; (rz.) halvah
+[chciec]chcieć (PL) : (cz.) elect; (cz.) need; (cz.) want; (cz.) will; (cz.) wish
+[chciwie]chciwie (PL) : (p-sł.) avidly; (p-sł.) greedily; (p-sł.) hungrily
+[chciwiec]chciwiec (PL) : (rz.) cormorant; (rz.) coveter; (rz.) grabber
+[chciwosc]chciwość (PL) : (rz.) avarice; (rz.) avidity; (rz.) covetousness; (rz.) cupidity; (rz.) greed; (rz.) greediness
+[chciwy]chciwy (PL) : (p.) avaricious; (p.) avid; (p.) covetous; (p.) greedy; (p.) insatiable; (p.) rapacious
+[chemia]chemia (PL) : (rz.) chemistry
+[chemicznie]chemicznie (PL) : (p-sł.) chemically
+[chemiczny]chemiczny (PL) : (p.) chemical
+[chemigrafia]chemigrafia (PL) : (rz.) photoengraving; (rz.) zincograph; (rz.) zincography
+[chemik]chemik (PL) : (rz.) chemist
+[chemikalia]chemikalia (PL) : (rz.) chemical; (rz.) chemicals
+[chemioterapia]chemioterapia (PL) : (rz.) chemotherapy
+[chemizm]chemizm (PL) : (rz.) chemistry
+[chemosynteza]chemosynteza (PL) : (rz.) chemosynthesis
+[chemoterapeutyczny]chemoterapeutyczny (PL) : (p.) chemotherapeutic
+[chemoterapia]chemoterapia (PL) : (rz.) chemotherapy
+[chemotropizm]chemotropizm (PL) : (rz.) chemotropism
+[cherlactwo]cherlactwo (PL) : (rz.) decrepitude; (rz.) weakness
+[cherlak]cherlak (PL) : (rz.) invalid; (rz.) valetudinarian; (rz.) weakling
+[cherlawy]cherlawy (PL) : (p.) puny; (p.) sickly; (p.) weedy
+[cherubin]cherubin (PL) : (rz.) cherub; (rz.) cherubim
+[chelpienie]chełpienie (PL) : (rz.) bragging; (rz.) swagger
+[chelpic]chełpić (PL) : (cz.) boast; (cz.) brag; (cz.) pride; (cz.) vaunt
+[chelpliwie]chełpliwie (PL) : (p-sł.) gloatingly
+[chelpliwosc]chełpliwość (PL) : (rz.) boastfulness; (rz.) bounce; (rz.) vainglory
+[chelpliwy]chełpliwy (PL) : (p.) boastful; (p.) brash; (p.) magniloquent; (p.) vainglorious
+[chichot]chichot (PL) : (rz.) chortle; (rz.) chuckle; (rz.) giggle; (rz.) snigger; (rz.) titter
+[chichotanie]chichotanie (PL) : (rz.) giggle; (rz.) simper; (rz.) titter
+[chichotac]chichotać (PL) : (cz.) chortle; (cz.) chuckle; (cz.) giggle; (cz.) snigger; (cz.) titter
+[chimera]chimera (PL) : (rz.) chimera; (rz.) maggot
+[chimerycznosc]chimeryczność (PL) : (rz.) unreality
+[chimeryczny]chimeryczny (PL) : (p.) chimerical; (p.) fantastic
+[chimeryk]chimeryk (PL) : (rz.) visionary
+[chinina]chinina (PL) : (rz.) quinine
+[chiralnosc]chiralność (PL) : (rz.) dissymmetry
+[chiromancja]chiromancja (PL) : (rz.) chiromancy; (rz.) palmistry
+[chiromanta]chiromanta (PL) : (rz.) palmist
+[chiropraktyka]chiropraktyka (PL) : (rz.) chiropractic
+[chirurg]chirurg (PL) : (rz.) sawbones; (rz.) surgeon
+[chirurgia]chirurgia (PL) : (rz.) surgery
+[chirurgicznie]chirurgicznie (PL) : (p-sł.) surgically
+[chirurgiczny]chirurgiczny (PL) : (p.) surgical
+[chityna]chityna (PL) : (rz.) chitin
+[chlanie]chlanie (PL) : (rz.) bibbing
+[chlapa]chlapa (PL) : (rz.) slush
+[chlapanie]chlapanie (PL) : (rz.) blabbing; (rz.) slush; (rz.) spatter
+[chlapac]chlapać (PL) : (cz.) splash
+[chlastac]chlastać (PL) : (cz.) splash; (cz.) whack
+[chlac]chlać (PL) : (cz.) booze
+[chlasniecie]chlaśnięcie (PL) : (rz.) swish
+[chleb]chleb (PL) : (rz.) bread
+[chlebak]chlebak (PL) : (rz.) breadbox; (rz.) haversack; (rz.) knapsack
+[chlebodajny]chlebodajny (PL) : (p.) fertile
+[chlebodawca]chlebodawca (PL) : (rz.) breadwinner; (rz.) employer
+[chlebodawczyni]chlebodawczyni (PL) : (rz.) employer
+[chlew]chlew (PL) : (rz.) pigpen; (rz.) pigsty; (rz.) sty
+[chlewnia]chlewnia (PL) : (rz.) piggery
+[chlipac]chlipać (PL) : (cz.) burble; (cz.) entail; (cz.) lap; (cz.) snivel; (cz.) sob
+[chlor]chlor (PL) : (rz.) chlorine
+[chloral]chloral (PL) : (rz.) chloral
+[chloran]chloran (PL) : (rz.) chlorate
+[chlorator]chlorator (PL) : (rz.) chlorinator
+[chlordan]chlordan (PL) : (rz.) chlordane
+[chlorek]chlorek (PL) : (rz.) chloride
+[chlorofil]chlorofil (PL) : (rz.) chlorophyll
+[chloroform]chloroform (PL) : (rz.) chloroform
+[chloroformowanie]chloroformowanie (PL) : (rz.) chloroforming
+[chloroformowac]chloroformować (PL) : (cz.) chloroform
+[chlorometan]chlorometan (PL) : (rz.) chloromethane
+[chloropikryna]chloropikryna (PL) : (rz.) chloropicrin
+[chloroplast]chloroplast (PL) : (rz.) chloroplast
+[chloropren]chloropren (PL) : (rz.) chloroprene
+[chlorotetracyklina]chlorotetracyklina (PL) : (rz.) chlortetracycline
+[chlorowanie]chlorowanie (PL) : (rz.) chlorination
+[chlorowany]chlorowany (PL) : (p.) chlorinated
+[chlorowac]chlorować (PL) : (cz.) chlorinate
+[chlorowiec]chlorowiec (PL) : (rz.) halogen
+[chlorownik]chlorownik (PL) : (rz.) chlorinator
+[chlorowodorek]chlorowodorek (PL) : (rz.) hydrochloride
+[chlorowodorowy]chlorowodorowy (PL) : (p.) hydrochloric
+[chloryn]chloryn (PL) : (rz.) chlorite
+[chloryt]chloryt (PL) : (rz.) chlorite
+[chluba]chluba (PL) : (rz.) credit; (rz.) glory; (rz.) jewel; (rz.) pride
+[chlubic]chlubić (PL) : (cz.) glory
+[chlubnie]chlubnie (PL) : (p-sł.) creditably
+[chlubny]chlubny (PL) : (p.) creditable; (p.) glorious; (p.) praiseworthy
+[chlupanie]chlupanie (PL) : (rz.) squelch
+[chlupac]chlupać (PL) : (cz.) flop; (cz.) lap; (cz.) splash; (cz.) squelch
+[chlupot]chlupot (PL) : (rz.) lap; (rz.) squelch
+[chlupotanie]chlupotanie (PL) : (rz.) squelch
+[chlupotac]chlupotać (PL) : (cz.) squelch
+[chlustac]chlustać (PL) : (cz.) gush; (cz.) spout; (cz.) spurt
+[chmara]chmara (PL) : (rz.) horde; (rz.) host; (rz.) swarm; (rz.) throng
+[chmiel]chmiel (PL) : (rz.) hop
+[chmura]chmura (PL) : (rz.) cloud; (rz.) cumulus; (rz.) nimbus; (rz.) thundercloud
+[chmurny]chmurny (PL) : (p.) black; (p.) cloudy; (p.) glum
+[chmurzenie]chmurzenie (PL) : (rz.) cloud
+[chmurzyc]chmurzyć (PL) : (cz.) frown
+[chochla]chochla (PL) : (rz.) ladle; (rz.) scoop
+[chochlik]chochlik (PL) : (rz.) goblin; (rz.) gremlin; (rz.) imp; (rz.) kobold; (rz.) pixie; (rz.) pixy; (rz.) puck; (rz.) sprite
+[chochol]chochoł (PL) : (rz.) mulch
+[chociaz]chociaż (PL) : (spójnik) albeit; (spójnik) although; (spójnik) as; (spójnik) though
+[chodak]chodak (PL) : (rz.) clod; (rz.) clog; (rz.) sabot
+[chodliwy]chodliwy (PL) : (p.) fast-selling; (p.) saleable
+[chodnik]chodnik (PL) : (rz.) footpath; (rz.) footway; (rz.) pathway; (rz.) pavement; (rz.) sidewalk; (rz.) side-walk; (rz.) walkway
+[chodzenie]chodzenie (PL) : (rz.) walking
+[chodziarz]chodziarz (PL) : (rz.) walkers
+[chodzik]chodzik (PL) : (rz.) walker
+[chodzic]chodzić (PL) : (cz.) attend; (cz.) come; (cz.) date; (cz.) descend; (cz.) go; (cz.) hike; (cz.) walk
+[choina]choina (PL) : (rz.) pine
+[choinka]choinka (PL) : (rz.) fir; (rz.) pine; (rz.) spruce
+[choinkowy]choinkowy (PL) : (p.) spruce
+[chojrak]chojrak (PL) : (rz.) daredevil; (rz.) dare-devil
+[cholera]cholera (PL) : (rz.) cholera; (rz.) shit
+[cholernie]cholernie (PL) : (p-sł.) cursedly
+[cholernik]cholernik (PL) : (rz.) spitfire
+[cholerny]cholerny (PL) : (p.) bally; (p.) blasted; (p.) bloody; (p.) damned; (p.) hellish
+[cholerstwo]cholerstwo (PL) : (rz.) shit
+[choleryczny]choleryczny (PL) : (p.) choleric
+[choleryk]choleryk (PL) : (rz.) spitfire
+[cholesterol]cholesterol (PL) : (rz.) cholesterol
+[cholewa]cholewa (PL) : (rz.) bootleg; (rz.) leg
+[cholewka]cholewka (PL) : (rz.) shoe-top; (rz.) upper
+[chomik]chomik (PL) : (rz.) hamster
+[chomatko]chomątko (PL) : (rz.) clip; (rz.) thimble
+[chomato]chomąto (PL) : (rz.) collar; (rz.) horse-collar; (rz.) stirrup
+[choral]chorał (PL) : (rz.) chorale
+[choreograf]choreograf (PL) : (rz.) choreographer
+[choreografia]choreografia (PL) : (rz.) choreography
+[choreograficznie]choreograficznie (PL) : (p-sł.) choreographically
+[choreograficzny]choreograficzny (PL) : (p.) choreographic
+[choroba]choroba (PL) : (rz.) affection; (rz.) ailment; (rz.) disease; (rz.) disorder; (rz.) illness; (rz.) infirmity; (rz.) malady; (rz.) sickness; (rz.) trouble; (rz.) vacation
+[chorobliwie]chorobliwie (PL) : (p-sł.) morbidly
+[chorobliwosc]chorobliwość (PL) : (rz.) morbidity
+[chorobliwy]chorobliwy (PL) : (p.) abnormal; (p.) morbid; (p.) unhealthy
+[chorobotworczosc]chorobotwórczość (PL) : (rz.) pathogenesis
+[chorobotworczy]chorobotwórczy (PL) : (p.) pathogenic
+[chorobowosc]chorobowość (PL) : (rz.) morbidity; (rz.) prevalence
+[chorobowy]chorobowy (PL) : (p.) pathological
+[chorowac]chorować (PL) : (cz.) lie; (cz.) sicken; (cz.) suffer
+[chorowitosc]chorowitość (PL) : (rz.) sickliness; (rz.) valetudinarianism
+[chorowity]chorowity (PL) : (p.) sickly
+[chory]chory (PL) : (p.) afflicted; (p.) bad; (p.) bedridden; (p.) bed-ridden; (p.) diseased; (p.) ill; (p.) ill-tempered; (p.) infirm; (p.) insane; (p.) invalid; (p.) liverish; (p.) sick; (p.) sore; (p.) unhealthy; (p.) unwell
+[choragiew]chorągiew (PL) : (rz.) banner; (rz.) ensign; (rz.) flag; (rz.) streamer
+[choragiewka]chorągiewka (PL) : (rz.) flag; (rz.) pennant
+[chorazy]chorąży (PL) : (rz.) cornet; (rz.) midshipman; (rz.) standard-bearer
+[chow-chow]chow-chow (PL) : (rz.) chow
+[chowany]chowany (PL) : (p.) retractable
+[chowac]chować (PL) : (cz.) bury; (cz.) hide; (cz.) hoard; (cz.) put; (cz.) putt; (cz.) retract; (cz.) sheathe; (cz.) stow; (cz.) tuck
+[choc]choć (PL) : (spójnik) although
+[chrabaszcz]chrabąszcz (PL) : (rz.) beetle; (rz.) chafer; (rz.) cockchafer
+[chrap]chrap (PL) : (rz.) nostrils; (rz.) snore
+[chrapa]chrapa (PL) : (rz.) nostril
+[chrapanie]chrapanie (PL) : (rz.) snore
+[chrapac]chrapać (PL) : (cz.) snore
+[chrapliwie]chrapliwie (PL) : (p-sł.) hoarsely
+[chrapliwosc]chrapliwość (PL) : (rz.) asperity
+[chrapliwy]chrapliwy (PL) : (p.) harsh; (p.) hoarse; (p.) husky; (p.) throaty
+[chrestomatia]chrestomatia (PL) : (rz.) chrestomathy
+[chrobot]chrobot (PL) : (rz.) grating
+[chrobotac]chrobotać (PL) : (cz.) scrape; (cz.) scratch
+[chrobotliwy]chrobotliwy (PL) : (p.) grating
+[chrobry]chrobry (PL) : (p.) brave; (p.) intrepid; (p.) valiant
+[chrom]chrom (PL) : (rz.) chrome; (rz.) chromium
+[chromanie]chromanie (PL) : (rz.) hobble; (rz.) lameness
+[chromatograf]chromatograf (PL) : (rz.) chromatograph
+[chromatografia]chromatografia (PL) : (rz.) chromatography
+[chromatycznie]chromatycznie (PL) : (p-sł.) chromatically
+[chromatycznosc]chromatyczność (PL) : (rz.) chromaticity
+[chromatyczny]chromatyczny (PL) : (p.) chromatic
+[chromatyka]chromatyka (PL) : (rz.) chromatics
+[chromatyna]chromatyna (PL) : (rz.) chromatin
+[chromac]chromać (PL) : (cz.) hobble; (cz.) limp
+[chromian]chromian (PL) : (rz.) chromate
+[chrominancja]chrominancja (PL) : (rz.) chrominance
+[chromolitografia]chromolitografia (PL) : (rz.) chromolithograph
+[chromonikielina]chromonikielina (PL) : (rz.) chrome-nickel
+[chromosom]chromosom (PL) : (rz.) chromosome
+[chromosomowy]chromosomowy (PL) : (p.) chromosomal
+[chromowanie]chromowanie (PL) : (rz.) chroming
+[chromowy]chromowy (PL) : (p.) chromic
+[chromy]chromy (PL) : (p.) chromes; (p.) lame
+[chronicznie]chronicznie (PL) : (p-sł.) chronically
+[chroniczny]chroniczny (PL) : (p.) chronic
+[chroniony]chroniony (PL) : (p.) immune
+[chronic]chronić (PL) : (cz.) guard; (cz.) prevent; (cz.) protect; (cz.) safeguard
+[chronograf]chronograf (PL) : (rz.) chronograph
+[chronologia]chronologia (PL) : (rz.) chronology
+[chronologicznie]chronologicznie (PL) : (p-sł.) chronologically
+[chronologiczny]chronologiczny (PL) : (p.) chronological
+[chronometr]chronometr (PL) : (rz.) chronometer; (rz.) timekeeper
+[chronometraz]chronometraż (PL) : (rz.) timekeeping; (rz.) timing
+[chronometrazysta]chronometrażysta (PL) : (rz.) timekeeper; (rz.) timer
+[chronometria]chronometria (PL) : (rz.) chronometry
+[chronoskop]chronoskop (PL) : (rz.) chronoscope
+[chropowato]chropowato (PL) : (p-sł.) raggedly; (p-sł.) roughly
+[chropowatosc]chropowatość (PL) : (rz.) asperity; (rz.) coarseness; (rz.) harshness; (rz.) roughness
+[chropowaty]chropowaty (PL) : (p.) coarse; (p.) gnarled; (p.) gnarly; (p.) grainy; (p.) harsh; (p.) ragged; (p.) rough; (p.) rugged; (p.) scabrous
+[chrupanie]chrupanie (PL) : (rz.) crunch
+[chrupac]chrupać (PL) : (cz.) champ; (cz.) crack; (cz.) crunch; (cz.) munch
+[chrupot]chrupot (PL) : (rz.) crackle; (rz.) crash
+[chrust]chrust (PL) : (rz.) brush; (rz.) brushwood; (rz.) brush-wood; (rz.) firewood
+[chrusciel]chruściel (PL) : (rz.) crake
+[chryja]chryja (PL) : (rz.) ruckus
+[chrypa]chrypa (PL) : (rz.) hoarseness
+[chrypienie]chrypienie (PL) : (rz.) croak
+[chrypiec]chrypieć (PL) : (cz.) croak; (cz.) grate
+[chrypka]chrypka (PL) : (rz.) hoarseness
+[chrypliwy]chrypliwy (PL) : (p.) grating; (p.) hoarse
+[chrystianizacja]chrystianizacja (PL) : (rz.) Christianization
+[chrystianizm]chrystianizm (PL) : (rz.) Christianity
+[chryzantem]chryzantem (PL) : (rz.) chrysanthemum
+[chryzantema]chryzantema (PL) : (rz.) chrysanthemum
+[chryzmat]chryzmat (PL) : (rz.) chrism
+[chrzan]chrzan (PL) : (rz.) horseradish; (rz.) horse-radish
+[chrzanic]chrzanić (PL) : (cz.) cobble
+[chrzcielnica]chrzcielnica (PL) : (rz.) font; (rz.) laver
+[chrzcielny]chrzcielny (PL) : (p.) baptismal
+[chrzcic]chrzcić (PL) : (cz.) baptise; (cz.) baptize; (cz.) christen
+[chrzczenie]chrzczenie (PL) : (rz.) baptizing; (rz.) christening
+[chrzest]chrzest (PL) : (rz.) baptism; (rz.) christening; (rz.) immersion
+[chrzestna]chrzestna (PL) : (rz.) cartilage; (rz.) godmother
+[chrzestny]chrzestny (PL) : (p.) baptismal
+[chrzescijanin]chrześcijanin (PL) : (rz.) Christian
+[chrzescijanstwo]chrześcijaństwo (PL) : (rz.) Christianity
+[chrzesniak]chrześniak (PL) : (rz.) daughter; (rz.) godchild; (rz.) god-child; (rz.) godson
+[chrzakanie]chrząkanie (PL) : (rz.) grunt
+[chrzakac]chrząkać (PL) : (cz.) grunt
+[chrzastka]chrząstka (PL) : (rz.) cartilage; (rz.) gristle
+[chrzastkowaty]chrząstkowaty (PL) : (p.) cartilaginous; (p.) gristly
+[chrzastkowy]chrząstkowy (PL) : (p.) cartilaginous
+[chrzaszcz]chrząszcz (PL) : (rz.) beetle; (rz.) cockchafer
+[chrzest]chrzęst (PL) : (rz.) clash; (rz.) clatter; (rz.) crackle; (rz.) crash; (rz.) crunch
+[chrzescic]chrzęścić (PL) : (cz.) crackle; (cz.) crunch; (cz.) grind; (cz.) grit
+[chuch]chuch (PL) : (rz.) puff
+[chuchac]chuchać (PL) : (cz.) breathe; (cz.) fondle; (cz.) puff
+[chuchro]chuchro (PL) : (rz.) weakling
+[chudniecie]chudnięcie (PL) : (rz.) thinning
+[chudoba]chudoba (PL) : (rz.) possessions
+[chudosc]chudość (PL) : (rz.) gauntness; (rz.) leanness; (rz.) thinness
+[chudy]chudy (PL) : (p.) gaunt; (p.) lank; (p.) lanky; (p.) lean; (p.) meagre; (p.) scraggy; (p.) scrawny; (p.) skinny; (p.) thin; (p.) thinner; (p.) thinnest
+[chudzielec]chudzielec (PL) : (rz.) twiggy
+[chudzina]chudzina (PL) : (rz.) starveling
+[chuligan]chuligan (PL) : (rz.) hoodlum; (rz.) hooligan; (rz.) larrikin; (rz.) roughneck; (rz.) rough-neck; (rz.) rowdy; (rz.) thug
+[chuliganic]chuliganić (PL) : (cz.) brawl
+[chuliganstwo]chuligaństwo (PL) : (rz.) hooliganism
+[chusta]chusta (PL) : (rz.) headscarf; (rz.) scarf; (rz.) shawl; (rz.) wrapper
+[chusteczka]chusteczka (PL) : (rz.) handkerchief
+[chustka]chustka (PL) : (rz.) handkerchief; (rz.) kerchief; (rz.) napkin; (rz.) neckerchief; (rz.) scarf
+[chuc]chuć (PL) : (rz.) concupiscence; (rz.) lust
+[chwalba]chwalba (PL) : (rz.) boasting; (rz.) encomium; (rz.) eulogy; (rz.) praise
+[chwalca]chwalca (PL) : (rz.) eulogist; (rz.) flatterer
+[chwalebnie]chwalebnie (PL) : (p-sł.) commendably
+[chwalebny]chwalebny (PL) : (p.) commendable; (p.) glorious; (p.) laudable; (p.) meritorious; (p.) praiseworthy
+[chwalipieta]chwalipięta (PL) : (rz.) boaster; (rz.) braggart
+[chwalic]chwalić (PL) : (cz.) boast; (cz.) brag; (cz.) commend; (cz.) compliment; (cz.) glorify; (cz.) laud; (cz.) praise
+[chwastobojczy]chwastobójczy (PL) : (p.) detergent; (p.) herbicidal
+[chwat]chwat (PL) : (rz.) blade
+[chwala]chwała (PL) : (rz.) glory; (rz.) laud; (rz.) praise
+[chwianie]chwianie (PL) : (rz.) flicker; (rz.) flutter; (rz.) stagger; (rz.) vacillation
+[chwiac]chwiać (PL) : (cz.) falter; (cz.) flicker; (cz.) fluctuate; (cz.) shake; (cz.) stagger; (cz.) sway; (cz.) teeter; (cz.) toddle; (cz.) toss; (cz.) totter; (cz.) vacillate; (cz.) waver; (cz.) wobble
+[chwiejnosc]chwiejność (PL) : (rz.) indecision; (rz.) instability; (rz.) shakiness; (rz.) stagger; (rz.) unsteadiness
+[chwiejny]chwiejny (PL) : (p.) indecisive; (p.) irresolute; (p.) labile; (p.) pendulous; (p.) rocky; (p.) shaky; (p.) slippery; (p.) tottering; (p.) unstable; (p.) unsteady; (p.) wishy-washy
+[chwila]chwila (PL) : (rz.) instant; (rz.) juncture; (rz.) minute; (rz.) moment; (rz.) spell; (rz.) time; (rz.) twinkling; (rz.) wee
+[chwilka]chwilka (PL) : (rz.) jiffy; (rz.) moment; (rz.) sec; (rz.) wee
+[chwilowo]chwilowo (PL) : (p-sł.) momentarily; (p-sł.) temporarily
+[chwilowy]chwilowy (PL) : (p.) momentary; (p.) temporary; (p.) transient
+[chwycic]chwycić (PL) : (cz.) clutch; (cz.) fasten; (cz.) fumble; (cz.) grab; (cz.) grasp; (cz.) snap
+[chwyt]chwyt (PL) : (rz.) bite; (rz.) clutch; (rz.) device; (rz.) fang; (rz.) gimmick; (rz.) grapple; (rz.) grasp; (rz.) grip; (rz.) hand; (rz.) handle; (rz.) handshake; (rz.) hold; (rz.) knack; (rz.) nip; (rz.) pan; (rz.) ploy; (rz.) snap; (rz.) tang; (rz.) trick
+[chwytacz]chwytacz (PL) : (rz.) catcher; (rz.) grip
+[chwytak]chwytak (PL) : (rz.) clutch; (rz.) grapple
+[chwytanie]chwytanie (PL) : (rz.) capture; (rz.) seizing
+[chwytac]chwytać (PL) : (cz.) bite; (cz.) captivate; (cz.) catch; (cz.) caught; (cz.) clasp; (cz.) clung; (cz.) clutch; (cz.) comprehend; (cz.) fasten; (cz.) fumble; (cz.) grab; (cz.) grapple; (cz.) grasp; (cz.) grasped; (cz.) gripe; (cz.) hold; (cz.) seize; (cz.) snap; (cz.) snatch; (cz.) tong
+[chwytliwy]chwytliwy (PL) : (p.) catchy; (p.) sweet
+[chwytnik]chwytnik (PL) : (rz.) receptor
+[chwytny]chwytny (PL) : (p.) prehensile
+[chyba]chyba (PL) : (p-sł.) probably; (p-sł.) surely
+[chybiac]chybiać (PL) : (cz.) fail; (cz.) miss
+[chybienie]chybienie (PL) : (rz.) miss
+[chybic]chybić (PL) : (cz.) miscarry; (cz.) miss
+[chybki]chybki (PL) : (p.) pliant; (p.) supple; (p.) swift
+[chybotanie]chybotanie (PL) : (rz.) shimmy
+[chybotac]chybotać (PL) : (cz.) rock; (cz.) shake; (cz.) wobble
+[chybotliwy]chybotliwy (PL) : (p.) rickety; (p.) shaky
+[chylenie]chylenie (PL) : (rz.) bowing
+[chylic]chylić (PL) : (cz.) bow; (cz.) decline; (cz.) kowtow; (cz.) lean; (cz.) sink
+[chymozyna]chymozyna (PL) : (rz.) rennin
+[chytrosc]chytrość (PL) : (rz.) art; (rz.) artfulness; (rz.) artifice; (rz.) cunning; (rz.) foxiness; (rz.) slyness; (rz.) wiliness
+[chytry]chytry (PL) : (p.) arch; (p.) artful; (p.) astute; (p.) canny; (p.) crafty; (p.) cunning; (p.) cute; (p.) guileful; (p.) knowing; (p.) mercenary; (p.) shrewd; (p.) sly; (p.) wily
+[chytrze]chytrze (PL) : (p-sł.) craftily; (p-sł.) cunningly; (p-sł.) knowingly
+[chylkiem]chyłkiem (PL) : (p-sł.) stealthily
+[chylomierz]chyłomierz (PL) : (rz.) inclinometer
+[chyzo]chyżo (PL) : (p-sł.) fleetly
+[chyzosc]chyżość (PL) : (rz.) velocity
+[chyzy]chyży (PL) : (p.) light-footed; (p.) swift
+[chod]chód (PL) : (rz.) gait; (rz.) motion; (rz.) ozone; (rz.) pace; (rz.) stalk; (rz.) tread; (rz.) walk; (rz.) walking
+[chor]chór (PL) : (rz.) choir; (rz.) chorus; (rz.) loft; (rz.) quire
+[choralny]chóralny (PL) : (p.) choral; (p.) united
+[chorowy]chórowy (PL) : (p.) choral; (p.) choric
+[chorzysta]chórzysta (PL) : (rz.) chorister
+[chow]chów (PL) : (rz.) breeding
+[chedogi]chędogi (PL) : (p.) tidy
+[chetka]chętka (PL) : (rz.) fancy; (rz.) whim
+[chetnie]chętnie (PL) : (p-sł.) eagerly; (p-sł.) fain; (p-sł.) freely; (p-sł.) gladly; (p-sł.) readily; (p-sł.) willingly
+[chetny]chętny (PL) : (p.) anxious; (p.) eager; (p.) keen
+[chec]chęć (PL) : (rz.) desire; (rz.) inclination; (rz.) intention; (rz.) itch; (rz.) splurge; (rz.) will; (rz.) willingness; (rz.) wish; (rz.) zest
+[chleptac]chłeptać (PL) : (cz.) gulp; (cz.) lap; (cz.) sip; (cz.) sup
+[chlodnia]chłodnia (PL) : (rz.) cold; (rz.) freezer; (rz.) hotbed; (rz.) refrigerator
+[chlodnica]chłodnica (PL) : (rz.) condenser; (rz.) cooler; (rz.) radiator
+[chlodnictwo]chłodnictwo (PL) : (rz.) refrigeration
+[chlodnik]chłodnik (PL) : (rz.) cooler
+[chlodniowiec]chłodniowiec (PL) : (rz.) reefer
+[chlodno]chłodno (PL) : (p-sł.) coldly; (p-sł.) coolly
+[chlodny]chłodny (PL) : (p.) chill; (p.) chilly; (p.) clammy; (p.) cold; (p.) cool; (p.) cooled; (p.) distant; (p.) frigid; (p.) tepid
+[chlodzenie]chłodzenie (PL) : (rz.) cooling; (rz.) refrigeration
+[chlodziarka]chłodziarka (PL) : (rz.) refrigerator
+[chlodziwo]chłodziwo (PL) : (rz.) coolant
+[chlodzic]chłodzić (PL) : (cz.) chill; (cz.) cool; (cz.) quench; (cz.) refresh; (cz.) refrigerate
+[chlonnosc]chłonność (PL) : (rz.) receptivity; (rz.) responsiveness
+[chlonny]chłonny (PL) : (p.) absorbent; (p.) absorptive; (p.) bibulous; (p.) lymphatic; (p.) receptive
+[chlonac]chłonąć (PL) : (cz.) absorb; (cz.) devour; (cz.) imbibe; (cz.) inbreathe
+[chlop]chłop (PL) : (rz.) chuff; (rz.) farmer; (rz.) fellow; (rz.) kern; (rz.) peasant; (rz.) serf
+[chlopak]chłopak (PL) : (rz.) boy; (rz.) boyfriend; (rz.) date; (rz.) gossoon; (rz.) jack; (rz.) lad; (rz.) youngster; (rz.) youth
+[chlopczyca]chłopczyca (PL) : (rz.) hoyden; (rz.) tomboy
+[chlopczyk]chłopczyk (PL) : (rz.) boy
+[chlopek]chłopek (PL) : (rz.) bumpkin
+[chlopiec]chłopiec (PL) : (rz.) boy; (rz.) boyfriend; (rz.) lad
+[chlopisko]chłopisko (PL) : (rz.) chap
+[chlopiectwo]chłopięctwo (PL) : (rz.) boyhood
+[chlopiecy]chłopięcy (PL) : (p.) boyish; (p.) puerile
+[chlopski]chłopski (PL) : (p.) rustic
+[chlopskosc]chłopskość (PL) : (rz.) rusticity
+[chlopstwo]chłopstwo (PL) : (rz.) peasantry
+[chlosta]chłosta (PL) : (rz.) caning; (rz.) flogging; (rz.) lashing
+[chlostac]chłostać (PL) : (cz.) cane; (cz.) flog; (cz.) lam; (cz.) lash; (cz.) scathe; (cz.) slash; (cz.) swish; (cz.) thrash; (cz.) thresh; (cz.) whale; (cz.) whip
+[chlystek]chłystek (PL) : (rz.) hobbledehoy; (rz.) squirt
+[chlod]chłód (PL) : (rz.) chill; (rz.) chilliness; (rz.) cold; (rz.) coldness; (rz.) cool; (rz.) coolness; (rz.) freshness; (rz.) frigidness
+[ciachac]ciachać (PL) : (cz.) chop
+[ciachniecie]ciachnięcie (PL) : (rz.) cut; (rz.) snip
+[ciachnac]ciachnąć (PL) : (cz.) snip
+[ciamajda]ciamajda (PL) : (rz.) dolt; (rz.) hobbledehoy; (rz.) nincompoop; (rz.) ninny; (rz.) slouch
+[ciamajdowaty]ciamajdowaty (PL) : (p.) loutish
+[ciapa]ciapa (PL) : (rz.) slouch
+[ciapka]ciapka (PL) : (rz.) mortarboard; (rz.) mortar-board; (rz.) splash
+[ciarki]ciarki (PL) : (rz.) prickle
+[ciasno]ciasno (PL) : (p-sł.) tightly
+[ciasnota]ciasnota (PL) : (rz.) exiguity; (rz.) tightness
+[ciasny]ciasny (PL) : (p.) contracted; (p.) cramped; (p.) crowded; (p.) insular; (p.) narrow; (p.) poky; (p.) stringent; (p.) tight
+[ciasteczko]ciasteczko (PL) : (rz.) cookie; (rz.) flag
+[ciastkarnia]ciastkarnia (PL) : (rz.) confectionery; (rz.) patisserie
+[ciastkarz]ciastkarz (PL) : (rz.) confectioner
+[ciastko]ciastko (PL) : (rz.) biscuit; (rz.) cake; (rz.) cookie; (rz.) pastry; (rz.) tart
+[ciasto]ciasto (PL) : (rz.) cake; (rz.) dough; (rz.) paste; (rz.) pastry; (rz.) pie
+[ciastowatosc]ciastowatość (PL) : (rz.) pastiness
+[ciastowaty]ciastowaty (PL) : (p.) doughy
+[ciastowy]ciastowy (PL) : (p.) doughy
+[cialko]ciałko (PL) : (rz.) body; (rz.) circuital; (rz.) corpus; (rz.) corpuscle
+[cialo]ciało (PL) : (rz.) blackbody; (rz.) body; (rz.) corpus; (rz.) council; (rz.) flesh
+[cibora]cibora (PL) : (rz.) sedge
+[cichaczem]cichaczem (PL) : (p-sł.) stealthily
+[cichnac]cichnąć (PL) : (cz.) low; (cz.) subside
+[cicho]cicho (PL) : (p-sł.) low; (p-sł.) meekly; (p-sł.) noiselessly; (p-sł.) quietly; (p-sł.) silently; (p-sł.) softly
+[cichobiezny]cichobieżny (PL) : (p.) silent-running
+[cichosc]cichość (PL) : (rz.) meekness
+[cichy]cichy (PL) : (p.) calm; (p.) gentle; (p.) low; (p.) mum; (p.) noiseless; (p.) orderly; (p.) peaceful; (p.) quiescent; (p.) quiet; (p.) reposeful; (p.) silent; (p.) soft; (p.) still; (p.) tacit; (p.) tranquil; (p.) tubby; (p.) wordless
+[ciec]ciec (PL) : (rz.) leak
+[ciecierzyca]ciecierzyca (PL) : (rz.) chick; (rz.) chickpea
+[cieciorka]cieciorka (PL) : (rz.) chickpea; (rz.) garbanzo; (rz.) garbanzos; (rz.) gram
+[ciecz]ciecz (PL) : (rz.) fluid; (rz.) liquid
+[cieczenie]cieczenie (PL) : (rz.) dripping; (rz.) liquids
+[cieczka]cieczka (PL) : (rz.) heat
+[cieczowy]cieczowy (PL) : (p.) fluidic; (p.) liquid
+[ciek]ciek (PL) : (rz.) path
+[ciekawie]ciekawie (PL) : (p-sł.) curiously; (p-sł.) interestingly
+[ciekawostka]ciekawostka (PL) : (rz.) attraction; (rz.) curiosity
+[ciekawosc]ciekawość (PL) : (rz.) curiosity; (rz.) interest
+[ciekawski]ciekawski (PL) : (p.) curious; (p.) inquisitive; (p.) nosy
+[ciekawy]ciekawy (PL) : (p.) curious; (p.) inquisitive; (p.) interesting; (p.) quaint
+[cieknac]cieknąć (PL) : (cz.) drip; (cz.) leak; (cz.) trickle
+[cieklokrystaliczny]ciekłokrystaliczny (PL) : (p.) liquid
+[cieklosc]ciekłość (PL) : (rz.) fluidity
+[ciekly]ciekły (PL) : (p.) fluid; (p.) liquid
+[cielak]cielak (PL) : (rz.) calf
+[cielec]cielec (PL) : (rz.) bull; (rz.) calf
+[cielenie]cielenie (PL) : (rz.) calving
+[cielesnosc]cielesność (PL) : (rz.) carnality; (rz.) corporeality
+[cielesny]cielesny (PL) : (p.) bodily; (p.) carnal; (p.) corporal; (p.) corporeal; (p.) physical; (p.) sexual
+[cielesnie]cieleśnie (PL) : (p-sł.) bodily
+[cielisty]cielisty (PL) : (p.) incarnadine; (p.) nude
+[cielic]cielić (PL) : (cz.) calve; (cz.) fawn
+[ciele]cielę (PL) : (rz.) calf
+[cielecina]cielęcina (PL) : (rz.) veal
+[ciemieniowy]ciemieniowy (PL) : (p.) parietal
+[ciemiernik]ciemiernik (PL) : (rz.) bear's-foot; (rz.) hellebore
+[ciemiaczko]ciemiączko (PL) : (rz.) fontanel
+[ciemiega]ciemięga (PL) : (rz.) dullard
+[ciemiezca]ciemięzca (PL) : (rz.) taskmaster
+[ciemiezca]ciemiężca (PL) : (rz.) taskmaster
+[ciemiezyciel]ciemiężyciel (PL) : (rz.) oppressor
+[ciemiezyc]ciemiężyć (PL) : (cz.) oppress
+[ciemne]ciemne (PL) : (rz.) dark
+[ciemnia]ciemnia (PL) : (rz.) darkroom; (rz.) obscurity
+[ciemnica]ciemnica (PL) : (rz.) dark; (rz.) darkness; (rz.) dungeon
+[ciemnienie]ciemnienie (PL) : (rz.) blackening
+[ciemniec]ciemnieć (PL) : (cz.) darken; (cz.) dim
+[ciemno]ciemno (PL) : (rz.) dark
+[ciemnobrazowy]ciemnobrązowy (PL) : (p.) auburn; (p.) dun
+[ciemnoniebieski]ciemnoniebieski (PL) : (p.) blue; (p.) cerulean
+[ciemnoskory]ciemnoskóry (PL) : (p.) dark-skinned; (p.) swarthy
+[ciemnota]ciemnota (PL) : (rz.) birdseed; (rz.) ignorance; (rz.) illiteracy
+[ciemnowlosy]ciemnowłosy (PL) : (p.) dark
+[ciemnosci]ciemności (PL) : (rz.) gloom
+[ciemnosc]ciemność (PL) : (rz.) blackness; (rz.) dark; (rz.) darkness; (rz.) dimmer; (rz.) gloom; (rz.) obscurity
+[ciemny]ciemny (PL) : (p.) abstruse; (p.) benighted; (p.) dark; (p.) darksome; (p.) dim; (p.) dimmest; (p.) dusky; (p.) fuliginous; (p.) fuscous; (p.) gloomy; (p.) muddy; (p.) murky; (p.) obscure; (p.) sad; (p.) seamy; (p.) shadowy; (p.) shady; (p.) sombre; (p.) swarthy
+[cienias]cienias (PL) : (rz.) loser; (rz.) slouch
+[cieniec]cienieć (PL) : (cz.) fine
+[cieniolubny]cieniolubny (PL) : (p.) photophobic
+[cieniowanie]cieniowanie (PL) : (rz.) layer; (rz.) occultation; (rz.) shading; (rz.) shadow
+[cieniowac]cieniować (PL) : (cz.) shade; (cz.) tinge; (cz.) tint
+[cienisty]cienisty (PL) : (p.) shadowy; (p.) shady; (p.) umbrageous
+[cienki]cienki (PL) : (p.) fine; (p.) fine-spun; (p.) flimsy; (p.) meagre; (p.) reedy; (p.) slender; (p.) slim; (p.) tenuous; (p.) thin; (p.) thinnest; (p.) wispy
+[cienko]cienko (PL) : (p-sł.) thinly
+[cienkowarstwowy]cienkowarstwowy (PL) : (p.) thin-layer
+[cienkoscienny]cienkościenny (PL) : (p.) thin-walled
+[cienkosc]cienkość (PL) : (rz.) thinness
+[cieplarka]cieplarka (PL) : (rz.) incubator
+[cieplarnia]cieplarnia (PL) : (rz.) conservatory; (rz.) greenhouse; (rz.) hothouse; (rz.) hot-house; (rz.) stove
+[cieplicowy]cieplicowy (PL) : (p.) thermal
+[cieplny]cieplny (PL) : (p.) caloric; (p.) calorific; (p.) heat; (p.) thermal
+[cieplo]ciepło (PL) : (rz.) cuddle; (rz.) heat; (rz.) warmer; (rz.) warmth
+[cieplokrwisty]ciepłokrwisty (PL) : (p.) warm-blooded
+[cieplomierz]ciepłomierz (PL) : (rz.) calorimeter; (rz.) heating
+[cieplota]ciepłota (PL) : (rz.) temperature
+[cieplownictwo]ciepłownictwo (PL) : (rz.) heat
+[cieply]ciepły (PL) : (p.) cosy; (p.) hot; (p.) thermal; (p.) toasty; (p.) warm
+[cierlica]cierlica (PL) : (rz.) hackle
+[ciernik]ciernik (PL) : (rz.) stickleback
+[cierniowaty]cierniowaty (PL) : (p.) thorny
+[cierniowy]cierniowy (PL) : (p.) thorny
+[ciernisty]ciernisty (PL) : (p.) barbate; (p.) prickly; (p.) thorny
+[cierny]cierny (PL) : (p.) frictional
+[cierpienie]cierpienie (PL) : (rz.) agony; (rz.) anguish; (rz.) bearing; (rz.) distress; (rz.) heartache; (rz.) misery; (rz.) pain; (rz.) sufferance; (rz.) suffering; (rz.) tribulation; (rz.) woe
+[cierpiec]cierpieć (PL) : (cz.) abide; (cz.) agonize; (cz.) bear; (cz.) brook; (cz.) endure; (cz.) pain; (cz.) smart; (cz.) suffer; (cz.) suffered; (cz.) tolerate; (cz.) writhe
+[cierpietnik]cierpiętnik (PL) : (rz.) martyr; (rz.) sufferer
+[cierpki]cierpki (PL) : (p.) acerbic; (p.) acid; (p.) acrid; (p.) acrimonious; (p.) astringent; (p.) crabbed; (p.) gruff; (p.) harsh; (p.) snappish; (p.) sour; (p.) tangy; (p.) tart
+[cierpko]cierpko (PL) : (p-sł.) harshly
+[cierpkosc]cierpkość (PL) : (rz.) acerbity; (rz.) acridity; (rz.) acrimony; (rz.) sourness; (rz.) tartness
+[cierpliwie]cierpliwie (PL) : (p-sł.) patiently
+[cierpliwosc]cierpliwość (PL) : (rz.) patience; (rz.) sufferance
+[cierpliwy]cierpliwy (PL) : (p.) patient
+[ciern]cierń (PL) : (rz.) prickle; (rz.) spine; (rz.) stubble; (rz.) thorn
+[ciesielstwo]ciesielstwo (PL) : (rz.) carpentering; (rz.) carpentry; (rz.) timberwork
+[cieszyc]cieszyć (PL) : (cz.) cheer; (cz.) comfort; (cz.) delight; (cz.) enjoy; (cz.) gladden; (cz.) rejoice
+[cietrzew]cietrzew (PL) : (rz.) blackcock; (rz.) heath-cock
+[cien]cień (PL) : (rz.) adumbration; (rz.) element; (rz.) ghost; (rz.) shade; (rz.) shadow; (rz.) umbrage
+[ciesla]cieśla (PL) : (rz.) carpenter; (rz.) woodworker; (rz.) wood-worker
+[ciesnina]cieśnina (PL) : (rz.) neck; (rz.) sound; (rz.) strait
+[ciesn]cieśń (PL) : (rz.) isthmus
+[cinkciarz]cinkciarz (PL) : (rz.) exchanger
+[ciocia]ciocia (PL) : (rz.) aunt; (rz.) auntie; (rz.) aunty
+[cios]cios (PL) : (rz.) blow; (rz.) chop; (rz.) coup; (rz.) cue; (rz.) hit; (rz.) joint; (rz.) keystroke; (rz.) shock; (rz.) stroke
+[ciosanie]ciosanie (PL) : (rz.) blow
+[ciosac]ciosać (PL) : (cz.) chip; (cz.) hack; (cz.) hew
+[ciota]ciota (PL) : (rz.) fag; (rz.) faggot; (rz.) fairy
+[ciotka]ciotka (PL) : (rz.) aunt
+[ciotunia]ciotunia (PL) : (rz.) aunty
+[ciolek]ciołek (PL) : (rz.) yuk
+[cipa]cipa (PL) : (rz.) pussy; (rz.) twat
+[cipka]cipka (PL) : (rz.) pussy
+[cis]cis (PL) : (rz.) yew
+[ciskacz]ciskacz (PL) : (rz.) harrier; (rz.) headman
+[ciskanie]ciskanie (PL) : (rz.) fling; (rz.) putting
+[ciskac]ciskać (PL) : (cz.) cast; (cz.) chuck; (cz.) dart; (cz.) dash; (cz.) fling; (cz.) hurl; (cz.) slam; (cz.) whop
+[cisnac]cisnąć (PL) : (cz.) oppress; (cz.) pinch; (cz.) pitch; (cz.) squeeze; (cz.) swarm
+[cisza]cisza (PL) : (rz.) calmness; (rz.) husbandry; (rz.) hush; (rz.) lull; (rz.) quiet; (rz.) quietness; (rz.) quietude; (rz.) silence; (rz.) tranquillity
+[ciuch]ciuch (PL) : (rz.) garment; (rz.) rig-out
+[ciupa]ciupa (PL) : (rz.) clink; (rz.) hovel; (rz.) jail
+[ciupaga]ciupaga (PL) : (rz.) hatchet
+[ciura]ciura (PL) : (rz.) camp-follower; (rz.) lout
+[ciurkac]ciurkać (PL) : (cz.) trickle
+[ciut]ciut (PL) : (p-sł.) slightly
+[ciulacz]ciułacz (PL) : (rz.) moneygrubber; (rz.) money-grubber; (rz.) saver
+[ciulanie]ciułanie (PL) : (rz.) hoarding
+[ciulac]ciułać (PL) : (cz.) hoard; (cz.) scrimp
+[cizia]cizia (PL) : (rz.) chick
+[ciag]ciąg (PL) : (rz.) chain; (rz.) course; (rz.) draft; (rz.) draught; (rz.) draw; (rz.) route; (rz.) sequence; (rz.) string; (rz.) succession; (rz.) thoroughfare; (rz.) thrust
+[ciagadlo]ciągadło (PL) : (rz.) die
+[ciagarka]ciągarka (PL) : (rz.) puller
+[ciagac]ciągać (PL) : (cz.) drag; (cz.) last
+[ciagle]ciągle (PL) : (p-sł.) always; (p-sł.) continually; (p-sł.) continuously; (p-sł.) still
+[ciagliwosc]ciągliwość (PL) : (rz.) ductility; (rz.) malleability
+[ciagliwy]ciągliwy (PL) : (p.) ductile; (p.) malleable; (p.) stringy
+[ciagnienie]ciągnienie (PL) : (rz.) drafting; (rz.) drawing; (rz.) haul
+[ciagnik]ciągnik (PL) : (rz.) traction-engine; (rz.) tractor
+[ciagnac]ciągnąć (PL) : (cz.) drag; (cz.) lug; (cz.) pluck; (cz.) pull; (cz.) trek
+[ciaglosc]ciągłość (PL) : (rz.) continuance; (rz.) continuity; (rz.) continuum; (rz.) permanence; (rz.) permanency
+[ciagly]ciągły (PL) : (p.) consistent; (p.) constant; (p.) contiguous; (p.) continual; (p.) continued; (p.) continuous; (p.) endless; (p.) hourly; (p.) ongoing; (p.) permanent; (p.) perpetual
+[ciac]ciąć (PL) : (cz.) clip; (cz.) cut; (cz.) scrap; (cz.) slash; (cz.) snip
+[ciaza]ciąża (PL) : (rz.) gestation; (rz.) gravidity; (rz.) pregnancy
+[ciazenie]ciążenie (PL) : (rz.) gravitation; (rz.) gravity
+[ciazowy]ciążowy (PL) : (p.) gestational
+[ciazyc]ciążyć (PL) : (cz.) gravitate; (cz.) weigh
+[ciazacy]ciążący (PL) : (p.) oppressive
+[ciecie]cięcie (PL) : (rz.) chop; (rz.) cut; (rz.) cutback; (rz.) cut-back; (rz.) cutting; (rz.) hack; (rz.) scission; (rz.) section; (rz.) slash; (rz.) snip
+[cieciwa]cięciwa (PL) : (rz.) bowstring; (rz.) chord; (rz.) string
+[ciegi]cięgi (PL) : (rz.) drubbing; (rz.) licking; (rz.) punishment; (rz.) spanking; (rz.) thrashing
+[ciegiel]cięgiel (PL) : (rz.) lanyard
+[ciegno]cięgno (PL) : (rz.) tie
+[cieglo]cięgło (PL) : (rz.) coupler
+[cietosc]ciętość (PL) : (rz.) bitterness
+[ciezar]ciężar (PL) : (rz.) burden; (rz.) burthen; (rz.) charge; (rz.) clod; (rz.) gravity; (rz.) load; (rz.) onus; (rz.) tax; (rz.) termination; (rz.) weight; (rz.) weightiness
+[ciezarek]ciężarek (PL) : (rz.) bob; (rz.) weight
+[ciezarny]ciężarny (PL) : (p.) heavy; (p.) pregnant; (p.) weighty
+[ciezarowiec]ciężarowiec (PL) : (rz.) weightlifter; (rz.) weight-lifter
+[ciezarowka]ciężarówka (PL) : (rz.) dumper; (rz.) lorry; (rz.) pickup; (rz.) trolley; (rz.) truck
+[ciezki]ciężki (PL) : (p.) arduous; (p.) burdensome; (p.) difficult; (p.) grave; (p.) grievous; (p.) hard; (p.) harsh; (p.) heaviest; (p.) heavy; (p.) hulking; (p.) logy; (p.) outrageous; (p.) ponderous; (p.) serious; (p.) severe; (p.) stiff; (p.) stodgy; (p.) weighty
+[ciezko]ciężko (PL) : (p-sł.) bitterly; (p-sł.) hard; (p-sł.) heavily; (p-sł.) stiff; (p-sł.) strenuously; (p-sł.) thick
+[ciezkosc]ciężkość (PL) : (rz.) gravity; (rz.) heaviness; (rz.) severity
+[cisnienie]ciśnienie (PL) : (rz.) pressure; (rz.) stress
+[cisnieniomierz]ciśnieniomierz (PL) : (rz.) manometer
+[cisniecie]ciśnięcie (PL) : (rz.) pressure
+[cizba]ciżba (PL) : (rz.) crowd; (rz.) squeeze; (rz.) throng
+[ckliwie]ckliwie (PL) : (p-sł.) sadly; (p-sł.) sickeningly
+[ckliwosc]ckliwość (PL) : (rz.) insipidity; (rz.) mawkishness; (rz.) sickliness
+[ckliwy]ckliwy (PL) : (p.) luscious; (p.) maudlin; (p.) mawkish; (p.) saccharine; (p.) sentimental; (p.) sloppy
+[clic]clić (PL) : (cz.) clear
+[cmentarz]cmentarz (PL) : (rz.) cemetery; (rz.) churchyard; (rz.) graveyard
+[cmentarzysko]cmentarzysko (PL) : (rz.) burial-ground; (rz.) cemetery; (rz.) graveyard
+[cmokanie]cmokanie (PL) : (rz.) chuck; (rz.) smack; (rz.) smacking
+[cmokac]cmokać (PL) : (cz.) chirrup; (cz.) chuck; (cz.) cluck; (cz.) kiss; (cz.) smack; (cz.) suck
+[cmokniecie]cmoknięcie (PL) : (rz.) cluck
+[cnota]cnota (PL) : (rz.) dharma; (rz.) virginity; (rz.) virtue
+[cnotliwie]cnotliwie (PL) : (p-sł.) virtuously
+[cnotliwosc]cnotliwość (PL) : (rz.) virtue; (rz.) virtuosity
+[cnotliwy]cnotliwy (PL) : (p.) chaste; (p.) virtuous
+[co]co (PL) : (p-im.) as
+[codziennie]codziennie (PL) : (p-sł.) daily; (p-sł.) diurnally
+[codzienny]codzienny (PL) : (p.) commonplace; (p.) daily; (p.) day-to-day; (p.) diurnal; (p.) everyday; (p.) ordinary; (p.) quotidian; (p.) trivial; (p.) workaday
+[cofacz]cofacz (PL) : (rz.) backspaced; (rz.) backspaces; (rz.) backspacing
+[cofanie]cofanie (PL) : (rz.) backspacing; (rz.) recession; (rz.) regression; (rz.) removal
+[cofanie-ponawianie]cofanie-ponawianie (PL) : (rz.) undo/redo
+[cofac]cofać (PL) : (cz.) back; (cz.) backspace; (cz.) flinch; (cz.) quail; (cz.) recede; (cz.) recoil; (cz.) regress; (cz.) regurgitate; (cz.) retire; (cz.) retrace; (cz.) retract; (cz.) retreat; (cz.) retroact; (cz.) retrograde; (cz.) retrogress; (cz.) reverse; (cz.) revoke; (cz.) wince
+[cofka]cofka (PL) : (rz.) backflow; (rz.) backwater; (rz.) burp
+[cofnij-powtorz]cofnij-powtórz (PL) : (rz.) undo/redo; (rz.) undo-redo
+[cofniecie]cofnięcie (PL) : (rz.) pullback; (rz.) revocation; (rz.) withdrawal
+[cofnac]cofnąć (PL) : (cz.) recede; (cz.) undo
+[cogodzinny]cogodzinny (PL) : (p.) hourly
+[cokol]cokół (PL) : (rz.) pedestal; (rz.) plinth
+[comber]comber (PL) : (rz.) saddle
+[comiesieczny]comiesięczny (PL) : (p.) monthly
+[conocny]conocny (PL) : (p.) nightly
+[consultingowy]consultingowy (PL) : (p.) consulting
+[continuum]continuum (PL) : (rz.) continuum
+[coraz]coraz (PL) : (p-sł.) ever
+[coroczny]coroczny (PL) : (p.) anniversary; (p.) annual; (p.) yearly
+[cosecans]cosecans (PL) : (rz.) cosecant
+[cosinus]cosinus (PL) : (rz.) cosine
+[cotangens]cotangens (PL) : (rz.) cotangent
+[coupe]coupe (PL) : (rz.) fastback
+[cuchnacy]cuchnący (PL) : (p.) rotten; (p.) unsavoury
+[cuchnac]cuchnąć (PL) : (cz.) reek; (cz.) stink
+[cucic]cucić (PL) : (cz.) resurrect; (cz.) revive
+[cud]cud (PL) : (rz.) marvel; (rz.) miracle
+[cudactwo]cudactwo (PL) : (rz.) oddity; (rz.) oddness
+[cudacznosc]cudaczność (PL) : (rz.) whimsicality
+[cudaczny]cudaczny (PL) : (p.) bizarre; (p.) freakish; (p.) weird; (p.) whimsical
+[cudak]cudak (PL) : (rz.) crank; (rz.) original; (rz.) weirdo
+[cudem]cudem (PL) : (p-sł.) scarcely
+[cudny]cudny (PL) : (p.) beautiful; (p.) gorgeous; (p.) marvellous
+[cudo]cudo (PL) : (rz.) beauty; (rz.) marvel; (rz.) miracle; (rz.) portent; (rz.) prodigy; (rz.) stunner
+[cudotworca]cudotwórca (PL) : (rz.) magician; (rz.) wizard
+[cudotworstwo]cudotwórstwo (PL) : (rz.) thaumaturgy
+[cudowac]cudować (PL) : (cz.) fuss
+[cudownie]cudownie (PL) : (p-sł.) divinely; (p-sł.) miraculously; (p-sł.) wonderfully
+[cudownosc]cudowność (PL) : (rz.) prodigy
+[cudowny]cudowny (PL) : (p.) adorable; (p.) amazing; (p.) brilliant; (p.) gorgeous; (p.) heavenly; (p.) incredible; (p.) marvellous; (p.) miraculous; (p.) prodigious; (p.) wonderful; (p.) wondrous
+[cudzoziemiec]cudzoziemiec (PL) : (rz.) alien; (rz.) foreigner; (rz.) gringo
+[cudzoziemski]cudzoziemski (PL) : (p.) alien; (p.) foreign; (p.) outlandish
+[cudzoloznik]cudzołożnik (PL) : (rz.) adulterer
+[cudzolozny]cudzołożny (PL) : (p.) adulterous
+[cudzolozyc]cudzołożyć (PL) : (cz.) fornicate
+[cudzolostwo]cudzołóstwo (PL) : (rz.) adultery
+[cudzozywnosc]cudzożywność (PL) : (rz.) heterotrophy
+[cudzozywny]cudzożywny (PL) : (p.) heterotrophic
+[cudzyslow]cudzysłów (PL) : (rz.) comma; (rz.) quotation-marks; (rz.) quote
+[cug]cug (PL) : (rz.) draft
+[cugle]cugle (PL) : (rz.) bridle; (rz.) rein; (rz.) reins
+[cukier]cukier (PL) : (rz.) sugar
+[cukierek]cukierek (PL) : (rz.) bonbon; (rz.) candy; (rz.) comfit; (rz.) confection; (rz.) elecampane; (rz.) fondant; (rz.) sugarplum; (rz.) sugar-plum; (rz.) sweet; (rz.) sweetie
+[cukierkowy]cukierkowy (PL) : (p.) mawkish; (p.) saccharine; (p.) treacly
+[cukiernia]cukiernia (PL) : (rz.) confectionery; (rz.) patisserie
+[cukiernica]cukiernica (PL) : (rz.) sugar; (rz.) sugar-basin; (rz.) sugar-bowl
+[cukierniczka]cukierniczka (PL) : (rz.) sugar-bowl
+[cukiernik]cukiernik (PL) : (rz.) confectioner
+[cukinia]cukinia (PL) : (rz.) courgette; (rz.) marrow; (rz.) zucchini
+[cukrowac]cukrować (PL) : (cz.) ice
+[cukrowiec]cukrowiec (PL) : (rz.) sugarcane
+[cukrownia]cukrownia (PL) : (rz.) sugar
+[cukrownictwo]cukrownictwo (PL) : (rz.) sugar
+[cukrowniczy]cukrowniczy (PL) : (p.) sugar
+[cukrownik]cukrownik (PL) : (rz.) boiler
+[cukrowy]cukrowy (PL) : (p.) sugar; (p.) sugary
+[cukry]cukry (PL) : (rz.) carbohydrates; (rz.) sugars
+[cukrzenie]cukrzenie (PL) : (rz.) sugar
+[cukrzyca]cukrzyca (PL) : (rz.) diabetes; (rz.) magma
+[cukrzycowy]cukrzycowy (PL) : (p.) diabetic
+[cukrzyk]cukrzyk (PL) : (rz.) diabetic
+[cukrzyc]cukrzyć (PL) : (cz.) sugar
+[cuma]cuma (PL) : (rz.) hawser
+[cumowanie]cumowanie (PL) : (rz.) moorage
+[cumowac]cumować (PL) : (cz.) belay; (cz.) moor
+[cumowisko]cumowisko (PL) : (rz.) moorage
+[cumy]cumy (PL) : (rz.) moorings
+[cwaniactwo]cwaniactwo (PL) : (rz.) cunning
+[cwany]cwany (PL) : (p.) canny; (p.) cunning; (p.) shrewd; (p.) sly
+[cwal]cwał (PL) : (rz.) canter; (rz.) gallop
+[cwalowanie]cwałowanie (PL) : (rz.) gallop
+[cwalowac]cwałować (PL) : (cz.) gallop
+[cybernetyczny]cybernetyczny (PL) : (p.) cybernetic
+[cybernetyk]cybernetyk (PL) : (rz.) cybernetics
+[cybernetyka]cybernetyka (PL) : (rz.) cybernetics
+[cybernetyzacja]cybernetyzacja (PL) : (rz.) cybernation
+[cyberprzestrzen]cyberprzestrzeń (PL) : (rz.) cyberspace
+[cyberpunk]cyberpunk (PL) : (rz.) cyberpunk
+[cybuch]cybuch (PL) : (rz.) blowpipe; (rz.) stem
+[cyc]cyc (PL) : (rz.) nipple
+[cycek]cycek (PL) : (rz.) boob; (rz.) nipple; (rz.) teat; (rz.) tit
+[cycero]cycero (PL) : (rz.) pica
+[cydr]cydr (PL) : (rz.) cider
+[cyferblat]cyferblat (PL) : (rz.) dial
+[cyfra]cyfra (PL) : (rz.) cipher; (rz.) digit; (rz.) figure; (rz.) numeral
+[cyfrowo]cyfrowo (PL) : (p-sł.) digitally
+[cyfrowy]cyfrowy (PL) : (p.) digital; (p.) numeric; (p.) numerical
+[cyfryzacja]cyfryzacja (PL) : (rz.) digitization
+[cygan]cygan (PL) : (rz.) cheat; (rz.) gipsy; (rz.) gypsy; (rz.) rye
+[cyganeria]cyganeria (PL) : (rz.) bohemians
+[cyganic]cyganić (PL) : (cz.) cheat; (cz.) fib; (cz.) swindle
+[cygarnica]cygarnica (PL) : (rz.) cigar
+[cygarniczka]cygarniczka (PL) : (rz.) cigarette-holder; (rz.) mouthpiece
+[cygaro]cygaro (PL) : (rz.) cider; (rz.) cigar; (rz.) manila; (rz.) puffer
+[cyganstwo]cygaństwo (PL) : (rz.) fib
+[cyjan]cyjan (PL) : (rz.) cyan
+[cyjanek]cyjanek (PL) : (rz.) cyanide
+[cyjanit]cyjanit (PL) : (rz.) cyanide
+[cyjanowy]cyjanowy (PL) : (p.) cyanic
+[cykada]cykada (PL) : (rz.) cicada
+[cykanie]cykanie (PL) : (rz.) ticking; (rz.) tick-tack
+[cykac]cykać (PL) : (cz.) chirp; (cz.) tick
+[cykl]cykl (PL) : (rz.) cycle; (rz.) cycling; (rz.) period; (rz.) round
+[cyklamen]cyklamen (PL) : (rz.) cyclamen
+[cyklicznie]cyklicznie (PL) : (p-sł.) cyclically
+[cykliczny]cykliczny (PL) : (p.) circular; (p.) cyclic; (p.) cyclical; (p.) serial
+[cyklina]cyklina (PL) : (rz.) brush; (rz.) scraper
+[cykliniarz]cykliniarz (PL) : (rz.) polisher
+[cyklinowac]cyklinować (PL) : (cz.) scrape; (cz.) smoothes
+[cyklista]cyklista (PL) : (rz.) cyclist
+[cykloida]cykloida (PL) : (rz.) cycloid
+[cyklon]cyklon (PL) : (rz.) cyclone; (rz.) tornado
+[cyklopowy]cyklopowy (PL) : (p.) cyclopean
+[cyklotron]cyklotron (PL) : (rz.) cyclotron
+[cykor]cykor (PL) : (rz.) fear; (rz.) sissy
+[cykoria]cykoria (PL) : (rz.) chicory; (rz.) endive
+[cykuta]cykuta (PL) : (rz.) hemlock
+[cylinder]cylinder (PL) : (rz.) cylinder; (rz.) silk; (rz.) topper
+[cylindrowy]cylindrowy (PL) : (p.) cylindrical
+[cylindryczny]cylindryczny (PL) : (p.) cylindrical; (p.) tubular
+[cyma]cyma (PL) : (rz.) cyma
+[cymbal]cymbał (PL) : (rz.) booby; (rz.) cymbal; (rz.) duffer; (rz.) dunderhead; (rz.) jerk; (rz.) moron; (rz.) twit; (rz.) yuk
+[cymbalki]cymbałki (PL) : (rz.) cymbals
+[cymen]cymen (PL) : (rz.) cymene
+[cyna]cyna (PL) : (rz.) pewter; (rz.) tin
+[cynaderka]cynaderka (PL) : (rz.) kidney
+[cynadra]cynadra (PL) : (rz.) kidney
+[cynamon]cynamon (PL) : (rz.) cinnamon
+[cyneol]cyneol (PL) : (rz.) cineole
+[cyneraria]cyneraria (PL) : (rz.) cineraria
+[cynfolia]cynfolia (PL) : (rz.) tinfoil
+[cyngiel]cyngiel (PL) : (rz.) trigger; (rz.) triggering
+[cynia]cynia (PL) : (rz.) zinnia
+[cynicznie]cynicznie (PL) : (p-sł.) cynically
+[cyniczny]cyniczny (PL) : (p.) cynic; (p.) cynical; (p.) jaundiced; (p.) unblushing
+[cynik]cynik (PL) : (rz.) cynic
+[cynizm]cynizm (PL) : (rz.) brazenness; (rz.) cynicism
+[cynk]cynk (PL) : (rz.) zinc
+[cynkografia]cynkografia (PL) : (rz.) zincograph; (rz.) zincography
+[cynkowanie]cynkowanie (PL) : (rz.) galvanising; (rz.) zinc; (rz.) zincing
+[cynkowac]cynkować (PL) : (cz.) zincify
+[cynkownia]cynkownia (PL) : (rz.) zinc-works
+[cynober]cynober (PL) : (rz.) cinnabar; (rz.) vermilion; (rz.) vermillion
+[cynobrowy]cynobrowy (PL) : (p.) vermilion
+[cynowany]cynowany (PL) : (p.) tinned
+[cynowac]cynować (PL) : (cz.) tin
+[cynowy]cynowy (PL) : (p.) stannic; (p.) tinny
+[cypel]cypel (PL) : (rz.) cape; (rz.) foreland; (rz.) headland; (rz.) jag; (rz.) peak; (rz.) promontory; (rz.) spit; (rz.) spite
+[cyprys]cyprys (PL) : (rz.) cypress
+[cyranka]cyranka (PL) : (rz.) teal
+[cyrk]cyrk (PL) : (rz.) circus; (rz.) cirque
+[cyrkiel]cyrkiel (PL) : (rz.) compass; (rz.) dividers; (rz.) rim; (rz.) trigger
+[cyrklowac]cyrklować (PL) : (cz.) reckon
+[cyrkon]cyrkon (PL) : (rz.) zircon; (rz.) zirconium
+[cyrkowiec]cyrkowiec (PL) : (rz.) circus
+[cyrkulacja]cyrkulacja (PL) : (rz.) circulation; (rz.) gyration
+[cyrkulator]cyrkulator (PL) : (rz.) circulator
+[cyrkulowac]cyrkulować (PL) : (cz.) circulate
+[cyrograf]cyrograf (PL) : (rz.) bond; (rz.) pledge
+[cyrulik]cyrulik (PL) : (rz.) barber
+[cysta]cysta (PL) : (rz.) cist; (rz.) cyst
+[cysterna]cysterna (PL) : (rz.) cistern; (rz.) tank; (rz.) tanker; (rz.) vat
+[cysters]cysters (PL) : (rz.) Cistercian
+[cytadela]cytadela (PL) : (rz.) citadel; (rz.) stronghold
+[cytat]cytat (PL) : (rz.) citation; (rz.) quotation; (rz.) quote
+[cytolog]cytolog (PL) : (rz.) cytologist
+[cytologia]cytologia (PL) : (rz.) cytology
+[cytoplazma]cytoplazma (PL) : (rz.) cytoplasm
+[cytowanie]cytowanie (PL) : (rz.) citation; (rz.) quotation
+[cytowac]cytować (PL) : (cz.) adduce; (cz.) cite; (cz.) quote
+[cytozyna]cytozyna (PL) : (rz.) cytosine
+[cytra]cytra (PL) : (rz.) cither; (rz.) zither
+[cytron]cytron (PL) : (rz.) citron
+[cytrus]cytrus (PL) : (rz.) citrus
+[cytryna]cytryna (PL) : (rz.) lemon
+[cytrynian]cytrynian (PL) : (rz.) citrate
+[cytrynowy]cytrynowy (PL) : (p.) citric
+[cytrzysta]cytrzysta (PL) : (rz.) zitherist
+[cywil]cywil (PL) : (rz.) civilian; (rz.) civvies
+[cywilizacja]cywilizacja (PL) : (rz.) civilisation; (rz.) civilization
+[cywilizowany]cywilizowany (PL) : (p.) advanced
+[cywilizowac]cywilizować (PL) : (cz.) civilize
+[cywilnie]cywilnie (PL) : (p-sł.) civilly
+[cywilny]cywilny (PL) : (p.) civic; (p.) civil; (p.) civilian; (p.) marital
+[cyzelowac]cyzelować (PL) : (cz.) chase
+[czacha]czacha (PL) : (rz.) skull
+[czadowy]czadowy (PL) : (p.) cool; (p.) zappy
+[czaic]czaić (PL) : (cz.) crouch; (cz.) lurk; (cz.) prowl; (cz.) stalk; (cz.) waylaid; (cz.) waylay
+[czajka]czajka (PL) : (rz.) gull; (rz.) lapwing; (rz.) peewit; (rz.) pewit
+[czajnik]czajnik (PL) : (rz.) kettle; (rz.) noggin; (rz.) pot; (rz.) teakettle
+[czako]czako (PL) : (rz.) shako
+[czapa]czapa (PL) : (rz.) caps
+[czapka]czapka (PL) : (rz.) bonnet; (rz.) cap; (rz.) hat; (rz.) pinner
+[czapkowac]czapkować (PL) : (cz.) bow
+[czapla]czapla (PL) : (rz.) egret; (rz.) heron
+[czapnik]czapnik (PL) : (rz.) capper
+[czaprak]czaprak (PL) : (rz.) caparison; (rz.) housing; (rz.) trappings
+[czar]czar (PL) : (rz.) appeal; (rz.) bewitchment; (rz.) charm; (rz.) glamour; (rz.) goblet; (rz.) hex; (rz.) magic; (rz.) sorcery; (rz.) spell; (rz.) witchcraft; (rz.) witchery
+[czara]czara (PL) : (rz.) basin; (rz.) bowl; (rz.) goblet; (rz.) jorum
+[czardasz]czardasz (PL) : (rz.) czardas
+[czarka]czarka (PL) : (rz.) bowl
+[czarno]czarno (PL) : (p-sł.) blackly
+[czarnoksieski]czarnoksięski (PL) : (p.) magic; (p.) magical
+[czarnoksiestwo]czarnoksięstwo (PL) : (rz.) magic; (rz.) sorcery
+[czarnoksieznik]czarnoksiężnik (PL) : (rz.) conjurer; (rz.) sorcerer; (rz.) wizard
+[czarnorynkowy]czarnorynkowy (PL) : (p.) black; (p.) black-market
+[czarnoskory]czarnoskóry (PL) : (p.) black
+[czarnoziem]czarnoziem (PL) : (rz.) humus; (rz.) mould
+[czarnuch]czarnuch (PL) : (rz.) nigger
+[czarnula]czarnula (PL) : (rz.) gypsy
+[czarny]czarny (PL) : (p.) black; (p.) sooty
+[czarodziej]czarodziej (PL) : (rz.) charmer; (rz.) mage; (rz.) magician; (rz.) sorcerer; (rz.) wizard
+[czarodziejka]czarodziejka (PL) : (rz.) fairy; (rz.) sorceress
+[czarodziejski]czarodziejski (PL) : (p.) fairy; (p.) magic; (p.) magical
+[czarodziejstwo]czarodziejstwo (PL) : (rz.) magic
+[czarowanie]czarowanie (PL) : (rz.) beguilement; (rz.) conjuring
+[czarowac]czarować (PL) : (cz.) bewitch; (cz.) charm; (cz.) conjure; (cz.) enthral; (cz.) fascinate
+[czarownica]czarownica (PL) : (rz.) hag; (rz.) sorceress; (rz.) witch
+[czarownik]czarownik (PL) : (rz.) enchanter; (rz.) magician; (rz.) sorcerer; (rz.) warlock; (rz.) witchdoctor
+[czarowny]czarowny (PL) : (p.) fairy; (p.) glamorous
+[czart]czart (PL) : (rz.) deuce; (rz.) devil
+[czarter]czarter (PL) : (rz.) charter; (rz.) charter-party
+[czarterowanie]czarterowanie (PL) : (rz.) charter
+[czartysta]czartysta (PL) : (rz.) chartist
+[czarujaco]czarująco (PL) : (p-sł.) charmingly; (p-sł.) lusciously
+[czarujacy]czarujący (PL) : (p.) enthralling
+[czary]czary (PL) : (rz.) magic; (rz.) witchcraft
+[czas]czas (PL) : (rz.) period; (rz.) tense; (rz.) tide; (rz.) time
+[czasami]czasami (PL) : (p-sł.) occasionally; (p-sł.) sometimes
+[czasem]czasem (PL) : (p-sł.) sometime; (p-sł.) sometimes
+[czasochlonnosc]czasochłonność (PL) : (rz.) time
+[czasochlonny]czasochłonny (PL) : (p.) costly; (p.) time; (p.) time-consuming
+[czasokres]czasokres (PL) : (rz.) duration
+[czasomierz]czasomierz (PL) : (rz.) chronometer; (rz.) horologe; (rz.) timekeeper; (rz.) timepiece; (rz.) timer
+[czasopismo]czasopismo (PL) : (rz.) journal; (rz.) magazine; (rz.) paper; (rz.) periodical; (rz.) review
+[czasoprzestrzen]czasoprzestrzeń (PL) : (rz.) space-time
+[czasoster]czasoster (PL) : (rz.) timer
+[czasownik]czasownik (PL) : (rz.) verb
+[czasownikowy]czasownikowy (PL) : (p.) verbal
+[czasowo]czasowo (PL) : (p-sł.) temporarily
+[czasowy]czasowy (PL) : (p.) seasonable; (p.) temporal; (p.) temporary
+[czasza]czasza (PL) : (rz.) canopy; (rz.) cranium; (rz.) one; (rz.) skull
+[czaszka]czaszka (PL) : (rz.) cranium; (rz.) skull
+[czaszkowy]czaszkowy (PL) : (p.) cranial
+[czat]czat (PL) : (rz.) chat; (rz.) wait
+[czata]czata (PL) : (rz.) chat
+[czatowac]czatować (PL) : (cz.) chat
+[czatownik]czatownik (PL) : (rz.) watch
+[czciciel]czciciel (PL) : (rz.) adorer; (rz.) devotee; (rz.) worshipper
+[czcigodnie]czcigodnie (PL) : (p-sł.) augustly
+[czcigodny]czcigodny (PL) : (p.) august; (p.) hallowed; (p.) honourable; (p.) reverend; (p.) reverent; (p.) reverential; (p.) venerable; (p.) worshipful; (p.) worthy
+[czcionka]czcionka (PL) : (rz.) font; (rz.) fount; (rz.) print; (rz.) type
+[czcic]czcić (PL) : (cz.) adore; (cz.) enshrine; (cz.) revere; (cz.) reverence; (cz.) salute; (cz.) venerate; (cz.) worship
+[czczenie]czczenie (PL) : (rz.) celebration; (rz.) worshiping
+[czczo]czczo (PL) : (p-sł.) fasting
+[czczosc]czczość (PL) : (rz.) futility
+[czczy]czczy (PL) : (p.) empty; (p.) futile; (p.) idle; (p.) inane; (p.) mere; (p.) vain
+[czeczotka]czeczotka (PL) : (rz.) redpoll
+[czek]czek (PL) : (rz.) check; (rz.) checker; (rz.) cheque
+[czekan]czekan (PL) : (rz.) alpenstock; (rz.) pick
+[czekac]czekać (PL) : (cz.) abide; (cz.) await; (cz.) expect; (cz.) hold; (cz.) listen; (cz.) wait
+[czekolada]czekolada (PL) : (rz.) chocolate
+[czekoladka]czekoladka (PL) : (rz.) bonbon; (rz.) chocolate
+[czeladnik]czeladnik (PL) : (rz.) apprentice; (rz.) journeyman; (rz.) peon
+[czeladz]czeladź (PL) : (rz.) servant
+[czelesta]czelesta (PL) : (rz.) celesta
+[czelnosc]czelność (PL) : (rz.) brass; (rz.) cheek; (rz.) effrontery; (rz.) gut; (rz.) nerve
+[czelny]czelny (PL) : (p.) insolent
+[czelusc]czeluść (PL) : (rz.) abyss; (rz.) depths; (rz.) gorge; (rz.) gulf; (rz.) jaw; (rz.) precipice
+[czempion]czempion (PL) : (rz.) champion
+[czepek]czepek (PL) : (rz.) bonnet; (rz.) cap
+[czepiac]czepiać (PL) : (cz.) cavil; (cz.) nibble; (cz.) nitpick
+[czepic]czepić (PL) : (cz.) coif
+[czepliwy]czepliwy (PL) : (p.) adhesive; (p.) picky; (p.) sticky
+[czepny]czepny (PL) : (p.) adhesive; (p.) sticky
+[czereda]czereda (PL) : (rz.) crowd; (rz.) host; (rz.) pack; (rz.) swarm
+[czerep]czerep (PL) : (rz.) skull
+[czeresnia]czereśnia (PL) : (rz.) cherry
+[czeresniowy]czereśniowy (PL) : (p.) cherry
+[czerniak]czerniak (PL) : (rz.) melanoma
+[czernica]czernica (PL) : (rz.) bilberry; (rz.) blackberry; (rz.) blueberry; (rz.) whortleberry
+[czernidlo]czernidło (PL) : (rz.) black; (rz.) blacking
+[czernienie]czernienie (PL) : (rz.) blackening; (rz.) blacking; (rz.) blacks; (rz.) blueing; (rz.) browning
+[czerniec]czernieć (PL) : (cz.) blacken
+[czernic]czernić (PL) : (cz.) black; (cz.) blacken
+[czerpaczka]czerpaczka (PL) : (rz.) excavator
+[czerpak]czerpak (PL) : (rz.) bail; (rz.) bailer; (rz.) dipper; (rz.) ladle; (rz.) scoop
+[czerpanie]czerpanie (PL) : (rz.) baling; (rz.) moulding; (rz.) reaping
+[czerparka]czerparka (PL) : (rz.) digger; (rz.) excavator; (rz.) scoop
+[czerpac]czerpać (PL) : (cz.) bail; (cz.) derive; (cz.) draw; (cz.) scoop; (cz.) tap
+[czerstwy]czerstwy (PL) : (p.) hale; (p.) husky; (p.) robust; (p.) stale
+[czerw]czerw (PL) : (rz.) grub; (rz.) maggot; (rz.) woodworm; (rz.) worm
+[czerwiec]czerwiec (PL) : (rz.) June
+[czerwienic]czerwienić (PL) : (cz.) blush; (cz.) redden
+[czerwien]czerwień (PL) : (rz.) crimson; (rz.) magenta; (rz.) red; (rz.) scarlet
+[czerwonawy]czerwonawy (PL) : (p.) reddish
+[czerwonka]czerwonka (PL) : (rz.) dysentery
+[czerwonkowy]czerwonkowy (PL) : (p.) dysenteric
+[czerwonobrazowy]czerwonobrązowy (PL) : (p.) puce; (p.) russet
+[czerwonosc]czerwoność (PL) : (rz.) redness
+[czerwony]czerwony (PL) : (p.) red; (p.) ruddy; (p.) sanguine
+[czern]czerń (PL) : (rz.) black; (rz.) blackness; (rz.) sable
+[czesanka]czesanka (PL) : (rz.) cheviot
+[czesarka]czesarka (PL) : (rz.) comber
+[czesac]czesać (PL) : (cz.) comb
+[czesne]czesne (PL) : (rz.) fee; (rz.) tuition
+[czesc]cześć (PL) : (rz.) cult; (rz.) esteem; (rz.) glory; (rz.) honour; (rz.) part; (rz.) reverence; (rz.) veneration
+[czkanie]czkanie (PL) : (rz.) eructation
+[czkawka]czkawka (PL) : (rz.) hiccough; (rz.) hiccup
+[czkac]czkać (PL) : (cz.) hiccough; (cz.) hiccup; (cz.) sneeze
+[czmychac]czmychać (PL) : (cz.) whip
+[czmychnac]czmychnąć (PL) : (cz.) bolt
+[czochranie]czochranie (PL) : (rz.) ripple
+[czochrac]czochrać (PL) : (cz.) chafe; (cz.) ripple; (cz.) rub; (cz.) ruffle; (cz.) tousle
+[czop]czop (PL) : (rz.) peg; (rz.) pivot; (rz.) plug; (rz.) spigot; (rz.) toe
+[czopek]czopek (PL) : (rz.) suppository
+[czopowac]czopować (PL) : (cz.) obstruct; (cz.) plug
+[czopuch]czopuch (PL) : (rz.) flue
+[czort]czort (PL) : (rz.) devil
+[czosnek]czosnek (PL) : (rz.) garlic
+[czosnkowy]czosnkowy (PL) : (p.) alliaceous
+[czolem]czołem (PL) : (wykrzyknik) cheerio
+[czolg]czołg (PL) : (rz.) reptile; (rz.) tank
+[czolganie]czołganie (PL) : (rz.) crawl
+[czolgac]czołgać (PL) : (cz.) crawl; (cz.) creep; (cz.) grovel
+[czolo]czoło (PL) : (rz.) brow; (rz.) face; (rz.) forefront; (rz.) forehand; (rz.) forehead; (rz.) front
+[czolobitnosc]czołobitność (PL) : (rz.) obsequiousness; (rz.) prostration; (rz.) servility; (rz.) subservience
+[czolobitny]czołobitny (PL) : (p.) obsequious; (p.) servile
+[czolowy]czołowy (PL) : (p.) forehand; (p.) frontal; (p.) leading
+[czolowka]czołówka (PL) : (rz.) forefront
+[czterdziesty]czterdziesty (PL) : (p.) fortieth
+[czternasty]czternasty (PL) : (p.) fourteenth
+[czterochlorek]czterochlorek (PL) : (rz.) tetrachloride
+[czterokrotnie]czterokrotnie (PL) : (p-sł.) fourfold
+[czterokrotny]czterokrotny (PL) : (p.) fourfold
+[czterowartosciowy]czterowartościowy (PL) : (p.) tetrad; (p.) tetravalent
+[czterowiersz]czterowiersz (PL) : (rz.) quatrain
+[czub]czub (PL) : (rz.) crest; (rz.) head
+[czubatka]czubatka (PL) : (rz.) guan
+[czubaty]czubaty (PL) : (p.) crested
+[czubek]czubek (PL) : (rz.) tip; (rz.) top
+[czubic]czubić (PL) : (cz.) bicker; (cz.) quarrel
+[czucie]czucie (PL) : (rz.) feel; (rz.) feeling
+[czuciowy]czuciowy (PL) : (p.) sensitive; (p.) sensorial; (p.) sensory; (p.) sensuous
+[czujka]czujka (PL) : (rz.) feeler; (rz.) sentry
+[czujnie]czujnie (PL) : (p-sł.) watchfully
+[czujnik]czujnik (PL) : (rz.) detector; (rz.) pickup; (rz.) sensor
+[czujnosc]czujność (PL) : (rz.) alert; (rz.) alertness; (rz.) lookout; (rz.) outlook; (rz.) vigilance; (rz.) wakefulness; (rz.) watchfulness
+[czujny]czujny (PL) : (p.) alert; (p.) perky; (p.) vigilant; (p.) wakeful; (p.) wary; (p.) watchful
+[czule]czule (PL) : (p-sł.) affectionately; (p-sł.) fondly; (p-sł.) lovingly; (p-sł.) tenderly
+[czulic]czulić (PL) : (cz.) coax
+[czupiradlo]czupiradło (PL) : (rz.) fright
+[czupryna]czupryna (PL) : (rz.) fuzz; (rz.) mop; (rz.) shag
+[czupurny]czupurny (PL) : (p.) blustering; (p.) defiant; (p.) quarrelsome; (p.) self-assertive
+[czuwajacy]czuwający (PL) : (p.) wakeful
+[czuwanie]czuwanie (PL) : (rz.) vigil; (rz.) watch
+[czuwac]czuwać (PL) : (cz.) watch
+[czuc]czuć (PL) : (cz.) abhor; (cz.) be; (cz.) fare; (cz.) feel; (cz.) fell; (cz.) fine; (cz.) smell; (cz.) smelt
+[czulek]czułek (PL) : (rz.) antenna; (rz.) feeler; (rz.) horn; (rz.) mimosa; (rz.) tentacle
+[czulostkowosc]czułostkowość (PL) : (rz.) sentimentality
+[czulostkowy]czułostkowy (PL) : (p.) lackadaisical; (p.) namby-pamby; (p.) sentimental; (p.) slushy
+[czulosc]czułość (PL) : (rz.) acuteness; (rz.) fondness; (rz.) sensitivity; (rz.) tenderness
+[czuly]czuły (PL) : (p.) affectionate; (p.) delicate; (p.) fond; (p.) sensitive; (p.) sensuous; (p.) susceptible; (p.) tender; (p.) tender-hearted; (p.) vulnerable
+[czwarta]czwarta (PL) : (rz.) four; (rz.) fourth; (rz.) quarter
+[czwartek]czwartek (PL) : (rz.) Thursday
+[czwartorzedowy]czwartorzędowy (PL) : (p.) quaternary
+[czworaczki]czworaczki (PL) : (rz.) quadruplets
+[czworoboczny]czworoboczny (PL) : (p.) quadrangular; (p.) quadrate; (p.) quadrilateral
+[czworobok]czworobok (PL) : (rz.) quad; (rz.) quadrangle; (rz.) quadrilateral
+[czworograniasty]czworograniasty (PL) : (p.) square
+[czworokat]czworokąt (PL) : (rz.) quadrangle; (rz.) quadrilateral; (rz.) square; (rz.) trapezoid
+[czworokatny]czworokątny (PL) : (p.) quadrangular; (p.) square; (p.) tetragonal
+[czworonogi]czworonogi (PL) : (p.) four-footed
+[czworonozny]czworonożny (PL) : (p.) four-footed; (p.) quadruped
+[czworonog]czworonóg (PL) : (rz.) quadruped
+[czworoscian]czworościan (PL) : (rz.) tetrahedron
+[czworoscienny]czworościenny (PL) : (p.) tetrahedral
+[czworkowy]czwórkowy (PL) : (p.) quaternary
+[czwornik]czwórnik (PL) : (rz.) four-pole
+[czy]czy (PL) : (spójnik) if; (spójnik) or; (spójnik) unless; (spójnik) whether
+[czyhac]czyhać (PL) : (cz.) ambush; (cz.) fish; (cz.) lurk; (cz.) seek
+[czyn]czyn (PL) : (rz.) act; (rz.) action; (rz.) chance-medley; (rz.) deed; (rz.) volition
+[czynel]czynel (PL) : (rz.) cymbal
+[czynic]czynić (PL) : (cz.) activate; (cz.) did; (cz.) do; (cz.) done
+[czynnie]czynnie (PL) : (p-sł.) actively
+[czynnik]czynnik (PL) : (rz.) agency; (rz.) agent; (rz.) consideration; (rz.) factor; (rz.) irritant; (rz.) stimulus
+[czynnosciowy]czynnościowy (PL) : (p.) functional
+[czynnosc]czynność (PL) : (rz.) action; (rz.) activity; (rz.) operation
+[czynny]czynny (PL) : (p.) active; (p.) busy; (p.) open; (p.) operative; (p.) removable; (p.) virtual
+[czynsz]czynsz (PL) : (rz.) rent; (rz.) rental
+[czynszownik]czynszownik (PL) : (rz.) copyholder
+[czyrak]czyrak (PL) : (rz.) abscess; (rz.) boil; (rz.) furuncle
+[czystka]czystka (PL) : (rz.) purge
+[czysto]czysto (PL) : (p-sł.) clean; (p-sł.) cleanly; (p-sł.) purely
+[czystopis]czystopis (PL) : (rz.) fair
+[czystorasowy]czystorasowy (PL) : (p.) pure-bred
+[czystosc]czystość (PL) : (rz.) chastity; (rz.) clarity; (rz.) cleanliness; (rz.) cleanness; (rz.) fineness; (rz.) finesse; (rz.) integrity; (rz.) purity; (rz.) tidiness
+[czysty]czysty (PL) : (p.) absolute; (p.) bare; (p.) blank; (p.) chaste; (p.) clean; (p.) clearer; (p.) fine; (p.) limpid; (p.) natty; (p.) neat; (p.) net; (p.) orderly; (p.) pure; (p.) sanitary; (p.) sheer; (p.) snowy; (p.) solid; (p.) spick; (p.) spotless; (p.) straight; (p.) tidy; (p.) unalloyed; (p.) virginal
+[czyszczak]czyszczak (PL) : (rz.) cleanout
+[czyszczarka]czyszczarka (PL) : (rz.) scrubber
+[czyszczenie]czyszczenie (PL) : (rz.) clarification; (rz.) cleaner; (rz.) cleaning; (rz.) cleansing; (rz.) purge
+[czyszczacy]czyszczący (PL) : (p.) detergent
+[czytanie]czytanie (PL) : (rz.) reading; (rz.) spelling
+[czytanka]czytanka (PL) : (rz.) reader; (rz.) text
+[czytac]czytać (PL) : (cz.) peruse; (cz.) read
+[czytelnia]czytelnia (PL) : (rz.) athenaeum; (rz.) library; (rz.) reading-room
+[czytelnictwo]czytelnictwo (PL) : (rz.) reading
+[czytelnie]czytelnie (PL) : (p-sł.) legibly
+[czytelnik]czytelnik (PL) : (rz.) reader
+[czytelnosc]czytelność (PL) : (rz.) legibility; (rz.) readability
+[czytelny]czytelny (PL) : (p.) legible; (p.) readable
+[czytnik]czytnik (PL) : (rz.) reader; (rz.) scanner
+[czyscibut]czyścibut (PL) : (rz.) bootblack; (rz.) shoeblack
+[czysciciel]czyściciel (PL) : (rz.) cleaner
+[czysciec]czyściec (PL) : (rz.) purgatory
+[czyscic]czyścić (PL) : (cz.) brush; (cz.) clean; (cz.) cleaned; (cz.) cleanse; (cz.) debug; (cz.) dust; (cz.) geld; (cz.) prune; (cz.) purge; (cz.) purify; (cz.) rub; (cz.) scour; (cz.) scrub; (cz.) shine; (cz.) tidy; (cz.) trim
+[czysccowy]czyśćcowy (PL) : (p.) purgatorial
+[czyz]czyż (PL) : (rz.) siskin
+[czyzyk]czyżyk (PL) : (rz.) siskin
+[czolenko]czółenko (PL) : (rz.) boat; (rz.) shuttle
+[czolno]czółno (PL) : (rz.) boat; (rz.) canoe
+[czasteczka]cząsteczka (PL) : (rz.) circuital; (rz.) compound; (rz.) corpuscle; (rz.) molecule; (rz.) particle; (rz.) speck
+[czasteczkowy]cząsteczkowy (PL) : (p.) molecular; (p.) particulate
+[czastka]cząstka (PL) : (rz.) allotment; (rz.) bit; (rz.) crumb; (rz.) dole; (rz.) moiety; (rz.) particle; (rz.) segment
+[czastkowy]cząstkowy (PL) : (p.) partial
+[czesto]często (PL) : (p-sł.) frequently; (p-sł.) often
+[czestokroc]częstokroć (PL) : (p-sł.) often; (p-sł.) oftentimes; (p-sł.) repeatedly
+[czestokol]częstokół (PL) : (rz.) fence
+[czestoskurcz]częstoskurcz (PL) : (rz.) tachycardia
+[czestotliwosciowo-napieciowy]częstotliwościowo-napięciowy (PL) : (p.) frequency-to-voltage
+[czestotliwosc]częstotliwość (PL) : (rz.) frequency; (rz.) incidence; (rz.) recurrence
+[czestotliwy]częstotliwy (PL) : (p.) frequentative
+[czestowac]częstować (PL) : (cz.) help; (cz.) treat
+[czestosc]częstość (PL) : (rz.) frequency; (rz.) incidence; (rz.) thickness
+[czesty]częsty (PL) : (p.) frequent; (p.) repeated; (p.) rife
+[czesciowo]częściowo (PL) : (p-sł.) partially; (p-sł.) partly; (p-sł.) somewhat
+[czesciowy]częściowy (PL) : (p.) fragmentary; (p.) partial
+[czesc]część (PL) : (rz.) bit; (rz.) component; (rz.) constituent; (rz.) dole; (rz.) element; (rz.) faction; (rz.) fitting; (rz.) fractal; (rz.) fraction; (rz.) fragment; (rz.) lot; (rz.) part; (rz.) particularity; (rz.) piece; (rz.) portion; (rz.) proportion; (rz.) section; (rz.) share; (rz.) slice; (rz.) unit; (rz.) woodwork
+[czlapac]człapać (PL) : (cz.) shamble; (cz.) shuffle
+[czlekoksztaltny]człekokształtny (PL) : (p.) anthropoid; (p.) subhuman
+[czlon]człon (PL) : (rz.) element; (rz.) link; (rz.) member; (rz.) module; (rz.) state; (rz.) term
+[czlonek]członek (PL) : (rz.) commoner; (rz.) fellow; (rz.) freeman; (rz.) limb; (rz.) member; (rz.) penis
+[czlonkostwo]członkostwo (PL) : (rz.) fellowship; (rz.) membership
+[czlowieczenstwo]człowieczeństwo (PL) : (rz.) humaneness; (rz.) humanity
+[czlowieczy]człowieczy (PL) : (p.) human
+[czlowiek]człowiek (PL) : (rz.) bloke; (rz.) chap; (rz.) creature; (rz.) fellow; (rz.) guy; (rz.) human; (rz.) man; (rz.) prodigy; (rz.) simple
+[cora]córa (PL) : (rz.) daughter; (rz.) daughters’
+[corka]córka (PL) : (rz.) daughter
+[cazki]cążki (PL) : (rz.) clipper; (rz.) clippers; (rz.) dumbbell; (rz.) pincers; (rz.) pliers
+[cegi]cęgi (PL) : (rz.) pincer; (rz.) pincers; (rz.) pliers; (rz.) tongs
+[cetka]cętka (PL) : (rz.) fleck; (rz.) speckle
+[cetkowany]cętkowany (PL) : (p.) mottled; (p.) spotted; (p.) spotty
+[cetkowac]cętkować (PL) : (cz.) dapple; (cz.) speckle; (cz.) stipple
+[clo]cło (PL) : (rz.) custom; (rz.) customs; (rz.) duct; (rz.) duty; (rz.) levy; (rz.) tariff; (rz.) tax; (rz.) toll
+[cma]ćma (PL) : (rz.) moth
+[cmic]ćmić (PL) : (cz.) dazzle; (cz.) puff
+[cpac]ćpać (PL) : (cz.) drug
+[cpun]ćpun (PL) : (rz.) junkie
+[cwiartka]ćwiartka (PL) : (rz.) quadrant; (rz.) quarter
+[cwiartowac]ćwiartować (PL) : (cz.) quarter
+[cwiczenie]ćwiczenie (PL) : (rz.) activity; (rz.) drill; (rz.) exercise; (rz.) exercitation; (rz.) practice; (rz.) training
+[cwiczyc]ćwiczyć (PL) : (cz.) drill; (cz.) exercise; (cz.) practice; (cz.) practise; (cz.) rehearse; (cz.) train
+[cwiek]ćwiek (PL) : (rz.) hob; (rz.) hobnail; (rz.) nail; (rz.) stud; (rz.) tack
+[cwierkanie]ćwierkanie (PL) : (rz.) chatter; (rz.) chirp; (rz.) chirrup; (rz.) twitter
+[cwierkac]ćwierkać (PL) : (cz.) chatter; (cz.) chirp; (cz.) peep; (cz.) twitter
+[cwierc]ćwierć (PL) : (rz.) quarter
+[cwiercfinal]ćwierćfinał (PL) : (rz.) quarter; (rz.) quarterfinal; (rz.) quarter-final
+[cwiercfinalowy]ćwierćfinałowy (PL) : (p.) quarterfinal
+[cwiercnuta]ćwierćnuta (PL) : (rz.) crotchet
+[cwik]ćwik (PL) : (rz.) capon
+[cwikla]ćwikła (PL) : (rz.) beetroot
+[cwok]ćwok (PL) : (rz.) knucklehead

@@ -1,59 +1,59 @@
-[zionism]Zionism : (rzecz.) syjonizm
-[zionist]Zionist : (rzecz.) syjonista
-[zionistic]Zionistic : (przym.) syjonistyczny
-[z-buffer]z-buffer : (rzecz.) bufor
-[zany]zany : (rzecz.) błazen; (rzecz.) głupek; (rzecz.) półgłówek; (rzecz.) pomocnik
-[zap]zap : (czas.) drażnić; (czas.) przeglądać; (czas.) przełączyć; (czas.) wycierać; (czas.) zabić; (czas.) zabijać
-[zappy]zappy : (przym.) czadowy; (przym.) witalny
-[zeal]zeal : (rzecz.) entuzjazm; (rzecz.) gorliwość; (rzecz.) zapał
-[zealot]zealot : (rzecz.) gorliwiec; (rzecz.) zagorzalec; (rzecz.) żarliwiec
-[zealous]zealous : (przym.) fanatyczny; (przym.) gorliwy
-[zealously]zealously : (przysł.) gorliwie
-[zealousness]zealousness : (przym.) gorliwy; (rzecz.) gorliwość
-[zebra]zebra : (rzecz.) zebra
-[zed]zed : (rzecz.) zetownik
-[zenith]zenith : (rzecz.) apogeum; (rzecz.) szczyt; (rzecz.) zenit
-[zephyr]zephyr : (rzecz.) wietrzyk; (rzecz.) zefir
-[zeppelin]zeppelin : (rzecz.) sterowiec
-[zero]zero : (czas.) wyzerować; (rzecz.) zero
-[zero-address]zero-address : (przym.) bezadresowy
-[zero-dimensional]zero-dimensional : (przym.) bezwymiarowy
-[zeroing]zeroing : (rzecz.) wyzerowywanie; (rzecz.) zerowanie
-[zest]zest : (rzecz.) aromat; (rzecz.) chęć; (rzecz.) energia; (rzecz.) entuzjazm; (rzecz.) ochota; (rzecz.) pikanteria; (rzecz.) przyprawa; (rzecz.) radość; (rzecz.) rozkosz; (rzecz.) swada; (rzecz.) werwa; (rzecz.) wigor; (rzecz.) zainteresowanie; (rzecz.) zapał
-[zestfully]zestfully : (przysł.) ochoczo
-[zigzag]zigzag : (rzecz.) zygzak
-[zinc]zinc : (rzecz.) cynk; (rzecz.) cynkowanie
-[zinc-works]zinc-works : (rzecz.) cynkownia
-[zincify]zincify : (czas.) cynkować
-[zincing]zincing : (rzecz.) cynkowanie
-[zincograph]zincograph : (rzecz.) chemigrafia; (rzecz.) cynkografia
-[zincography]zincography : (rzecz.) chemigrafia; (rzecz.) cynkografia
-[zing]zing : (rzecz.) wigor
-[zinnia]zinnia : (rzecz.) cynia
-[zip]zip : (czas.) przelecieć; (czas.) spakować; (czas.) zasuwać; (rzecz.) suwak; (rzecz.) świśnięcie; (rzecz.) świst; (rzecz.) werwa
-[zipper]zipper : (rzecz.) postrzępienie; (rzecz.) suwak
-[zippy]zippy : (przym.) rzeźwy
-[zircon]zircon : (rzecz.) cyrkon
-[zirconium]zirconium : (rzecz.) cyrkon
-[zit]zit : (rzecz.) pryszcz
-[zither]zither : (rzecz.) cytra
-[zitherist]zitherist : (rzecz.) cytrzysta
-[zloty]zloty : (rzecz.) złotówka
-[zodiac]zodiac : (rzecz.) zodiak
-[zodiacal]zodiacal : (przym.) zodiakalny
-[zombie]zombie : (rzecz.) tuman
-[zone]zone : (rzecz.) pas; (rzecz.) pasek; (rzecz.) pasmo; (rzecz.) strefa; (rzecz.) zona
-[zoo]zoo : (rzecz.) menażeria; (rzecz.) zoo
-[zoogeography]zoogeography : (rzecz.) zoogeografia
-[zoological]zoological : (przym.) zoologiczny
-[zoologist]zoologist : (rzecz.) zoolog
-[zoology]zoology : (rzecz.) zoologia
-[zoom]zoom : (czas.) brzęczeć; (czas.) buczeć; (czas.) furczeć; (czas.) poderwać; (czas.) podrywać; (czas.) przybliżać; (czas.) warkotać; (czas.) wzlecieć; (rzecz.) powiększenie; (rzecz.) warkot; (rzecz.) zoom
-[zooming]zooming : (rzecz.) przybliżanie; (rzecz.) świeca; (rzecz.) zbliżenie
-[zoomorphism]zoomorphism : (rzecz.) zoomorfizm
-[zoophyte]zoophyte : (rzecz.) zwierzokrzew
-[zoospore]zoospore : (rzecz.) zoospora
-[zoster]zoster : (rzecz.) półpasiec
-[zucchini]zucchini : (rzecz.) cukinia
-[zwieback]zwieback : (rzecz.) sucharek
-[zygote]zygote : (rzecz.) zygota
+[zionism]Zionism (EN) : (rz.) syjonizm
+[zionist]Zionist (EN) : (rz.) syjonista
+[zionistic]Zionistic (EN) : (p.) syjonistyczny
+[z-buffer]z-buffer (EN) : (rz.) bufor
+[zany]zany (EN) : (rz.) błazen; (rz.) głupek; (rz.) półgłówek; (rz.) pomocnik
+[zap]zap (EN) : (cz.) drażnić; (cz.) przeglądać; (cz.) przełączyć; (cz.) wycierać; (cz.) zabić; (cz.) zabijać
+[zappy]zappy (EN) : (p.) czadowy; (p.) witalny
+[zeal]zeal (EN) : (rz.) entuzjazm; (rz.) gorliwość; (rz.) zapał
+[zealot]zealot (EN) : (rz.) gorliwiec; (rz.) zagorzalec; (rz.) żarliwiec
+[zealous]zealous (EN) : (p.) fanatyczny; (p.) gorliwy
+[zealously]zealously (EN) : (p-sł.) gorliwie
+[zealousness]zealousness (EN) : (p.) gorliwy; (rz.) gorliwość
+[zebra]zebra (EN) : (rz.) zebra
+[zed]zed (EN) : (rz.) zetownik
+[zenith]zenith (EN) : (rz.) apogeum; (rz.) szczyt; (rz.) zenit
+[zephyr]zephyr (EN) : (rz.) wietrzyk; (rz.) zefir
+[zeppelin]zeppelin (EN) : (rz.) sterowiec
+[zero]zero (EN) : (cz.) wyzerować; (rz.) zero
+[zero-address]zero-address (EN) : (p.) bezadresowy
+[zero-dimensional]zero-dimensional (EN) : (p.) bezwymiarowy
+[zeroing]zeroing (EN) : (rz.) wyzerowywanie; (rz.) zerowanie
+[zest]zest (EN) : (rz.) aromat; (rz.) chęć; (rz.) energia; (rz.) entuzjazm; (rz.) ochota; (rz.) pikanteria; (rz.) przyprawa; (rz.) radość; (rz.) rozkosz; (rz.) swada; (rz.) werwa; (rz.) wigor; (rz.) zainteresowanie; (rz.) zapał
+[zestfully]zestfully (EN) : (p-sł.) ochoczo
+[zigzag]zigzag (EN) : (rz.) zygzak
+[zinc]zinc (EN) : (rz.) cynk; (rz.) cynkowanie
+[zinc-works]zinc-works (EN) : (rz.) cynkownia
+[zincify]zincify (EN) : (cz.) cynkować
+[zincing]zincing (EN) : (rz.) cynkowanie
+[zincograph]zincograph (EN) : (rz.) chemigrafia; (rz.) cynkografia
+[zincography]zincography (EN) : (rz.) chemigrafia; (rz.) cynkografia
+[zing]zing (EN) : (rz.) wigor
+[zinnia]zinnia (EN) : (rz.) cynia
+[zip]zip (EN) : (cz.) przelecieć; (cz.) spakować; (cz.) zasuwać; (rz.) suwak; (rz.) świśnięcie; (rz.) świst; (rz.) werwa
+[zipper]zipper (EN) : (rz.) postrzępienie; (rz.) suwak
+[zippy]zippy (EN) : (p.) rzeźwy
+[zircon]zircon (EN) : (rz.) cyrkon
+[zirconium]zirconium (EN) : (rz.) cyrkon
+[zit]zit (EN) : (rz.) pryszcz
+[zither]zither (EN) : (rz.) cytra
+[zitherist]zitherist (EN) : (rz.) cytrzysta
+[zloty]zloty (EN) : (rz.) złotówka
+[zodiac]zodiac (EN) : (rz.) zodiak
+[zodiacal]zodiacal (EN) : (p.) zodiakalny
+[zombie]zombie (EN) : (rz.) tuman
+[zone]zone (EN) : (rz.) pas; (rz.) pasek; (rz.) pasmo; (rz.) strefa; (rz.) zona
+[zoo]zoo (EN) : (rz.) menażeria; (rz.) zoo
+[zoogeography]zoogeography (EN) : (rz.) zoogeografia
+[zoological]zoological (EN) : (p.) zoologiczny
+[zoologist]zoologist (EN) : (rz.) zoolog
+[zoology]zoology (EN) : (rz.) zoologia
+[zoom]zoom (EN) : (cz.) brzęczeć; (cz.) buczeć; (cz.) furczeć; (cz.) poderwać; (cz.) podrywać; (cz.) przybliżać; (cz.) warkotać; (cz.) wzlecieć; (rz.) powiększenie; (rz.) warkot; (rz.) zoom
+[zooming]zooming (EN) : (rz.) przybliżanie; (rz.) świeca; (rz.) zbliżenie
+[zoomorphism]zoomorphism (EN) : (rz.) zoomorfizm
+[zoophyte]zoophyte (EN) : (rz.) zwierzokrzew
+[zoospore]zoospore (EN) : (rz.) zoospora
+[zoster]zoster (EN) : (rz.) półpasiec
+[zucchini]zucchini (EN) : (rz.) cukinia
+[zwieback]zwieback (EN) : (rz.) sucharek
+[zygote]zygote (EN) : (rz.) zygota

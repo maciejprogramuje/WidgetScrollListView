@@ -1,1245 +1,1245 @@
-[teodor]Teodor : (rzecz.) Theodore
-[teresa]Teresa : (rzecz.) Theresa
-[tomasz]Tomasz : (rzecz.) Tom
-[tomek]Tomek : (rzecz.) Tommy
-[tabaka]tabaka : (rzecz.) snuff
-[tabakiera]tabakiera : (rzecz.) snuffbox; (rzecz.) snuff-box
-[tabakierka]tabakierka : (rzecz.) snuffbox; (rzecz.) snuff-box
-[tabela]tabela : (rzecz.) chart; (rzecz.) schedule; (rzecz.) table; (rzecz.) tabulation
-[tabelaryczny]tabelaryczny : (przym.) tabular
-[tabelka]tabelka : (rzecz.) chart; (rzecz.) table
-[tabernakulum]tabernakulum : (rzecz.) tabernacle
-[tabletka]tabletka : (rzecz.) lozenge; (rzecz.) tablet
-[tablica]tablica : (rzecz.) array; (rzecz.) blackboard; (rzecz.) board; (rzecz.) chart; (rzecz.) daughterboard; (rzecz.) panel; (rzecz.) plaque; (rzecz.) stele; (rzecz.) tablet
-[tablicowac]tablicować : (czas.) tabulate
-[tabliczka]tabliczka : (rzecz.) bar; (rzecz.) plate; (rzecz.) tablet
-[tabliczkowy]tabliczkowy : (przym.) tabular
-[tabor]tabor : (rzecz.) camp; (rzecz.) rolling
-[taboret]taboret : (rzecz.) stool
-[tabu]tabu : (rzecz.) taboo; (rzecz.) taboos
-[tabulacja]tabulacja : (rzecz.) tab; (rzecz.) tabulation
-[tabulator]tabulator : (rzecz.) tab; (rzecz.) tabs; (rzecz.) tabulator; (rzecz.) tabulators
-[tabulatura]tabulatura : (rzecz.) tablature
-[tabulogram]tabulogram : (rzecz.) tabulations
-[tabulowanie]tabulowanie : (rzecz.) tabulation
-[tabulowac]tabulować : (czas.) tabulate
-[tabun]tabun : (rzecz.) herd; (rzecz.) horde
-[taca]taca : (rzecz.) coaster; (rzecz.) plate; (rzecz.) plateau; (rzecz.) platter; (rzecz.) salver; (rzecz.) tray; (rzecz.) waiter
-[tachometr]tachometr : (rzecz.) rev-counter; (rzecz.) speedometer; (rzecz.) tachometer
-[tachykardia]tachykardia : (rzecz.) tachycardia
-[tachymetr]tachymetr : (rzecz.) tachymeter
-[tacka]tacka : (rzecz.) in-tray; (rzecz.) salver; (rzecz.) tray
-[taczka]taczka : (rzecz.) barrow; (rzecz.) wheelbarrow
-[taczki]taczki : (rzecz.) barrow; (rzecz.) wheelbarrow
-[tafelka]tafelka : (rzecz.) tile
-[tafla]tafla : (rzecz.) pane; (rzecz.) panel; (rzecz.) sheet; (rzecz.) surface; (rzecz.) tile
-[taflami]taflami : (rzecz.) pane
-[taflowanie]taflowanie : (rzecz.) pane
-[taflowac]taflować : (czas.) tile
-[taflowy]taflowy : (przym.) flagged
-[tafta]tafta : (rzecz.) taffeta
-[taic]taić : (czas.) conceal; (czas.) hide; (czas.) suppress
-[tajac]tajać : (czas.) melt; (czas.) thaw
-[tajemnica]tajemnica : (rzecz.) mystery; (rzecz.) riddle; (rzecz.) secret
-[tajemniczo]tajemniczo : (przysł.) mysteriously
-[tajemniczosc]tajemniczość : (rzecz.) mysteriousness; (rzecz.) secrecy; (rzecz.) stealth
-[tajemniczy]tajemniczy : (przym.) abstruse; (przym.) arcane; (przym.) backdoor; (przym.) cryptic; (przym.) inscrutable; (przym.) mysterious; (przym.) secret; (przym.) secretive; (przym.) stealthy; (przym.) subterranean; (przym.) subterraneous; (przym.) surreptitious; (przym.) uncanny
-[tajemny]tajemny : (przym.) clandestine; (przym.) furtive; (przym.) occult; (przym.) privy; (przym.) recondite; (przym.) secret
-[tajfun]tajfun : (rzecz.) typhoon
-[tajga]tajga : (rzecz.) taiga
-[tajniak]tajniak : (rzecz.) sleuth
-[tajnie]tajnie : (przysł.) secretly; (przysł.) underground
-[tajnik]tajnik : (rzecz.) secret
-[tajnosc]tajność : (rzecz.) confidentiality; (rzecz.) conspiracy; (rzecz.) secrecy
-[tajny]tajny : (przym.) clandestine; (przym.) classified; (przym.) private; (przym.) privy; (przym.) secret; (przym.) surreptitious; (przym.) undercover; (przym.) underground
-[tak]tak : (przysł.) ay; (przysł.) aye; (przysł.) so; (przysł.) thus; (przysł.) yeah; (przysł.) yep
-[taki]taki : (przym.) lucky; (przym.) such; (przym.) tentative
-[takielarz]takielarz : (rzecz.) rigger
-[takielunek]takielunek : (rzecz.) rig; (rzecz.) rigging; (rzecz.) tackle; (rzecz.) tackling
-[tako]tako : (przysł.) so
-[taksa]taksa : (rzecz.) rate; (rzecz.) tax
-[taksacja]taksacja : (rzecz.) appraisal; (rzecz.) valuation
-[taksator]taksator : (rzecz.) appraiser; (rzecz.) assessor; (rzecz.) estimator; (rzecz.) valuator
-[taksja]taksja : (rzecz.) taxis
-[taksometr]taksometr : (rzecz.) clock; (rzecz.) taximeter
-[taksonomia]taksonomia : (rzecz.) taxonomy
-[taksonomiczny]taksonomiczny : (przym.) taxonomic
-[taksowanie]taksowanie : (rzecz.) measurement
-[taksowac]taksować : (czas.) apprize; (czas.) assess
-[taksowka]taksówka : (rzecz.) cab; (rzecz.) minicab; (rzecz.) taxi; (rzecz.) taxicab; (rzecz.) taxi-cab
-[taksowkarz]taksówkarz : (rzecz.) cabby; (rzecz.) cabman; (rzecz.) taxi-driver; (rzecz.) taxman
-[takt]takt : (rzecz.) bar; (rzecz.) beat; (rzecz.) cadence; (rzecz.) discretion; (rzecz.) savoir-faire; (rzecz.) state; (rzecz.) stroke; (rzecz.) tact; (rzecz.) tick; (rzecz.) time
-[taktomierz]taktomierz : (rzecz.) metronome
-[taktownie]taktownie : (przysł.) tactfully
-[taktownosc]taktowność : (rzecz.) tact
-[taktowny]taktowny : (przym.) considerate; (przym.) discreet; (przym.) tactful
-[taktycznie]taktycznie : (przysł.) tactically
-[taktyczny]taktyczny : (przym.) tactic; (przym.) tactical
-[taktyk]taktyk : (rzecz.) tactician; (rzecz.) tactics
-[taktyka]taktyka : (rzecz.) policy; (rzecz.) tactic; (rzecz.) tactician; (rzecz.) tactics
-[takze]także : (przysł.) also; (przysł.) either; (przysł.) too
-[tal]tal : (rzecz.) thallium
-[talent]talent : (rzecz.) abilities; (rzecz.) faculty; (rzecz.) genius; (rzecz.) talent
-[talerz]talerz : (rzecz.) cymbal; (rzecz.) dish; (rzecz.) plate; (rzecz.) plateful
-[talerzyk]talerzyk : (rzecz.) plate
-[talia]talia : (rzecz.) deck; (rzecz.) pack; (rzecz.) purchase; (rzecz.) waist; (rzecz.) waistline
-[talizman]talizman : (rzecz.) charm; (rzecz.) talisman
-[talk]talk : (rzecz.) talc; (rzecz.) tale
-[talon]talon : (rzecz.) coupon; (rzecz.) voucher
-[talrep]talrep : (rzecz.) lanyard
-[tam]tam : (przysł.) there; (przysł.) thither; (przysł.) where; (przysł.) yonder
-[tama]tama : (rzecz.) bund; (rzecz.) dam; (rzecz.) dike; (rzecz.) stopping; (rzecz.) weir
-[tamaryndowiec]tamaryndowiec : (rzecz.) tamarind
-[tamaryszek]tamaryszek : (rzecz.) tamarisk
-[tamborek]tamborek : (rzecz.) tambour
-[tamburyn]tamburyn : (rzecz.) tambourine
-[tamburyno]tamburyno : (rzecz.) tambourine
-[tamowac]tamować : (czas.) block; (czas.) dam; (czas.) obstruct; (czas.) stem; (czas.) trammel
-[tampon]tampon : (rzecz.) dabber; (rzecz.) pad; (rzecz.) tampon
-[tamponowanie]tamponowanie : (rzecz.) tampons
-[tamponowac]tamponować : (czas.) plug; (czas.) staunch
-[tamze]tamże : (przysł.) there; (przysł.) therein; (przysł.) thereof
-[tan]tan : (rzecz.) dance
-[tancerz]tancerz : (rzecz.) dancer
-[tancmistrz]tancmistrz : (rzecz.) dancing-master
-[tandem]tandem : (rzecz.) tandem
-[tandeta]tandeta : (rzecz.) garbage; (rzecz.) goldbrick; (rzecz.) rubbish; (rzecz.) shoddy; (rzecz.) trash; (rzecz.) trumpery
-[tandetnosc]tandetność : (rzecz.) shoddiness
-[tandetny]tandetny : (przym.) chaffy; (przym.) cheap; (przym.) shoddy; (przym.) tacky; (przym.) trashy; (przym.) trumpery
-[tangens]tangens : (rzecz.) tangent
-[tangensowy]tangensowy : (przym.) tangential
-[tango]tango : (rzecz.) tango
-[tani]tani : (przym.) cheap; (przym.) inexpensive
-[taniec]taniec : (rzecz.) bop; (rzecz.) dance; (rzecz.) dancing; (rzecz.) hop; (rzecz.) pas
-[taniec]tanieć : (czas.) cheapen
-[tanina]tanina : (rzecz.) tannin
-[tanio]tanio : (przysł.) cheaply
-[taniosc]taniość : (rzecz.) cheapness
-[tanizna]tanizna : (rzecz.) trash
-[tankietka]tankietka : (rzecz.) whippet
-[tankowanie]tankowanie : (rzecz.) fuelling
-[tankowac]tankować : (czas.) fuel; (czas.) refuel
-[tankowiec]tankowiec : (rzecz.) tanker
-[tantal]tantal : (rzecz.) tantalum
-[tantalit]tantalit : (rzecz.) tantalite
-[tantiema]tantiema : (rzecz.) bonus; (rzecz.) dividend; (rzecz.) royalty
-[taoizm]taoizm : (rzecz.) Taoism
-[tapczan]tapczan : (rzecz.) couch
-[tapeciarz]tapeciarz : (rzecz.) decorator; (rzecz.) paperhanger; (rzecz.) paper-hanger
-[tapeta]tapeta : (rzecz.) paper; (rzecz.) tapestry; (rzecz.) wallpaper; (rzecz.) wall-paper
-[tapetowanie]tapetowanie : (rzecz.) paperhanging; (rzecz.) wallpapering
-[tapetowac]tapetować : (czas.) upholster; (czas.) wallpaper
-[tapetowy]tapetowy : (przym.) wall-paper
-[tapicer]tapicer : (rzecz.) decorator; (rzecz.) upholsterer
-[tapicerka]tapicerka : (rzecz.) upholstery; (rzecz.) valet
-[tapicernia]tapicernia : (rzecz.) upholstery
-[tapicerski]tapicerski : (przym.) upholsterer's
-[tapicerstwo]tapicerstwo : (rzecz.) upholstery
-[tapioka]tapioka : (rzecz.) cassava; (rzecz.) tapioca
-[tapir]tapir : (rzecz.) tapir
-[tapirowac]tapirować : (czas.) backcomb; (czas.) back-comb
-[taplac]taplać : (czas.) splash
-[tara]tara : (rzecz.) tare
-[taraban]taraban : (rzecz.) kettledrum; (rzecz.) kettle-drum
-[taran]taran : (rzecz.) ram
-[taranowac]taranować : (czas.) ram
-[tarantela]tarantela : (rzecz.) tarantella
-[tarantula]tarantula : (rzecz.) tarantula
-[tarapaty]tarapaty : (rzecz.) mischief; (rzecz.) trouble
-[taras]taras : (rzecz.) bench; (rzecz.) terrace
-[tarasowanie]tarasowanie : (rzecz.) benching
-[tarasowac]tarasować : (czas.) bar; (czas.) block; (czas.) obstruct
-[tarasowy]tarasowy : (przym.) terraced
-[tarcica]tarcica : (rzecz.) deal; (rzecz.) lumber; (rzecz.) planking
-[tarcie]tarcie : (rzecz.) attrition; (rzecz.) friction
-[tarciowy]tarciowy : (przym.) frictional
-[tarcza]tarcza : (rzecz.) badge; (rzecz.) butt; (rzecz.) dial; (rzecz.) disc; (rzecz.) disk; (rzecz.) face; (rzecz.) shield; (rzecz.) target; (rzecz.) targeting; (rzecz.) tee
-[tarczka]tarczka : (rzecz.) shield; (rzecz.) tarsus
-[tarczyca]tarczyca : (rzecz.) thyroid
-[tarczycowy]tarczycowy : (przym.) thyroid; (przym.) thyroidal
-[tarczowka]tarczówka : (rzecz.) circular-sawing
-[targ]targ : (rzecz.) breaking; (rzecz.) fair; (rzecz.) marker; (rzecz.) market
-[targac]targać : (czas.) encroach; (czas.) jerk
-[targniecie]targnięcie : (rzecz.) jerk
-[targowanie]targowanie : (rzecz.) chaffer
-[targowac]targować : (czas.) bargain; (czas.) haggle
-[targowisko]targowisko : (rzecz.) marker; (rzecz.) market; (rzecz.) marketplace; (rzecz.) mart
-[targowy]targowy : (przym.) fair
-[tarka]tarka : (rzecz.) grater; (rzecz.) rasp
-[tarlatan]tarlatan : (rzecz.) tarlatan
-[tarmosic]tarmosić : (czas.) tousle
-[tarmoszenie]tarmoszenie : (rzecz.) scuffle
-[tarnik]tarnik : (rzecz.) rasp
-[tarnina]tarnina : (rzecz.) blackthorn; (rzecz.) sloe
-[tartak]tartak : (rzecz.) lumber-mill; (rzecz.) sawmill; (rzecz.) saw-mill
-[tartan]tartan : (rzecz.) tartan
-[taryfa]taryfa : (rzecz.) fare; (rzecz.) rate; (rzecz.) schedule; (rzecz.) tariff
-[taryfikator]taryfikator : (rzecz.) tariff
-[taryfowanie]taryfowanie : (rzecz.) tariff
-[tarzanie]tarzanie : (rzecz.) flounder; (rzecz.) rolling; (rzecz.) wallow
-[tarzac]tarzać : (czas.) roll; (czas.) wallow; (czas.) welter
-[tarlo]tarło : (rzecz.) spawning
-[tarn]tarń : (rzecz.) tarn
-[tasak]tasak : (rzecz.) chopper; (rzecz.) cleaver
-[tasiemcowy]tasiemcowy : (przym.) lengthy; (przym.) mile-long
-[tasiemiec]tasiemiec : (rzecz.) tapeworm
-[tasiemka]tasiemka : (rzecz.) fob; (rzecz.) ribbon; (rzecz.) string; (rzecz.) tape
-[tasowanie]tasowanie : (rzecz.) reshuffle; (rzecz.) shuffle
-[tasowac]tasować : (czas.) shuffle
-[tastrowanie]tastrowanie : (rzecz.) keyboarding
-[tasza]tasza : (rzecz.) lumpfish
-[taszczyc]taszczyć : (czas.) lug; (czas.) tote
-[tata]tata : (rzecz.) dad; (rzecz.) dada; (rzecz.) daddy; (rzecz.) father; (rzecz.) pa; (rzecz.) papa
-[tatarczany]tatarczany : (przym.) tuatara
-[taternictwo]taternictwo : (rzecz.) mountain-climbing; (rzecz.) mountaineering
-[taternik]taternik : (rzecz.) mountaineer
-[tato]tato : (rzecz.) dad; (rzecz.) daddy
-[tatuaz]tatuaż : (rzecz.) tattoo
-[tatulek]tatulek : (rzecz.) daddy
-[tatuowac]tatuować : (czas.) tattoo
-[tatus]tatuś : (rzecz.) dad; (rzecz.) daddy; (rzecz.) pa; (rzecz.) papa; (rzecz.) poppa
-[tautologia]tautologia : (rzecz.) tautology
-[tautologicznie]tautologicznie : (przysł.) tautologically
-[tautologiczny]tautologiczny : (przym.) tautological
-[tawerna]tawerna : (rzecz.) pub; (rzecz.) tavern
-[tanczenie]tańczenie : (rzecz.) dancing
-[tanczyc]tańczyć : (czas.) dance; (czas.) jig; (czas.) prance
-[tasma]taśma : (rzecz.) band; (rzecz.) belt; (rzecz.) ribbon; (rzecz.) tape; (rzecz.) webbing
-[tasmowy]taśmowy : (przym.) tama
-[tchawica]tchawica : (rzecz.) trachea; (rzecz.) windpipe
-[tchnienie]tchnienie : (rzecz.) breath; (rzecz.) waft
-[tchniecie]tchnięcie : (rzecz.) breath
-[tchnac]tchnąć : (czas.) breathe; (czas.) inspire
-[tchorz]tchórz : (rzecz.) caitiff; (rzecz.) coward; (rzecz.) craven; (rzecz.) dastard; (rzecz.) funk; (rzecz.) polecat; (rzecz.) skunk
-[tchorzliwosc]tchórzliwość : (rzecz.) cowardice
-[tchorzliwy]tchórzliwy : (przym.) chickenhearted; (przym.) chicken-hearted; (przym.) cowardly; (przym.) craven; (przym.) fainthearted; (przym.) faint-hearted; (przym.) funky; (przym.) recreant; (przym.) unmanly; (przym.) white-livered; (przym.) yellow; (przym.) yellow-bellied
-[tchorzostwo]tchórzostwo : (rzecz.) cowardice; (rzecz.) poltroonery
-[tchorzyc]tchórzyć : (czas.) flinch
-[teatr]teatr : (rzecz.) drama; (rzecz.) intermezzo; (rzecz.) playhouse; (rzecz.) theatre
-[teatralizacja]teatralizacja : (rzecz.) dramatization; (rzecz.) staging
-[teatralnie]teatralnie : (przysł.) theatrically
-[teatralnosc]teatralność : (rzecz.) melodrama; (rzecz.) staginess
-[teatralny]teatralny : (przym.) histrionic; (przym.) stagy; (przym.) theatrical
-[teatroman]teatroman : (rzecz.) theatregoer
-[technet]technet : (rzecz.) technetium
-[technicznie]technicznie : (przysł.) technically
-[techniczno-ekonomiczny]techniczno-ekonomiczny : (przym.) techno-economic
-[techniczny]techniczny : (przym.) mechanical; (przym.) technical; (przym.) technological
-[technik]technik : (rzecz.) engineer; (rzecz.) technician
-[technika]technika : (rzecz.) engineering; (rzecz.) technician; (rzecz.) technique; (rzecz.) technology
-[technikum]technikum : (rzecz.) tech
-[techno]techno : (rzecz.) techno
-[technokracja]technokracja : (rzecz.) technocracy
-[technokrata]technokrata : (rzecz.) technocrat
-[technolog]technolog : (rzecz.) technologist
-[technologia]technologia : (rzecz.) technique; (rzecz.) technology
-[technologicznie]technologicznie : (przysł.) technologically
-[technologiczny]technologiczny : (przym.) technological
-[teczka]teczka : (rzecz.) binder; (rzecz.) briefcase; (rzecz.) case; (rzecz.) folder; (rzecz.) portfolio; (rzecz.) satchel; (rzecz.) scrapbook; (rzecz.) wallet
-[teizm]teizm : (rzecz.) theism
-[teka]teka : (rzecz.) briefcase; (rzecz.) brief-case; (rzecz.) portfolio
-[tekst]tekst : (rzecz.) corpus; (rzecz.) lyrics; (rzecz.) passage; (rzecz.) print; (rzecz.) record; (rzecz.) script; (rzecz.) text; (rzecz.) txt
-[tekstowy]tekstowy : (przym.) textual
-[tekstura]tekstura : (rzecz.) texture
-[tekstylia]tekstylia : (rzecz.) textile; (rzecz.) textiles
-[tekstylny]tekstylny : (przym.) textile
-[tektoniczny]tektoniczny : (przym.) tectonic
-[tektonika]tektonika : (rzecz.) tectonics
-[tektura]tektura : (rzecz.) board; (rzecz.) cardboard; (rzecz.) pasteboard
-[tekturka]tekturka : (rzecz.) cardboard
-[teksciarz]tekściarz : (rzecz.) songwriter
-[teledysk]teledysk : (rzecz.) clip; (rzecz.) video
-[telefaks]telefaks : (rzecz.) fax
-[telefon]telefon : (rzecz.) interphone; (rzecz.) phone; (rzecz.) telephone
-[telefonia]telefonia : (rzecz.) telephony
-[telefoniczny]telefoniczny : (przym.) telephonic
-[telefonista]telefonista : (rzecz.) operator; (rzecz.) telephonist
-[telefonowanie]telefonowanie : (rzecz.) caller; (rzecz.) calls
-[telefonowac]telefonować : (czas.) call; (czas.) phone; (czas.) ring; (czas.) telephone
-[telefotografia]telefotografia : (rzecz.) telephotograph; (rzecz.) telephotography
-[telegraf]telegraf : (rzecz.) telegraph; (rzecz.) telegraphy; (rzecz.) ticker
-[telegrafia]telegrafia : (rzecz.) telegraphy
-[telegraficznie]telegraficznie : (przysł.) telegraphically
-[telegraficzny]telegraficzny : (przym.) telegraphic
-[telegrafista]telegrafista : (rzecz.) telegrapher
-[telegrafowanie]telegrafowanie : (rzecz.) telegraphs
-[telegrafowac]telegrafować : (czas.) telegraph; (czas.) wire
-[telegram]telegram : (rzecz.) cable; (rzecz.) telegram
-[telekinetyczny]telekinetyczny : (przym.) telekinetic
-[telekineza]telekineza : (rzecz.) telekinesis
-[telekomunikacja]telekomunikacja : (rzecz.) communication; (rzecz.) communications; (rzecz.) connectivity; (rzecz.) telecommunication; (rzecz.) telecommunications
-[telekomutacja]telekomutacja : (rzecz.) telecommuting
-[telekonferencja]telekonferencja : (rzecz.) teleconference; (rzecz.) teleconferencing
-[telekonferencje]telekonferencje : (rzecz.) teleconferencing
-[teleks]teleks : (rzecz.) telex
-[telemetr]telemetr : (rzecz.) telemeter
-[telemetria]telemetria : (rzecz.) telemetry
-[telemetryczny]telemetryczny : (przym.) telemetric
-[teleobiektyw]teleobiektyw : (rzecz.) telephoto
-[teleologia]teleologia : (rzecz.) teleology
-[teleologiczny]teleologiczny : (przym.) teleological
-[telepatia]telepatia : (rzecz.) telepathy
-[telepatyczny]telepatyczny : (przym.) telepathic
-[telepac]telepać : (czas.) jolt
-[telepraca]telepraca : (rzecz.) telecommuting
-[teleprzetwarzanie]teleprzetwarzanie : (rzecz.) teleprocessing
-[teleskop]teleskop : (rzecz.) telescope
-[teleskopowa]teleskopowa : (rzecz.) telephoto
-[teleskopowo]teleskopowo : (przysł.) telescopically
-[teleskopowy]teleskopowy : (przym.) telescopic
-[teletransmisja]teletransmisja : (rzecz.) telecast
-[teleturniej]teleturniej : (rzecz.) quiz
-[telewidz]telewidz : (rzecz.) viewer
-[telewizja]telewizja : (rzecz.) television; (rzecz.) telly
-[telewizor]telewizor : (rzecz.) television; (rzecz.) television-set
-[tellur]tellur : (rzecz.) tellurium
-[tellurek]tellurek : (rzecz.) telluride
-[temat]temat : (rzecz.) matter; (rzecz.) plot; (rzecz.) stem; (rzecz.) subject; (rzecz.) subject-matter; (rzecz.) theme; (rzecz.) topic
-[tematowy]tematowy : (przym.) thematic
-[tematycznie]tematycznie : (przysł.) thematically; (przysł.) topically
-[tematycznosc]tematyczność : (rzecz.) topicality
-[tematyczny]tematyczny : (przym.) thematic
-[tematyka]tematyka : (rzecz.) topic
-[temblak]temblak : (rzecz.) sling
-[tembr]tembr : (rzecz.) timbre
-[tempera]tempera : (rzecz.) tempera; (rzecz.) temperature
-[temperament]temperament : (rzecz.) temper; (rzecz.) temperament
-[temperatura]temperatura : (rzecz.) extreme; (rzecz.) temperature
-[temperowac]temperować : (czas.) sharpen
-[temperowka]temperówka : (rzecz.) pencil; (rzecz.) pencil-sharpener; (rzecz.) sharpener
-[templariusz]templariusz : (rzecz.) templar
-[tempo]tempo : (rzecz.) momentum; (rzecz.) pace; (rzecz.) tempo
-[ten]ten : (rzecz.) one; (rzecz.) wrecker
-[tendencja]tendencja : (rzecz.) drift; (rzecz.) movement; (rzecz.) propensity; (rzecz.) tendency; (rzecz.) trend
-[tendencyjnosc]tendencyjność : (rzecz.) slant; (rzecz.) tendentiousness
-[tendencyjny]tendencyjny : (przym.) tendentious
-[tenis]tenis : (rzecz.) tennis
-[tenisista]tenisista : (rzecz.) tennis; (rzecz.) tennis-player
-[tenisowka]tenisówka : (rzecz.) sneaker
-[tenor]tenor : (rzecz.) tenor
-[tensor]tensor : (rzecz.) contract; (rzecz.) tensor
-[tent]tent : (rzecz.) awning
-[tenuta]tenuta : (rzecz.) gavelkind
-[teodycea]teodycea : (rzecz.) theodicy
-[teokracja]teokracja : (rzecz.) theocracy
-[teokrata]teokrata : (rzecz.) theocrat
-[teokratyczny]teokratyczny : (przym.) theocratic
-[teolog]teolog : (rzecz.) theologian
-[teologia]teologia : (rzecz.) deity; (rzecz.) divinity; (rzecz.) theology
-[teologicznie]teologicznie : (przysł.) theologically
-[teologiczny]teologiczny : (przym.) theological
-[teoremat]teoremat : (rzecz.) theorem
-[teoretycznie]teoretycznie : (przysł.) theoretically
-[teoretyczny]teoretyczny : (przym.) academic; (przym.) speculative; (przym.) theoretic; (przym.) theoretical
-[teoretyk]teoretyk : (rzecz.) theoretician; (rzecz.) theorist
-[teoretyzowanie]teoretyzowanie : (rzecz.) theorizing
-[teoretyzowac]teoretyzować : (czas.) theorize
-[teoria]teoria : (rzecz.) theory
-[teoriomnogosciowy]teoriomnogościowy : (przym.) set-theoretic
-[teownik]teownik : (rzecz.) T-bar; (rzecz.) tee
-[teozofia]teozofia : (rzecz.) theosophy
-[tera]tera : (rzecz.) terra
-[terabajt]terabajt : (rzecz.) terabyte
-[terakota]terakota : (rzecz.) terracotta
-[terakotowy]terakotowy : (przym.) terracotta
-[terapeuta]terapeuta : (rzecz.) therapist
-[terapeutycznie]terapeutycznie : (przysł.) therapeutically
-[terapeutyczny]terapeutyczny : (przym.) therapeutic
-[terapeutyka]terapeutyka : (rzecz.) therapeutics; (rzecz.) therapy
-[terapia]terapia : (rzecz.) therapeutics; (rzecz.) therapy
-[terasa]terasa : (rzecz.) terrace
-[teratologia]teratologia : (rzecz.) teratology
-[teraz]teraz : (przysł.) now; (przysł.) nowadays
-[terazniejszosc]teraźniejszość : (rzecz.) present
-[terb]terb : (rzecz.) terbium
-[tercet]tercet : (rzecz.) trio
-[tercja]tercja : (rzecz.) period; (rzecz.) tierce
-[tercyna]tercyna : (rzecz.) triplet
-[teren]teren : (rzecz.) area; (rzecz.) field; (rzecz.) foreside; (rzecz.) ground; (rzecz.) grounds; (rzecz.) land; (rzecz.) right-of-way; (rzecz.) site; (rzecz.) space; (rzecz.) terrain; (rzecz.) territory
-[terenoznawstwo]terenoznawstwo : (rzecz.) topography
-[terenowka]terenówka : (rzecz.) roadster
-[terier]terier : (rzecz.) terrier
-[terkot]terkot : (rzecz.) clatter; (rzecz.) rattle
-[terkotanie]terkotanie : (rzecz.) rattle
-[terkotac]terkotać : (czas.) chatter; (czas.) rattle
-[terkotliwy]terkotliwy : (przym.) rattling
-[term]term : (rzecz.) term
-[termalny]termalny : (przym.) thermal
-[termicznie]termicznie : (przysł.) thermally
-[termiczny]termiczny : (przym.) thermal
-[termin]termin : (rzecz.) appellation; (rzecz.) date; (rzecz.) deadline; (rzecz.) notice; (rzecz.) term; (rzecz.) time; (rzecz.) time-limit
-[terminal]terminal : (rzecz.) terminal; (rzecz.) workstation
-[terminarz]terminarz : (rzecz.) agenda; (rzecz.) schedule; (rzecz.) time-table
-[terminator]terminator : (rzecz.) apprentice
-[terminologia]terminologia : (rzecz.) nomenclature; (rzecz.) terminology
-[terminologicznie]terminologicznie : (przysł.) terminologically
-[terminologiczny]terminologiczny : (przym.) terminological
-[terminowanie]terminowanie : (rzecz.) apprenticeship; (rzecz.) time
-[terminowo]terminowo : (przysł.) punctually
-[terminowy]terminowy : (przym.) time
-[termit]termit : (rzecz.) ant; (rzecz.) termite
-[termodynamiczny]termodynamiczny : (przym.) thermodynamic
-[termodynamika]termodynamika : (rzecz.) thermodynamics
-[termoelektrycznosc]termoelektryczność : (rzecz.) thermoelectricity
-[termoelektryczny]termoelektryczny : (przym.) thermoelectric
-[termoelement]termoelement : (rzecz.) thermocouple
-[termograf]termograf : (rzecz.) thermograph; (rzecz.) thermometer
-[termoizolacyjny]termoizolacyjny : (przym.) heat-insulating
-[termojadrowy]termojądrowy : (przym.) thermonuclear
-[termokatoda]termokatoda : (rzecz.) hot-cathode
-[termometr]termometr : (rzecz.) thermometer
-[termometria]termometria : (rzecz.) thermometry
-[termometryczny]termometryczny : (przym.) thermometric
-[termonuklearny]termonuklearny : (przym.) thermonuclear
-[termoodporny]termoodporny : (przym.) heat-resisting
-[termoogniwo]termoogniwo : (rzecz.) thermocouple
-[termopara]termopara : (rzecz.) thermocouple
-[termoplastyczny]termoplastyczny : (przym.) thermoplastic
-[termoregulacja]termoregulacja : (rzecz.) thermoregulation
-[termos]termos : (rzecz.) flask; (rzecz.) thermos
-[termosfera]termosfera : (rzecz.) thermosphere
-[termostat]termostat : (rzecz.) thermostat
-[termostatycznie]termostatycznie : (przysł.) thermostatically
-[termostatyczny]termostatyczny : (przym.) thermostatic
-[termostos]termostos : (rzecz.) thermopile
-[termoterapia]termoterapia : (rzecz.) thermotherapy
-[termoutwardzalny]termoutwardzalny : (przym.) heat-hardening; (przym.) hot-setting; (przym.) thermosetting
-[terpentyna]terpentyna : (rzecz.) turpentine
-[terrarium]terrarium : (rzecz.) terrarium
-[terror]terror : (rzecz.) terror
-[terrorysta]terrorysta : (rzecz.) bully; (rzecz.) terrorist
-[terroryzm]terroryzm : (rzecz.) terrorism
-[terroryzowanie]terroryzowanie : (rzecz.) terrorization
-[terroryzowac]terroryzować : (czas.) attempt; (czas.) bully; (czas.) terrify; (czas.) terrorize
-[terytorialnosc]terytorialność : (rzecz.) territoriality
-[terytorialny]terytorialny : (przym.) territorial
-[terytorium]terytorium : (rzecz.) territory
-[test]test : (rzecz.) chi-square; (rzecz.) paper; (rzecz.) test
-[testament]testament : (rzecz.) testament
-[testamentowy]testamentowy : (przym.) testamentary
-[testator]testator : (rzecz.) testator
-[tester]tester : (rzecz.) tester
-[testosteron]testosteron : (rzecz.) testosterone
-[testowanie]testowanie : (rzecz.) testing
-[testowac]testować : (czas.) bequeath; (czas.) test
-[tetracyklina]tetracyklina : (rzecz.) tetracycline
-[tetrada]tetrada : (rzecz.) tetrad
-[tetraedr]tetraedr : (rzecz.) tetrahedron
-[tetrametr]tetrametr : (rzecz.) tetrameter
-[tetrarcha]tetrarcha : (rzecz.) tetrarch
-[tetryk]tetryk : (rzecz.) grumbler
-[teza]teza : (rzecz.) thesis
-[tezaurus]tezaurus : (rzecz.) thesaurus
-[tezauryzowac]tezauryzować : (czas.) treasure
-[tesciowa]teściowa : (rzecz.) mother; (rzecz.) mother-in-law
-[tesciowie]teściowie : (rzecz.) in-laws; (rzecz.) parents-in-law
-[tesc]teść : (rzecz.) father; (rzecz.) father-in-law
-[tez]też : (przysł.) also; (przysł.) either; (przysł.) too
-[tiamina]tiamina : (rzecz.) thiamine
-[tiara]tiara : (rzecz.) tiara
-[tik]tik : (rzecz.) teak; (rzecz.) tic
-[tiosiarczan]tiosiarczan : (rzecz.) hyposulfite
-[tir]tir : (rzecz.) lorry
-[titr]titr : (rzecz.) titre
-[tiul]tiul : (rzecz.) tulle
-[tkacz]tkacz : (rzecz.) weaver; (rzecz.) widow-bird
-[tkanie]tkanie : (rzecz.) texture
-[tkanina]tkanina : (rzecz.) cardigan; (rzecz.) cloth; (rzecz.) fabric; (rzecz.) jersey; (rzecz.) linen; (rzecz.) material; (rzecz.) seersucker; (rzecz.) stuff; (rzecz.) tapestry; (rzecz.) tarpaulin; (rzecz.) textile; (rzecz.) texture; (rzecz.) tissue; (rzecz.) twill; (rzecz.) web
-[tkanka]tkanka : (rzecz.) tissue
-[tkac]tkać : (czas.) weave
-[tkliwie]tkliwie : (przysł.) affectionately
-[tkliwosc]tkliwość : (rzecz.) affection; (rzecz.) tenderness
-[tkliwy]tkliwy : (przym.) affectionate; (przym.) loving
-[tkniety]tknięty : (przym.) intact
-[tknac]tknąć : (czas.) tip
-[tkwienie]tkwienie : (rzecz.) being
-[tkwic]tkwić : (czas.) attach; (czas.) inhere; (czas.) stick; (czas.) underlie
-[tlen]tlen : (rzecz.) oxygen
-[tlenek]tlenek : (rzecz.) monoxide; (rzecz.) oxide
-[tlenienie]tlenienie : (rzecz.) oxygen; (rzecz.) water
-[tlenic]tlenić : (czas.) oxidize
-[tlenowiec]tlenowiec : (rzecz.) aerobe; (rzecz.) oxygen
-[tlenowy]tlenowy : (przym.) oxygenic
-[tlic]tlić : (czas.) glow; (czas.) smoulder
-[tnacy]tnący : (przym.) incisive
-[toaleta]toaleta : (rzecz.) bathroom; (rzecz.) cloakroom; (rzecz.) dressing; (rzecz.) dressing-table; (rzecz.) growler; (rzecz.) lavatory; (rzecz.) restroom; (rzecz.) toilet; (rzecz.) toilette; (rzecz.) washroom; (rzecz.) water-closet
-[toaletka]toaletka : (rzecz.) dresser
-[toaletowy]toaletowy : (przym.) toile
-[toast]toast : (rzecz.) toast; (rzecz.) wassail
-[tobogan]tobogan : (rzecz.) toboggan
-[tobolek]tobołek : (rzecz.) bundle
-[tobol]tobół : (rzecz.) bundle
-[toczak]toczak : (rzecz.) grindstone; (rzecz.) millstone
-[toczek]toczek : (rzecz.) toque
-[toczenie]toczenie : (rzecz.) lathing
-[toczen]toczeń : (rzecz.) lupus
-[toczydlo]toczydło : (rzecz.) grindstone
-[toczyc]toczyć : (czas.) bowl; (czas.) edge; (czas.) roll; (czas.) trundle; (czas.) wheel; (czas.) whet
-[toga]toga : (rzecz.) gown; (rzecz.) robe; (rzecz.) toga
-[tok]tok : (rzecz.) course; (rzecz.) progress
-[tokaj]tokaj : (rzecz.) tokay
-[tokarka]tokarka : (rzecz.) lathe
-[tokarko-wyoblarka]tokarko-wyoblarka : (rzecz.) spinner
-[tokarnia]tokarnia : (rzecz.) lathe; (rzecz.) turnery
-[tokarstwo]tokarstwo : (rzecz.) turnery
-[tokarz]tokarz : (rzecz.) turner
-[tokowac]tokować : (czas.) toot
-[toksycznosc]toksyczność : (rzecz.) toxicity
-[toksyczny]toksyczny : (przym.) poisonous; (przym.) toxic
-[toksykolog]toksykolog : (rzecz.) toxicologist
-[toksykologia]toksykologia : (rzecz.) toxicology
-[toksykologiczny]toksykologiczny : (przym.) toxicological
-[toksyna]toksyna : (rzecz.) toxin
-[tolerancja]tolerancja : (rzecz.) sufferance; (rzecz.) tolerance; (rzecz.) toleration
-[tolerancyjnie]tolerancyjnie : (przysł.) tolerantly
-[tolerancyjny]tolerancyjny : (przym.) broadminded; (przym.) broad-minded; (przym.) liberal; (przym.) tolerant
-[tolerowanie]tolerowanie : (rzecz.) sufferance; (rzecz.) tolerance
-[tolerowac]tolerować : (czas.) abide; (czas.) stand; (czas.) suffer; (czas.) tolerate
-[toluen]toluen : (rzecz.) methylbenzene; (rzecz.) toluene
-[tom]tom : (rzecz.) volume
-[tomahawk]tomahawk : (rzecz.) tomahawk
-[tomasyna]tomasyna : (rzecz.) slag
-[tombak]tombak : (rzecz.) pinchbeck
-[tomofan]tomofan : (rzecz.) cellophane
-[tomograf]tomograf : (rzecz.) scanner
-[tomografia]tomografia : (rzecz.) scanning; (rzecz.) tomography
-[ton]ton : (rzecz.) tone; (rzecz.) tonnes; (rzecz.) tune
-[tona]tona : (rzecz.) ton; (rzecz.) tonne
-[tona-sila]tona-siła : (rzecz.) ton-force
-[tonacja]tonacja : (rzecz.) key; (rzecz.) pitch; (rzecz.) tone
-[tonalnosc]tonalność : (rzecz.) tonality
-[tonalny]tonalny : (przym.) tonal
-[tonaz]tonaż : (rzecz.) tonnage
-[toner]toner : (rzecz.) toner
-[toniczny]toniczny : (przym.) tonal; (przym.) tonic
-[tonik]tonik : (rzecz.) tonic
-[tonika]tonika : (rzecz.) keynote; (rzecz.) tonic; (rzecz.) tonics
-[tonowanie]tonowanie : (rzecz.) grading; (rzecz.) toning
-[tonowac]tonować : (czas.) gradate; (czas.) soft-pedal; (czas.) tone
-[tonowy]tonowy : (przym.) tonal
-[tonsura]tonsura : (rzecz.) tonsure
-[tonac]tonąć : (czas.) drown; (czas.) sink
-[top]top : (rzecz.) top
-[topaz]topaz : (rzecz.) topaz
-[topiarz]topiarz : (rzecz.) teaser
-[topiel]topiel : (rzecz.) gulf; (rzecz.) whirlpool
-[topielec]topielec : (rzecz.) kelpie
-[topienie]topienie : (rzecz.) fusion; (rzecz.) melting
-[topik]topik : (rzecz.) fuse-link
-[topic]topić : (czas.) drown; (czas.) fuse; (czas.) liquefy; (czas.) melt; (czas.) smelt; (czas.) thaw
-[topliwosc]topliwość : (rzecz.) fusibility
-[topliwy]topliwy : (przym.) fusible
-[topnienie]topnienie : (rzecz.) meltdown; (rzecz.) melting
-[topniec]topnieć : (czas.) liquefy; (czas.) melt; (czas.) thaw
-[topnik]topnik : (rzecz.) flux
-[topnisko]topnisko : (rzecz.) hearth
-[topograf]topograf : (rzecz.) topographer
-[topografia]topografia : (rzecz.) topography
-[topograficznie]topograficznie : (przysł.) topographically
-[topograficzny]topograficzny : (przym.) topographic; (przym.) topographical; (przym.) typographical
-[topola]topola : (rzecz.) poplar
-[topologia]topologia : (rzecz.) topology
-[topologiczny]topologiczny : (przym.) topological
-[toporek]toporek : (rzecz.) adze; (rzecz.) broadaxe; (rzecz.) hand-axe; (rzecz.) hatchet; (rzecz.) tomahawk
-[toporny]toporny : (przym.) clumsy; (przym.) coarse; (przym.) gross
-[topsel]topsel : (rzecz.) topsail
-[topor]topór : (rzecz.) axe; (rzecz.) chopper; (rzecz.) hatchet
-[topzagiel]topżagiel : (rzecz.) skysail
-[tor]tor : (rzecz.) lane; (rzecz.) path; (rzecz.) thorium; (rzecz.) track; (rzecz.) trajectory
-[torba]torba : (rzecz.) bag; (rzecz.) bagful; (rzecz.) holdall; (rzecz.) pannier; (rzecz.) pouch; (rzecz.) sac; (rzecz.) satchel; (rzecz.) sporran; (rzecz.) wallet
-[torbacz]torbacz : (rzecz.) marsupial
-[torbiel]torbiel : (rzecz.) cyst; (rzecz.) sac
-[torbielowaty]torbielowaty : (przym.) cystic
-[toreador]toreador : (rzecz.) toreador
-[torebka]torebka : (rzecz.) bag; (rzecz.) bursa; (rzecz.) handbag; (rzecz.) purse; (rzecz.) reticule; (rzecz.) sachet
-[torebkowaty]torebkowaty : (przym.) capsular
-[torebkowy]torebkowy : (przym.) capsular
-[torf]torf : (rzecz.) peat; (rzecz.) turf
-[torfiasty]torfiasty : (przym.) peaty
-[torfowiec]torfowiec : (rzecz.) peat-moss; (rzecz.) sphagnum
-[torfowisko]torfowisko : (rzecz.) moss; (rzecz.) peat-bog
-[torfowy]torfowy : (przym.) peaty
-[torkret]torkret : (rzecz.) grout
-[tornado]tornado : (rzecz.) tornado
-[tornister]tornister : (rzecz.) backpack; (rzecz.) knapsack; (rzecz.) pack; (rzecz.) satchel; (rzecz.) schoolbag
-[toron]toron : (rzecz.) radon-220
-[torowanie]torowanie : (rzecz.) paving; (rzecz.) pioneer; (rzecz.) pioneering
-[torowac]torować : (czas.) clear; (czas.) pave
-[torowiec]torowiec : (rzecz.) platelayer
-[torowisko]torowisko : (rzecz.) track; (rzecz.) track-way
-[torpeda]torpeda : (rzecz.) torpedo
-[torpedowac]torpedować : (czas.) torpedo
-[torpedowiec]torpedowiec : (rzecz.) torpedo-boat
-[torreador]torreador : (rzecz.) bullfighter
-[tors]tors : (rzecz.) thorax; (rzecz.) torso; (rzecz.) trunk
-[tort]tort : (rzecz.) cake; (rzecz.) layer-cake; (rzecz.) tart
-[tortownica]tortownica : (rzecz.) cake-pan
-[tortura]tortura : (rzecz.) torture
-[torturowanie]torturowanie : (rzecz.) torture
-[torturowac]torturować : (czas.) rack; (czas.) torture
-[tory]tory : (rzecz.) tracks
-[torys]torys : (rzecz.) Tory
-[tost]tost : (rzecz.) toast
-[toster]toster : (rzecz.) toaster
-[totalitarny]totalitarny : (przym.) totalitarian
-[totalitaryzm]totalitaryzm : (rzecz.) totalitarianism
-[totalizator]totalizator : (rzecz.) pool; (rzecz.) sweepstakes
-[totalizm]totalizm : (rzecz.) totalitarianism
-[totalnie]totalnie : (przysł.) totally
-[totalnosc]totalność : (rzecz.) totality
-[totalny]totalny : (przym.) all-oat; (przym.) all-out; (przym.) total
-[totez]toteż : (spójnik) so
-[totolotek]totolotek : (rzecz.) lotto
-[towar]towar : (rzecz.) article; (rzecz.) commodity; (rzecz.) gong; (rzecz.) goods; (rzecz.) item; (rzecz.) merchandise; (rzecz.) product; (rzecz.) stock; (rzecz.) stuff; (rzecz.) ware
-[towary]towary : (rzecz.) articles
-[towarzyski]towarzyski : (przym.) communicative; (przym.) companionable; (przym.) convivial; (przym.) gregarious; (przym.) outgoing; (przym.) sociable; (przym.) social
-[towarzysko]towarzysko : (przysł.) socially
-[towarzyskosc]towarzyskość : (rzecz.) sociability
-[towarzystwo]towarzystwo : (rzecz.) companionship; (rzecz.) company; (rzecz.) fellowship; (rzecz.) grange; (rzecz.) party; (rzecz.) society
-[towarzysz]towarzysz : (rzecz.) associate; (rzecz.) attendant; (rzecz.) chum; (rzecz.) companion; (rzecz.) comrade; (rzecz.) escort; (rzecz.) fellow; (rzecz.) helpmate; (rzecz.) helpmeet; (rzecz.) mate; (rzecz.) pal; (rzecz.) partner; (rzecz.) playfellow; (rzecz.) playmate; (rzecz.) yokefellow; (rzecz.) yoke-fellow
-[towarzyszenie]towarzyszenie : (rzecz.) accompaniment
-[towarzyszyc]towarzyszyć : (czas.) accompanied; (czas.) accompany; (czas.) attend; (czas.) chaperon; (czas.) escort
-[towarzyszacy]towarzyszący : (przym.) attendant
-[ton]toń : (rzecz.) depth; (rzecz.) depths; (rzecz.) tonnes
-[tozsamosc]tożsamość : (rzecz.) identity
-[tozsamy]tożsamy : (przym.) different
-[tracenie]tracenie : (rzecz.) losing
-[tracheotomia]tracheotomia : (rzecz.) tracheotomy
-[tracic]tracić : (czas.) execute; (czas.) lose
-[trackball]trackball : (rzecz.) trackball
-[tracz]tracz : (rzecz.) sawyer
-[tradycja]tradycja : (rzecz.) lore; (rzecz.) tradition
-[tradycjonalista]tradycjonalista : (rzecz.) traditionalist
-[tradycjonalizm]tradycjonalizm : (rzecz.) traditionalism
-[tradycyjnie]tradycyjnie : (przysł.) traditionally
-[tradycyjnosc]tradycyjność : (rzecz.) elder
-[tradycyjny]tradycyjny : (przym.) customary; (przym.) time-honoured; (przym.) traditional
-[traf]traf : (rzecz.) chance; (rzecz.) coincidence; (rzecz.) fortune; (rzecz.) luck; (rzecz.) occurrence; (rzecz.) serendipity
-[trafiac]trafiać : (czas.) catch; (czas.) hit; (czas.) strike
-[trafienie]trafienie : (rzecz.) hit
-[trafic]trafić : (czas.) chance; (czas.) happen; (czas.) hit; (czas.) occur
-[trafnie]trafnie : (przysł.) accurately; (przysł.) aptly; (przysł.) pat
-[trafnosc]trafność : (rzecz.) accuracy; (rzecz.) adequacy; (rzecz.) appositeness; (rzecz.) aptness; (rzecz.) cogency; (rzecz.) pertness; (rzecz.) relevance; (rzecz.) rightness
-[trafny]trafny : (przym.) accurate; (przym.) apposite; (przym.) apropos; (przym.) apt; (przym.) correct; (przym.) exact; (przym.) felicitous; (przym.) relevant; (przym.) right; (przym.) seasonable; (przym.) shrewd
-[tragarz]tragarz : (rzecz.) carrier; (rzecz.) longshoreman; (rzecz.) porter
-[tragedia]tragedia : (rzecz.) disaster; (rzecz.) tragedy
-[tragediopisarz]tragediopisarz : (rzecz.) tragedian
-[tragicznie]tragicznie : (przysł.) tragically
-[tragicznosc]tragiczność : (rzecz.) luridness
-[tragiczny]tragiczny : (przym.) terrible; (przym.) tragic
-[tragik]tragik : (rzecz.) tragedian
-[tragikomedia]tragikomedia : (rzecz.) tragicomedy
-[tragikomiczny]tragikomiczny : (przym.) tragicomic
-[tragizm]tragizm : (rzecz.) tragedy
-[trajektoria]trajektoria : (rzecz.) trajectory
-[trajkot]trajkot : (rzecz.) chatter; (rzecz.) patter
-[trajkotanie]trajkotanie : (rzecz.) chatter; (rzecz.) waffle
-[trajkotac]trajkotać : (czas.) chatter; (czas.) jabber; (czas.) waffle; (czas.) yap
-[trajkotka]trajkotka : (rzecz.) chatterbox; (rzecz.) gabbler
-[trak]trak : (rzecz.) gangrene
-[trakcja]trakcja : (rzecz.) traction
-[trakt]trakt : (rzecz.) track; (rzecz.) tract
-[traktat]traktat : (rzecz.) tract; (rzecz.) tractate; (rzecz.) treatise; (rzecz.) treaty
-[traktor]traktor : (rzecz.) feeder; (rzecz.) traction-engine; (rzecz.) tractor
-[traktowanie]traktowanie : (rzecz.) attitude; (rzecz.) dealing; (rzecz.) treatment; (rzecz.) usage
-[traktowac]traktować : (czas.) deal; (czas.) handle; (czas.) treat; (czas.) treated
-[tralka]tralka : (rzecz.) baluster; (rzecz.) banister
-[tramp]tramp : (rzecz.) tramp
-[trampolina]trampolina : (rzecz.) diving-board; (rzecz.) springboard; (rzecz.) spring-board; (rzecz.) trampoline
-[tramwaj]tramwaj : (rzecz.) streetcar; (rzecz.) street-car; (rzecz.) tram; (rzecz.) tramcar; (rzecz.) tram-car; (rzecz.) tramway; (rzecz.) trolley-car
-[tramwajarz]tramwajarz : (rzecz.) tramway-worker
-[tran]tran : (rzecz.) blubber; (rzecz.) cod-liver-oil
-[trans]trans : (rzecz.) trance; (rzecz.) translation
-[transakcja]transakcja : (rzecz.) bargain; (rzecz.) business; (rzecz.) deal; (rzecz.) dicker; (rzecz.) transaction
-[transatlantycki]transatlantycki : (przym.) transatlantic
-[transcendencja]transcendencja : (rzecz.) transcendence
-[transcendentalista]transcendentalista : (rzecz.) transcendentalist
-[transcendentalizm]transcendentalizm : (rzecz.) transcendentalism
-[transcendentalny]transcendentalny : (przym.) transcendent; (przym.) transcendental
-[transcendentny]transcendentny : (przym.) external; (przym.) transcendent
-[transduktor]transduktor : (rzecz.) pickup
-[transept]transept : (rzecz.) transept
-[transfer]transfer : (rzecz.) transfer
-[transfiguracja]transfiguracja : (rzecz.) transfiguration
-[transformacja]transformacja : (rzecz.) transformation; (rzecz.) transition
-[transformator]transformator : (rzecz.) transformer
-[transformowac]transformować : (czas.) transform
-[transfuzja]transfuzja : (rzecz.) transfusion
-[transgeniczny]transgeniczny : (przym.) transgenic
-[transgresja]transgresja : (rzecz.) transgression
-[transkontynentalny]transkontynentalny : (przym.) intercontinental; (przym.) transcontinental
-[transkrybowac]transkrybować : (czas.) transcribe
-[transkrypcja]transkrypcja : (rzecz.) transcript; (rzecz.) transcription
-[translacja]translacja : (rzecz.) repeater; (rzecz.) resolution; (rzecz.) translation
-[translacyjny]translacyjny : (przym.) translational
-[translator]translator : (rzecz.) translator
-[transliteracja]transliteracja : (rzecz.) transliteration
-[transliterowac]transliterować : (czas.) transliterate
-[translokacja]translokacja : (rzecz.) translocation
-[transmisja]transmisja : (rzecz.) broadcast; (rzecz.) communication; (rzecz.) transmission
-[transmitancja]transmitancja : (rzecz.) transmittance
-[transmitowanie]transmitowanie : (rzecz.) broadcasting
-[transmitowac]transmitować : (czas.) broadcast; (czas.) relayed; (czas.) televise; (czas.) transmit
-[transmutacja]transmutacja : (rzecz.) transmutation
-[transoceaniczny]transoceaniczny : (przym.) transoceanic
-[transparent]transparent : (rzecz.) banner
-[transpiracja]transpiracja : (rzecz.) transpiration
-[transplantacja]transplantacja : (rzecz.) transplantation
-[transplantowac]transplantować : (czas.) graft
-[transponowanie]transponowanie : (rzecz.) transposing; (rzecz.) transposition
-[transponowac]transponować : (czas.) transpose
-[transport]transport : (rzecz.) carrying; (rzecz.) haulage; (rzecz.) transport; (rzecz.) transportation
-[transporter]transporter : (rzecz.) conveyer; (rzecz.) conveyor
-[transportowanie]transportowanie : (rzecz.) shuttling
-[transportowac]transportować : (czas.) haul; (czas.) transport
-[transportowiec]transportowiec : (rzecz.) carrier; (rzecz.) freighter; (rzecz.) troop-carrier
-[transpozycja]transpozycja : (rzecz.) contraposition; (rzecz.) transposition
-[transwersalny]transwersalny : (przym.) transversal
-[transwestyta]transwestyta : (rzecz.) transvestite
-[transzeja]transzeja : (rzecz.) sap; (rzecz.) trench
-[tranzystor]tranzystor : (rzecz.) transistor
-[tranzystorowy]tranzystorowy : (przym.) transistorized
-[tranzyt]tranzyt : (rzecz.) pass-through; (rzecz.) transit
-[tranzytywnosc]tranzytywność : (rzecz.) transitivity
-[tranzytywny]tranzytywny : (przym.) transitive
-[trap]trap : (rzecz.) gangway
-[traper]traper : (rzecz.) trapper; (rzecz.) woodcraftsman
-[trapez]trapez : (rzecz.) trapeze; (rzecz.) trapezium; (rzecz.) trapezoid
-[trapezoid]trapezoid : (rzecz.) trapezoids
-[trapezowy]trapezowy : (przym.) trapezoidal
-[trapienie]trapienie : (rzecz.) trap
-[trapic]trapić : (czas.) annoy; (czas.) molest; (czas.) pester; (czas.) plague
-[trasa]trasa : (rzecz.) itinerary; (rzecz.) path; (rzecz.) rout; (rzecz.) route; (rzecz.) run; (rzecz.) trajectory; (rzecz.) way
-[trasant]trasant : (rzecz.) drawer; (rzecz.) payer
-[traser]traser : (rzecz.) router
-[trasowanie]trasowanie : (rzecz.) flooding; (rzecz.) marking-out; (rzecz.) tracing
-[trasowac]trasować : (czas.) trace
-[traszka]traszka : (rzecz.) newt
-[tratowac]tratować : (czas.) tread
-[tratwa]tratwa : (rzecz.) boat; (rzecz.) float; (rzecz.) raft
-[tratwiarz]tratwiarz : (rzecz.) rafter
-[traumatyczny]traumatyczny : (przym.) traumatic
-[trawa]trawa : (rzecz.) grass; (rzecz.) herbage
-[trawers]trawers : (rzecz.) beam; (rzecz.) traverse
-[trawersowac]trawersować : (czas.) traverse
-[trawestacja]trawestacja : (rzecz.) travesty
-[trawestowac]trawestować : (czas.) travesty
-[trawiastozielony]trawiastozielony : (przym.) grass-green
-[trawiasty]trawiasty : (przym.) grassy
-[trawienie]trawienie : (rzecz.) digestion; (rzecz.) etching
-[trawieniec]trawieniec : (rzecz.) maw
-[trawienny]trawienny : (przym.) digestive; (przym.) peptic
-[trawic]trawić : (czas.) consume; (czas.) digest; (czas.) etch
-[trawka]trawka : (rzecz.) grass
-[trawler]trawler : (rzecz.) trawler
-[trawnik]trawnik : (rzecz.) greenery; (rzecz.) lawn
-[trawojad]trawojad : (rzecz.) herbivore
-[trawozerny]trawożerny : (przym.) herbivorous
-[trawy]trawy : (rzecz.) herbage
-[tralowanie]trałowanie : (rzecz.) minesweeping
-[tralowac]trałować : (czas.) drag; (czas.) trawl
-[tralowiec]trałowiec : (rzecz.) minesweeper; (rzecz.) trawler
-[tref]tref : (rzecz.) curl
-[trefl]trefl : (rzecz.) club; (rzecz.) clubs
-[trefny]trefny : (przym.) bent; (przym.) unclean
-[trel]trel : (rzecz.) trill
-[trelowac]trelować : (czas.) trill
-[trema]trema : (rzecz.) fright; (rzecz.) jimjams; (rzecz.) jitter; (rzecz.) jitters
-[tren]tren : (rzecz.) dirge; (rzecz.) threnody; (rzecz.) train
-[trenazer]trenażer : (rzecz.) link-trainer
-[trencz]trencz : (rzecz.) trench-coat
-[trener]trener : (rzecz.) coach; (rzecz.) coachman; (rzecz.) handler; (rzecz.) trainer
-[trening]trening : (rzecz.) training
-[trenowanie]trenowanie : (rzecz.) coaching; (rzecz.) training
-[trenowac]trenować : (czas.) coach; (czas.) train
-[trepan]trepan : (rzecz.) trepan
-[trepanacja]trepanacja : (rzecz.) trepanation
-[trepanowac]trepanować : (czas.) trephine
-[trepek]trepek : (rzecz.) sandal
-[treser]treser : (rzecz.) handler; (rzecz.) tamer; (rzecz.) trainer
-[tresowanie]tresowanie : (rzecz.) training
-[tresowac]tresować : (czas.) drill; (czas.) train
-[tresura]tresura : (rzecz.) training
-[tresciwie]treściwie : (przysł.) succinctly; (przysł.) tersely
-[tresciwosc]treściwość : (rzecz.) brevity; (rzecz.) conciseness
-[tresciwy]treściwy : (przym.) concise; (przym.) meaty; (przym.) pithy; (przym.) succinct
-[tresc]treść : (rzecz.) body; (rzecz.) content; (rzecz.) essence; (rzecz.) nitty-gritty; (rzecz.) purport; (rzecz.) purview; (rzecz.) substance; (rzecz.) sum; (rzecz.) teaspoonful; (rzecz.) tenor
-[tri]tri : (rzecz.) trichloroethylene
-[triada]triada : (rzecz.) triad
-[triangulacja]triangulacja : (rzecz.) triangulation
-[trik]trik : (rzecz.) trick
-[trioda]trioda : (rzecz.) triode
-[triola]triola : (rzecz.) triplet
-[triumf]triumf : (rzecz.) exultation; (rzecz.) triumph
-[triumfalny]triumfalny : (przym.) joyous; (przym.) jubilant; (przym.) triumphal; (przym.) triumphant
-[triumfator]triumfator : (rzecz.) victor
-[triumfowanie]triumfowanie : (rzecz.) jubilation
-[triumfowac]triumfować : (czas.) crow; (czas.) exult; (czas.) triumph
-[triumfujacy]triumfujący : (przym.) triumphant
-[triumwir]triumwir : (rzecz.) triumvir
-[triumwirat]triumwirat : (rzecz.) triumvirate
-[trocheiczny]trocheiczny : (przym.) trochaic
-[trochej]trochej : (rzecz.) trochee
-[troche]trochę : (rzecz.) bit; (rzecz.) little
-[trofeum]trofeum : (rzecz.) trophy
-[troglodyta]troglodyta : (rzecz.) cave-dweller; (rzecz.) caveman; (rzecz.) cave-man; (rzecz.) troglodyte
-[troisty]troisty : (przym.) treble
-[troic]troić : (czas.) triple
-[trojaczki]trojaczki : (rzecz.) triplets
-[trojak]trojak : (rzecz.) trilling
-[trojaki]trojaki : (przym.) three; (przym.) threefold; (przym.) triplex
-[trolejbus]trolejbus : (rzecz.) trolley; (rzecz.) trolleybus
-[trolejbusowy]trolejbusowy : (przym.) trolleybus
-[trombina]trombina : (rzecz.) thrombin
-[tron]tron : (rzecz.) throne
-[trop]trop : (rzecz.) clue; (rzecz.) lead; (rzecz.) scent; (rzecz.) spoor; (rzecz.) trace; (rzecz.) track; (rzecz.) tracks; (rzecz.) trail
-[tropiciel]tropiciel : (rzecz.) sleuth-hound; (rzecz.) tracer; (rzecz.) tracker; (rzecz.) trailer
-[tropienie]tropienie : (rzecz.) tracing
-[tropik]tropik : (rzecz.) flysheet; (rzecz.) tropic; (rzecz.) tropics
-[tropikalizacja]tropikalizacja : (rzecz.) tropic-proofing
-[tropikalnie]tropikalnie : (przysł.) tropically
-[tropikalny]tropikalny : (przym.) equatorial; (przym.) tropic; (przym.) tropical
-[tropizm]tropizm : (rzecz.) tropism
-[tropic]tropić : (czas.) hound; (czas.) hunt; (czas.) sleuth; (czas.) stalk; (czas.) track; (czas.) trail
-[troposfera]troposfera : (rzecz.) troposphere
-[tropowiec]tropowiec : (rzecz.) bloodhound
-[troska]troska : (rzecz.) attention; (rzecz.) care; (rzecz.) concern; (rzecz.) pain; (rzecz.) preoccupation; (rzecz.) regard; (rzecz.) solicitude; (rzecz.) sorrow; (rzecz.) trouble; (rzecz.) worry
-[troskac]troskać : (czas.) worry
-[troskliwie]troskliwie : (przysł.) carefully; (przysł.) mindfully
-[troskliwosc]troskliwość : (rzecz.) accuracy; (rzecz.) attentiveness; (rzecz.) care; (rzecz.) solicitude
-[troskliwy]troskliwy : (przym.) attentive; (przym.) careful; (przym.) caring; (przym.) considerate; (przym.) doting; (przym.) mindful; (przym.) solicitous; (przym.) thoughtful
-[troszczyc]troszczyć : (czas.) care
-[trotuar]trotuar : (rzecz.) pavement; (rzecz.) sidewalk; (rzecz.) side-walk
-[trotyl]trotyl : (rzecz.) trinitrotoluene
-[trubadur]trubadur : (rzecz.) troubadour
-[truchlec]truchleć : (czas.) blench; (czas.) terrified
-[trucht]trucht : (rzecz.) jog; (rzecz.) jogtrot; (rzecz.) trot
-[truciciel]truciciel : (rzecz.) polluter
-[trucizna]trucizna : (rzecz.) bane; (rzecz.) poison; (rzecz.) venom
-[trud]trud : (rzecz.) fatigue; (rzecz.) hardship; (rzecz.) pain; (rzecz.) sweat; (rzecz.) toil; (rzecz.) trouble
-[trudno]trudno : (przysł.) hard
-[trudnotopliwy]trudnotopliwy : (przym.) high-melting
-[trudnosc]trudność : (rzecz.) annoyance; (rzecz.) difficulty; (rzecz.) hardship; (rzecz.) knot; (rzecz.) obstacle; (rzecz.) stickler; (rzecz.) stumbling-block
-[trudny]trudny : (przym.) arduous; (przym.) difficult; (przym.) formidable; (przym.) hard; (przym.) intricate; (przym.) knotty; (przym.) tough
-[trudzenie]trudzenie : (rzecz.) bothering
-[trudzic]trudzić : (czas.) bother; (czas.) sweat; (czas.) toil; (czas.) trouble
-[trufla]trufla : (rzecz.) truffle
-[truizm]truizm : (rzecz.) truism
-[trujacy]trujący : (przym.) poisonous; (przym.) toxic
-[trumna]trumna : (rzecz.) casket; (rzecz.) coffin
-[trunek]trunek : (rzecz.) beverage; (rzecz.) booze; (rzecz.) drink; (rzecz.) intoxicant; (rzecz.) liquor
-[trup]trup : (rzecz.) cadaver; (rzecz.) corpse
-[trupa]trupa : (rzecz.) company; (rzecz.) corpse; (rzecz.) troop; (rzecz.) troupe
-[trupi]trupi : (przym.) cadaverous; (przym.) deathly
-[trupiarnia]trupiarnia : (rzecz.) morgue; (rzecz.) mortuary
-[truposz]truposz : (rzecz.) corpse
-[truskawka]truskawka : (rzecz.) strawberry
-[trust]trust : (rzecz.) trust
-[truten]truteń : (rzecz.) drone; (rzecz.) freeloader
-[trutka]trutka : (rzecz.) poison
-[truc]truć : (czas.) poison
-[trwale]trwale : (przysł.) fixedly; (przysł.) permanently
-[trwanie]trwanie : (rzecz.) abidance; (rzecz.) continuance; (rzecz.) durability; (rzecz.) duration; (rzecz.) lifespan; (rzecz.) standing
-[trwac]trwać : (czas.) abide; (czas.) continue; (czas.) endure; (czas.) last; (czas.) obtain; (czas.) outlast; (czas.) persevere; (czas.) persist
-[trwalosc]trwałość : (rzecz.) constancy; (rzecz.) durability; (rzecz.) duration; (rzecz.) endurance; (rzecz.) fastness; (rzecz.) indestructibility; (rzecz.) life; (rzecz.) life-period; (rzecz.) lifespan; (rzecz.) permanence; (rzecz.) permanency; (rzecz.) persistence; (rzecz.) persistency; (rzecz.) solidity; (rzecz.) stability; (rzecz.) tenacity
-[trwaly]trwały : (przym.) abiding; (przym.) constant; (przym.) continuous; (przym.) durable; (przym.) lasting; (przym.) permanent; (przym.) retentive; (przym.) rooted; (przym.) tenacious
-[trwoga]trwoga : (rzecz.) affright; (rzecz.) alarm; (rzecz.) anxiety; (rzecz.) awe; (rzecz.) fear; (rzecz.) fright
-[trwonienie]trwonienie : (rzecz.) dilapidation; (rzecz.) dissipation; (rzecz.) squandering
-[trwonic]trwonić : (czas.) dissipate; (czas.) ruin; (czas.) squander; (czas.) waste
-[trwozenie]trwożenie : (rzecz.) awing
-[trwozliwy]trwożliwy : (przym.) shy
-[trwoznie]trwożnie : (przysł.) shyly
-[trwozny]trwożny : (przym.) shy
-[trwozyc]trwożyć : (czas.) affright; (czas.) awe; (czas.) frighten; (czas.) startle
-[tryb]tryb : (rzecz.) cog-wheel; (rzecz.) mode; (rzecz.) mood
-[trybula]trybula : (rzecz.) chervil
-[trybun]trybun : (rzecz.) stands; (rzecz.) tribune
-[trybuna]trybuna : (rzecz.) platform; (rzecz.) rostrum; (rzecz.) tribune
-[trybunal]trybunał : (rzecz.) tribunal
-[trybut]trybut : (rzecz.) tribute
-[trychina]trychina : (rzecz.) hairworm; (rzecz.) trichina
-[trychinoza]trychinoza : (rzecz.) trichinosis
-[trycykl]trycykl : (rzecz.) tricycle
-[trygonometria]trygonometria : (rzecz.) trigonometry
-[trygonometryczny]trygonometryczny : (przym.) trigonometric
-[tryk]tryk : (rzecz.) ram
-[trykotarstwo]trykotarstwo : (rzecz.) knitting
-[trykotaz]trykotaż : (rzecz.) hosiery; (rzecz.) knitter
-[trykotaze]trykotaże : (rzecz.) hosiery
-[trykotowy]trykotowy : (przym.) knitted
-[trykoty]trykoty : (rzecz.) tights
-[tryktrak]tryktrak : (rzecz.) backgammon
-[tryl]tryl : (rzecz.) quaver; (rzecz.) trill
-[tryliard]tryliard : (rzecz.) sextillion
-[trylion]trylion : (rzecz.) quintillion; (rzecz.) trillion
-[trylogia]trylogia : (rzecz.) trilogy
-[trymer]trymer : (rzecz.) trimmer
-[trymestr]trymestr : (rzecz.) term; (rzecz.) trimester
-[trymowac]trymować : (czas.) trim
-[tryper]tryper : (rzecz.) gonorrhoea
-[trypla]trypla : (rzecz.) rottenstone
-[tryplet]tryplet : (rzecz.) triplet
-[tryplikat]tryplikat : (rzecz.) triplicate
-[tryptyk]tryptyk : (rzecz.) triptych
-[trysekcja]trysekcja : (rzecz.) trisection
-[tryskacz]tryskacz : (rzecz.) sprinkler
-[tryskanie]tryskanie : (rzecz.) ejection
-[tryskac]tryskać : (czas.) ejaculate; (czas.) gush; (czas.) jet; (czas.) splutter; (czas.) spout; (czas.) spurt; (czas.) squirt; (czas.) well
-[tryt]tryt : (rzecz.) tritium
-[tryton]tryton : (rzecz.) newt; (rzecz.) triton
-[tryumf]tryumf : (rzecz.) triumph
-[tryumfalnie]tryumfalnie : (przysł.) triumphantly
-[tryumfalny]tryumfalny : (przym.) jubilant; (przym.) triumphal
-[tryumfowac]tryumfować : (czas.) gloat; (czas.) triumph
-[tryumfujaco]tryumfująco : (przysł.) triumphantly
-[trywializacja]trywializacja : (rzecz.) trivialization
-[trywialnie]trywialnie : (przysł.) trivially
-[trywialnosc]trywialność : (rzecz.) triteness; (rzecz.) triviality
-[trywialny]trywialny : (przym.) foulmouthed; (przym.) foul-mouthed; (przym.) ordinary; (przym.) trite; (przym.) trivial; (przym.) vulgar
-[trysniecie]tryśnięcie : (rzecz.) gush; (rzecz.) squirt
-[trzask]trzask : (rzecz.) bang; (rzecz.) clack; (rzecz.) clap; (rzecz.) clash; (rzecz.) crack; (rzecz.) crackle; (rzecz.) crash; (rzecz.) flick; (rzecz.) pop; (rzecz.) slam; (rzecz.) smack; (rzecz.) smash; (rzecz.) snap
-[trzaskanie]trzaskanie : (rzecz.) cracking; (rzecz.) crackle
-[trzaskac]trzaskać : (czas.) bang; (czas.) clack; (czas.) clap; (czas.) click; (czas.) crack; (czas.) crackle; (czas.) dash; (czas.) hit; (czas.) pop; (czas.) rip; (czas.) slam; (czas.) smack
-[trzasnac]trzasnąć : (czas.) bang; (czas.) snap
-[trzasniecie]trzaśnięcie : (rzecz.) flick; (rzecz.) smack; (rzecz.) snap; (rzecz.) thwack
-[trzcina]trzcina : (rzecz.) cane; (rzecz.) reed; (rzecz.) reeve
-[trzcinka]trzcinka : (rzecz.) reed
-[trzcinowy]trzcinowy : (przym.) reedy
-[trzebienie]trzebienie : (rzecz.) castration; (rzecz.) clearing; (rzecz.) thinning
-[trzebiez]trzebież : (rzecz.) extirpation; (rzecz.) thinning
-[trzebic]trzebić : (czas.) cut; (czas.) exterminate; (czas.) spay; (czas.) stub
-[trzeci]trzeci : (przym.) third
-[trzeciorzedny]trzeciorzędny : (przym.) tertiary; (przym.) third-rate
-[trzeciorzedowy]trzeciorzędowy : (przym.) tertiary
-[trzepaczka]trzepaczka : (rzecz.) carpet-beater
-[trzepak]trzepak : (rzecz.) beater; (rzecz.) horse
-[trzepanie]trzepanie : (rzecz.) beating
-[trzepac]trzepać : (czas.) flip
-[trzepniecie]trzepnięcie : (rzecz.) clap; (rzecz.) flick; (rzecz.) flip; (rzecz.) slap; (rzecz.) smack
-[trzepot]trzepot : (rzecz.) flutter
-[trzepotanie]trzepotanie : (rzecz.) buffeting; (rzecz.) flop; (rzecz.) flutter; (rzecz.) quiver; (rzecz.) shimmy
-[trzepotac]trzepotać : (czas.) flap; (czas.) flop; (czas.) flutter; (czas.) quiver
-[trzeszczenie]trzeszczenie : (rzecz.) cracking; (rzecz.) creak
-[trzeszczec]trzeszczeć : (czas.) crack; (czas.) crackle; (czas.) creak; (czas.) crepitate; (czas.) crunch
-[trzewia]trzewia : (rzecz.) bowels; (rzecz.) viscera
-[trzewik]trzewik : (rzecz.) shoe; (rzecz.) slipper; (rzecz.) sneaker
-[trzewny]trzewny : (przym.) visceral
-[trzec]trzeć : (czas.) chafe; (czas.) grate; (czas.) rub
-[trzezwiec]trzeźwieć : (czas.) sober
-[trzezwic]trzeźwić : (czas.) sober
-[trzezwo]trzeźwo : (przysł.) soberly
-[trzezwosc]trzeźwość : (rzecz.) abstinence; (rzecz.) consciousness; (rzecz.) soberness; (rzecz.) sobriety; (rzecz.) temperance
-[trzezwy]trzeźwy : (przym.) clearheaded; (przym.) clear-headed; (przym.) sober; (przym.) temperate
-[trzmiel]trzmiel : (rzecz.) bumblebee; (rzecz.) bumble-bee; (rzecz.) humblebee; (rzecz.) humble-bee
-[trznadel]trznadel : (rzecz.) bunting; (rzecz.) buntings; (rzecz.) yellowhammer; (rzecz.) yellow-hammer
-[trzoda]trzoda : (rzecz.) drove; (rzecz.) flock; (rzecz.) herd
-[trzon]trzon : (rzecz.) backbone; (rzecz.) hardcore; (rzecz.) hearth; (rzecz.) shaft; (rzecz.) shank; (rzecz.) stem; (rzecz.) trunk
-[trzonek]trzonek : (rzecz.) handle; (rzecz.) helve; (rzecz.) shaft; (rzecz.) shank
-[trzonowy]trzonowy : (przym.) molar
-[trzos]trzos : (rzecz.) money-belt
-[trzpien]trzpień : (rzecz.) mandrel; (rzecz.) pivot; (rzecz.) stem; (rzecz.) tang
-[trzpiotka]trzpiotka : (rzecz.) flibbertigibbet
-[trzpiotowaty]trzpiotowaty : (przym.) airy; (przym.) coltish; (przym.) featherbrained; (przym.) feather-brained
-[trzustka]trzustka : (rzecz.) pancreas
-[trzustkowy]trzustkowy : (przym.) pancreatic
-[trzydziesty]trzydziesty : (przym.) thirtieth
-[trzykrotka]trzykrotka : (rzecz.) spiderwort
-[trzykrotnie]trzykrotnie : (przysł.) threefold; (przysł.) thrice
-[trzykrotny]trzykrotny : (przym.) threefold
-[trzylecie]trzylecie : (rzecz.) triennial
-[trzymacz]trzymacz : (rzecz.) holder
-[trzymanie]trzymanie : (rzecz.) hold; (rzecz.) holding; (rzecz.) keeping
-[trzymac]trzymać : (czas.) adhere; (czas.) buoy; (czas.) cleave; (czas.) cling; (czas.) clung; (czas.) fumble; (czas.) grip; (czas.) hold; (czas.) keep; (czas.) stay
-[trzynasty]trzynasty : (przym.) thirteenth
-[trzasc]trząść : (czas.) jar; (czas.) jolt; (czas.) jounce; (czas.) quake; (czas.) shake; (czas.) shiver; (czas.) toss; (czas.) totter; (czas.) tremble; (czas.) wobble
-[trzesawisko]trzęsawisko : (rzecz.) bog; (rzecz.) fen; (rzecz.) moor; (rzecz.) morass; (rzecz.) quagmire; (rzecz.) slough; (rzecz.) swamp
-[trzesienie]trzęsienie : (rzecz.) agitation; (rzecz.) earthquake; (rzecz.) quake; (rzecz.) rumble-tumble; (rzecz.) shudder
-[troja]trója : (rzecz.) fair; (rzecz.) pass
-[trojbarwny]trójbarwny : (przym.) tricolour
-[trojboj]trójbój : (rzecz.) track-athletics
-[trojca]trójca : (rzecz.) trinity
-[trojchloroetylen]trójchloroetylen : (rzecz.) trichloroethylene
-[trojchlorometan]trójchlorometan : (rzecz.) chloroform
-[trojdzielny]trójdzielny : (przym.) treble; (przym.) tripartite
-[trojdzwiek]trójdźwięk : (rzecz.) triad
-[trojka]trójka : (rzecz.) three; (rzecz.) threesome; (rzecz.) trey; (rzecz.) triad; (rzecz.) trinity; (rzecz.) trio; (rzecz.) tripe; (rzecz.) triplet; (rzecz.) troika
-[trojkat]trójkąt : (rzecz.) triangle
-[trojkatnie]trójkątnie : (przysł.) triangularly
-[trojkatny]trójkątny : (przym.) triangular
-[trojkatowanie]trójkątowanie : (rzecz.) triangles
-[trojlisc]trójliść : (rzecz.) trefoil
-[trojmasztowiec]trójmasztowiec : (rzecz.) three-master
-[trojmian]trójmian : (rzecz.) trinomial
-[trojnik]trójnik : (rzecz.) joint
-[trojnitka]trójnitka : (rzecz.) houseline
-[trojnitrotoluen]trójnitrotoluen : (rzecz.) trinitrotoluene
-[trojnog]trójnóg : (rzecz.) tripod; (rzecz.) trivet
-[trojpokladowiec]trójpokładowiec : (rzecz.) three-decker
-[trojstanowy]trójstanowy : (przym.) tri-state
-[trojstronny]trójstronny : (przym.) trilateral
-[trojtlenek]trójtlenek : (rzecz.) trioxide
-[trojwartosciowy]trójwartościowy : (przym.) trivalent
-[trojwiersz]trójwiersz : (rzecz.) triplet
-[trojwymiarowy]trójwymiarowy : (przym.) three-dimensional
-[trojzab]trójząb : (rzecz.) herb; (rzecz.) trident
-[trojscienny]trójścienny : (przym.) trihedral
-[traba]trąba : (rzecz.) horn; (rzecz.) proboscis; (rzecz.) trumpet; (rzecz.) trunk
-[trabienie]trąbienie : (rzecz.) blare; (rzecz.) toot
-[trabic]trąbić : (czas.) blare; (czas.) honk; (czas.) proclaim; (czas.) roar; (czas.) toot; (czas.) trumpet
-[trabka]trąbka : (rzecz.) bugle; (rzecz.) clarion; (rzecz.) cornet; (rzecz.) proboscis; (rzecz.) trumpet
-[tracac]trącać : (czas.) jog; (czas.) jostle; (czas.) knock; (czas.) tip
-[tracenie]trącenie : (rzecz.) nudge
-[tracic]trącić : (czas.) abate; (czas.) nudge; (czas.) smell
-[trad]trąd : (rzecz.) leprosy
-[tradzik]trądzik : (rzecz.) acne
-[trebacz]trębacz : (rzecz.) bugler; (rzecz.) trumpeter
-[tredowaty]trędowaty : (przym.) leprous
-[tsunami]tsunami : (rzecz.) tsunami
-[tu]tu : (przysł.) here; (przysł.) herein; (przysł.) hither
-[tuba]tuba : (rzecz.) flare; (rzecz.) horn; (rzecz.) trumpet; (rzecz.) tube
-[tubalny]tubalny : (przym.) stentorian
-[tubek]tubek : (rzecz.) fish
-[tuberkuliczny]tuberkuliczny : (przym.) tubercular
-[tuberkulina]tuberkulina : (rzecz.) tuberculin
-[tuberkuloza]tuberkuloza : (rzecz.) tuberculosis
-[tuberoza]tuberoza : (rzecz.) tuberose
-[tubing]tubing : (rzecz.) tubing
-[tubka]tubka : (rzecz.) tube
-[tubowy]tubowy : (przym.) tubular
-[tubus]tubus : (rzecz.) tube
-[tubylcy]tubylcy : (rzecz.) aborigines
-[tubylczo]tubylczo : (przysł.) natively
-[tubylczy]tubylczy : (przym.) autochthonous; (przym.) indigenous; (przym.) native; (przym.) vernacular
-[tubylec]tubylec : (rzecz.) aboriginal; (rzecz.) autochthon; (rzecz.) native
-[tuczarnia]tuczarnia : (rzecz.) battery; (rzecz.) feedlot
-[tucznik]tucznik : (rzecz.) hog; (rzecz.) porker
-[tuczyc]tuczyć : (czas.) fat; (czas.) fatten; (czas.) feed; (czas.) plump
-[tuf]tuf : (rzecz.) tuff
-[tukan]tukan : (rzecz.) toucan
-[tul]tul : (rzecz.) thulium
-[tuleja]tuleja : (rzecz.) bush; (rzecz.) muff; (rzecz.) quill; (rzecz.) sleeve
-[tulejka]tulejka : (rzecz.) bush; (rzecz.) bushing; (rzecz.) ferrule; (rzecz.) muff; (rzecz.) socket
-[tulenie]tulenie : (rzecz.) cuddle
-[tulipan]tulipan : (rzecz.) tulip
-[tulic]tulić : (czas.) cuddle; (czas.) fondle; (czas.) hug; (czas.) nestle
-[tuman]tuman : (rzecz.) blockhead; (rzecz.) dunderhead; (rzecz.) lummox; (rzecz.) mist; (rzecz.) nitwit; (rzecz.) slowcoach; (rzecz.) slow-coach; (rzecz.) yuk; (rzecz.) zombie
-[tumult]tumult : (rzecz.) tumult
-[tundra]tundra : (rzecz.) tundra
-[tunel]tunel : (rzecz.) cutting; (rzecz.) subway; (rzecz.) tunnel
-[tunika]tunika : (rzecz.) tunic
-[tupanie]tupanie : (rzecz.) patter
-[tupac]tupać : (czas.) stamp
-[tupet]tupet : (rzecz.) audacity; (rzecz.) cheek; (rzecz.) impudence; (rzecz.) nerve; (rzecz.) sauce; (rzecz.) self-confidence
-[tupot]tupot : (rzecz.) patter
-[tupotac]tupotać : (czas.) stamp
-[tur]tur : (rzecz.) aurochs; (rzecz.) bison
-[tura]tura : (rzecz.) cat-lap; (rzecz.) round; (rzecz.) run; (rzecz.) tour; (rzecz.) turn
-[turban]turban : (rzecz.) turban
-[turbina]turbina : (rzecz.) turbine
-[turbodoladowanie]turbodoładowanie : (rzecz.) turbocharger
-[turbogenerator]turbogenerator : (rzecz.) turbo-generator
-[turboodrzutowy]turboodrzutowy : (przym.) turbojet
-[turbosprezarka]turbosprężarka : (rzecz.) supercharger; (rzecz.) turbocharger
-[turbowac]turbować : (czas.) trouble
-[turbosmiglowiec]turbośmigłowiec : (rzecz.) turboprop
-[turbosmiglowy]turbośmigłowy : (przym.) turboprop
-[turbulencja]turbulencja : (rzecz.) turbulence
-[turbulentny]turbulentny : (przym.) turbulent
-[turkawka]turkawka : (rzecz.) doves; (rzecz.) turtledove; (rzecz.) turtle-dove
-[turkot]turkot : (rzecz.) rattle; (rzecz.) rumble
-[turkotac]turkotać : (czas.) bump; (czas.) rattle; (czas.) rumble
-[turkus]turkus : (rzecz.) turquoise
-[turkusowy]turkusowy : (przym.) cyan
-[turlac]turlać : (czas.) roll
-[turmalin]turmalin : (rzecz.) tourmaline
-[turnia]turnia : (rzecz.) alp; (rzecz.) crag; (rzecz.) peak
-[turniej]turniej : (rzecz.) tilts; (rzecz.) tournament; (rzecz.) tourney
-[turnikiet]turnikiet : (rzecz.) turnstile
-[turnus]turnus : (rzecz.) period
-[turysta]turysta : (rzecz.) excursionist; (rzecz.) hiker; (rzecz.) holidaymaker; (rzecz.) sightseer; (rzecz.) tourist
-[turystyka]turystyka : (rzecz.) tourism
-[tusz]tusz : (rzecz.) carcasses; (rzecz.) douche; (rzecz.) flourish; (rzecz.) ink; (rzecz.) mascara; (rzecz.) shower-bath
-[tusza]tusza : (rzecz.) carcase; (rzecz.) carcass; (rzecz.) corpulence; (rzecz.) fatness
-[tuszowac]tuszować : (czas.) efface; (czas.) smother
-[tutaj]tutaj : (przysł.) here
-[tutka]tutka : (rzecz.) cornet
-[tuzin]tuzin : (rzecz.) dozen
-[tuzinkowy]tuzinkowy : (przym.) hackneyed; (przym.) trite; (przym.) trivial
-[tulactwo]tułactwo : (rzecz.) exile
-[tulacz]tułacz : (rzecz.) drifter; (rzecz.) wanderer
-[tulaczy]tułaczy : (przym.) homeless
-[tulac]tułać : (czas.) wander
-[tulow]tułów : (rzecz.) body; (rzecz.) thorax; (rzecz.) torso; (rzecz.) trunk
-[tunczyk]tuńczyk : (rzecz.) albacore; (rzecz.) tuna
-[twardnienie]twardnienie : (rzecz.) hardening
-[twardniec]twardnieć : (czas.) fix; (czas.) harden; (czas.) set
-[twardo]twardo : (przysł.) hard; (przysł.) sternly; (przysł.) stiffly; (przysł.) strictly; (przysł.) toughly
-[twardoglowy]twardogłowy : (przym.) diehard
-[twardosc]twardość : (rzecz.) endurance; (rzecz.) firmness; (rzecz.) hardness; (rzecz.) rigidity; (rzecz.) toughness
-[twardy]twardy : (przym.) adamant; (przym.) adamantine; (przym.) callous; (przym.) firm; (przym.) hard; (przym.) hardboiled; (przym.) hard-boiled; (przym.) hardcore; (przym.) hard-core; (przym.) landed; (przym.) rigid; (przym.) stiff; (przym.) strong; (przym.) tough
-[twardziel]twardziel : (rzecz.) heart-wood; (rzecz.) toughie
-[twardowka]twardówka : (rzecz.) sclera
-[twarz]twarz : (rzecz.) countenance; (rzecz.) face; (rzecz.) mug
-[twarzowy]twarzowy : (przym.) appropriate; (przym.) becoming; (przym.) facial
-[twarog]twaróg : (rzecz.) bonnyclabber; (rzecz.) clabber; (rzecz.) curd
-[tweed]tweed : (rzecz.) tweed
-[twierdza]twierdza : (rzecz.) fastness; (rzecz.) fort; (rzecz.) fortress; (rzecz.) stronghold; (rzecz.) tower
-[twierdzenie]twierdzenie : (rzecz.) affirmation; (rzecz.) assertion; (rzecz.) asseveration; (rzecz.) averment; (rzecz.) axis; (rzecz.) claim; (rzecz.) contention; (rzecz.) enunciation; (rzecz.) maintenance; (rzecz.) objection; (rzecz.) predication; (rzecz.) proposition; (rzecz.) statement; (rzecz.) theorem; (rzecz.) word
-[twierdzic]twierdzić : (czas.) affirm; (czas.) allege; (czas.) assert; (czas.) assure; (czas.) claim; (czas.) contend; (czas.) declare; (czas.) maintain; (czas.) predicate; (czas.) pretend; (czas.) profess
-[twierdzaco]twierdząco : (przysł.) affirmatively
-[twierdzacy]twierdzący : (przym.) affirmative; (przym.) positive
-[twist]twist : (rzecz.) twist
-[twornik]twornik : (rzecz.) armature; (rzecz.) stator
-[tworzenie]tworzenie : (rzecz.) blocking; (rzecz.) creation; (rzecz.) formation; (rzecz.) instantiation; (rzecz.) making; (rzecz.) origination
-[tworzywo]tworzywo : (rzecz.) material; (rzecz.) stuff
-[tworzyc]tworzyć : (czas.) beget; (czas.) choreograph; (czas.) compose; (czas.) constitute; (czas.) create; (czas.) develop; (czas.) fabricate; (czas.) figure; (czas.) form; (czas.) found; (czas.) frame; (czas.) generate; (czas.) instantiate; (czas.) make; (czas.) materialize
-[twor]twór : (rzecz.) creation; (rzecz.) creature; (rzecz.) formation; (rzecz.) port; (rzecz.) spawn
-[tworca]twórca : (rzecz.) architect; (rzecz.) artist; (rzecz.) author; (rzecz.) creator; (rzecz.) founder; (rzecz.) maker; (rzecz.) originator; (rzecz.) writer
-[tworcy]twórcy : (rzecz.) creators
-[tworczo]twórczo : (przysł.) creatively
-[tworczosc]twórczość : (rzecz.) creativity; (rzecz.) output; (rzecz.) work
-[tworczy]twórczy : (przym.) constructive; (przym.) creative; (przym.) imaginative
-[tyczka]tyczka : (rzecz.) perch; (rzecz.) pole
-[tyczyc]tyczyć : (czas.) belong; (czas.) refer
-[tydzien]tydzień : (rzecz.) week; (rzecz.) weeks
-[tyfoidalny]tyfoidalny : (przym.) typhoid
-[tyfus]tyfus : (rzecz.) typhoid; (rzecz.) typhus
-[tyfusowy]tyfusowy : (przym.) typhoid
-[tygiel]tygiel : (rzecz.) crucible; (rzecz.) melting-pot
-[tygodnik]tygodnik : (rzecz.) weekly
-[tygodniowy]tygodniowy : (przym.) week's
-[tygrys]tygrys : (rzecz.) tiger
-[tyka]tyka : (rzecz.) beanpole
-[tykanie]tykanie : (rzecz.) tick
-[tykac]tykać : (czas.) strike; (czas.) tick; (czas.) touch
-[tykniecie]tyknięcie : (rzecz.) tick
-[tykwa]tykwa : (rzecz.) bottle-gourd; (rzecz.) calabash; (rzecz.) gourd
-[tylda]tylda : (rzecz.) tilde
-[tyle]tyle : (przysł.) so
-[tylec]tylec : (rzecz.) snag
-[tylko]tylko : (przysł.) alone; (przysł.) barely; (przysł.) but; (przysł.) exclusively; (przysł.) just; (przysł.) merely; (przysł.) only; (przysł.) purely
-[tylni]tylni : (przym.) after; (przym.) hind
-[tylnica]tylnica : (rzecz.) stern; (rzecz.) sternpost
-[tylnojezykowy]tylnojęzykowy : (przym.) velar
-[tylnokolowiec]tylnokołowiec : (rzecz.) sternwheeler
-[tylny]tylny : (przym.) after; (przym.) back; (przym.) backward; (przym.) hind; (przym.) posterior; (przym.) rearward
-[tymczasem]tymczasem : (przysł.) meantime; (przysł.) meanwhile
-[tymczasowo]tymczasowo : (przysł.) provisionally; (przysł.) temporarily
-[tymczasowosc]tymczasowość : (rzecz.) temporality
-[tymczasowy]tymczasowy : (przym.) interim; (przym.) interlocutory; (przym.) modifiable; (przym.) provisional; (przym.) temporal; (przym.) temporary; (przym.) volatile
-[tymianek]tymianek : (rzecz.) thyme; (rzecz.) thymus
-[tymina]tymina : (rzecz.) thymine
-[tympanon]tympanon : (rzecz.) tympanum
-[tynk]tynk : (rzecz.) daub; (rzecz.) grout; (rzecz.) plaster; (rzecz.) roughcast; (rzecz.) rough-cast; (rzecz.) stucco
-[tynkal]tynkal : (rzecz.) borax
-[tynkarski]tynkarski : (przym.) plasterer's
-[tynkarz]tynkarz : (rzecz.) plasterer
-[tynkowac]tynkować : (czas.) plaster
-[tynktura]tynktura : (rzecz.) tincture
-[typ]typ : (rzecz.) character; (rzecz.) kind; (rzecz.) nature; (rzecz.) sort; (rzecz.) type
-[typek]typek : (rzecz.) chap; (rzecz.) character; (rzecz.) joker
-[typograf]typograf : (rzecz.) typographer
-[typografia]typografia : (rzecz.) typography
-[typograficznie]typograficznie : (przysł.) typographically
-[typograficzny]typograficzny : (przym.) typographic; (przym.) typographical
-[typologia]typologia : (rzecz.) typology
-[typooffset]typooffset : (rzecz.) letterset
-[typowac]typować : (czas.) designate; (czas.) typecast
-[typowo]typowo : (przysł.) typically
-[typowosc]typowość : (rzecz.) typicality
-[typowy]typowy : (przym.) atypical; (przym.) basal; (przym.) classic; (przym.) classical; (przym.) conventional; (przym.) quintessential; (przym.) racy; (przym.) typical
-[tyrada]tyrada : (rzecz.) rant; (rzecz.) screed; (rzecz.) tirade
-[tyran]tyran : (rzecz.) bully; (rzecz.) taskmaster; (rzecz.) tyrant
-[tyrania]tyrania : (rzecz.) tyranny
-[tyranizowac]tyranizować : (czas.) domineer; (czas.) tyrannize
-[tyranozaur]tyranozaur : (rzecz.) tyrannosaur; (rzecz.) tyrannosaurus
-[tyranski]tyrański : (przym.) tyrannical
-[tyrozyna]tyrozyna : (rzecz.) tyrosine
-[tysiac]tysiąc : (rzecz.) thousand
-[tysiaclecie]tysiąclecie : (rzecz.) millennium
-[tysiacletni]tysiącletni : (przym.) millenary; (przym.) millennial
-[tysiaczny]tysiączny : (przym.) thousandth
-[tysieczny]tysięczny : (przym.) thousand; (przym.) thousandth
-[tytan]tytan : (rzecz.) titan; (rzecz.) titanium
-[tytaniczny]tytaniczny : (przym.) titanic
-[tytanowy]tytanowy : (przym.) titanic
-[tyton]tytoń : (rzecz.) tobacco; (rzecz.) tobacco-plant
-[tytularny]tytularny : (przym.) nominal; (przym.) titular
-[tytul]tytuł : (rzecz.) captain; (rzecz.) caption; (rzecz.) style; (rzecz.) title
-[tytulowanie]tytułowanie : (rzecz.) title; (rzecz.) titling
-[tytulowac]tytułować : (czas.) address; (czas.) entitle; (czas.) title
-[tytulowy]tytułowy : (przym.) eponymous; (przym.) front-page
-[tyc]tyć : (czas.) fatten; (czas.) plump
-[tyl]tył : (rzecz.) back; (rzecz.) rear
-[tylek]tyłek : (rzecz.) ass; (rzecz.) backside; (rzecz.) behind; (rzecz.) bottom; (rzecz.) breech; (rzecz.) bum
-[tylem]tyłem : (przysł.) backward; (przysł.) backwards
-[tapniecie]tąpnięcie : (rzecz.) crump
-[tecza]tęcza : (rzecz.) iris; (rzecz.) rainbow; (rzecz.) screen
-[teczowka]tęczówka : (rzecz.) iris
-[tedy]tędy : (przysł.) here
-[tegi]tęgi : (przym.) burly; (przym.) corpulent; (przym.) doughty; (przym.) lusty; (przym.) portly; (przym.) stalwart; (przym.) stout; (przym.) tough; (przym.) virile
-[tego]tęgo : (przysł.) this
-[tegoryjec]tęgoryjec : (rzecz.) hookworm
-[tegosc]tęgość : (rzecz.) corpulence
-[tepak]tępak : (rzecz.) ass; (rzecz.) blockhead; (rzecz.) bonehead; (rzecz.) booby; (rzecz.) dullard; (rzecz.) dunce; (rzecz.) featherbrain; (rzecz.) loggerhead; (rzecz.) moron; (rzecz.) slowcoach; (rzecz.) slow-coach
-[tepiciel]tępiciel : (rzecz.) exterminator
-[tepienie]tępienie : (rzecz.) fight
-[tepiec]tępieć : (czas.) dull
-[tepic]tępić : (czas.) combat; (czas.) destroy; (czas.) dull; (czas.) exterminate
-[tepota]tępota : (rzecz.) density; (rzecz.) limitation; (rzecz.) obtuseness; (rzecz.) opacity; (rzecz.) thickhead
-[teposc]tępość : (rzecz.) dullness
-[tepy]tępy : (przym.) blunt; (przym.) clueless; (przym.) crass; (przym.) dull; (przym.) insipid; (przym.) logy; (przym.) obtuse; (przym.) pointless; (przym.) slow; (przym.) slow-witted; (przym.) stupid; (przym.) thick-headed; (przym.) vacant; (przym.) vapid; (przym.) wooden
-[tesknica]tęsknica : (rzecz.) miss
-[teskniacy]tęskniący : (przym.) wistful
-[tesknic]tęsknić : (czas.) hanker; (czas.) languish; (czas.) long; (czas.) miss; (czas.) pine; (czas.) yearn
-[tesknota]tęsknota : (rzecz.) hankering; (rzecz.) homesickness; (rzecz.) longing; (rzecz.) nostalgia
-[teskny]tęskny : (przym.) languorous; (przym.) wistful
-[tetent]tętent : (rzecz.) clip-clop; (rzecz.) rattle
-[tetniak]tętniak : (rzecz.) aneurism; (rzecz.) aneurysm
-[tetnica]tętnica : (rzecz.) artery
-[tetnicowy]tętnicowy : (przym.) arterial
-[tetniczy]tętniczy : (przym.) arterial
-[tetnienie]tętnienie : (rzecz.) pulsation; (rzecz.) ripple
-[tetnic]tętnić : (czas.) pulsate; (czas.) pulse; (czas.) throb
-[tetno]tętno : (rzecz.) pulse
-[tezec]tężec : (rzecz.) lockjaw; (rzecz.) tetanus
-[tezenie]tężenie : (rzecz.) coagulation; (rzecz.) setting
-[tezec]tężeć : (czas.) coagulate; (czas.) freeze
-[teznik]tężnik : (rzecz.) stay
-[tezyzna]tężyzna : (rzecz.) brawn; (rzecz.) burliness; (rzecz.) fitness
-[tlamsic]tłamsić : (czas.) smother
-[tlo]tło : (rzecz.) backcloth; (rzecz.) backdrop; (rzecz.) background; (rzecz.) selling; (rzecz.) setting
-[tloczek]tłoczek : (rzecz.) plunger; (rzecz.) push-piece; (rzecz.) side-push
-[tloczenie]tłoczenie : (rzecz.) pressing
-[tlocznia]tłocznia : (rzecz.) press
-[tlocznictwo]tłocznictwo : (rzecz.) presswork
-[tlocznik]tłocznik : (rzecz.) die
-[tloczyc]tłoczyć : (czas.) congest; (czas.) cram; (czas.) crowd; (czas.) emboss; (czas.) herd; (czas.) hustle; (czas.) press; (czas.) push; (czas.) squash; (czas.) swarm; (czas.) throng
-[tlok]tłok : (rzecz.) cram; (rzecz.) crowd; (rzecz.) hustle; (rzecz.) jam; (rzecz.) piston; (rzecz.) plunger; (rzecz.) press; (rzecz.) squash; (rzecz.) throng
-[tluc]tłuc : (czas.) batter; (czas.) break; (czas.) drub; (czas.) mash; (czas.) mingle; (czas.) pestle; (czas.) pound
-[tluczek]tłuczek : (rzecz.) beater; (rzecz.) dolly; (rzecz.) pestle
-[tluczenie]tłuczenie : (rzecz.) cracking
-[tluczen]tłuczeń : (rzecz.) rubble
-[tluczka]tłuczka : (rzecz.) cracker
-[tluk]tłuk : (rzecz.) moron; (rzecz.) stamp
-[tluka]tłuka : (rzecz.) drift-ice
-[tlum]tłum : (rzecz.) concourse; (rzecz.) crowd; (rzecz.) flock; (rzecz.) herd; (rzecz.) host; (rzecz.) jam; (rzecz.) mob; (rzecz.) multitude; (rzecz.) populace; (rzecz.) shoal; (rzecz.) throng
-[tlumacz]tłumacz : (rzecz.) interpreter; (rzecz.) translation; (rzecz.) translator
-[tlumaczenie]tłumaczenie : (rzecz.) render; (rzecz.) translation
-[tlumaczeniowy]tłumaczeniowy : (przym.) translational
-[tlumaczyc]tłumaczyć : (czas.) anglicize; (czas.) assemble; (czas.) construe; (czas.) explain; (czas.) expound; (czas.) interpret; (czas.) justify; (czas.) plead; (czas.) translate; (czas.) turn
-[tlumienie]tłumienie : (rzecz.) attenuation; (rzecz.) strangulation; (rzecz.) suppression
-[tlumik]tłumik : (rzecz.) absorber; (rzecz.) attenuator; (rzecz.) damper; (rzecz.) exhaust; (rzecz.) muffler; (rzecz.) mute; (rzecz.) pad; (rzecz.) silencer; (rzecz.) suppressor
-[tlumiony]tłumiony : (przym.) dead-beat
-[tlumic]tłumić : (czas.) attenuate; (czas.) blight; (czas.) choke; (czas.) damp; (czas.) dampen; (czas.) deaden; (czas.) depress; (czas.) extinguish; (czas.) muffle; (czas.) quash; (czas.) quell; (czas.) quench; (czas.) repress; (czas.) smother; (czas.) stifle; (czas.) suppress; (czas.) throttle
-[tlumny]tłumny : (przym.) numerous
-[tlumok]tłumok : (rzecz.) bundle; (rzecz.) truss
-[tlustosc]tłustość : (rzecz.) greasiness
-[tlusty]tłusty : (przym.) adipose; (przym.) bold; (przym.) fat; (przym.) fatty; (przym.) fleshy; (przym.) greasy; (przym.) gross; (przym.) oily; (przym.) plump; (przym.) snotty; (przym.) thick; (przym.) unctuous
-[tluszcz]tłuszcz : (rzecz.) adipose; (rzecz.) blubber; (rzecz.) fat; (rzecz.) grease; (rzecz.) suet; (rzecz.) tallow
-[tluszcza]tłuszcza : (rzecz.) rag-tag
-[tluszczenie]tłuszczenie : (rzecz.) fat
-[tluszczowiec]tłuszczowiec : (rzecz.) lipoid
-[tluszczowy]tłuszczowy : (przym.) fat; (przym.) fatty
-[tluscioch]tłuścioch : (rzecz.) fatty
-[tluscic]tłuścić : (czas.) fat; (czas.) grease; (czas.) lubricate
+[teodor]Teodor (PL) : (rz.) Theodore
+[teresa]Teresa (PL) : (rz.) Theresa
+[tomasz]Tomasz (PL) : (rz.) Tom
+[tomek]Tomek (PL) : (rz.) Tommy
+[tabaka]tabaka (PL) : (rz.) snuff
+[tabakiera]tabakiera (PL) : (rz.) snuffbox; (rz.) snuff-box
+[tabakierka]tabakierka (PL) : (rz.) snuffbox; (rz.) snuff-box
+[tabela]tabela (PL) : (rz.) chart; (rz.) schedule; (rz.) table; (rz.) tabulation
+[tabelaryczny]tabelaryczny (PL) : (p.) tabular
+[tabelka]tabelka (PL) : (rz.) chart; (rz.) table
+[tabernakulum]tabernakulum (PL) : (rz.) tabernacle
+[tabletka]tabletka (PL) : (rz.) lozenge; (rz.) tablet
+[tablica]tablica (PL) : (rz.) array; (rz.) blackboard; (rz.) board; (rz.) chart; (rz.) daughterboard; (rz.) panel; (rz.) plaque; (rz.) stele; (rz.) tablet
+[tablicowac]tablicować (PL) : (cz.) tabulate
+[tabliczka]tabliczka (PL) : (rz.) bar; (rz.) plate; (rz.) tablet
+[tabliczkowy]tabliczkowy (PL) : (p.) tabular
+[tabor]tabor (PL) : (rz.) camp; (rz.) rolling
+[taboret]taboret (PL) : (rz.) stool
+[tabu]tabu (PL) : (rz.) taboo; (rz.) taboos
+[tabulacja]tabulacja (PL) : (rz.) tab; (rz.) tabulation
+[tabulator]tabulator (PL) : (rz.) tab; (rz.) tabs; (rz.) tabulator; (rz.) tabulators
+[tabulatura]tabulatura (PL) : (rz.) tablature
+[tabulogram]tabulogram (PL) : (rz.) tabulations
+[tabulowanie]tabulowanie (PL) : (rz.) tabulation
+[tabulowac]tabulować (PL) : (cz.) tabulate
+[tabun]tabun (PL) : (rz.) herd; (rz.) horde
+[taca]taca (PL) : (rz.) coaster; (rz.) plate; (rz.) plateau; (rz.) platter; (rz.) salver; (rz.) tray; (rz.) waiter
+[tachometr]tachometr (PL) : (rz.) rev-counter; (rz.) speedometer; (rz.) tachometer
+[tachykardia]tachykardia (PL) : (rz.) tachycardia
+[tachymetr]tachymetr (PL) : (rz.) tachymeter
+[tacka]tacka (PL) : (rz.) in-tray; (rz.) salver; (rz.) tray
+[taczka]taczka (PL) : (rz.) barrow; (rz.) wheelbarrow
+[taczki]taczki (PL) : (rz.) barrow; (rz.) wheelbarrow
+[tafelka]tafelka (PL) : (rz.) tile
+[tafla]tafla (PL) : (rz.) pane; (rz.) panel; (rz.) sheet; (rz.) surface; (rz.) tile
+[taflami]taflami (PL) : (rz.) pane
+[taflowanie]taflowanie (PL) : (rz.) pane
+[taflowac]taflować (PL) : (cz.) tile
+[taflowy]taflowy (PL) : (p.) flagged
+[tafta]tafta (PL) : (rz.) taffeta
+[taic]taić (PL) : (cz.) conceal; (cz.) hide; (cz.) suppress
+[tajac]tajać (PL) : (cz.) melt; (cz.) thaw
+[tajemnica]tajemnica (PL) : (rz.) mystery; (rz.) riddle; (rz.) secret
+[tajemniczo]tajemniczo (PL) : (p-sł.) mysteriously
+[tajemniczosc]tajemniczość (PL) : (rz.) mysteriousness; (rz.) secrecy; (rz.) stealth
+[tajemniczy]tajemniczy (PL) : (p.) abstruse; (p.) arcane; (p.) backdoor; (p.) cryptic; (p.) inscrutable; (p.) mysterious; (p.) secret; (p.) secretive; (p.) stealthy; (p.) subterranean; (p.) subterraneous; (p.) surreptitious; (p.) uncanny
+[tajemny]tajemny (PL) : (p.) clandestine; (p.) furtive; (p.) occult; (p.) privy; (p.) recondite; (p.) secret
+[tajfun]tajfun (PL) : (rz.) typhoon
+[tajga]tajga (PL) : (rz.) taiga
+[tajniak]tajniak (PL) : (rz.) sleuth
+[tajnie]tajnie (PL) : (p-sł.) secretly; (p-sł.) underground
+[tajnik]tajnik (PL) : (rz.) secret
+[tajnosc]tajność (PL) : (rz.) confidentiality; (rz.) conspiracy; (rz.) secrecy
+[tajny]tajny (PL) : (p.) clandestine; (p.) classified; (p.) private; (p.) privy; (p.) secret; (p.) surreptitious; (p.) undercover; (p.) underground
+[tak]tak (PL) : (p-sł.) ay; (p-sł.) aye; (p-sł.) so; (p-sł.) thus; (p-sł.) yeah; (p-sł.) yep
+[taki]taki (PL) : (p.) lucky; (p.) such; (p.) tentative
+[takielarz]takielarz (PL) : (rz.) rigger
+[takielunek]takielunek (PL) : (rz.) rig; (rz.) rigging; (rz.) tackle; (rz.) tackling
+[tako]tako (PL) : (p-sł.) so
+[taksa]taksa (PL) : (rz.) rate; (rz.) tax
+[taksacja]taksacja (PL) : (rz.) appraisal; (rz.) valuation
+[taksator]taksator (PL) : (rz.) appraiser; (rz.) assessor; (rz.) estimator; (rz.) valuator
+[taksja]taksja (PL) : (rz.) taxis
+[taksometr]taksometr (PL) : (rz.) clock; (rz.) taximeter
+[taksonomia]taksonomia (PL) : (rz.) taxonomy
+[taksonomiczny]taksonomiczny (PL) : (p.) taxonomic
+[taksowanie]taksowanie (PL) : (rz.) measurement
+[taksowac]taksować (PL) : (cz.) apprize; (cz.) assess
+[taksowka]taksówka (PL) : (rz.) cab; (rz.) minicab; (rz.) taxi; (rz.) taxicab; (rz.) taxi-cab
+[taksowkarz]taksówkarz (PL) : (rz.) cabby; (rz.) cabman; (rz.) taxi-driver; (rz.) taxman
+[takt]takt (PL) : (rz.) bar; (rz.) beat; (rz.) cadence; (rz.) discretion; (rz.) savoir-faire; (rz.) state; (rz.) stroke; (rz.) tact; (rz.) tick; (rz.) time
+[taktomierz]taktomierz (PL) : (rz.) metronome
+[taktownie]taktownie (PL) : (p-sł.) tactfully
+[taktownosc]taktowność (PL) : (rz.) tact
+[taktowny]taktowny (PL) : (p.) considerate; (p.) discreet; (p.) tactful
+[taktycznie]taktycznie (PL) : (p-sł.) tactically
+[taktyczny]taktyczny (PL) : (p.) tactic; (p.) tactical
+[taktyk]taktyk (PL) : (rz.) tactician; (rz.) tactics
+[taktyka]taktyka (PL) : (rz.) policy; (rz.) tactic; (rz.) tactician; (rz.) tactics
+[takze]także (PL) : (p-sł.) also; (p-sł.) either; (p-sł.) too
+[tal]tal (PL) : (rz.) thallium
+[talent]talent (PL) : (rz.) abilities; (rz.) faculty; (rz.) genius; (rz.) talent
+[talerz]talerz (PL) : (rz.) cymbal; (rz.) dish; (rz.) plate; (rz.) plateful
+[talerzyk]talerzyk (PL) : (rz.) plate
+[talia]talia (PL) : (rz.) deck; (rz.) pack; (rz.) purchase; (rz.) waist; (rz.) waistline
+[talizman]talizman (PL) : (rz.) charm; (rz.) talisman
+[talk]talk (PL) : (rz.) talc; (rz.) tale
+[talon]talon (PL) : (rz.) coupon; (rz.) voucher
+[talrep]talrep (PL) : (rz.) lanyard
+[tam]tam (PL) : (p-sł.) there; (p-sł.) thither; (p-sł.) where; (p-sł.) yonder
+[tama]tama (PL) : (rz.) bund; (rz.) dam; (rz.) dike; (rz.) stopping; (rz.) weir
+[tamaryndowiec]tamaryndowiec (PL) : (rz.) tamarind
+[tamaryszek]tamaryszek (PL) : (rz.) tamarisk
+[tamborek]tamborek (PL) : (rz.) tambour
+[tamburyn]tamburyn (PL) : (rz.) tambourine
+[tamburyno]tamburyno (PL) : (rz.) tambourine
+[tamowac]tamować (PL) : (cz.) block; (cz.) dam; (cz.) obstruct; (cz.) stem; (cz.) trammel
+[tampon]tampon (PL) : (rz.) dabber; (rz.) pad; (rz.) tampon
+[tamponowanie]tamponowanie (PL) : (rz.) tampons
+[tamponowac]tamponować (PL) : (cz.) plug; (cz.) staunch
+[tamze]tamże (PL) : (p-sł.) there; (p-sł.) therein; (p-sł.) thereof
+[tan]tan (PL) : (rz.) dance
+[tancerz]tancerz (PL) : (rz.) dancer
+[tancmistrz]tancmistrz (PL) : (rz.) dancing-master
+[tandem]tandem (PL) : (rz.) tandem
+[tandeta]tandeta (PL) : (rz.) garbage; (rz.) goldbrick; (rz.) rubbish; (rz.) shoddy; (rz.) trash; (rz.) trumpery
+[tandetnosc]tandetność (PL) : (rz.) shoddiness
+[tandetny]tandetny (PL) : (p.) chaffy; (p.) cheap; (p.) shoddy; (p.) tacky; (p.) trashy; (p.) trumpery
+[tangens]tangens (PL) : (rz.) tangent
+[tangensowy]tangensowy (PL) : (p.) tangential
+[tango]tango (PL) : (rz.) tango
+[tani]tani (PL) : (p.) cheap; (p.) inexpensive
+[taniec]taniec (PL) : (rz.) bop; (rz.) dance; (rz.) dancing; (rz.) hop; (rz.) pas
+[taniec]tanieć (PL) : (cz.) cheapen
+[tanina]tanina (PL) : (rz.) tannin
+[tanio]tanio (PL) : (p-sł.) cheaply
+[taniosc]taniość (PL) : (rz.) cheapness
+[tanizna]tanizna (PL) : (rz.) trash
+[tankietka]tankietka (PL) : (rz.) whippet
+[tankowanie]tankowanie (PL) : (rz.) fuelling
+[tankowac]tankować (PL) : (cz.) fuel; (cz.) refuel
+[tankowiec]tankowiec (PL) : (rz.) tanker
+[tantal]tantal (PL) : (rz.) tantalum
+[tantalit]tantalit (PL) : (rz.) tantalite
+[tantiema]tantiema (PL) : (rz.) bonus; (rz.) dividend; (rz.) royalty
+[taoizm]taoizm (PL) : (rz.) Taoism
+[tapczan]tapczan (PL) : (rz.) couch
+[tapeciarz]tapeciarz (PL) : (rz.) decorator; (rz.) paperhanger; (rz.) paper-hanger
+[tapeta]tapeta (PL) : (rz.) paper; (rz.) tapestry; (rz.) wallpaper; (rz.) wall-paper
+[tapetowanie]tapetowanie (PL) : (rz.) paperhanging; (rz.) wallpapering
+[tapetowac]tapetować (PL) : (cz.) upholster; (cz.) wallpaper
+[tapetowy]tapetowy (PL) : (p.) wall-paper
+[tapicer]tapicer (PL) : (rz.) decorator; (rz.) upholsterer
+[tapicerka]tapicerka (PL) : (rz.) upholstery; (rz.) valet
+[tapicernia]tapicernia (PL) : (rz.) upholstery
+[tapicerski]tapicerski (PL) : (p.) upholsterer's
+[tapicerstwo]tapicerstwo (PL) : (rz.) upholstery
+[tapioka]tapioka (PL) : (rz.) cassava; (rz.) tapioca
+[tapir]tapir (PL) : (rz.) tapir
+[tapirowac]tapirować (PL) : (cz.) backcomb; (cz.) back-comb
+[taplac]taplać (PL) : (cz.) splash
+[tara]tara (PL) : (rz.) tare
+[taraban]taraban (PL) : (rz.) kettledrum; (rz.) kettle-drum
+[taran]taran (PL) : (rz.) ram
+[taranowac]taranować (PL) : (cz.) ram
+[tarantela]tarantela (PL) : (rz.) tarantella
+[tarantula]tarantula (PL) : (rz.) tarantula
+[tarapaty]tarapaty (PL) : (rz.) mischief; (rz.) trouble
+[taras]taras (PL) : (rz.) bench; (rz.) terrace
+[tarasowanie]tarasowanie (PL) : (rz.) benching
+[tarasowac]tarasować (PL) : (cz.) bar; (cz.) block; (cz.) obstruct
+[tarasowy]tarasowy (PL) : (p.) terraced
+[tarcica]tarcica (PL) : (rz.) deal; (rz.) lumber; (rz.) planking
+[tarcie]tarcie (PL) : (rz.) attrition; (rz.) friction
+[tarciowy]tarciowy (PL) : (p.) frictional
+[tarcza]tarcza (PL) : (rz.) badge; (rz.) butt; (rz.) dial; (rz.) disc; (rz.) disk; (rz.) face; (rz.) shield; (rz.) target; (rz.) targeting; (rz.) tee
+[tarczka]tarczka (PL) : (rz.) shield; (rz.) tarsus
+[tarczyca]tarczyca (PL) : (rz.) thyroid
+[tarczycowy]tarczycowy (PL) : (p.) thyroid; (p.) thyroidal
+[tarczowka]tarczówka (PL) : (rz.) circular-sawing
+[targ]targ (PL) : (rz.) breaking; (rz.) fair; (rz.) marker; (rz.) market
+[targac]targać (PL) : (cz.) encroach; (cz.) jerk
+[targniecie]targnięcie (PL) : (rz.) jerk
+[targowanie]targowanie (PL) : (rz.) chaffer
+[targowac]targować (PL) : (cz.) bargain; (cz.) haggle
+[targowisko]targowisko (PL) : (rz.) marker; (rz.) market; (rz.) marketplace; (rz.) mart
+[targowy]targowy (PL) : (p.) fair
+[tarka]tarka (PL) : (rz.) grater; (rz.) rasp
+[tarlatan]tarlatan (PL) : (rz.) tarlatan
+[tarmosic]tarmosić (PL) : (cz.) tousle
+[tarmoszenie]tarmoszenie (PL) : (rz.) scuffle
+[tarnik]tarnik (PL) : (rz.) rasp
+[tarnina]tarnina (PL) : (rz.) blackthorn; (rz.) sloe
+[tartak]tartak (PL) : (rz.) lumber-mill; (rz.) sawmill; (rz.) saw-mill
+[tartan]tartan (PL) : (rz.) tartan
+[taryfa]taryfa (PL) : (rz.) fare; (rz.) rate; (rz.) schedule; (rz.) tariff
+[taryfikator]taryfikator (PL) : (rz.) tariff
+[taryfowanie]taryfowanie (PL) : (rz.) tariff
+[tarzanie]tarzanie (PL) : (rz.) flounder; (rz.) rolling; (rz.) wallow
+[tarzac]tarzać (PL) : (cz.) roll; (cz.) wallow; (cz.) welter
+[tarlo]tarło (PL) : (rz.) spawning
+[tarn]tarń (PL) : (rz.) tarn
+[tasak]tasak (PL) : (rz.) chopper; (rz.) cleaver
+[tasiemcowy]tasiemcowy (PL) : (p.) lengthy; (p.) mile-long
+[tasiemiec]tasiemiec (PL) : (rz.) tapeworm
+[tasiemka]tasiemka (PL) : (rz.) fob; (rz.) ribbon; (rz.) string; (rz.) tape
+[tasowanie]tasowanie (PL) : (rz.) reshuffle; (rz.) shuffle
+[tasowac]tasować (PL) : (cz.) shuffle
+[tastrowanie]tastrowanie (PL) : (rz.) keyboarding
+[tasza]tasza (PL) : (rz.) lumpfish
+[taszczyc]taszczyć (PL) : (cz.) lug; (cz.) tote
+[tata]tata (PL) : (rz.) dad; (rz.) dada; (rz.) daddy; (rz.) father; (rz.) pa; (rz.) papa
+[tatarczany]tatarczany (PL) : (p.) tuatara
+[taternictwo]taternictwo (PL) : (rz.) mountain-climbing; (rz.) mountaineering
+[taternik]taternik (PL) : (rz.) mountaineer
+[tato]tato (PL) : (rz.) dad; (rz.) daddy
+[tatuaz]tatuaż (PL) : (rz.) tattoo
+[tatulek]tatulek (PL) : (rz.) daddy
+[tatuowac]tatuować (PL) : (cz.) tattoo
+[tatus]tatuś (PL) : (rz.) dad; (rz.) daddy; (rz.) pa; (rz.) papa; (rz.) poppa
+[tautologia]tautologia (PL) : (rz.) tautology
+[tautologicznie]tautologicznie (PL) : (p-sł.) tautologically
+[tautologiczny]tautologiczny (PL) : (p.) tautological
+[tawerna]tawerna (PL) : (rz.) pub; (rz.) tavern
+[tanczenie]tańczenie (PL) : (rz.) dancing
+[tanczyc]tańczyć (PL) : (cz.) dance; (cz.) jig; (cz.) prance
+[tasma]taśma (PL) : (rz.) band; (rz.) belt; (rz.) ribbon; (rz.) tape; (rz.) webbing
+[tasmowy]taśmowy (PL) : (p.) tama
+[tchawica]tchawica (PL) : (rz.) trachea; (rz.) windpipe
+[tchnienie]tchnienie (PL) : (rz.) breath; (rz.) waft
+[tchniecie]tchnięcie (PL) : (rz.) breath
+[tchnac]tchnąć (PL) : (cz.) breathe; (cz.) inspire
+[tchorz]tchórz (PL) : (rz.) caitiff; (rz.) coward; (rz.) craven; (rz.) dastard; (rz.) funk; (rz.) polecat; (rz.) skunk
+[tchorzliwosc]tchórzliwość (PL) : (rz.) cowardice
+[tchorzliwy]tchórzliwy (PL) : (p.) chickenhearted; (p.) chicken-hearted; (p.) cowardly; (p.) craven; (p.) fainthearted; (p.) faint-hearted; (p.) funky; (p.) recreant; (p.) unmanly; (p.) white-livered; (p.) yellow; (p.) yellow-bellied
+[tchorzostwo]tchórzostwo (PL) : (rz.) cowardice; (rz.) poltroonery
+[tchorzyc]tchórzyć (PL) : (cz.) flinch
+[teatr]teatr (PL) : (rz.) drama; (rz.) intermezzo; (rz.) playhouse; (rz.) theatre
+[teatralizacja]teatralizacja (PL) : (rz.) dramatization; (rz.) staging
+[teatralnie]teatralnie (PL) : (p-sł.) theatrically
+[teatralnosc]teatralność (PL) : (rz.) melodrama; (rz.) staginess
+[teatralny]teatralny (PL) : (p.) histrionic; (p.) stagy; (p.) theatrical
+[teatroman]teatroman (PL) : (rz.) theatregoer
+[technet]technet (PL) : (rz.) technetium
+[technicznie]technicznie (PL) : (p-sł.) technically
+[techniczno-ekonomiczny]techniczno-ekonomiczny (PL) : (p.) techno-economic
+[techniczny]techniczny (PL) : (p.) mechanical; (p.) technical; (p.) technological
+[technik]technik (PL) : (rz.) engineer; (rz.) technician
+[technika]technika (PL) : (rz.) engineering; (rz.) technician; (rz.) technique; (rz.) technology
+[technikum]technikum (PL) : (rz.) tech
+[techno]techno (PL) : (rz.) techno
+[technokracja]technokracja (PL) : (rz.) technocracy
+[technokrata]technokrata (PL) : (rz.) technocrat
+[technolog]technolog (PL) : (rz.) technologist
+[technologia]technologia (PL) : (rz.) technique; (rz.) technology
+[technologicznie]technologicznie (PL) : (p-sł.) technologically
+[technologiczny]technologiczny (PL) : (p.) technological
+[teczka]teczka (PL) : (rz.) binder; (rz.) briefcase; (rz.) case; (rz.) folder; (rz.) portfolio; (rz.) satchel; (rz.) scrapbook; (rz.) wallet
+[teizm]teizm (PL) : (rz.) theism
+[teka]teka (PL) : (rz.) briefcase; (rz.) brief-case; (rz.) portfolio
+[tekst]tekst (PL) : (rz.) corpus; (rz.) lyrics; (rz.) passage; (rz.) print; (rz.) record; (rz.) script; (rz.) text; (rz.) txt
+[tekstowy]tekstowy (PL) : (p.) textual
+[tekstura]tekstura (PL) : (rz.) texture
+[tekstylia]tekstylia (PL) : (rz.) textile; (rz.) textiles
+[tekstylny]tekstylny (PL) : (p.) textile
+[tektoniczny]tektoniczny (PL) : (p.) tectonic
+[tektonika]tektonika (PL) : (rz.) tectonics
+[tektura]tektura (PL) : (rz.) board; (rz.) cardboard; (rz.) pasteboard
+[tekturka]tekturka (PL) : (rz.) cardboard
+[teksciarz]tekściarz (PL) : (rz.) songwriter
+[teledysk]teledysk (PL) : (rz.) clip; (rz.) video
+[telefaks]telefaks (PL) : (rz.) fax
+[telefon]telefon (PL) : (rz.) interphone; (rz.) phone; (rz.) telephone
+[telefonia]telefonia (PL) : (rz.) telephony
+[telefoniczny]telefoniczny (PL) : (p.) telephonic
+[telefonista]telefonista (PL) : (rz.) operator; (rz.) telephonist
+[telefonowanie]telefonowanie (PL) : (rz.) caller; (rz.) calls
+[telefonowac]telefonować (PL) : (cz.) call; (cz.) phone; (cz.) ring; (cz.) telephone
+[telefotografia]telefotografia (PL) : (rz.) telephotograph; (rz.) telephotography
+[telegraf]telegraf (PL) : (rz.) telegraph; (rz.) telegraphy; (rz.) ticker
+[telegrafia]telegrafia (PL) : (rz.) telegraphy
+[telegraficznie]telegraficznie (PL) : (p-sł.) telegraphically
+[telegraficzny]telegraficzny (PL) : (p.) telegraphic
+[telegrafista]telegrafista (PL) : (rz.) telegrapher
+[telegrafowanie]telegrafowanie (PL) : (rz.) telegraphs
+[telegrafowac]telegrafować (PL) : (cz.) telegraph; (cz.) wire
+[telegram]telegram (PL) : (rz.) cable; (rz.) telegram
+[telekinetyczny]telekinetyczny (PL) : (p.) telekinetic
+[telekineza]telekineza (PL) : (rz.) telekinesis
+[telekomunikacja]telekomunikacja (PL) : (rz.) communication; (rz.) communications; (rz.) connectivity; (rz.) telecommunication; (rz.) telecommunications
+[telekomutacja]telekomutacja (PL) : (rz.) telecommuting
+[telekonferencja]telekonferencja (PL) : (rz.) teleconference; (rz.) teleconferencing
+[telekonferencje]telekonferencje (PL) : (rz.) teleconferencing
+[teleks]teleks (PL) : (rz.) telex
+[telemetr]telemetr (PL) : (rz.) telemeter
+[telemetria]telemetria (PL) : (rz.) telemetry
+[telemetryczny]telemetryczny (PL) : (p.) telemetric
+[teleobiektyw]teleobiektyw (PL) : (rz.) telephoto
+[teleologia]teleologia (PL) : (rz.) teleology
+[teleologiczny]teleologiczny (PL) : (p.) teleological
+[telepatia]telepatia (PL) : (rz.) telepathy
+[telepatyczny]telepatyczny (PL) : (p.) telepathic
+[telepac]telepać (PL) : (cz.) jolt
+[telepraca]telepraca (PL) : (rz.) telecommuting
+[teleprzetwarzanie]teleprzetwarzanie (PL) : (rz.) teleprocessing
+[teleskop]teleskop (PL) : (rz.) telescope
+[teleskopowa]teleskopowa (PL) : (rz.) telephoto
+[teleskopowo]teleskopowo (PL) : (p-sł.) telescopically
+[teleskopowy]teleskopowy (PL) : (p.) telescopic
+[teletransmisja]teletransmisja (PL) : (rz.) telecast
+[teleturniej]teleturniej (PL) : (rz.) quiz
+[telewidz]telewidz (PL) : (rz.) viewer
+[telewizja]telewizja (PL) : (rz.) television; (rz.) telly
+[telewizor]telewizor (PL) : (rz.) television; (rz.) television-set
+[tellur]tellur (PL) : (rz.) tellurium
+[tellurek]tellurek (PL) : (rz.) telluride
+[temat]temat (PL) : (rz.) matter; (rz.) plot; (rz.) stem; (rz.) subject; (rz.) subject-matter; (rz.) theme; (rz.) topic
+[tematowy]tematowy (PL) : (p.) thematic
+[tematycznie]tematycznie (PL) : (p-sł.) thematically; (p-sł.) topically
+[tematycznosc]tematyczność (PL) : (rz.) topicality
+[tematyczny]tematyczny (PL) : (p.) thematic
+[tematyka]tematyka (PL) : (rz.) topic
+[temblak]temblak (PL) : (rz.) sling
+[tembr]tembr (PL) : (rz.) timbre
+[tempera]tempera (PL) : (rz.) tempera; (rz.) temperature
+[temperament]temperament (PL) : (rz.) temper; (rz.) temperament
+[temperatura]temperatura (PL) : (rz.) extreme; (rz.) temperature
+[temperowac]temperować (PL) : (cz.) sharpen
+[temperowka]temperówka (PL) : (rz.) pencil; (rz.) pencil-sharpener; (rz.) sharpener
+[templariusz]templariusz (PL) : (rz.) templar
+[tempo]tempo (PL) : (rz.) momentum; (rz.) pace; (rz.) tempo
+[ten]ten (PL) : (rz.) one; (rz.) wrecker
+[tendencja]tendencja (PL) : (rz.) drift; (rz.) movement; (rz.) propensity; (rz.) tendency; (rz.) trend
+[tendencyjnosc]tendencyjność (PL) : (rz.) slant; (rz.) tendentiousness
+[tendencyjny]tendencyjny (PL) : (p.) tendentious
+[tenis]tenis (PL) : (rz.) tennis
+[tenisista]tenisista (PL) : (rz.) tennis; (rz.) tennis-player
+[tenisowka]tenisówka (PL) : (rz.) sneaker
+[tenor]tenor (PL) : (rz.) tenor
+[tensor]tensor (PL) : (rz.) contract; (rz.) tensor
+[tent]tent (PL) : (rz.) awning
+[tenuta]tenuta (PL) : (rz.) gavelkind
+[teodycea]teodycea (PL) : (rz.) theodicy
+[teokracja]teokracja (PL) : (rz.) theocracy
+[teokrata]teokrata (PL) : (rz.) theocrat
+[teokratyczny]teokratyczny (PL) : (p.) theocratic
+[teolog]teolog (PL) : (rz.) theologian
+[teologia]teologia (PL) : (rz.) deity; (rz.) divinity; (rz.) theology
+[teologicznie]teologicznie (PL) : (p-sł.) theologically
+[teologiczny]teologiczny (PL) : (p.) theological
+[teoremat]teoremat (PL) : (rz.) theorem
+[teoretycznie]teoretycznie (PL) : (p-sł.) theoretically
+[teoretyczny]teoretyczny (PL) : (p.) academic; (p.) speculative; (p.) theoretic; (p.) theoretical
+[teoretyk]teoretyk (PL) : (rz.) theoretician; (rz.) theorist
+[teoretyzowanie]teoretyzowanie (PL) : (rz.) theorizing
+[teoretyzowac]teoretyzować (PL) : (cz.) theorize
+[teoria]teoria (PL) : (rz.) theory
+[teoriomnogosciowy]teoriomnogościowy (PL) : (p.) set-theoretic
+[teownik]teownik (PL) : (rz.) T-bar; (rz.) tee
+[teozofia]teozofia (PL) : (rz.) theosophy
+[tera]tera (PL) : (rz.) terra
+[terabajt]terabajt (PL) : (rz.) terabyte
+[terakota]terakota (PL) : (rz.) terracotta
+[terakotowy]terakotowy (PL) : (p.) terracotta
+[terapeuta]terapeuta (PL) : (rz.) therapist
+[terapeutycznie]terapeutycznie (PL) : (p-sł.) therapeutically
+[terapeutyczny]terapeutyczny (PL) : (p.) therapeutic
+[terapeutyka]terapeutyka (PL) : (rz.) therapeutics; (rz.) therapy
+[terapia]terapia (PL) : (rz.) therapeutics; (rz.) therapy
+[terasa]terasa (PL) : (rz.) terrace
+[teratologia]teratologia (PL) : (rz.) teratology
+[teraz]teraz (PL) : (p-sł.) now; (p-sł.) nowadays
+[terazniejszosc]teraźniejszość (PL) : (rz.) present
+[terb]terb (PL) : (rz.) terbium
+[tercet]tercet (PL) : (rz.) trio
+[tercja]tercja (PL) : (rz.) period; (rz.) tierce
+[tercyna]tercyna (PL) : (rz.) triplet
+[teren]teren (PL) : (rz.) area; (rz.) field; (rz.) foreside; (rz.) ground; (rz.) grounds; (rz.) land; (rz.) right-of-way; (rz.) site; (rz.) space; (rz.) terrain; (rz.) territory
+[terenoznawstwo]terenoznawstwo (PL) : (rz.) topography
+[terenowka]terenówka (PL) : (rz.) roadster
+[terier]terier (PL) : (rz.) terrier
+[terkot]terkot (PL) : (rz.) clatter; (rz.) rattle
+[terkotanie]terkotanie (PL) : (rz.) rattle
+[terkotac]terkotać (PL) : (cz.) chatter; (cz.) rattle
+[terkotliwy]terkotliwy (PL) : (p.) rattling
+[term]term (PL) : (rz.) term
+[termalny]termalny (PL) : (p.) thermal
+[termicznie]termicznie (PL) : (p-sł.) thermally
+[termiczny]termiczny (PL) : (p.) thermal
+[termin]termin (PL) : (rz.) appellation; (rz.) date; (rz.) deadline; (rz.) notice; (rz.) term; (rz.) time; (rz.) time-limit
+[terminal]terminal (PL) : (rz.) terminal; (rz.) workstation
+[terminarz]terminarz (PL) : (rz.) agenda; (rz.) schedule; (rz.) time-table
+[terminator]terminator (PL) : (rz.) apprentice
+[terminologia]terminologia (PL) : (rz.) nomenclature; (rz.) terminology
+[terminologicznie]terminologicznie (PL) : (p-sł.) terminologically
+[terminologiczny]terminologiczny (PL) : (p.) terminological
+[terminowanie]terminowanie (PL) : (rz.) apprenticeship; (rz.) time
+[terminowo]terminowo (PL) : (p-sł.) punctually
+[terminowy]terminowy (PL) : (p.) time
+[termit]termit (PL) : (rz.) ant; (rz.) termite
+[termodynamiczny]termodynamiczny (PL) : (p.) thermodynamic
+[termodynamika]termodynamika (PL) : (rz.) thermodynamics
+[termoelektrycznosc]termoelektryczność (PL) : (rz.) thermoelectricity
+[termoelektryczny]termoelektryczny (PL) : (p.) thermoelectric
+[termoelement]termoelement (PL) : (rz.) thermocouple
+[termograf]termograf (PL) : (rz.) thermograph; (rz.) thermometer
+[termoizolacyjny]termoizolacyjny (PL) : (p.) heat-insulating
+[termojadrowy]termojądrowy (PL) : (p.) thermonuclear
+[termokatoda]termokatoda (PL) : (rz.) hot-cathode
+[termometr]termometr (PL) : (rz.) thermometer
+[termometria]termometria (PL) : (rz.) thermometry
+[termometryczny]termometryczny (PL) : (p.) thermometric
+[termonuklearny]termonuklearny (PL) : (p.) thermonuclear
+[termoodporny]termoodporny (PL) : (p.) heat-resisting
+[termoogniwo]termoogniwo (PL) : (rz.) thermocouple
+[termopara]termopara (PL) : (rz.) thermocouple
+[termoplastyczny]termoplastyczny (PL) : (p.) thermoplastic
+[termoregulacja]termoregulacja (PL) : (rz.) thermoregulation
+[termos]termos (PL) : (rz.) flask; (rz.) thermos
+[termosfera]termosfera (PL) : (rz.) thermosphere
+[termostat]termostat (PL) : (rz.) thermostat
+[termostatycznie]termostatycznie (PL) : (p-sł.) thermostatically
+[termostatyczny]termostatyczny (PL) : (p.) thermostatic
+[termostos]termostos (PL) : (rz.) thermopile
+[termoterapia]termoterapia (PL) : (rz.) thermotherapy
+[termoutwardzalny]termoutwardzalny (PL) : (p.) heat-hardening; (p.) hot-setting; (p.) thermosetting
+[terpentyna]terpentyna (PL) : (rz.) turpentine
+[terrarium]terrarium (PL) : (rz.) terrarium
+[terror]terror (PL) : (rz.) terror
+[terrorysta]terrorysta (PL) : (rz.) bully; (rz.) terrorist
+[terroryzm]terroryzm (PL) : (rz.) terrorism
+[terroryzowanie]terroryzowanie (PL) : (rz.) terrorization
+[terroryzowac]terroryzować (PL) : (cz.) attempt; (cz.) bully; (cz.) terrify; (cz.) terrorize
+[terytorialnosc]terytorialność (PL) : (rz.) territoriality
+[terytorialny]terytorialny (PL) : (p.) territorial
+[terytorium]terytorium (PL) : (rz.) territory
+[test]test (PL) : (rz.) chi-square; (rz.) paper; (rz.) test
+[testament]testament (PL) : (rz.) testament
+[testamentowy]testamentowy (PL) : (p.) testamentary
+[testator]testator (PL) : (rz.) testator
+[tester]tester (PL) : (rz.) tester
+[testosteron]testosteron (PL) : (rz.) testosterone
+[testowanie]testowanie (PL) : (rz.) testing
+[testowac]testować (PL) : (cz.) bequeath; (cz.) test
+[tetracyklina]tetracyklina (PL) : (rz.) tetracycline
+[tetrada]tetrada (PL) : (rz.) tetrad
+[tetraedr]tetraedr (PL) : (rz.) tetrahedron
+[tetrametr]tetrametr (PL) : (rz.) tetrameter
+[tetrarcha]tetrarcha (PL) : (rz.) tetrarch
+[tetryk]tetryk (PL) : (rz.) grumbler
+[teza]teza (PL) : (rz.) thesis
+[tezaurus]tezaurus (PL) : (rz.) thesaurus
+[tezauryzowac]tezauryzować (PL) : (cz.) treasure
+[tesciowa]teściowa (PL) : (rz.) mother; (rz.) mother-in-law
+[tesciowie]teściowie (PL) : (rz.) in-laws; (rz.) parents-in-law
+[tesc]teść (PL) : (rz.) father; (rz.) father-in-law
+[tez]też (PL) : (p-sł.) also; (p-sł.) either; (p-sł.) too
+[tiamina]tiamina (PL) : (rz.) thiamine
+[tiara]tiara (PL) : (rz.) tiara
+[tik]tik (PL) : (rz.) teak; (rz.) tic
+[tiosiarczan]tiosiarczan (PL) : (rz.) hyposulfite
+[tir]tir (PL) : (rz.) lorry
+[titr]titr (PL) : (rz.) titre
+[tiul]tiul (PL) : (rz.) tulle
+[tkacz]tkacz (PL) : (rz.) weaver; (rz.) widow-bird
+[tkanie]tkanie (PL) : (rz.) texture
+[tkanina]tkanina (PL) : (rz.) cardigan; (rz.) cloth; (rz.) fabric; (rz.) jersey; (rz.) linen; (rz.) material; (rz.) seersucker; (rz.) stuff; (rz.) tapestry; (rz.) tarpaulin; (rz.) textile; (rz.) texture; (rz.) tissue; (rz.) twill; (rz.) web
+[tkanka]tkanka (PL) : (rz.) tissue
+[tkac]tkać (PL) : (cz.) weave
+[tkliwie]tkliwie (PL) : (p-sł.) affectionately
+[tkliwosc]tkliwość (PL) : (rz.) affection; (rz.) tenderness
+[tkliwy]tkliwy (PL) : (p.) affectionate; (p.) loving
+[tkniety]tknięty (PL) : (p.) intact
+[tknac]tknąć (PL) : (cz.) tip
+[tkwienie]tkwienie (PL) : (rz.) being
+[tkwic]tkwić (PL) : (cz.) attach; (cz.) inhere; (cz.) stick; (cz.) underlie
+[tlen]tlen (PL) : (rz.) oxygen
+[tlenek]tlenek (PL) : (rz.) monoxide; (rz.) oxide
+[tlenienie]tlenienie (PL) : (rz.) oxygen; (rz.) water
+[tlenic]tlenić (PL) : (cz.) oxidize
+[tlenowiec]tlenowiec (PL) : (rz.) aerobe; (rz.) oxygen
+[tlenowy]tlenowy (PL) : (p.) oxygenic
+[tlic]tlić (PL) : (cz.) glow; (cz.) smoulder
+[tnacy]tnący (PL) : (p.) incisive
+[toaleta]toaleta (PL) : (rz.) bathroom; (rz.) cloakroom; (rz.) dressing; (rz.) dressing-table; (rz.) growler; (rz.) lavatory; (rz.) restroom; (rz.) toilet; (rz.) toilette; (rz.) washroom; (rz.) water-closet
+[toaletka]toaletka (PL) : (rz.) dresser
+[toaletowy]toaletowy (PL) : (p.) toile
+[toast]toast (PL) : (rz.) toast; (rz.) wassail
+[tobogan]tobogan (PL) : (rz.) toboggan
+[tobolek]tobołek (PL) : (rz.) bundle
+[tobol]tobół (PL) : (rz.) bundle
+[toczak]toczak (PL) : (rz.) grindstone; (rz.) millstone
+[toczek]toczek (PL) : (rz.) toque
+[toczenie]toczenie (PL) : (rz.) lathing
+[toczen]toczeń (PL) : (rz.) lupus
+[toczydlo]toczydło (PL) : (rz.) grindstone
+[toczyc]toczyć (PL) : (cz.) bowl; (cz.) edge; (cz.) roll; (cz.) trundle; (cz.) wheel; (cz.) whet
+[toga]toga (PL) : (rz.) gown; (rz.) robe; (rz.) toga
+[tok]tok (PL) : (rz.) course; (rz.) progress
+[tokaj]tokaj (PL) : (rz.) tokay
+[tokarka]tokarka (PL) : (rz.) lathe
+[tokarko-wyoblarka]tokarko-wyoblarka (PL) : (rz.) spinner
+[tokarnia]tokarnia (PL) : (rz.) lathe; (rz.) turnery
+[tokarstwo]tokarstwo (PL) : (rz.) turnery
+[tokarz]tokarz (PL) : (rz.) turner
+[tokowac]tokować (PL) : (cz.) toot
+[toksycznosc]toksyczność (PL) : (rz.) toxicity
+[toksyczny]toksyczny (PL) : (p.) poisonous; (p.) toxic
+[toksykolog]toksykolog (PL) : (rz.) toxicologist
+[toksykologia]toksykologia (PL) : (rz.) toxicology
+[toksykologiczny]toksykologiczny (PL) : (p.) toxicological
+[toksyna]toksyna (PL) : (rz.) toxin
+[tolerancja]tolerancja (PL) : (rz.) sufferance; (rz.) tolerance; (rz.) toleration
+[tolerancyjnie]tolerancyjnie (PL) : (p-sł.) tolerantly
+[tolerancyjny]tolerancyjny (PL) : (p.) broadminded; (p.) broad-minded; (p.) liberal; (p.) tolerant
+[tolerowanie]tolerowanie (PL) : (rz.) sufferance; (rz.) tolerance
+[tolerowac]tolerować (PL) : (cz.) abide; (cz.) stand; (cz.) suffer; (cz.) tolerate
+[toluen]toluen (PL) : (rz.) methylbenzene; (rz.) toluene
+[tom]tom (PL) : (rz.) volume
+[tomahawk]tomahawk (PL) : (rz.) tomahawk
+[tomasyna]tomasyna (PL) : (rz.) slag
+[tombak]tombak (PL) : (rz.) pinchbeck
+[tomofan]tomofan (PL) : (rz.) cellophane
+[tomograf]tomograf (PL) : (rz.) scanner
+[tomografia]tomografia (PL) : (rz.) scanning; (rz.) tomography
+[ton]ton (PL) : (rz.) tone; (rz.) tonnes; (rz.) tune
+[tona]tona (PL) : (rz.) ton; (rz.) tonne
+[tona-sila]tona-siła (PL) : (rz.) ton-force
+[tonacja]tonacja (PL) : (rz.) key; (rz.) pitch; (rz.) tone
+[tonalnosc]tonalność (PL) : (rz.) tonality
+[tonalny]tonalny (PL) : (p.) tonal
+[tonaz]tonaż (PL) : (rz.) tonnage
+[toner]toner (PL) : (rz.) toner
+[toniczny]toniczny (PL) : (p.) tonal; (p.) tonic
+[tonik]tonik (PL) : (rz.) tonic
+[tonika]tonika (PL) : (rz.) keynote; (rz.) tonic; (rz.) tonics
+[tonowanie]tonowanie (PL) : (rz.) grading; (rz.) toning
+[tonowac]tonować (PL) : (cz.) gradate; (cz.) soft-pedal; (cz.) tone
+[tonowy]tonowy (PL) : (p.) tonal
+[tonsura]tonsura (PL) : (rz.) tonsure
+[tonac]tonąć (PL) : (cz.) drown; (cz.) sink
+[top]top (PL) : (rz.) top
+[topaz]topaz (PL) : (rz.) topaz
+[topiarz]topiarz (PL) : (rz.) teaser
+[topiel]topiel (PL) : (rz.) gulf; (rz.) whirlpool
+[topielec]topielec (PL) : (rz.) kelpie
+[topienie]topienie (PL) : (rz.) fusion; (rz.) melting
+[topik]topik (PL) : (rz.) fuse-link
+[topic]topić (PL) : (cz.) drown; (cz.) fuse; (cz.) liquefy; (cz.) melt; (cz.) smelt; (cz.) thaw
+[topliwosc]topliwość (PL) : (rz.) fusibility
+[topliwy]topliwy (PL) : (p.) fusible
+[topnienie]topnienie (PL) : (rz.) meltdown; (rz.) melting
+[topniec]topnieć (PL) : (cz.) liquefy; (cz.) melt; (cz.) thaw
+[topnik]topnik (PL) : (rz.) flux
+[topnisko]topnisko (PL) : (rz.) hearth
+[topograf]topograf (PL) : (rz.) topographer
+[topografia]topografia (PL) : (rz.) topography
+[topograficznie]topograficznie (PL) : (p-sł.) topographically
+[topograficzny]topograficzny (PL) : (p.) topographic; (p.) topographical; (p.) typographical
+[topola]topola (PL) : (rz.) poplar
+[topologia]topologia (PL) : (rz.) topology
+[topologiczny]topologiczny (PL) : (p.) topological
+[toporek]toporek (PL) : (rz.) adze; (rz.) broadaxe; (rz.) hand-axe; (rz.) hatchet; (rz.) tomahawk
+[toporny]toporny (PL) : (p.) clumsy; (p.) coarse; (p.) gross
+[topsel]topsel (PL) : (rz.) topsail
+[topor]topór (PL) : (rz.) axe; (rz.) chopper; (rz.) hatchet
+[topzagiel]topżagiel (PL) : (rz.) skysail
+[tor]tor (PL) : (rz.) lane; (rz.) path; (rz.) thorium; (rz.) track; (rz.) trajectory
+[torba]torba (PL) : (rz.) bag; (rz.) bagful; (rz.) holdall; (rz.) pannier; (rz.) pouch; (rz.) sac; (rz.) satchel; (rz.) sporran; (rz.) wallet
+[torbacz]torbacz (PL) : (rz.) marsupial
+[torbiel]torbiel (PL) : (rz.) cyst; (rz.) sac
+[torbielowaty]torbielowaty (PL) : (p.) cystic
+[toreador]toreador (PL) : (rz.) toreador
+[torebka]torebka (PL) : (rz.) bag; (rz.) bursa; (rz.) handbag; (rz.) purse; (rz.) reticule; (rz.) sachet
+[torebkowaty]torebkowaty (PL) : (p.) capsular
+[torebkowy]torebkowy (PL) : (p.) capsular
+[torf]torf (PL) : (rz.) peat; (rz.) turf
+[torfiasty]torfiasty (PL) : (p.) peaty
+[torfowiec]torfowiec (PL) : (rz.) peat-moss; (rz.) sphagnum
+[torfowisko]torfowisko (PL) : (rz.) moss; (rz.) peat-bog
+[torfowy]torfowy (PL) : (p.) peaty
+[torkret]torkret (PL) : (rz.) grout
+[tornado]tornado (PL) : (rz.) tornado
+[tornister]tornister (PL) : (rz.) backpack; (rz.) knapsack; (rz.) pack; (rz.) satchel; (rz.) schoolbag
+[toron]toron (PL) : (rz.) radon-220
+[torowanie]torowanie (PL) : (rz.) paving; (rz.) pioneer; (rz.) pioneering
+[torowac]torować (PL) : (cz.) clear; (cz.) pave
+[torowiec]torowiec (PL) : (rz.) platelayer
+[torowisko]torowisko (PL) : (rz.) track; (rz.) track-way
+[torpeda]torpeda (PL) : (rz.) torpedo
+[torpedowac]torpedować (PL) : (cz.) torpedo
+[torpedowiec]torpedowiec (PL) : (rz.) torpedo-boat
+[torreador]torreador (PL) : (rz.) bullfighter
+[tors]tors (PL) : (rz.) thorax; (rz.) torso; (rz.) trunk
+[tort]tort (PL) : (rz.) cake; (rz.) layer-cake; (rz.) tart
+[tortownica]tortownica (PL) : (rz.) cake-pan
+[tortura]tortura (PL) : (rz.) torture
+[torturowanie]torturowanie (PL) : (rz.) torture
+[torturowac]torturować (PL) : (cz.) rack; (cz.) torture
+[tory]tory (PL) : (rz.) tracks
+[torys]torys (PL) : (rz.) Tory
+[tost]tost (PL) : (rz.) toast
+[toster]toster (PL) : (rz.) toaster
+[totalitarny]totalitarny (PL) : (p.) totalitarian
+[totalitaryzm]totalitaryzm (PL) : (rz.) totalitarianism
+[totalizator]totalizator (PL) : (rz.) pool; (rz.) sweepstakes
+[totalizm]totalizm (PL) : (rz.) totalitarianism
+[totalnie]totalnie (PL) : (p-sł.) totally
+[totalnosc]totalność (PL) : (rz.) totality
+[totalny]totalny (PL) : (p.) all-oat; (p.) all-out; (p.) total
+[totez]toteż (PL) : (spójnik) so
+[totolotek]totolotek (PL) : (rz.) lotto
+[towar]towar (PL) : (rz.) article; (rz.) commodity; (rz.) gong; (rz.) goods; (rz.) item; (rz.) merchandise; (rz.) product; (rz.) stock; (rz.) stuff; (rz.) ware
+[towary]towary (PL) : (rz.) articles
+[towarzyski]towarzyski (PL) : (p.) communicative; (p.) companionable; (p.) convivial; (p.) gregarious; (p.) outgoing; (p.) sociable; (p.) social
+[towarzysko]towarzysko (PL) : (p-sł.) socially
+[towarzyskosc]towarzyskość (PL) : (rz.) sociability
+[towarzystwo]towarzystwo (PL) : (rz.) companionship; (rz.) company; (rz.) fellowship; (rz.) grange; (rz.) party; (rz.) society
+[towarzysz]towarzysz (PL) : (rz.) associate; (rz.) attendant; (rz.) chum; (rz.) companion; (rz.) comrade; (rz.) escort; (rz.) fellow; (rz.) helpmate; (rz.) helpmeet; (rz.) mate; (rz.) pal; (rz.) partner; (rz.) playfellow; (rz.) playmate; (rz.) yokefellow; (rz.) yoke-fellow
+[towarzyszenie]towarzyszenie (PL) : (rz.) accompaniment
+[towarzyszyc]towarzyszyć (PL) : (cz.) accompanied; (cz.) accompany; (cz.) attend; (cz.) chaperon; (cz.) escort
+[towarzyszacy]towarzyszący (PL) : (p.) attendant
+[ton]toń (PL) : (rz.) depth; (rz.) depths; (rz.) tonnes
+[tozsamosc]tożsamość (PL) : (rz.) identity
+[tozsamy]tożsamy (PL) : (p.) different
+[tracenie]tracenie (PL) : (rz.) losing
+[tracheotomia]tracheotomia (PL) : (rz.) tracheotomy
+[tracic]tracić (PL) : (cz.) execute; (cz.) lose
+[trackball]trackball (PL) : (rz.) trackball
+[tracz]tracz (PL) : (rz.) sawyer
+[tradycja]tradycja (PL) : (rz.) lore; (rz.) tradition
+[tradycjonalista]tradycjonalista (PL) : (rz.) traditionalist
+[tradycjonalizm]tradycjonalizm (PL) : (rz.) traditionalism
+[tradycyjnie]tradycyjnie (PL) : (p-sł.) traditionally
+[tradycyjnosc]tradycyjność (PL) : (rz.) elder
+[tradycyjny]tradycyjny (PL) : (p.) customary; (p.) time-honoured; (p.) traditional
+[traf]traf (PL) : (rz.) chance; (rz.) coincidence; (rz.) fortune; (rz.) luck; (rz.) occurrence; (rz.) serendipity
+[trafiac]trafiać (PL) : (cz.) catch; (cz.) hit; (cz.) strike
+[trafienie]trafienie (PL) : (rz.) hit
+[trafic]trafić (PL) : (cz.) chance; (cz.) happen; (cz.) hit; (cz.) occur
+[trafnie]trafnie (PL) : (p-sł.) accurately; (p-sł.) aptly; (p-sł.) pat
+[trafnosc]trafność (PL) : (rz.) accuracy; (rz.) adequacy; (rz.) appositeness; (rz.) aptness; (rz.) cogency; (rz.) pertness; (rz.) relevance; (rz.) rightness
+[trafny]trafny (PL) : (p.) accurate; (p.) apposite; (p.) apropos; (p.) apt; (p.) correct; (p.) exact; (p.) felicitous; (p.) relevant; (p.) right; (p.) seasonable; (p.) shrewd
+[tragarz]tragarz (PL) : (rz.) carrier; (rz.) longshoreman; (rz.) porter
+[tragedia]tragedia (PL) : (rz.) disaster; (rz.) tragedy
+[tragediopisarz]tragediopisarz (PL) : (rz.) tragedian
+[tragicznie]tragicznie (PL) : (p-sł.) tragically
+[tragicznosc]tragiczność (PL) : (rz.) luridness
+[tragiczny]tragiczny (PL) : (p.) terrible; (p.) tragic
+[tragik]tragik (PL) : (rz.) tragedian
+[tragikomedia]tragikomedia (PL) : (rz.) tragicomedy
+[tragikomiczny]tragikomiczny (PL) : (p.) tragicomic
+[tragizm]tragizm (PL) : (rz.) tragedy
+[trajektoria]trajektoria (PL) : (rz.) trajectory
+[trajkot]trajkot (PL) : (rz.) chatter; (rz.) patter
+[trajkotanie]trajkotanie (PL) : (rz.) chatter; (rz.) waffle
+[trajkotac]trajkotać (PL) : (cz.) chatter; (cz.) jabber; (cz.) waffle; (cz.) yap
+[trajkotka]trajkotka (PL) : (rz.) chatterbox; (rz.) gabbler
+[trak]trak (PL) : (rz.) gangrene
+[trakcja]trakcja (PL) : (rz.) traction
+[trakt]trakt (PL) : (rz.) track; (rz.) tract
+[traktat]traktat (PL) : (rz.) tract; (rz.) tractate; (rz.) treatise; (rz.) treaty
+[traktor]traktor (PL) : (rz.) feeder; (rz.) traction-engine; (rz.) tractor
+[traktowanie]traktowanie (PL) : (rz.) attitude; (rz.) dealing; (rz.) treatment; (rz.) usage
+[traktowac]traktować (PL) : (cz.) deal; (cz.) handle; (cz.) treat; (cz.) treated
+[tralka]tralka (PL) : (rz.) baluster; (rz.) banister
+[tramp]tramp (PL) : (rz.) tramp
+[trampolina]trampolina (PL) : (rz.) diving-board; (rz.) springboard; (rz.) spring-board; (rz.) trampoline
+[tramwaj]tramwaj (PL) : (rz.) streetcar; (rz.) street-car; (rz.) tram; (rz.) tramcar; (rz.) tram-car; (rz.) tramway; (rz.) trolley-car
+[tramwajarz]tramwajarz (PL) : (rz.) tramway-worker
+[tran]tran (PL) : (rz.) blubber; (rz.) cod-liver-oil
+[trans]trans (PL) : (rz.) trance; (rz.) translation
+[transakcja]transakcja (PL) : (rz.) bargain; (rz.) business; (rz.) deal; (rz.) dicker; (rz.) transaction
+[transatlantycki]transatlantycki (PL) : (p.) transatlantic
+[transcendencja]transcendencja (PL) : (rz.) transcendence
+[transcendentalista]transcendentalista (PL) : (rz.) transcendentalist
+[transcendentalizm]transcendentalizm (PL) : (rz.) transcendentalism
+[transcendentalny]transcendentalny (PL) : (p.) transcendent; (p.) transcendental
+[transcendentny]transcendentny (PL) : (p.) external; (p.) transcendent
+[transduktor]transduktor (PL) : (rz.) pickup
+[transept]transept (PL) : (rz.) transept
+[transfer]transfer (PL) : (rz.) transfer
+[transfiguracja]transfiguracja (PL) : (rz.) transfiguration
+[transformacja]transformacja (PL) : (rz.) transformation; (rz.) transition
+[transformator]transformator (PL) : (rz.) transformer
+[transformowac]transformować (PL) : (cz.) transform
+[transfuzja]transfuzja (PL) : (rz.) transfusion
+[transgeniczny]transgeniczny (PL) : (p.) transgenic
+[transgresja]transgresja (PL) : (rz.) transgression
+[transkontynentalny]transkontynentalny (PL) : (p.) intercontinental; (p.) transcontinental
+[transkrybowac]transkrybować (PL) : (cz.) transcribe
+[transkrypcja]transkrypcja (PL) : (rz.) transcript; (rz.) transcription
+[translacja]translacja (PL) : (rz.) repeater; (rz.) resolution; (rz.) translation
+[translacyjny]translacyjny (PL) : (p.) translational
+[translator]translator (PL) : (rz.) translator
+[transliteracja]transliteracja (PL) : (rz.) transliteration
+[transliterowac]transliterować (PL) : (cz.) transliterate
+[translokacja]translokacja (PL) : (rz.) translocation
+[transmisja]transmisja (PL) : (rz.) broadcast; (rz.) communication; (rz.) transmission
+[transmitancja]transmitancja (PL) : (rz.) transmittance
+[transmitowanie]transmitowanie (PL) : (rz.) broadcasting
+[transmitowac]transmitować (PL) : (cz.) broadcast; (cz.) relayed; (cz.) televise; (cz.) transmit
+[transmutacja]transmutacja (PL) : (rz.) transmutation
+[transoceaniczny]transoceaniczny (PL) : (p.) transoceanic
+[transparent]transparent (PL) : (rz.) banner
+[transpiracja]transpiracja (PL) : (rz.) transpiration
+[transplantacja]transplantacja (PL) : (rz.) transplantation
+[transplantowac]transplantować (PL) : (cz.) graft
+[transponowanie]transponowanie (PL) : (rz.) transposing; (rz.) transposition
+[transponowac]transponować (PL) : (cz.) transpose
+[transport]transport (PL) : (rz.) carrying; (rz.) haulage; (rz.) transport; (rz.) transportation
+[transporter]transporter (PL) : (rz.) conveyer; (rz.) conveyor
+[transportowanie]transportowanie (PL) : (rz.) shuttling
+[transportowac]transportować (PL) : (cz.) haul; (cz.) transport
+[transportowiec]transportowiec (PL) : (rz.) carrier; (rz.) freighter; (rz.) troop-carrier
+[transpozycja]transpozycja (PL) : (rz.) contraposition; (rz.) transposition
+[transwersalny]transwersalny (PL) : (p.) transversal
+[transwestyta]transwestyta (PL) : (rz.) transvestite
+[transzeja]transzeja (PL) : (rz.) sap; (rz.) trench
+[tranzystor]tranzystor (PL) : (rz.) transistor
+[tranzystorowy]tranzystorowy (PL) : (p.) transistorized
+[tranzyt]tranzyt (PL) : (rz.) pass-through; (rz.) transit
+[tranzytywnosc]tranzytywność (PL) : (rz.) transitivity
+[tranzytywny]tranzytywny (PL) : (p.) transitive
+[trap]trap (PL) : (rz.) gangway
+[traper]traper (PL) : (rz.) trapper; (rz.) woodcraftsman
+[trapez]trapez (PL) : (rz.) trapeze; (rz.) trapezium; (rz.) trapezoid
+[trapezoid]trapezoid (PL) : (rz.) trapezoids
+[trapezowy]trapezowy (PL) : (p.) trapezoidal
+[trapienie]trapienie (PL) : (rz.) trap
+[trapic]trapić (PL) : (cz.) annoy; (cz.) molest; (cz.) pester; (cz.) plague
+[trasa]trasa (PL) : (rz.) itinerary; (rz.) path; (rz.) rout; (rz.) route; (rz.) run; (rz.) trajectory; (rz.) way
+[trasant]trasant (PL) : (rz.) drawer; (rz.) payer
+[traser]traser (PL) : (rz.) router
+[trasowanie]trasowanie (PL) : (rz.) flooding; (rz.) marking-out; (rz.) tracing
+[trasowac]trasować (PL) : (cz.) trace
+[traszka]traszka (PL) : (rz.) newt
+[tratowac]tratować (PL) : (cz.) tread
+[tratwa]tratwa (PL) : (rz.) boat; (rz.) float; (rz.) raft
+[tratwiarz]tratwiarz (PL) : (rz.) rafter
+[traumatyczny]traumatyczny (PL) : (p.) traumatic
+[trawa]trawa (PL) : (rz.) grass; (rz.) herbage
+[trawers]trawers (PL) : (rz.) beam; (rz.) traverse
+[trawersowac]trawersować (PL) : (cz.) traverse
+[trawestacja]trawestacja (PL) : (rz.) travesty
+[trawestowac]trawestować (PL) : (cz.) travesty
+[trawiastozielony]trawiastozielony (PL) : (p.) grass-green
+[trawiasty]trawiasty (PL) : (p.) grassy
+[trawienie]trawienie (PL) : (rz.) digestion; (rz.) etching
+[trawieniec]trawieniec (PL) : (rz.) maw
+[trawienny]trawienny (PL) : (p.) digestive; (p.) peptic
+[trawic]trawić (PL) : (cz.) consume; (cz.) digest; (cz.) etch
+[trawka]trawka (PL) : (rz.) grass
+[trawler]trawler (PL) : (rz.) trawler
+[trawnik]trawnik (PL) : (rz.) greenery; (rz.) lawn
+[trawojad]trawojad (PL) : (rz.) herbivore
+[trawozerny]trawożerny (PL) : (p.) herbivorous
+[trawy]trawy (PL) : (rz.) herbage
+[tralowanie]trałowanie (PL) : (rz.) minesweeping
+[tralowac]trałować (PL) : (cz.) drag; (cz.) trawl
+[tralowiec]trałowiec (PL) : (rz.) minesweeper; (rz.) trawler
+[tref]tref (PL) : (rz.) curl
+[trefl]trefl (PL) : (rz.) club; (rz.) clubs
+[trefny]trefny (PL) : (p.) bent; (p.) unclean
+[trel]trel (PL) : (rz.) trill
+[trelowac]trelować (PL) : (cz.) trill
+[trema]trema (PL) : (rz.) fright; (rz.) jimjams; (rz.) jitter; (rz.) jitters
+[tren]tren (PL) : (rz.) dirge; (rz.) threnody; (rz.) train
+[trenazer]trenażer (PL) : (rz.) link-trainer
+[trencz]trencz (PL) : (rz.) trench-coat
+[trener]trener (PL) : (rz.) coach; (rz.) coachman; (rz.) handler; (rz.) trainer
+[trening]trening (PL) : (rz.) training
+[trenowanie]trenowanie (PL) : (rz.) coaching; (rz.) training
+[trenowac]trenować (PL) : (cz.) coach; (cz.) train
+[trepan]trepan (PL) : (rz.) trepan
+[trepanacja]trepanacja (PL) : (rz.) trepanation
+[trepanowac]trepanować (PL) : (cz.) trephine
+[trepek]trepek (PL) : (rz.) sandal
+[treser]treser (PL) : (rz.) handler; (rz.) tamer; (rz.) trainer
+[tresowanie]tresowanie (PL) : (rz.) training
+[tresowac]tresować (PL) : (cz.) drill; (cz.) train
+[tresura]tresura (PL) : (rz.) training
+[tresciwie]treściwie (PL) : (p-sł.) succinctly; (p-sł.) tersely
+[tresciwosc]treściwość (PL) : (rz.) brevity; (rz.) conciseness
+[tresciwy]treściwy (PL) : (p.) concise; (p.) meaty; (p.) pithy; (p.) succinct
+[tresc]treść (PL) : (rz.) body; (rz.) content; (rz.) essence; (rz.) nitty-gritty; (rz.) purport; (rz.) purview; (rz.) substance; (rz.) sum; (rz.) teaspoonful; (rz.) tenor
+[tri]tri (PL) : (rz.) trichloroethylene
+[triada]triada (PL) : (rz.) triad
+[triangulacja]triangulacja (PL) : (rz.) triangulation
+[trik]trik (PL) : (rz.) trick
+[trioda]trioda (PL) : (rz.) triode
+[triola]triola (PL) : (rz.) triplet
+[triumf]triumf (PL) : (rz.) exultation; (rz.) triumph
+[triumfalny]triumfalny (PL) : (p.) joyous; (p.) jubilant; (p.) triumphal; (p.) triumphant
+[triumfator]triumfator (PL) : (rz.) victor
+[triumfowanie]triumfowanie (PL) : (rz.) jubilation
+[triumfowac]triumfować (PL) : (cz.) crow; (cz.) exult; (cz.) triumph
+[triumfujacy]triumfujący (PL) : (p.) triumphant
+[triumwir]triumwir (PL) : (rz.) triumvir
+[triumwirat]triumwirat (PL) : (rz.) triumvirate
+[trocheiczny]trocheiczny (PL) : (p.) trochaic
+[trochej]trochej (PL) : (rz.) trochee
+[troche]trochę (PL) : (rz.) bit; (rz.) little
+[trofeum]trofeum (PL) : (rz.) trophy
+[troglodyta]troglodyta (PL) : (rz.) cave-dweller; (rz.) caveman; (rz.) cave-man; (rz.) troglodyte
+[troisty]troisty (PL) : (p.) treble
+[troic]troić (PL) : (cz.) triple
+[trojaczki]trojaczki (PL) : (rz.) triplets
+[trojak]trojak (PL) : (rz.) trilling
+[trojaki]trojaki (PL) : (p.) three; (p.) threefold; (p.) triplex
+[trolejbus]trolejbus (PL) : (rz.) trolley; (rz.) trolleybus
+[trolejbusowy]trolejbusowy (PL) : (p.) trolleybus
+[trombina]trombina (PL) : (rz.) thrombin
+[tron]tron (PL) : (rz.) throne
+[trop]trop (PL) : (rz.) clue; (rz.) lead; (rz.) scent; (rz.) spoor; (rz.) trace; (rz.) track; (rz.) tracks; (rz.) trail
+[tropiciel]tropiciel (PL) : (rz.) sleuth-hound; (rz.) tracer; (rz.) tracker; (rz.) trailer
+[tropienie]tropienie (PL) : (rz.) tracing
+[tropik]tropik (PL) : (rz.) flysheet; (rz.) tropic; (rz.) tropics
+[tropikalizacja]tropikalizacja (PL) : (rz.) tropic-proofing
+[tropikalnie]tropikalnie (PL) : (p-sł.) tropically
+[tropikalny]tropikalny (PL) : (p.) equatorial; (p.) tropic; (p.) tropical
+[tropizm]tropizm (PL) : (rz.) tropism
+[tropic]tropić (PL) : (cz.) hound; (cz.) hunt; (cz.) sleuth; (cz.) stalk; (cz.) track; (cz.) trail
+[troposfera]troposfera (PL) : (rz.) troposphere
+[tropowiec]tropowiec (PL) : (rz.) bloodhound
+[troska]troska (PL) : (rz.) attention; (rz.) care; (rz.) concern; (rz.) pain; (rz.) preoccupation; (rz.) regard; (rz.) solicitude; (rz.) sorrow; (rz.) trouble; (rz.) worry
+[troskac]troskać (PL) : (cz.) worry
+[troskliwie]troskliwie (PL) : (p-sł.) carefully; (p-sł.) mindfully
+[troskliwosc]troskliwość (PL) : (rz.) accuracy; (rz.) attentiveness; (rz.) care; (rz.) solicitude
+[troskliwy]troskliwy (PL) : (p.) attentive; (p.) careful; (p.) caring; (p.) considerate; (p.) doting; (p.) mindful; (p.) solicitous; (p.) thoughtful
+[troszczyc]troszczyć (PL) : (cz.) care
+[trotuar]trotuar (PL) : (rz.) pavement; (rz.) sidewalk; (rz.) side-walk
+[trotyl]trotyl (PL) : (rz.) trinitrotoluene
+[trubadur]trubadur (PL) : (rz.) troubadour
+[truchlec]truchleć (PL) : (cz.) blench; (cz.) terrified
+[trucht]trucht (PL) : (rz.) jog; (rz.) jogtrot; (rz.) trot
+[truciciel]truciciel (PL) : (rz.) polluter
+[trucizna]trucizna (PL) : (rz.) bane; (rz.) poison; (rz.) venom
+[trud]trud (PL) : (rz.) fatigue; (rz.) hardship; (rz.) pain; (rz.) sweat; (rz.) toil; (rz.) trouble
+[trudno]trudno (PL) : (p-sł.) hard
+[trudnotopliwy]trudnotopliwy (PL) : (p.) high-melting
+[trudnosc]trudność (PL) : (rz.) annoyance; (rz.) difficulty; (rz.) hardship; (rz.) knot; (rz.) obstacle; (rz.) stickler; (rz.) stumbling-block
+[trudny]trudny (PL) : (p.) arduous; (p.) difficult; (p.) formidable; (p.) hard; (p.) intricate; (p.) knotty; (p.) tough
+[trudzenie]trudzenie (PL) : (rz.) bothering
+[trudzic]trudzić (PL) : (cz.) bother; (cz.) sweat; (cz.) toil; (cz.) trouble
+[trufla]trufla (PL) : (rz.) truffle
+[truizm]truizm (PL) : (rz.) truism
+[trujacy]trujący (PL) : (p.) poisonous; (p.) toxic
+[trumna]trumna (PL) : (rz.) casket; (rz.) coffin
+[trunek]trunek (PL) : (rz.) beverage; (rz.) booze; (rz.) drink; (rz.) intoxicant; (rz.) liquor
+[trup]trup (PL) : (rz.) cadaver; (rz.) corpse
+[trupa]trupa (PL) : (rz.) company; (rz.) corpse; (rz.) troop; (rz.) troupe
+[trupi]trupi (PL) : (p.) cadaverous; (p.) deathly
+[trupiarnia]trupiarnia (PL) : (rz.) morgue; (rz.) mortuary
+[truposz]truposz (PL) : (rz.) corpse
+[truskawka]truskawka (PL) : (rz.) strawberry
+[trust]trust (PL) : (rz.) trust
+[truten]truteń (PL) : (rz.) drone; (rz.) freeloader
+[trutka]trutka (PL) : (rz.) poison
+[truc]truć (PL) : (cz.) poison
+[trwale]trwale (PL) : (p-sł.) fixedly; (p-sł.) permanently
+[trwanie]trwanie (PL) : (rz.) abidance; (rz.) continuance; (rz.) durability; (rz.) duration; (rz.) lifespan; (rz.) standing
+[trwac]trwać (PL) : (cz.) abide; (cz.) continue; (cz.) endure; (cz.) last; (cz.) obtain; (cz.) outlast; (cz.) persevere; (cz.) persist
+[trwalosc]trwałość (PL) : (rz.) constancy; (rz.) durability; (rz.) duration; (rz.) endurance; (rz.) fastness; (rz.) indestructibility; (rz.) life; (rz.) life-period; (rz.) lifespan; (rz.) permanence; (rz.) permanency; (rz.) persistence; (rz.) persistency; (rz.) solidity; (rz.) stability; (rz.) tenacity
+[trwaly]trwały (PL) : (p.) abiding; (p.) constant; (p.) continuous; (p.) durable; (p.) lasting; (p.) permanent; (p.) retentive; (p.) rooted; (p.) tenacious
+[trwoga]trwoga (PL) : (rz.) affright; (rz.) alarm; (rz.) anxiety; (rz.) awe; (rz.) fear; (rz.) fright
+[trwonienie]trwonienie (PL) : (rz.) dilapidation; (rz.) dissipation; (rz.) squandering
+[trwonic]trwonić (PL) : (cz.) dissipate; (cz.) ruin; (cz.) squander; (cz.) waste
+[trwozenie]trwożenie (PL) : (rz.) awing
+[trwozliwy]trwożliwy (PL) : (p.) shy
+[trwoznie]trwożnie (PL) : (p-sł.) shyly
+[trwozny]trwożny (PL) : (p.) shy
+[trwozyc]trwożyć (PL) : (cz.) affright; (cz.) awe; (cz.) frighten; (cz.) startle
+[tryb]tryb (PL) : (rz.) cog-wheel; (rz.) mode; (rz.) mood
+[trybula]trybula (PL) : (rz.) chervil
+[trybun]trybun (PL) : (rz.) stands; (rz.) tribune
+[trybuna]trybuna (PL) : (rz.) platform; (rz.) rostrum; (rz.) tribune
+[trybunal]trybunał (PL) : (rz.) tribunal
+[trybut]trybut (PL) : (rz.) tribute
+[trychina]trychina (PL) : (rz.) hairworm; (rz.) trichina
+[trychinoza]trychinoza (PL) : (rz.) trichinosis
+[trycykl]trycykl (PL) : (rz.) tricycle
+[trygonometria]trygonometria (PL) : (rz.) trigonometry
+[trygonometryczny]trygonometryczny (PL) : (p.) trigonometric
+[tryk]tryk (PL) : (rz.) ram
+[trykotarstwo]trykotarstwo (PL) : (rz.) knitting
+[trykotaz]trykotaż (PL) : (rz.) hosiery; (rz.) knitter
+[trykotaze]trykotaże (PL) : (rz.) hosiery
+[trykotowy]trykotowy (PL) : (p.) knitted
+[trykoty]trykoty (PL) : (rz.) tights
+[tryktrak]tryktrak (PL) : (rz.) backgammon
+[tryl]tryl (PL) : (rz.) quaver; (rz.) trill
+[tryliard]tryliard (PL) : (rz.) sextillion
+[trylion]trylion (PL) : (rz.) quintillion; (rz.) trillion
+[trylogia]trylogia (PL) : (rz.) trilogy
+[trymer]trymer (PL) : (rz.) trimmer
+[trymestr]trymestr (PL) : (rz.) term; (rz.) trimester
+[trymowac]trymować (PL) : (cz.) trim
+[tryper]tryper (PL) : (rz.) gonorrhoea
+[trypla]trypla (PL) : (rz.) rottenstone
+[tryplet]tryplet (PL) : (rz.) triplet
+[tryplikat]tryplikat (PL) : (rz.) triplicate
+[tryptyk]tryptyk (PL) : (rz.) triptych
+[trysekcja]trysekcja (PL) : (rz.) trisection
+[tryskacz]tryskacz (PL) : (rz.) sprinkler
+[tryskanie]tryskanie (PL) : (rz.) ejection
+[tryskac]tryskać (PL) : (cz.) ejaculate; (cz.) gush; (cz.) jet; (cz.) splutter; (cz.) spout; (cz.) spurt; (cz.) squirt; (cz.) well
+[tryt]tryt (PL) : (rz.) tritium
+[tryton]tryton (PL) : (rz.) newt; (rz.) triton
+[tryumf]tryumf (PL) : (rz.) triumph
+[tryumfalnie]tryumfalnie (PL) : (p-sł.) triumphantly
+[tryumfalny]tryumfalny (PL) : (p.) jubilant; (p.) triumphal
+[tryumfowac]tryumfować (PL) : (cz.) gloat; (cz.) triumph
+[tryumfujaco]tryumfująco (PL) : (p-sł.) triumphantly
+[trywializacja]trywializacja (PL) : (rz.) trivialization
+[trywialnie]trywialnie (PL) : (p-sł.) trivially
+[trywialnosc]trywialność (PL) : (rz.) triteness; (rz.) triviality
+[trywialny]trywialny (PL) : (p.) foulmouthed; (p.) foul-mouthed; (p.) ordinary; (p.) trite; (p.) trivial; (p.) vulgar
+[trysniecie]tryśnięcie (PL) : (rz.) gush; (rz.) squirt
+[trzask]trzask (PL) : (rz.) bang; (rz.) clack; (rz.) clap; (rz.) clash; (rz.) crack; (rz.) crackle; (rz.) crash; (rz.) flick; (rz.) pop; (rz.) slam; (rz.) smack; (rz.) smash; (rz.) snap
+[trzaskanie]trzaskanie (PL) : (rz.) cracking; (rz.) crackle
+[trzaskac]trzaskać (PL) : (cz.) bang; (cz.) clack; (cz.) clap; (cz.) click; (cz.) crack; (cz.) crackle; (cz.) dash; (cz.) hit; (cz.) pop; (cz.) rip; (cz.) slam; (cz.) smack
+[trzasnac]trzasnąć (PL) : (cz.) bang; (cz.) snap
+[trzasniecie]trzaśnięcie (PL) : (rz.) flick; (rz.) smack; (rz.) snap; (rz.) thwack
+[trzcina]trzcina (PL) : (rz.) cane; (rz.) reed; (rz.) reeve
+[trzcinka]trzcinka (PL) : (rz.) reed
+[trzcinowy]trzcinowy (PL) : (p.) reedy
+[trzebienie]trzebienie (PL) : (rz.) castration; (rz.) clearing; (rz.) thinning
+[trzebiez]trzebież (PL) : (rz.) extirpation; (rz.) thinning
+[trzebic]trzebić (PL) : (cz.) cut; (cz.) exterminate; (cz.) spay; (cz.) stub
+[trzeci]trzeci (PL) : (p.) third
+[trzeciorzedny]trzeciorzędny (PL) : (p.) tertiary; (p.) third-rate
+[trzeciorzedowy]trzeciorzędowy (PL) : (p.) tertiary
+[trzepaczka]trzepaczka (PL) : (rz.) carpet-beater
+[trzepak]trzepak (PL) : (rz.) beater; (rz.) horse
+[trzepanie]trzepanie (PL) : (rz.) beating
+[trzepac]trzepać (PL) : (cz.) flip
+[trzepniecie]trzepnięcie (PL) : (rz.) clap; (rz.) flick; (rz.) flip; (rz.) slap; (rz.) smack
+[trzepot]trzepot (PL) : (rz.) flutter
+[trzepotanie]trzepotanie (PL) : (rz.) buffeting; (rz.) flop; (rz.) flutter; (rz.) quiver; (rz.) shimmy
+[trzepotac]trzepotać (PL) : (cz.) flap; (cz.) flop; (cz.) flutter; (cz.) quiver
+[trzeszczenie]trzeszczenie (PL) : (rz.) cracking; (rz.) creak
+[trzeszczec]trzeszczeć (PL) : (cz.) crack; (cz.) crackle; (cz.) creak; (cz.) crepitate; (cz.) crunch
+[trzewia]trzewia (PL) : (rz.) bowels; (rz.) viscera
+[trzewik]trzewik (PL) : (rz.) shoe; (rz.) slipper; (rz.) sneaker
+[trzewny]trzewny (PL) : (p.) visceral
+[trzec]trzeć (PL) : (cz.) chafe; (cz.) grate; (cz.) rub
+[trzezwiec]trzeźwieć (PL) : (cz.) sober
+[trzezwic]trzeźwić (PL) : (cz.) sober
+[trzezwo]trzeźwo (PL) : (p-sł.) soberly
+[trzezwosc]trzeźwość (PL) : (rz.) abstinence; (rz.) consciousness; (rz.) soberness; (rz.) sobriety; (rz.) temperance
+[trzezwy]trzeźwy (PL) : (p.) clearheaded; (p.) clear-headed; (p.) sober; (p.) temperate
+[trzmiel]trzmiel (PL) : (rz.) bumblebee; (rz.) bumble-bee; (rz.) humblebee; (rz.) humble-bee
+[trznadel]trznadel (PL) : (rz.) bunting; (rz.) buntings; (rz.) yellowhammer; (rz.) yellow-hammer
+[trzoda]trzoda (PL) : (rz.) drove; (rz.) flock; (rz.) herd
+[trzon]trzon (PL) : (rz.) backbone; (rz.) hardcore; (rz.) hearth; (rz.) shaft; (rz.) shank; (rz.) stem; (rz.) trunk
+[trzonek]trzonek (PL) : (rz.) handle; (rz.) helve; (rz.) shaft; (rz.) shank
+[trzonowy]trzonowy (PL) : (p.) molar
+[trzos]trzos (PL) : (rz.) money-belt
+[trzpien]trzpień (PL) : (rz.) mandrel; (rz.) pivot; (rz.) stem; (rz.) tang
+[trzpiotka]trzpiotka (PL) : (rz.) flibbertigibbet
+[trzpiotowaty]trzpiotowaty (PL) : (p.) airy; (p.) coltish; (p.) featherbrained; (p.) feather-brained
+[trzustka]trzustka (PL) : (rz.) pancreas
+[trzustkowy]trzustkowy (PL) : (p.) pancreatic
+[trzydziesty]trzydziesty (PL) : (p.) thirtieth
+[trzykrotka]trzykrotka (PL) : (rz.) spiderwort
+[trzykrotnie]trzykrotnie (PL) : (p-sł.) threefold; (p-sł.) thrice
+[trzykrotny]trzykrotny (PL) : (p.) threefold
+[trzylecie]trzylecie (PL) : (rz.) triennial
+[trzymacz]trzymacz (PL) : (rz.) holder
+[trzymanie]trzymanie (PL) : (rz.) hold; (rz.) holding; (rz.) keeping
+[trzymac]trzymać (PL) : (cz.) adhere; (cz.) buoy; (cz.) cleave; (cz.) cling; (cz.) clung; (cz.) fumble; (cz.) grip; (cz.) hold; (cz.) keep; (cz.) stay
+[trzynasty]trzynasty (PL) : (p.) thirteenth
+[trzasc]trząść (PL) : (cz.) jar; (cz.) jolt; (cz.) jounce; (cz.) quake; (cz.) shake; (cz.) shiver; (cz.) toss; (cz.) totter; (cz.) tremble; (cz.) wobble
+[trzesawisko]trzęsawisko (PL) : (rz.) bog; (rz.) fen; (rz.) moor; (rz.) morass; (rz.) quagmire; (rz.) slough; (rz.) swamp
+[trzesienie]trzęsienie (PL) : (rz.) agitation; (rz.) earthquake; (rz.) quake; (rz.) rumble-tumble; (rz.) shudder
+[troja]trója (PL) : (rz.) fair; (rz.) pass
+[trojbarwny]trójbarwny (PL) : (p.) tricolour
+[trojboj]trójbój (PL) : (rz.) track-athletics
+[trojca]trójca (PL) : (rz.) trinity
+[trojchloroetylen]trójchloroetylen (PL) : (rz.) trichloroethylene
+[trojchlorometan]trójchlorometan (PL) : (rz.) chloroform
+[trojdzielny]trójdzielny (PL) : (p.) treble; (p.) tripartite
+[trojdzwiek]trójdźwięk (PL) : (rz.) triad
+[trojka]trójka (PL) : (rz.) three; (rz.) threesome; (rz.) trey; (rz.) triad; (rz.) trinity; (rz.) trio; (rz.) tripe; (rz.) triplet; (rz.) troika
+[trojkat]trójkąt (PL) : (rz.) triangle
+[trojkatnie]trójkątnie (PL) : (p-sł.) triangularly
+[trojkatny]trójkątny (PL) : (p.) triangular
+[trojkatowanie]trójkątowanie (PL) : (rz.) triangles
+[trojlisc]trójliść (PL) : (rz.) trefoil
+[trojmasztowiec]trójmasztowiec (PL) : (rz.) three-master
+[trojmian]trójmian (PL) : (rz.) trinomial
+[trojnik]trójnik (PL) : (rz.) joint
+[trojnitka]trójnitka (PL) : (rz.) houseline
+[trojnitrotoluen]trójnitrotoluen (PL) : (rz.) trinitrotoluene
+[trojnog]trójnóg (PL) : (rz.) tripod; (rz.) trivet
+[trojpokladowiec]trójpokładowiec (PL) : (rz.) three-decker
+[trojstanowy]trójstanowy (PL) : (p.) tri-state
+[trojstronny]trójstronny (PL) : (p.) trilateral
+[trojtlenek]trójtlenek (PL) : (rz.) trioxide
+[trojwartosciowy]trójwartościowy (PL) : (p.) trivalent
+[trojwiersz]trójwiersz (PL) : (rz.) triplet
+[trojwymiarowy]trójwymiarowy (PL) : (p.) three-dimensional
+[trojzab]trójząb (PL) : (rz.) herb; (rz.) trident
+[trojscienny]trójścienny (PL) : (p.) trihedral
+[traba]trąba (PL) : (rz.) horn; (rz.) proboscis; (rz.) trumpet; (rz.) trunk
+[trabienie]trąbienie (PL) : (rz.) blare; (rz.) toot
+[trabic]trąbić (PL) : (cz.) blare; (cz.) honk; (cz.) proclaim; (cz.) roar; (cz.) toot; (cz.) trumpet
+[trabka]trąbka (PL) : (rz.) bugle; (rz.) clarion; (rz.) cornet; (rz.) proboscis; (rz.) trumpet
+[tracac]trącać (PL) : (cz.) jog; (cz.) jostle; (cz.) knock; (cz.) tip
+[tracenie]trącenie (PL) : (rz.) nudge
+[tracic]trącić (PL) : (cz.) abate; (cz.) nudge; (cz.) smell
+[trad]trąd (PL) : (rz.) leprosy
+[tradzik]trądzik (PL) : (rz.) acne
+[trebacz]trębacz (PL) : (rz.) bugler; (rz.) trumpeter
+[tredowaty]trędowaty (PL) : (p.) leprous
+[tsunami]tsunami (PL) : (rz.) tsunami
+[tu]tu (PL) : (p-sł.) here; (p-sł.) herein; (p-sł.) hither
+[tuba]tuba (PL) : (rz.) flare; (rz.) horn; (rz.) trumpet; (rz.) tube
+[tubalny]tubalny (PL) : (p.) stentorian
+[tubek]tubek (PL) : (rz.) fish
+[tuberkuliczny]tuberkuliczny (PL) : (p.) tubercular
+[tuberkulina]tuberkulina (PL) : (rz.) tuberculin
+[tuberkuloza]tuberkuloza (PL) : (rz.) tuberculosis
+[tuberoza]tuberoza (PL) : (rz.) tuberose
+[tubing]tubing (PL) : (rz.) tubing
+[tubka]tubka (PL) : (rz.) tube
+[tubowy]tubowy (PL) : (p.) tubular
+[tubus]tubus (PL) : (rz.) tube
+[tubylcy]tubylcy (PL) : (rz.) aborigines
+[tubylczo]tubylczo (PL) : (p-sł.) natively
+[tubylczy]tubylczy (PL) : (p.) autochthonous; (p.) indigenous; (p.) native; (p.) vernacular
+[tubylec]tubylec (PL) : (rz.) aboriginal; (rz.) autochthon; (rz.) native
+[tuczarnia]tuczarnia (PL) : (rz.) battery; (rz.) feedlot
+[tucznik]tucznik (PL) : (rz.) hog; (rz.) porker
+[tuczyc]tuczyć (PL) : (cz.) fat; (cz.) fatten; (cz.) feed; (cz.) plump
+[tuf]tuf (PL) : (rz.) tuff
+[tukan]tukan (PL) : (rz.) toucan
+[tul]tul (PL) : (rz.) thulium
+[tuleja]tuleja (PL) : (rz.) bush; (rz.) muff; (rz.) quill; (rz.) sleeve
+[tulejka]tulejka (PL) : (rz.) bush; (rz.) bushing; (rz.) ferrule; (rz.) muff; (rz.) socket
+[tulenie]tulenie (PL) : (rz.) cuddle
+[tulipan]tulipan (PL) : (rz.) tulip
+[tulic]tulić (PL) : (cz.) cuddle; (cz.) fondle; (cz.) hug; (cz.) nestle
+[tuman]tuman (PL) : (rz.) blockhead; (rz.) dunderhead; (rz.) lummox; (rz.) mist; (rz.) nitwit; (rz.) slowcoach; (rz.) slow-coach; (rz.) yuk; (rz.) zombie
+[tumult]tumult (PL) : (rz.) tumult
+[tundra]tundra (PL) : (rz.) tundra
+[tunel]tunel (PL) : (rz.) cutting; (rz.) subway; (rz.) tunnel
+[tunika]tunika (PL) : (rz.) tunic
+[tupanie]tupanie (PL) : (rz.) patter
+[tupac]tupać (PL) : (cz.) stamp
+[tupet]tupet (PL) : (rz.) audacity; (rz.) cheek; (rz.) impudence; (rz.) nerve; (rz.) sauce; (rz.) self-confidence
+[tupot]tupot (PL) : (rz.) patter
+[tupotac]tupotać (PL) : (cz.) stamp
+[tur]tur (PL) : (rz.) aurochs; (rz.) bison
+[tura]tura (PL) : (rz.) cat-lap; (rz.) round; (rz.) run; (rz.) tour; (rz.) turn
+[turban]turban (PL) : (rz.) turban
+[turbina]turbina (PL) : (rz.) turbine
+[turbodoladowanie]turbodoładowanie (PL) : (rz.) turbocharger
+[turbogenerator]turbogenerator (PL) : (rz.) turbo-generator
+[turboodrzutowy]turboodrzutowy (PL) : (p.) turbojet
+[turbosprezarka]turbosprężarka (PL) : (rz.) supercharger; (rz.) turbocharger
+[turbowac]turbować (PL) : (cz.) trouble
+[turbosmiglowiec]turbośmigłowiec (PL) : (rz.) turboprop
+[turbosmiglowy]turbośmigłowy (PL) : (p.) turboprop
+[turbulencja]turbulencja (PL) : (rz.) turbulence
+[turbulentny]turbulentny (PL) : (p.) turbulent
+[turkawka]turkawka (PL) : (rz.) doves; (rz.) turtledove; (rz.) turtle-dove
+[turkot]turkot (PL) : (rz.) rattle; (rz.) rumble
+[turkotac]turkotać (PL) : (cz.) bump; (cz.) rattle; (cz.) rumble
+[turkus]turkus (PL) : (rz.) turquoise
+[turkusowy]turkusowy (PL) : (p.) cyan
+[turlac]turlać (PL) : (cz.) roll
+[turmalin]turmalin (PL) : (rz.) tourmaline
+[turnia]turnia (PL) : (rz.) alp; (rz.) crag; (rz.) peak
+[turniej]turniej (PL) : (rz.) tilts; (rz.) tournament; (rz.) tourney
+[turnikiet]turnikiet (PL) : (rz.) turnstile
+[turnus]turnus (PL) : (rz.) period
+[turysta]turysta (PL) : (rz.) excursionist; (rz.) hiker; (rz.) holidaymaker; (rz.) sightseer; (rz.) tourist
+[turystyka]turystyka (PL) : (rz.) tourism
+[tusz]tusz (PL) : (rz.) carcasses; (rz.) douche; (rz.) flourish; (rz.) ink; (rz.) mascara; (rz.) shower-bath
+[tusza]tusza (PL) : (rz.) carcase; (rz.) carcass; (rz.) corpulence; (rz.) fatness
+[tuszowac]tuszować (PL) : (cz.) efface; (cz.) smother
+[tutaj]tutaj (PL) : (p-sł.) here
+[tutka]tutka (PL) : (rz.) cornet
+[tuzin]tuzin (PL) : (rz.) dozen
+[tuzinkowy]tuzinkowy (PL) : (p.) hackneyed; (p.) trite; (p.) trivial
+[tulactwo]tułactwo (PL) : (rz.) exile
+[tulacz]tułacz (PL) : (rz.) drifter; (rz.) wanderer
+[tulaczy]tułaczy (PL) : (p.) homeless
+[tulac]tułać (PL) : (cz.) wander
+[tulow]tułów (PL) : (rz.) body; (rz.) thorax; (rz.) torso; (rz.) trunk
+[tunczyk]tuńczyk (PL) : (rz.) albacore; (rz.) tuna
+[twardnienie]twardnienie (PL) : (rz.) hardening
+[twardniec]twardnieć (PL) : (cz.) fix; (cz.) harden; (cz.) set
+[twardo]twardo (PL) : (p-sł.) hard; (p-sł.) sternly; (p-sł.) stiffly; (p-sł.) strictly; (p-sł.) toughly
+[twardoglowy]twardogłowy (PL) : (p.) diehard
+[twardosc]twardość (PL) : (rz.) endurance; (rz.) firmness; (rz.) hardness; (rz.) rigidity; (rz.) toughness
+[twardy]twardy (PL) : (p.) adamant; (p.) adamantine; (p.) callous; (p.) firm; (p.) hard; (p.) hardboiled; (p.) hard-boiled; (p.) hardcore; (p.) hard-core; (p.) landed; (p.) rigid; (p.) stiff; (p.) strong; (p.) tough
+[twardziel]twardziel (PL) : (rz.) heart-wood; (rz.) toughie
+[twardowka]twardówka (PL) : (rz.) sclera
+[twarz]twarz (PL) : (rz.) countenance; (rz.) face; (rz.) mug
+[twarzowy]twarzowy (PL) : (p.) appropriate; (p.) becoming; (p.) facial
+[twarog]twaróg (PL) : (rz.) bonnyclabber; (rz.) clabber; (rz.) curd
+[tweed]tweed (PL) : (rz.) tweed
+[twierdza]twierdza (PL) : (rz.) fastness; (rz.) fort; (rz.) fortress; (rz.) stronghold; (rz.) tower
+[twierdzenie]twierdzenie (PL) : (rz.) affirmation; (rz.) assertion; (rz.) asseveration; (rz.) averment; (rz.) axis; (rz.) claim; (rz.) contention; (rz.) enunciation; (rz.) maintenance; (rz.) objection; (rz.) predication; (rz.) proposition; (rz.) statement; (rz.) theorem; (rz.) word
+[twierdzic]twierdzić (PL) : (cz.) affirm; (cz.) allege; (cz.) assert; (cz.) assure; (cz.) claim; (cz.) contend; (cz.) declare; (cz.) maintain; (cz.) predicate; (cz.) pretend; (cz.) profess
+[twierdzaco]twierdząco (PL) : (p-sł.) affirmatively
+[twierdzacy]twierdzący (PL) : (p.) affirmative; (p.) positive
+[twist]twist (PL) : (rz.) twist
+[twornik]twornik (PL) : (rz.) armature; (rz.) stator
+[tworzenie]tworzenie (PL) : (rz.) blocking; (rz.) creation; (rz.) formation; (rz.) instantiation; (rz.) making; (rz.) origination
+[tworzywo]tworzywo (PL) : (rz.) material; (rz.) stuff
+[tworzyc]tworzyć (PL) : (cz.) beget; (cz.) choreograph; (cz.) compose; (cz.) constitute; (cz.) create; (cz.) develop; (cz.) fabricate; (cz.) figure; (cz.) form; (cz.) found; (cz.) frame; (cz.) generate; (cz.) instantiate; (cz.) make; (cz.) materialize
+[twor]twór (PL) : (rz.) creation; (rz.) creature; (rz.) formation; (rz.) port; (rz.) spawn
+[tworca]twórca (PL) : (rz.) architect; (rz.) artist; (rz.) author; (rz.) creator; (rz.) founder; (rz.) maker; (rz.) originator; (rz.) writer
+[tworcy]twórcy (PL) : (rz.) creators
+[tworczo]twórczo (PL) : (p-sł.) creatively
+[tworczosc]twórczość (PL) : (rz.) creativity; (rz.) output; (rz.) work
+[tworczy]twórczy (PL) : (p.) constructive; (p.) creative; (p.) imaginative
+[tyczka]tyczka (PL) : (rz.) perch; (rz.) pole
+[tyczyc]tyczyć (PL) : (cz.) belong; (cz.) refer
+[tydzien]tydzień (PL) : (rz.) week; (rz.) weeks
+[tyfoidalny]tyfoidalny (PL) : (p.) typhoid
+[tyfus]tyfus (PL) : (rz.) typhoid; (rz.) typhus
+[tyfusowy]tyfusowy (PL) : (p.) typhoid
+[tygiel]tygiel (PL) : (rz.) crucible; (rz.) melting-pot
+[tygodnik]tygodnik (PL) : (rz.) weekly
+[tygodniowy]tygodniowy (PL) : (p.) week's
+[tygrys]tygrys (PL) : (rz.) tiger
+[tyka]tyka (PL) : (rz.) beanpole
+[tykanie]tykanie (PL) : (rz.) tick
+[tykac]tykać (PL) : (cz.) strike; (cz.) tick; (cz.) touch
+[tykniecie]tyknięcie (PL) : (rz.) tick
+[tykwa]tykwa (PL) : (rz.) bottle-gourd; (rz.) calabash; (rz.) gourd
+[tylda]tylda (PL) : (rz.) tilde
+[tyle]tyle (PL) : (p-sł.) so
+[tylec]tylec (PL) : (rz.) snag
+[tylko]tylko (PL) : (p-sł.) alone; (p-sł.) barely; (p-sł.) but; (p-sł.) exclusively; (p-sł.) just; (p-sł.) merely; (p-sł.) only; (p-sł.) purely
+[tylni]tylni (PL) : (p.) after; (p.) hind
+[tylnica]tylnica (PL) : (rz.) stern; (rz.) sternpost
+[tylnojezykowy]tylnojęzykowy (PL) : (p.) velar
+[tylnokolowiec]tylnokołowiec (PL) : (rz.) sternwheeler
+[tylny]tylny (PL) : (p.) after; (p.) back; (p.) backward; (p.) hind; (p.) posterior; (p.) rearward
+[tymczasem]tymczasem (PL) : (p-sł.) meantime; (p-sł.) meanwhile
+[tymczasowo]tymczasowo (PL) : (p-sł.) provisionally; (p-sł.) temporarily
+[tymczasowosc]tymczasowość (PL) : (rz.) temporality
+[tymczasowy]tymczasowy (PL) : (p.) interim; (p.) interlocutory; (p.) modifiable; (p.) provisional; (p.) temporal; (p.) temporary; (p.) volatile
+[tymianek]tymianek (PL) : (rz.) thyme; (rz.) thymus
+[tymina]tymina (PL) : (rz.) thymine
+[tympanon]tympanon (PL) : (rz.) tympanum
+[tynk]tynk (PL) : (rz.) daub; (rz.) grout; (rz.) plaster; (rz.) roughcast; (rz.) rough-cast; (rz.) stucco
+[tynkal]tynkal (PL) : (rz.) borax
+[tynkarski]tynkarski (PL) : (p.) plasterer's
+[tynkarz]tynkarz (PL) : (rz.) plasterer
+[tynkowac]tynkować (PL) : (cz.) plaster
+[tynktura]tynktura (PL) : (rz.) tincture
+[typ]typ (PL) : (rz.) character; (rz.) kind; (rz.) nature; (rz.) sort; (rz.) type
+[typek]typek (PL) : (rz.) chap; (rz.) character; (rz.) joker
+[typograf]typograf (PL) : (rz.) typographer
+[typografia]typografia (PL) : (rz.) typography
+[typograficznie]typograficznie (PL) : (p-sł.) typographically
+[typograficzny]typograficzny (PL) : (p.) typographic; (p.) typographical
+[typologia]typologia (PL) : (rz.) typology
+[typooffset]typooffset (PL) : (rz.) letterset
+[typowac]typować (PL) : (cz.) designate; (cz.) typecast
+[typowo]typowo (PL) : (p-sł.) typically
+[typowosc]typowość (PL) : (rz.) typicality
+[typowy]typowy (PL) : (p.) atypical; (p.) basal; (p.) classic; (p.) classical; (p.) conventional; (p.) quintessential; (p.) racy; (p.) typical
+[tyrada]tyrada (PL) : (rz.) rant; (rz.) screed; (rz.) tirade
+[tyran]tyran (PL) : (rz.) bully; (rz.) taskmaster; (rz.) tyrant
+[tyrania]tyrania (PL) : (rz.) tyranny
+[tyranizowac]tyranizować (PL) : (cz.) domineer; (cz.) tyrannize
+[tyranozaur]tyranozaur (PL) : (rz.) tyrannosaur; (rz.) tyrannosaurus
+[tyranski]tyrański (PL) : (p.) tyrannical
+[tyrozyna]tyrozyna (PL) : (rz.) tyrosine
+[tysiac]tysiąc (PL) : (rz.) thousand
+[tysiaclecie]tysiąclecie (PL) : (rz.) millennium
+[tysiacletni]tysiącletni (PL) : (p.) millenary; (p.) millennial
+[tysiaczny]tysiączny (PL) : (p.) thousandth
+[tysieczny]tysięczny (PL) : (p.) thousand; (p.) thousandth
+[tytan]tytan (PL) : (rz.) titan; (rz.) titanium
+[tytaniczny]tytaniczny (PL) : (p.) titanic
+[tytanowy]tytanowy (PL) : (p.) titanic
+[tyton]tytoń (PL) : (rz.) tobacco; (rz.) tobacco-plant
+[tytularny]tytularny (PL) : (p.) nominal; (p.) titular
+[tytul]tytuł (PL) : (rz.) captain; (rz.) caption; (rz.) style; (rz.) title
+[tytulowanie]tytułowanie (PL) : (rz.) title; (rz.) titling
+[tytulowac]tytułować (PL) : (cz.) address; (cz.) entitle; (cz.) title
+[tytulowy]tytułowy (PL) : (p.) eponymous; (p.) front-page
+[tyc]tyć (PL) : (cz.) fatten; (cz.) plump
+[tyl]tył (PL) : (rz.) back; (rz.) rear
+[tylek]tyłek (PL) : (rz.) ass; (rz.) backside; (rz.) behind; (rz.) bottom; (rz.) breech; (rz.) bum
+[tylem]tyłem (PL) : (p-sł.) backward; (p-sł.) backwards
+[tapniecie]tąpnięcie (PL) : (rz.) crump
+[tecza]tęcza (PL) : (rz.) iris; (rz.) rainbow; (rz.) screen
+[teczowka]tęczówka (PL) : (rz.) iris
+[tedy]tędy (PL) : (p-sł.) here
+[tegi]tęgi (PL) : (p.) burly; (p.) corpulent; (p.) doughty; (p.) lusty; (p.) portly; (p.) stalwart; (p.) stout; (p.) tough; (p.) virile
+[tego]tęgo (PL) : (p-sł.) this
+[tegoryjec]tęgoryjec (PL) : (rz.) hookworm
+[tegosc]tęgość (PL) : (rz.) corpulence
+[tepak]tępak (PL) : (rz.) ass; (rz.) blockhead; (rz.) bonehead; (rz.) booby; (rz.) dullard; (rz.) dunce; (rz.) featherbrain; (rz.) loggerhead; (rz.) moron; (rz.) slowcoach; (rz.) slow-coach
+[tepiciel]tępiciel (PL) : (rz.) exterminator
+[tepienie]tępienie (PL) : (rz.) fight
+[tepiec]tępieć (PL) : (cz.) dull
+[tepic]tępić (PL) : (cz.) combat; (cz.) destroy; (cz.) dull; (cz.) exterminate
+[tepota]tępota (PL) : (rz.) density; (rz.) limitation; (rz.) obtuseness; (rz.) opacity; (rz.) thickhead
+[teposc]tępość (PL) : (rz.) dullness
+[tepy]tępy (PL) : (p.) blunt; (p.) clueless; (p.) crass; (p.) dull; (p.) insipid; (p.) logy; (p.) obtuse; (p.) pointless; (p.) slow; (p.) slow-witted; (p.) stupid; (p.) thick-headed; (p.) vacant; (p.) vapid; (p.) wooden
+[tesknica]tęsknica (PL) : (rz.) miss
+[teskniacy]tęskniący (PL) : (p.) wistful
+[tesknic]tęsknić (PL) : (cz.) hanker; (cz.) languish; (cz.) long; (cz.) miss; (cz.) pine; (cz.) yearn
+[tesknota]tęsknota (PL) : (rz.) hankering; (rz.) homesickness; (rz.) longing; (rz.) nostalgia
+[teskny]tęskny (PL) : (p.) languorous; (p.) wistful
+[tetent]tętent (PL) : (rz.) clip-clop; (rz.) rattle
+[tetniak]tętniak (PL) : (rz.) aneurism; (rz.) aneurysm
+[tetnica]tętnica (PL) : (rz.) artery
+[tetnicowy]tętnicowy (PL) : (p.) arterial
+[tetniczy]tętniczy (PL) : (p.) arterial
+[tetnienie]tętnienie (PL) : (rz.) pulsation; (rz.) ripple
+[tetnic]tętnić (PL) : (cz.) pulsate; (cz.) pulse; (cz.) throb
+[tetno]tętno (PL) : (rz.) pulse
+[tezec]tężec (PL) : (rz.) lockjaw; (rz.) tetanus
+[tezenie]tężenie (PL) : (rz.) coagulation; (rz.) setting
+[tezec]tężeć (PL) : (cz.) coagulate; (cz.) freeze
+[teznik]tężnik (PL) : (rz.) stay
+[tezyzna]tężyzna (PL) : (rz.) brawn; (rz.) burliness; (rz.) fitness
+[tlamsic]tłamsić (PL) : (cz.) smother
+[tlo]tło (PL) : (rz.) backcloth; (rz.) backdrop; (rz.) background; (rz.) selling; (rz.) setting
+[tloczek]tłoczek (PL) : (rz.) plunger; (rz.) push-piece; (rz.) side-push
+[tloczenie]tłoczenie (PL) : (rz.) pressing
+[tlocznia]tłocznia (PL) : (rz.) press
+[tlocznictwo]tłocznictwo (PL) : (rz.) presswork
+[tlocznik]tłocznik (PL) : (rz.) die
+[tloczyc]tłoczyć (PL) : (cz.) congest; (cz.) cram; (cz.) crowd; (cz.) emboss; (cz.) herd; (cz.) hustle; (cz.) press; (cz.) push; (cz.) squash; (cz.) swarm; (cz.) throng
+[tlok]tłok (PL) : (rz.) cram; (rz.) crowd; (rz.) hustle; (rz.) jam; (rz.) piston; (rz.) plunger; (rz.) press; (rz.) squash; (rz.) throng
+[tluc]tłuc (PL) : (cz.) batter; (cz.) break; (cz.) drub; (cz.) mash; (cz.) mingle; (cz.) pestle; (cz.) pound
+[tluczek]tłuczek (PL) : (rz.) beater; (rz.) dolly; (rz.) pestle
+[tluczenie]tłuczenie (PL) : (rz.) cracking
+[tluczen]tłuczeń (PL) : (rz.) rubble
+[tluczka]tłuczka (PL) : (rz.) cracker
+[tluk]tłuk (PL) : (rz.) moron; (rz.) stamp
+[tluka]tłuka (PL) : (rz.) drift-ice
+[tlum]tłum (PL) : (rz.) concourse; (rz.) crowd; (rz.) flock; (rz.) herd; (rz.) host; (rz.) jam; (rz.) mob; (rz.) multitude; (rz.) populace; (rz.) shoal; (rz.) throng
+[tlumacz]tłumacz (PL) : (rz.) interpreter; (rz.) translation; (rz.) translator
+[tlumaczenie]tłumaczenie (PL) : (rz.) render; (rz.) translation
+[tlumaczeniowy]tłumaczeniowy (PL) : (p.) translational
+[tlumaczyc]tłumaczyć (PL) : (cz.) anglicize; (cz.) assemble; (cz.) construe; (cz.) explain; (cz.) expound; (cz.) interpret; (cz.) justify; (cz.) plead; (cz.) translate; (cz.) turn
+[tlumienie]tłumienie (PL) : (rz.) attenuation; (rz.) strangulation; (rz.) suppression
+[tlumik]tłumik (PL) : (rz.) absorber; (rz.) attenuator; (rz.) damper; (rz.) exhaust; (rz.) muffler; (rz.) mute; (rz.) pad; (rz.) silencer; (rz.) suppressor
+[tlumiony]tłumiony (PL) : (p.) dead-beat
+[tlumic]tłumić (PL) : (cz.) attenuate; (cz.) blight; (cz.) choke; (cz.) damp; (cz.) dampen; (cz.) deaden; (cz.) depress; (cz.) extinguish; (cz.) muffle; (cz.) quash; (cz.) quell; (cz.) quench; (cz.) repress; (cz.) smother; (cz.) stifle; (cz.) suppress; (cz.) throttle
+[tlumny]tłumny (PL) : (p.) numerous
+[tlumok]tłumok (PL) : (rz.) bundle; (rz.) truss
+[tlustosc]tłustość (PL) : (rz.) greasiness
+[tlusty]tłusty (PL) : (p.) adipose; (p.) bold; (p.) fat; (p.) fatty; (p.) fleshy; (p.) greasy; (p.) gross; (p.) oily; (p.) plump; (p.) snotty; (p.) thick; (p.) unctuous
+[tluszcz]tłuszcz (PL) : (rz.) adipose; (rz.) blubber; (rz.) fat; (rz.) grease; (rz.) suet; (rz.) tallow
+[tluszcza]tłuszcza (PL) : (rz.) rag-tag
+[tluszczenie]tłuszczenie (PL) : (rz.) fat
+[tluszczowiec]tłuszczowiec (PL) : (rz.) lipoid
+[tluszczowy]tłuszczowy (PL) : (p.) fat; (p.) fatty
+[tluscioch]tłuścioch (PL) : (rz.) fatty
+[tluscic]tłuścić (PL) : (cz.) fat; (cz.) grease; (cz.) lubricate
