@@ -3,22 +3,21 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'widgetionaryEn'
-            keyPassword 'widgetionaryEnPass'
-            storeFile file('C:/Users/m.szymczyk/Desktop/Android/androidKeyStores.jks')
+            keyAlias 'widgetionaryenpl'
+            keyPassword 'Ulka!2002'
+            storeFile file('C:/Users/5742ZGPC/Desktop/androidKeyStores.jks')
             storePassword 'Ulka%2002'
         }
     }
     compileSdkVersion 27
     buildToolsVersion "27.0.2"
     defaultConfig {
-        applicationId "commaciejprogramuje.facebook.widgetonaryenglish"
+        applicationId 'commaciejprogramuje.facebook.widgetonaryenpl'
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        signingConfig signingConfigs.config
     }
     buildTypes {
         release {
@@ -27,6 +26,7 @@ android {
             signingConfig signingConfigs.config
         }
         debug {
+            signingConfig signingConfigs.config
         }
     }
     productFlavors {

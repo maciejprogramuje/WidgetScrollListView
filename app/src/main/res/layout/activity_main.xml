@@ -13,7 +13,8 @@
         android:layout_alignParentTop="true"
         android:contentDescription="@string/flag"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_flag" />
+        android:adjustViewBounds="true"
+        android:src="@mipmap/flag" />
 
     <TextView
         android:id="@+id/textView"
